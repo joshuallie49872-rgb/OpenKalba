@@ -1,0 +1,236 @@
+{
+  "id": "018-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "",
+      "se": "jag arbetar",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "jag arbetar"
+    },
+    {
+      "prompt": "",
+      "se": "jag sover",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "jag sover"
+    },
+    {
+      "prompt": "",
+      "se": "jag äter",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "jag äter"
+    },
+    {
+      "prompt": "",
+      "se": "jag går",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "jag går"
+    },
+    {
+      "prompt": "",
+      "se": "jag vaknar",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "jag vaknar"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag arbetar",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag sover",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag äter",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag går",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag vaknar",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "se": "jag arbetar",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "jag arbetar"
+    },
+    {
+      "prompt": "",
+      "se": "jag sover",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "jag sover"
+    },
+    {
+      "prompt": "",
+      "se": "jag äter",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "jag äter"
+    },
+    {
+      "prompt": "",
+      "se": "jag går",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "jag går"
+    },
+    {
+      "prompt": "",
+      "se": "jag vaknar",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "jag vaknar"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag arbetar",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag sover",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag äter",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag går",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jag vaknar",
+      "type": "unknown"
+    }
+  ]
+}

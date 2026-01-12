@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "sveiki",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "sveiki"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "paldies",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "paldies"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "jā",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "jā"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "nē",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "nē"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "lūdzu",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "lūdzu"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "atvainojiet",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "atvainojiet"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "uz redzēšanos",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "uz redzēšanos"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "līdz",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "līdz"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "labi",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "labi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "slikti",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "slikti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "lv": "",
+      "correct": [
+        "sveiki"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "sveiki"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "lv": "",
+      "correct": [
+        "paldies"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "paldies"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "lv": "",
+      "correct": [
+        "jā"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "jā"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "lv": "",
+      "correct": [
+        "nē"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "nē"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "lv": "",
+      "correct": [
+        "lūdzu"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "lūdzu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "lv": "",
+      "correct": [
+        "atvainojiet"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "atvainojiet"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "lv": "",
+      "correct": [
+        "uz redzēšanos"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "uz redzēšanos"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "lv": "",
+      "correct": [
+        "līdz"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "līdz"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "lv": "",
+      "correct": [
+        "labi"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "labi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "lv": "",
+      "correct": [
+        "slikti"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "slikti"
+    }
+  ]
+}

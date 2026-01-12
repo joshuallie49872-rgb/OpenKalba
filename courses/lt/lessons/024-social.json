@@ -1,0 +1,226 @@
+{
+  "id": "024-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "draugas",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "šeima",
+      "correct": [
+        "family"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "vardas",
+      "correct": [
+        "name"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "malonu",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "susitikti",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "draugas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "šeima",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "vardas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "malonu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "susitikti",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "draugas",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "šeima",
+      "correct": [
+        "family"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "vardas",
+      "correct": [
+        "name"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "malonu",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "susitikti",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "draugas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "šeima",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "vardas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "malonu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "susitikti",
+      "type": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "jeg vil",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "jeg vil"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "jeg har",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "jeg har"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "jeg spiser",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "jeg spiser"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "drikker",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "drikker"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "vann",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "vann"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "kaffe",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kaffe"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "øl",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "øl"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "brød",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "brød"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "no": "",
+      "correct": [
+        "jeg vil ha vann"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "jeg vil ha vann"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "no": "",
+      "correct": [
+        "jeg vil ha kaffe"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "jeg vil ha kaffe"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "her",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "her"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "der",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "der"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "no": "",
+      "correct": [
+        "her er vann"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "her er vann"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "no": "",
+      "correct": [
+        "det er kaffe der"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "det er kaffe der"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "vær så snill, vann",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "vær så snill, vann"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "jeg vil ha øl",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "jeg vil ha øl"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "no": "",
+      "correct": [
+        "jeg drikker vann"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "jeg drikker vann"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "no": "",
+      "correct": [
+        "jeg spiser brød"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "jeg spiser brød"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "bra",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "bra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "no": "",
+      "correct": [
+        "bra"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "bra"
+    }
+  ]
+}

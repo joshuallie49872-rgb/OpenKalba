@@ -1,0 +1,236 @@
+{
+  "id": "055-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "prompt": "",
+      "fi": "kipu",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "kipu"
+    },
+    {
+      "prompt": "",
+      "fi": "pää",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "pää"
+    },
+    {
+      "prompt": "",
+      "fi": "kättä",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "kättä"
+    },
+    {
+      "prompt": "",
+      "fi": "jalka",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "jalka"
+    },
+    {
+      "prompt": "",
+      "fi": "lääkäri",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "lääkäri"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "kipu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pää",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "käsi",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jalka",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lääkäri",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "fi": "kipu",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "kipu"
+    },
+    {
+      "prompt": "",
+      "fi": "pää",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "pää"
+    },
+    {
+      "prompt": "",
+      "fi": "kättä",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "kättä"
+    },
+    {
+      "prompt": "",
+      "fi": "jalka",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "jalka"
+    },
+    {
+      "prompt": "",
+      "fi": "lääkäri",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "lääkäri"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "kipu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pää",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "käsi",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "jalka",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lääkäri",
+      "type": "unknown"
+    }
+  ]
+}

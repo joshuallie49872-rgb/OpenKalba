@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "hei",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "hei"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "kiitos",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "kiitos"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "kyllä",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "kyllä"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "ei",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "ei"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "ole hyvä",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "ole hyvä"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "anteeksi",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "anteeksi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "näkemiin",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "näkemiin"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "asti",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "asti"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "hyvin",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "hyvin"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "huonosti",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "huonosti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "fi": "",
+      "correct": [
+        "hei"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "hei"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "fi": "",
+      "correct": [
+        "kiitos"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "kiitos"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "fi": "",
+      "correct": [
+        "kyllä"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "kyllä"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "fi": "",
+      "correct": [
+        "ei"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "ei"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "fi": "",
+      "correct": [
+        "ole hyvä"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "ole hyvä"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "fi": "",
+      "correct": [
+        "anteeksi"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "anteeksi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "fi": "",
+      "correct": [
+        "näkemiin"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "näkemiin"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "fi": "",
+      "correct": [
+        "asti"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "asti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "fi": "",
+      "correct": [
+        "hyvin"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "hyvin"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "fi": "",
+      "correct": [
+        "huonosti"
+      ],
+      "placeholder": "Type FI…",
+      "tts": "huonosti"
+    }
+  ]
+}

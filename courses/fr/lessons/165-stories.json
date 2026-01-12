@@ -1,0 +1,236 @@
+{
+  "id": "165-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "prompt": "",
+      "fr": "histoire",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "histoire"
+    },
+    {
+      "prompt": "",
+      "fr": "récit",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "récit"
+    },
+    {
+      "prompt": "",
+      "fr": "début",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "début"
+    },
+    {
+      "prompt": "",
+      "fr": "fin",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "fin"
+    },
+    {
+      "prompt": "",
+      "fr": "c’est arrivé",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "c’est arrivé"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "histoire",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "récit",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "début",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "fin",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "c’est arrivé",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "fr": "histoire",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "histoire"
+    },
+    {
+      "prompt": "",
+      "fr": "récit",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "récit"
+    },
+    {
+      "prompt": "",
+      "fr": "début",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "début"
+    },
+    {
+      "prompt": "",
+      "fr": "fin",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "fin"
+    },
+    {
+      "prompt": "",
+      "fr": "c’est arrivé",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "c’est arrivé"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "histoire",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "récit",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "début",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "fin",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "c’est arrivé",
+      "type": "unknown"
+    }
+  ]
+}

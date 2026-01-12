@@ -1,0 +1,236 @@
+{
+  "id": "173-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "prompt": "",
+      "ru": "история",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "история"
+    },
+    {
+      "prompt": "",
+      "ru": "рассказ",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "рассказ"
+    },
+    {
+      "prompt": "",
+      "ru": "начало",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "начало"
+    },
+    {
+      "prompt": "",
+      "ru": "конец",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "конец"
+    },
+    {
+      "prompt": "",
+      "ru": "случилось",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "случилось"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "история",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "рассказ",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "начало",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "конец",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "случилось",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "ru": "история",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "история"
+    },
+    {
+      "prompt": "",
+      "ru": "рассказ",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "рассказ"
+    },
+    {
+      "prompt": "",
+      "ru": "начало",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "начало"
+    },
+    {
+      "prompt": "",
+      "ru": "конец",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "конец"
+    },
+    {
+      "prompt": "",
+      "ru": "случилось",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "случилось"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "история",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "рассказ",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "начало",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "конец",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "случилось",
+      "type": "unknown"
+    }
+  ]
+}

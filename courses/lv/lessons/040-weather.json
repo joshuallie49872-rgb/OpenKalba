@@ -1,0 +1,236 @@
+{
+  "id": "040-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "",
+      "lv": "laikapstākļi",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "laikapstākļi"
+    },
+    {
+      "prompt": "",
+      "lv": "lietus",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "lietus"
+    },
+    {
+      "prompt": "",
+      "lv": "saule",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "saule"
+    },
+    {
+      "prompt": "",
+      "lv": "auksts",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "auksts"
+    },
+    {
+      "prompt": "",
+      "lv": "karsts",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "karsts"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "laikapstākļi",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lietus",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "saule",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "auksts",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "karsts",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lv": "laikapstākļi",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "laikapstākļi"
+    },
+    {
+      "prompt": "",
+      "lv": "lietus",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "lietus"
+    },
+    {
+      "prompt": "",
+      "lv": "saule",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "saule"
+    },
+    {
+      "prompt": "",
+      "lv": "auksts",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "auksts"
+    },
+    {
+      "prompt": "",
+      "lv": "karsts",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "karsts"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "laikapstākļi",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lietus",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "saule",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "auksts",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "karsts",
+      "type": "unknown"
+    }
+  ]
+}

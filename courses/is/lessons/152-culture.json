@@ -1,0 +1,236 @@
+{
+  "id": "152-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "prompt": "",
+      "is": "hátíð",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "hátíð"
+    },
+    {
+      "prompt": "",
+      "is": "hefð",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "hefð"
+    },
+    {
+      "prompt": "",
+      "is": "venja",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "venja"
+    },
+    {
+      "prompt": "",
+      "is": "frítími",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "frítími"
+    },
+    {
+      "prompt": "",
+      "is": "viðburður",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "viðburður"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "hátíð",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "hefð",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "venja",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "frítími",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "viðburður",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "is": "hátíð",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "hátíð"
+    },
+    {
+      "prompt": "",
+      "is": "hefð",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "hefð"
+    },
+    {
+      "prompt": "",
+      "is": "venja",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "venja"
+    },
+    {
+      "prompt": "",
+      "is": "frítími",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "frítími"
+    },
+    {
+      "prompt": "",
+      "is": "viðburður",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "viðburður"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "hátíð",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "hefð",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "venja",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "frítími",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "viðburður",
+      "type": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "061-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "",
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pasas",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "sienos",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "keliauti",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "lagaminas",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "muitinė",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pasas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "siena",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "keliauti",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lagaminas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "muitinė",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pasas",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "sienos",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "keliauti",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "lagaminas",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "muitinė",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pasas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "siena",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "keliauti",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lagaminas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "muitinė",
+      "type": "unknown"
+    }
+  ]
+}

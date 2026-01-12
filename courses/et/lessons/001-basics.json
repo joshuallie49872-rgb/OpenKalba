@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "tere",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "tere"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "aitäh",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "aitäh"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "jah",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "jah"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "ei",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "ei"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "palun",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "palun"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "vabandust",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "vabandust"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "head aega",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "head aega"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "kuni",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "kuni"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "hästi",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "hästi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "halvasti",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "halvasti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "et": "",
+      "correct": [
+        "tere"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "tere"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "et": "",
+      "correct": [
+        "aitäh"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "aitäh"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "et": "",
+      "correct": [
+        "jah"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "jah"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "et": "",
+      "correct": [
+        "ei"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "ei"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "et": "",
+      "correct": [
+        "palun"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "palun"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "et": "",
+      "correct": [
+        "vabandust"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "vabandust"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "et": "",
+      "correct": [
+        "head aega"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "head aega"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "et": "",
+      "correct": [
+        "kuni"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "kuni"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "et": "",
+      "correct": [
+        "hästi"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "hästi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "et": "",
+      "correct": [
+        "halvasti"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "halvasti"
+    }
+  ]
+}

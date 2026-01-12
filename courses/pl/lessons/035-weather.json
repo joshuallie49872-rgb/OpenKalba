@@ -1,0 +1,236 @@
+{
+  "id": "035-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "",
+      "pl": "pogoda",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "pogoda"
+    },
+    {
+      "prompt": "",
+      "pl": "deszcz",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "deszcz"
+    },
+    {
+      "prompt": "",
+      "pl": "słońce",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "słońce"
+    },
+    {
+      "prompt": "",
+      "pl": "zimno",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "zimno"
+    },
+    {
+      "prompt": "",
+      "pl": "gorąco",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "gorąco"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pogoda",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "deszcz",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "słońce",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "zimno",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "gorąco",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "pl": "pogoda",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "pogoda"
+    },
+    {
+      "prompt": "",
+      "pl": "deszcz",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "deszcz"
+    },
+    {
+      "prompt": "",
+      "pl": "słońce",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "słońce"
+    },
+    {
+      "prompt": "",
+      "pl": "zimno",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "zimno"
+    },
+    {
+      "prompt": "",
+      "pl": "gorąco",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "gorąco"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pogoda",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "deszcz",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "słońce",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "zimno",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "gorąco",
+      "type": "unknown"
+    }
+  ]
+}

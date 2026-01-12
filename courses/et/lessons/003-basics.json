@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "ma tahan",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "ma tahan"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "mul on",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "mul on"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "söön",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "söön"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "joon",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "joon"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "vesi",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "vesi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "kohv",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kohv"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "õlu",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "õlu"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "leib",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "leib"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "et": "",
+      "correct": [
+        "ma tahan vett"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "ma tahan vett"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "et": "",
+      "correct": [
+        "ma tahan kohvi"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "ma tahan kohvi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "siin",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "siin"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "seal",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "seal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "et": "",
+      "correct": [
+        "siin on vett"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "siin on vett"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "et": "",
+      "correct": [
+        "seal on kohv"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "seal on kohv"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "palun vett",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "palun vett"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "ma tahan õlut",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "ma tahan õlut"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "et": "",
+      "correct": [
+        "joon vett"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "joon vett"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "et": "",
+      "correct": [
+        "söön leiba"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "söön leiba"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "et": "hästi",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "hästi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "et": "",
+      "correct": [
+        "hästi"
+      ],
+      "placeholder": "Type ET…",
+      "tts": "hästi"
+    }
+  ]
+}

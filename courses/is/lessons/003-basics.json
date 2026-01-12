@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "ég vil",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "ég vil"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "ég hef",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "ég hef"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "ég borða",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "ég borða"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "drekk",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "drekk"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "vatn",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "vatn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "kaffi",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kaffi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "bjór",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "bjór"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "brauð",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "brauð"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "is": "",
+      "correct": [
+        "ég vil vatn"
+      ],
+      "placeholder": "Type IS…",
+      "tts": "ég vil vatn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "is": "",
+      "correct": [
+        "ég vil kaffi"
+      ],
+      "placeholder": "Type IS…",
+      "tts": "ég vil kaffi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "hér",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "hér"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "þar",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "þar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "is": "",
+      "correct": [
+        "hér er vatn"
+      ],
+      "placeholder": "Type IS…",
+      "tts": "hér er vatn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "is": "",
+      "correct": [
+        "þar er kaffi"
+      ],
+      "placeholder": "Type IS…",
+      "tts": "þar er kaffi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "vinsamlegast, vatn",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "vinsamlegast, vatn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "ég vil bjór",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "ég vil bjór"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "is": "",
+      "correct": [
+        "ég drekk vatn"
+      ],
+      "placeholder": "Type IS…",
+      "tts": "ég drekk vatn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "is": "",
+      "correct": [
+        "ég borða brauð"
+      ],
+      "placeholder": "Type IS…",
+      "tts": "ég borða brauð"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "vel",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "vel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "is": "",
+      "correct": [
+        "vel"
+      ],
+      "placeholder": "Type IS…",
+      "tts": "vel"
+    }
+  ]
+}

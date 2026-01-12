@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "hej",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "hej"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "tack",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "tack"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "ja",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "ja"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "nej",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "nej"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "snälla",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "snälla"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "ursäkta",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "ursäkta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "hejdå",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "hejdå"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "till",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "till"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "bra",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "bra"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "dåligt",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "dåligt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "se": "",
+      "correct": [
+        "hej"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "hej"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "se": "",
+      "correct": [
+        "tack"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "tack"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "se": "",
+      "correct": [
+        "ja"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "ja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "se": "",
+      "correct": [
+        "nej"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "nej"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "se": "",
+      "correct": [
+        "snälla"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "snälla"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "se": "",
+      "correct": [
+        "ursäkta"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "ursäkta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "se": "",
+      "correct": [
+        "hejdå"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "hejdå"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "se": "",
+      "correct": [
+        "till"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "till"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "se": "",
+      "correct": [
+        "bra"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "bra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "se": "",
+      "correct": [
+        "dåligt"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "dåligt"
+    }
+  ]
+}

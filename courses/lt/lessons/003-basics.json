@@ -1,0 +1,285 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "noriu",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "noriu",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "turiu",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "turiu",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "valgau",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "geriu",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "geriu",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "vanduo",
+      "correct": [
+        "water"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "kava",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "alus",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "duona",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "noriu vandens",
+      "correct": [
+        "noriu vandens"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "noriu kavos",
+      "correct": [
+        "noriu kavos"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "čia",
+      "correct": [
+        "here"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "ten",
+      "correct": [
+        "there"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "čia vanduo",
+      "correct": [
+        "čia vanduo"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ten kava",
+      "correct": [
+        "ten kava"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "prašau vandens",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "prašau vandens",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "noriu alaus",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "noriu alaus",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "geriu vandenį",
+      "correct": [
+        "geriu vandenį"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "valgau duoną",
+      "correct": [
+        "valgau duoną"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "gerai",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gerai",
+      "correct": [
+        "gerai"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…"
+    }
+  ]
+}

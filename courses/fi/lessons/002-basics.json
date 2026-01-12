@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "yksi",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "yksi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "kaksi",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "kaksi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "kolme",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "kolme"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "neljä",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "neljä"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "viisi",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "viisi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "punainen",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "punainen"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "sininen",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "sininen"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "vihreä",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "vihreä"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "musta",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "musta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "valkoinen",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "valkoinen"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "äiti",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "äiti"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "isä",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "isä"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "veli",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "veli"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "sisko",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "sisko"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "perhe",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "perhe"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "vesi",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "vesi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "kahvi",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kahvi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "leipä",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "leipä"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "hotelli",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "hotelli"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fi": "lippu",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "lippu"
+    }
+  ]
+}

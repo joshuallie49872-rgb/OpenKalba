@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "хочу",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "хочу"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "у меня есть",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "у меня есть"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "я ем",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "я ем"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "я пью",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "я пью"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "вода",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "вода"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "кофе",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "кофе"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "пиво",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "пиво"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "хлеб",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "хлеб"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "ru": "",
+      "correct": [
+        "хочу воды"
+      ],
+      "placeholder": "Type RU…",
+      "tts": "хочу воды"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "ru": "",
+      "correct": [
+        "хочу кофе"
+      ],
+      "placeholder": "Type RU…",
+      "tts": "хочу кофе"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "здесь",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "здесь"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "там",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "там"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "ru": "",
+      "correct": [
+        "здесь вода"
+      ],
+      "placeholder": "Type RU…",
+      "tts": "здесь вода"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "ru": "",
+      "correct": [
+        "там кофе"
+      ],
+      "placeholder": "Type RU…",
+      "tts": "там кофе"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "пожалуйста, воды",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "пожалуйста, воды"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "хочу пива",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "хочу пива"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "ru": "",
+      "correct": [
+        "я пью воду"
+      ],
+      "placeholder": "Type RU…",
+      "tts": "я пью воду"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "ru": "",
+      "correct": [
+        "я ем хлеб"
+      ],
+      "placeholder": "Type RU…",
+      "tts": "я ем хлеб"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "хорошо",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "хорошо"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "ru": "",
+      "correct": [
+        "хорошо"
+      ],
+      "placeholder": "Type RU…",
+      "tts": "хорошо"
+    }
+  ]
+}

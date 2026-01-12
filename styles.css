@@ -1,0 +1,702 @@
+/* =========================
+   OpenKalba — BLUE APP THEME (ONE THEME, NO DARK MODE)
+   PATCH = COLORS ONLY (no layout logic changes)
+   - Outer background: #316493
+   - Canvas: #C0DBEC (replaces the lighter blue)
+   - Accent: #32AACA
+   - Removes “whitey” look by tinting surfaces slightly blue (still clean)
+========================= */
+
+/* -------------------------
+   TOKENS (ONE THEME)
+------------------------- */
+:root{
+  /* Your 3 core colors */
+  --outer:  #316493;   /* dark blue background */
+  --canvas: #C0DBEC;   /* light blue canvas (replaces the white space) */
+  --accent: #32AACA;   /* pop accent */
+
+  /* Supporting blues (keep your vibe, but aligned) */
+  --primary:   var(--accent);
+  --primary-2: #1F7FA0;                 /* deeper accent for button depth */
+  --primary-3: #7FCFE0;                 /* soft highlight */
+  --primary-soft: rgba(50,170,202,.16);
+
+  /* Surfaces (TINTED — NOT WHITE) */
+  --card:   rgba(231,241,252,.92);      /* based on #E7F1FC but glassy */
+  --card-2: rgba(231,241,252,.78);
+  --border: rgba(15,23,42,.10);
+
+  /* Text (always readable) */
+  --text:  #0F172A;
+  --muted: rgba(15,23,42,.70);
+
+  /* Shadows */
+  --shadow:      0 18px 50px rgba(15,23,42,.14);
+  --shadow-soft: 0 10px 28px rgba(15,23,42,.14);
+
+  /* Radius */
+  --r-xl: 22px;
+  --r-lg: 16px;
+  --r-md: 12px;
+
+  /* Layout */
+  --maxw: 1040px;
+}
+
+/* -------------------------
+   BASE PAGE
+------------------------- */
+html, body{
+  height: 100%;
+  margin: 0;
+  background: var(--outer); /* SOLID, NO GRADIENT */
+}
+
+body{
+  font-family: Arial, sans-serif;
+  color: var(--text);
+}
+
+/* App canvas (kills the “white space” feel) */
+.wrap{
+  max-width: var(--maxw);
+  margin: 14px auto;
+  padding: 12px 16px 28px;
+
+  background: var(--canvas);
+  border-radius: 28px;
+  box-shadow: 0 30px 90px rgba(0,0,0,.30);
+}
+
+/* -------------------------
+   TOP BAR / BRAND
+------------------------- */
+.brandHeader{
+  position: sticky;
+  top: 10px;
+  z-index: 20;
+
+  display: flex;
+  align-items: center;
+  gap: 18px;
+
+  padding: 10px 14px;
+
+  border: 1px solid var(--border);
+  border-radius: var(--r-xl);
+  background: var(--card);
+
+  box-shadow: var(--shadow-soft);
+}
+
+/* logo sizing */
+.brandLogo{
+  height: 150px; /* desktop */
+  width: auto;
+  display: block;
+  max-width: 100%;
+}
+@media (max-width: 900px){ .brandLogo{ height: 120px; } }
+@media (max-width: 720px){ .brandLogo{ height: 92px; } }
+@media (max-width: 420px){ .brandLogo{ height: 78px; } }
+
+.brandText{
+  font-weight: 900;
+  font-size: 46px;
+  letter-spacing: 0.3px;
+}
+
+/* -------------------------
+   "Basics 1" pill (prompt)
+------------------------- */
+.prompt{
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+
+  margin: 10px 2px 14px;
+  padding: 8px 12px;
+
+  font-weight: 800;
+  font-size: 12px;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+
+  color: var(--muted);
+  background: rgba(231,241,252,.92); /* tinted, not white */
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  box-shadow: var(--shadow-soft);
+}
+
+/* -------------------------
+   MAIN SCREEN CARDS
+------------------------- */
+.card, .panel, .lessonWrap, .mapWrap,
+.screen, #screenHome, #screenLesson, #screenMap, #screenDone{
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--r-xl);
+  box-shadow: var(--shadow);
+}
+
+.card{
+  padding: 18px;
+  min-height: 120px;
+}
+
+/* -------------------------
+   CONTROLS / BUTTONS
+------------------------- */
+.controls{
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+button, .btn{
+  padding: 10px 12px;
+  border-radius: 14px;
+  cursor: pointer;
+
+  border: 1px solid var(--border);
+  background: rgba(231,241,252,.92);  /* tinted, not white */
+  color: var(--text);
+
+  box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+  transition: transform .12s ease, box-shadow .12s ease, filter .12s ease;
+}
+
+button:hover, .btn:hover{
+  transform: translateY(-1px);
+  filter: brightness(1.02);
+  box-shadow: 0 14px 28px rgba(0,0,0,0.09);
+}
+
+button:active, .btn:active{ transform: scale(.985); }
+
+button:disabled, .btn:disabled{
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+/* Primary actions = ACCENT BLUE ONLY */
+.btn-primary, .btn-main, #startBtn, #continueBtn, #checkBtn, #nextBtn{
+  background: linear-gradient(180deg, var(--primary) 0%, var(--primary-2) 100%) !important;
+  color: #fff !important;
+  border: 1px solid rgba(255,255,255,.14) !important;
+  box-shadow: 0 14px 35px rgba(50,170,202,.28) !important;
+}
+
+#nextBtn{
+  background: linear-gradient(180deg, var(--primary) 0%, var(--primary-2) 100%) !important;
+}
+
+/* Ghost buttons */
+.btn-ghost{
+  background: rgba(231,241,252,.65);
+  border: 1px solid var(--border);
+}
+
+/* -------------------------
+   PROGRESS BAR
+------------------------- */
+.progressTrack{
+  background: rgba(49,100,147,.22); /* based on outer, but subtle */
+}
+
+.progressFill,
+#lessonProgressFill{
+  background: linear-gradient(90deg, var(--primary-2) 0%, var(--primary) 60%, var(--primary-3) 100%) !important;
+  transition: width 220ms ease;
+}
+
+#lessonProgressText{
+  font-size: 12px;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+#lessonProgress{
+  margin: 0 0 10px 0;
+}
+
+/* -------------------------
+   INPUTS
+------------------------- */
+input[type="text"], input, .input, #answerInput, select, textarea{
+  background: rgba(231,241,252,.92); /* tinted */
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  color: var(--text);
+  outline: none;
+
+  padding: 14px 14px;
+  font-size: 16px;
+}
+
+input:focus, #answerInput:focus, select:focus, textarea:focus{
+  border-color: rgba(50,170,202,.55);
+  box-shadow: 0 0 0 4px rgba(50,170,202,.22);
+}
+
+/* -------------------------
+   LESSON HEADER
+------------------------- */
+.lessonHeader{
+  padding: 14px 14px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--r-xl);
+  background: var(--card);
+  box-shadow: var(--shadow-soft);
+  margin-bottom: 14px;
+}
+
+.lpMain{
+  font-size: 20px;
+  font-weight: 750;
+  letter-spacing: .2px;
+  margin-bottom: 6px;
+}
+.lpSub{
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.35;
+}
+
+.listenTag{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 10px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(50,170,202,.14);
+  color: var(--text);
+  font-weight: 650;
+}
+
+/* Choices grid */
+.choices{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  margin-top: 12px;
+}
+@media (min-width: 720px){
+  .choices{ grid-template-columns: 1fr 1fr; }
+}
+
+.choice{
+  padding: 14px 14px;
+  font-size: 16px;
+  font-weight: 650;
+  min-height: 52px;
+
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: rgba(231,241,252,.92); /* tinted */
+  box-shadow: 0 8px 18px rgba(0,0,0,.05);
+
+  cursor: pointer;
+  transition: transform .12s ease, box-shadow .12s ease, filter .12s ease;
+}
+.choice:hover{
+  transform: translateY(-1px);
+  filter: brightness(1.02);
+  box-shadow: 0 14px 28px rgba(0,0,0,.09);
+}
+.choice:active{ transform: scale(.985); }
+
+.choice-correct{
+  border-color: rgba(34,197,94,.55) !important;
+  background: rgba(34,197,94,.14) !important;
+}
+.choice-wrong{
+  border-color: rgba(239,68,68,.55) !important;
+  background: rgba(239,68,68,.14) !important;
+}
+
+/* Feedback pill */
+.feedback{
+  margin-top: 12px;
+  padding: 12px 12px;
+  border-radius: var(--r-lg);
+  border: 1px solid var(--border);
+  background: rgba(231,241,252,.85); /* tinted */
+}
+.feedback-ok{
+  border-color: rgba(34,197,94,.45);
+  background: rgba(34,197,94,.12);
+}
+.feedback-bad{
+  border-color: rgba(239,68,68,.45);
+  background: rgba(239,68,68,.12);
+}
+
+/* -------------------------
+   MAP
+------------------------- */
+#mapWrap, .map-wrap{
+  position: relative;
+  height: 70vh;
+  overflow: auto;
+  border-radius: 20px;
+  background: var(--card);
+  box-shadow: var(--shadow);
+  border: 1px solid var(--border);
+}
+
+#mapSvg, .map-svg{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  pointer-events: none !important;
+}
+
+#mapNodes, .map-nodes{ position: relative; }
+
+.path-stroke{
+  stroke: rgba(15,23,42,.16);
+  stroke-width: 8;
+  fill: none;
+  stroke-linecap: round;
+  stroke-dasharray: 2 14;
+}
+
+.mapNode, .map-node{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border-radius: 999px;
+
+  display: grid;
+  place-items: center;
+  font-weight: 800;
+
+  cursor: pointer;
+  user-select: none;
+
+  border: 2px solid rgba(15,23,42,.12);
+  box-shadow: 0 12px 22px rgba(0,0,0,0.16);
+
+  background: linear-gradient(180deg, var(--primary), var(--primary-2));
+  transition: transform 0.15s ease, filter 0.15s ease, opacity 0.15s ease;
+}
+.mapNode:hover, .map-node:hover{ transform: translateY(-2px) scale(1.03); }
+
+.mapNode-locked, .node-locked{
+  background: linear-gradient(180deg, rgba(107,114,128,0.30), rgba(107,114,128,0.15));
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.mapNode-done, .node-complete{
+  background: linear-gradient(180deg, rgba(34,197,94,0.95), rgba(34,197,94,0.78));
+  filter: drop-shadow(0 0 10px rgba(34,197,94,0.25));
+  color: #fff;
+}
+
+.node-current{ animation: pulse 1.4s infinite ease-in-out; }
+@keyframes pulse{
+  0%{ transform: scale(1); filter: drop-shadow(0 0 0 rgba(50,170,202,0)); }
+  50%{ transform: scale(1.06); filter: drop-shadow(0 0 14px rgba(50,170,202,0.35)); }
+  100%{ transform: scale(1); filter: drop-shadow(0 0 0 rgba(50,170,202,0)); }
+}
+
+.mapLabel{
+  position: absolute;
+  width: 190px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.2;
+
+  color: var(--muted);
+  user-select: none;
+  pointer-events: none;
+
+  padding: 6px 10px;
+  border-radius: 14px;
+  background: rgba(231,241,252,.85);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-soft);
+
+  transform: translateX(-50%);
+}
+
+/* Inner markup */
+.mapNodeInner{ display: grid; place-items: center; line-height: 1; }
+.mapNodeIcon{ font-size: 18px; margin-bottom: 4px; }
+.mapNodeNum{ font-size: 12px; opacity: 0.92; }
+
+/* -------------------------
+   MIKAS
+------------------------- */
+.mikasDock{
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  width: 240px;
+  max-width: 46vw;
+  z-index: 50;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+
+  pointer-events: none; /* never block clicks */
+}
+
+.mikasImg{
+  width: 240px;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  image-rendering: auto;
+  filter: drop-shadow(0 14px 24px rgba(0,0,0,0.18));
+}
+
+.mikasBubble{
+  display: none;
+  max-width: 240px;
+  background: rgba(231,241,252,.92);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 10px 12px;
+  font-size: 14px;
+  color: var(--text);
+  box-shadow: var(--shadow-soft);
+  line-height: 1.25;
+}
+.mikasBubble.show{ display:block; }
+
+@media (max-width: 720px){
+  .mikasDock{ right: 10px; bottom: 92px; width: 190px; max-width: 52vw; }
+  .mikasImg{ width: 190px; }
+  .mikasBubble{ max-width: 190px; }
+}
+@media (max-width: 420px){
+  .mikasDock{ bottom: 110px; width: 165px; max-width: 58vw; }
+  .mikasImg{ width: 165px; }
+  .mikasBubble{ max-width: 165px; font-size: 13px; }
+}
+
+/* -------------------------
+   ACCOUNT BUTTON (pill + circle avatar)
+   Keeps it same height as buttons
+------------------------- */
+#accountBtn,
+.btn-account,
+.user-row{
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+
+  height: 44px !important;
+  padding: 0 12px !important;
+
+  border-radius: 999px !important;
+  max-width: 260px !important;
+  overflow: hidden !important;
+
+  background: rgba(231,241,252,.70) !important; /* tinted */
+  border: 1px solid var(--border) !important;
+  box-shadow: var(--shadow-soft) !important;
+}
+
+/* avatar: force circle + small */
+#accountBtn img,
+.btn-account img,
+.user-row img,
+#accountAvatar,
+.accountAvatarSmall,
+.avatar{
+  width: 30px !important;
+  height: 30px !important;
+  min-width: 30px !important;
+  min-height: 30px !important;
+  max-width: 30px !important;
+  max-height: 30px !important;
+
+  border-radius: 999px !important;
+  object-fit: cover !important;
+  flex: 0 0 auto !important;
+  display: block !important;
+}
+
+#accountBtn .user-name,
+.btn-account .user-name,
+.user-row .user-name{
+  font-size: 13px !important;
+  font-weight: 800 !important;
+  line-height: 1 !important;
+  margin: 0 !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+#accountBtn .user-email,
+.btn-account .user-email,
+.user-row .user-email{
+  display: none !important;
+}
+
+/* Click safety */
+button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBtn, #nextBtn{
+  pointer-events: auto !important;
+}
+#mapSvg, .map-svg{ pointer-events: none !important; }
+
+/* =========================================================
+   MOBILE ONLY: keep Next visible without changing desktop
+   Paste at VERY END of styles.css
+========================================================= */
+@media (max-width: 520px){
+
+  /* shrink outer padding so the lesson fits */
+  .wrap{
+    padding: 10px 12px 14px !important;
+  }
+
+  /* shrink the big top logo space a bit on phones */
+  .brandLogo{ height: 78px !important; }
+  .brandHeader{ padding: 8px 10px !important; }
+
+  /* tighten the lesson card */
+  .card{
+    padding: 14px !important;
+  }
+
+  /* reduce extra whitespace above the question/choices */
+  .lessonHeader{
+    padding: 12px !important;
+    margin-bottom: 10px !important;
+  }
+
+  /* choices are the main “height hog” */
+  .choices{
+    gap: 8px !important;
+    margin-top: 10px !important;
+  }
+
+  .choice{
+    min-height: 46px !important;
+    padding: 12px 12px !important;
+  }
+
+  /* feedback + Next area */
+  .feedback{
+    margin-top: 10px !important;
+    padding: 10px 10px !important;
+  }
+
+  #checkBtn, #nextBtn{
+    margin-top: 8px !important;
+  }
+
+  /* keep Mikas from eating the bottom space visually */
+  .mikasDock{
+    bottom: 74px !important;
+  }
+}
+
+/* ===== HOTFIX: Map nodes visible + clickable (no overlays blocking) ===== */
+#mapWrap, .map-wrap { position: relative !important; }
+#mapSvg, .map-svg  { position: absolute !important; inset: 0 !important; z-index: 0 !important; pointer-events: none !important; }
+#mapNodes, .map-nodes { position: relative !important; z-index: 2 !important; pointer-events: auto !important; }
+.mapNode, .map-node { z-index: 3 !important; pointer-events: auto !important; }
+
+/* ===== HOTFIX: Account button avatar never grows ===== */
+#accountAvatarSmall,
+.accountAvatarSmall{
+  width: 30px !important;
+  height: 30px !important;
+  min-width: 30px !important;
+  min-height: 30px !important;
+  max-width: 30px !important;
+  max-height: 30px !important;
+  border-radius: 999px !important;
+  object-fit: cover !important;
+  display: inline-block !important;
+}
+
+/* Flags next to language selects (paste at END of styles.css) */
+.modeSelectWrap{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.flagIcon{
+  width: 22px;
+  height: 16px;
+  border-radius: 3px;
+  flex: 0 0 auto;
+  display: inline-block;
+}
+
+/* -------------------------
+   Home badge (translate logo)
+------------------------- */
+.homeBadge{
+  height: 84px;
+  width: auto;
+  margin-left: 2px;
+  vertical-align: middle;
+}
+
+/* ===========================
+   Auth / Account Modal
+   =========================== */
+
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  /* your JS sets display:block; this keeps it visible */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.modal[aria-hidden="true"] {
+  display: none !important;
+}
+
+.modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.modal-card {
+  position: relative;
+  width: min(640px, calc(100vw - 32px));
+  max-height: calc(100vh - 48px);
+  overflow: auto;
+
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 20px;
+  box-shadow: 0 18px 50px rgba(0,0,0,0.25);
+  border: 1px solid rgba(0,0,0,0.08);
+  padding: 16px;
+}
+
+/* Stop page scroll behind modal */
+body.modal-open {
+  overflow: hidden;
+}
+
+/* If Mikas or other UI floats above it, keep them below */
+.mikasDock {
+  z-index: 10;
+}

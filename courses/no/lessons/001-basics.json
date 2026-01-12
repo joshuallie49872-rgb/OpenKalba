@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "hei",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "hei"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "takk",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "takk"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "ja",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "ja"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "nei",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "nei"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "vær så snill",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "vær så snill"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "unnskyld",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "unnskyld"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "ha det",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "ha det"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "til",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "til"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "bra",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "bra"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "no": "dårlig",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "dårlig"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "no": "",
+      "correct": [
+        "hei"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "hei"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "no": "",
+      "correct": [
+        "takk"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "takk"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "no": "",
+      "correct": [
+        "ja"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "ja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "no": "",
+      "correct": [
+        "nei"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "nei"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "no": "",
+      "correct": [
+        "vær så snill"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "vær så snill"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "no": "",
+      "correct": [
+        "unnskyld"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "unnskyld"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "no": "",
+      "correct": [
+        "ha det"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "ha det"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "no": "",
+      "correct": [
+        "til"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "til"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "no": "",
+      "correct": [
+        "bra"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "bra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "no": "",
+      "correct": [
+        "dårlig"
+      ],
+      "placeholder": "Type NO…",
+      "tts": "dårlig"
+    }
+  ]
+}

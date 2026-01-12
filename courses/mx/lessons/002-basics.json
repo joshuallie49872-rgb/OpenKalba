@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "uno",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "uno"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "dos",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "dos"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "tres",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "tres"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "cuatro",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "cuatro"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "cinco",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "cinco"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "roja",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "roja"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "azul",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "azul"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "verde",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "verde"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "negra",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "negra"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "blanca",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "blanca"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "mamá",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "mamá"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "papá",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "papá"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "hermano",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "hermano"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "hermana",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "hermana"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "familia",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "familia"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "agua",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "agua"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "pan",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "pan"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "hotel",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "hotel"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "boleto",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "boleto"
+    }
+  ]
+}

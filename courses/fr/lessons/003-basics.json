@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "je veux",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "je veux"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "j’ai",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "j’ai"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "je mange",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "je mange"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "je bois",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "je bois"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "eau",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "eau"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "bière",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "bière"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "pain",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "pain"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "fr": "",
+      "correct": [
+        "je veux de l’eau"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "je veux de l’eau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "fr": "",
+      "correct": [
+        "je veux du café"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "je veux du café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "ici",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "ici"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "là",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "là"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "fr": "",
+      "correct": [
+        "il y a de l’eau ici"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "il y a de l’eau ici"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "fr": "",
+      "correct": [
+        "il y a du café là-bas"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "il y a du café là-bas"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "s’il vous plaît, de l’eau",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "s’il vous plaît, de l’eau"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "je veux de la bière",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "je veux de la bière"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "fr": "",
+      "correct": [
+        "je bois de l’eau"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "je bois de l’eau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "fr": "",
+      "correct": [
+        "je mange du pain"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "je mange du pain"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "bien",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "bien"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "fr": "",
+      "correct": [
+        "bien"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "bien"
+    }
+  ]
+}

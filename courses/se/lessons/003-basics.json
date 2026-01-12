@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "jag vill",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "jag vill"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "jag har",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "jag har"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "jag äter",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "jag äter"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "jag dricker",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "jag dricker"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "vatten",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "vatten"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "kaffe",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kaffe"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "öl",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "öl"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "bröd",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "bröd"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "se": "",
+      "correct": [
+        "jag vill ha vatten"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "jag vill ha vatten"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "se": "",
+      "correct": [
+        "jag vill ha kaffe"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "jag vill ha kaffe"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "här",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "här"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "där",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "där"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "se": "",
+      "correct": [
+        "här finns vatten"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "här finns vatten"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "se": "",
+      "correct": [
+        "det finns kaffe där"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "det finns kaffe där"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "snälla, vatten",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "snälla, vatten"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "jag vill ha öl",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "jag vill ha öl"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "se": "",
+      "correct": [
+        "jag dricker vatten"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "jag dricker vatten"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "se": "",
+      "correct": [
+        "jag äter bröd"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "jag äter bröd"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "se": "bra",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "bra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "se": "",
+      "correct": [
+        "bra"
+      ],
+      "placeholder": "Type SE…",
+      "tts": "bra"
+    }
+  ]
+}

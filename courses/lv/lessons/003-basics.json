@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "gribu",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "gribu"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "man ir",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "man ir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "ēdu",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "ēdu"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "dzeru",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "dzeru"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "ūdens",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "ūdens"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "kafija",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kafija"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "alus",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "alus"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "maize",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "maize"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "lv": "",
+      "correct": [
+        "gribu ūdeni"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "gribu ūdeni"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "lv": "",
+      "correct": [
+        "gribu kafiju"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "gribu kafiju"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "šeit",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "šeit"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "tur",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "tur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "lv": "",
+      "correct": [
+        "šeit ir ūdens"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "šeit ir ūdens"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "lv": "",
+      "correct": [
+        "tur ir kafija"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "tur ir kafija"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "lūdzu ūdeni",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "lūdzu ūdeni"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "gribu alu",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "gribu alu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "lv": "",
+      "correct": [
+        "dzeru ūdeni"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "dzeru ūdeni"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "lv": "",
+      "correct": [
+        "ēdu maizi"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "ēdu maizi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "labi",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "labi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "lv": "",
+      "correct": [
+        "labi"
+      ],
+      "placeholder": "Type LV…",
+      "tts": "labi"
+    }
+  ]
+}

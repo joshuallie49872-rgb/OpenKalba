@@ -1,0 +1,236 @@
+{
+  "id": "040-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "",
+      "mx": "clima",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "clima"
+    },
+    {
+      "prompt": "",
+      "mx": "lluvia",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "lluvia"
+    },
+    {
+      "prompt": "",
+      "mx": "sol",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "sol"
+    },
+    {
+      "prompt": "",
+      "mx": "frío",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "frío"
+    },
+    {
+      "prompt": "",
+      "mx": "caliente",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "caliente"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "clima",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lluvia",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "sol",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "frío",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "caliente",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "mx": "clima",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "clima"
+    },
+    {
+      "prompt": "",
+      "mx": "lluvia",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "lluvia"
+    },
+    {
+      "prompt": "",
+      "mx": "sol",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "sol"
+    },
+    {
+      "prompt": "",
+      "mx": "frío",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "frío"
+    },
+    {
+      "prompt": "",
+      "mx": "caliente",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "caliente"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "clima",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "lluvia",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "sol",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "frío",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "caliente",
+      "type": "unknown"
+    }
+  ]
+}

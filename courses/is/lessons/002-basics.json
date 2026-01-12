@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "einn",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "einn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "tveir",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "tveir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "þrír",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "þrír"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "fjórir",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "fjórir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "fimm",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "fimm"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "rauð",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "rauð"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "blár",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "blár"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "grænn",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "grænn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "svört",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "svört"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "hvít",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "hvít"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "mamma",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "mamma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "pabbi",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "pabbi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "bróðir",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "bróðir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "systir",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "systir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "fjölskylda",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "fjölskylda"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "vatn",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "vatn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "kaffi",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kaffi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "brauð",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "brauð"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "hótel",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "hótel"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "is": "miði",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "miði"
+    }
+  ]
+}

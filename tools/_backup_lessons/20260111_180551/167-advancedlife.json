@@ -1,0 +1,226 @@
+{
+  "id": "167-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "prompt": "",
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "sprendimas",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "problema",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "pasirinkimas",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "patirtis",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "rezultatas",
+      "correct": [
+        "result"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "sprendimas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "problema",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pasirinkimas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "patirtis",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "rezultatas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "sprendimas",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "problema",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "pasirinkimas",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "patirtis",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "rezultatas",
+      "correct": [
+        "result"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "sprendimas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "problema",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pasirinkimas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "patirtis",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "rezultatas",
+      "type": "unknown"
+    }
+  ]
+}

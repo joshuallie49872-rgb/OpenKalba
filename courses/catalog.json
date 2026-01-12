@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "code": "lt",
+      "name": "Lithuanian",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "mx",
+      "name": "Spanish",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "et",
+      "name": "Estonian",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "lv",
+      "name": "Latvian",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "se",
+      "name": "Swedish",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    }
+  ]
+}

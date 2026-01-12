@@ -1,0 +1,226 @@
+{
+  "id": "042-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "",
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "laimingas",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "liūdnas",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "pavargęs",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "džiaugiuosi",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "bijau",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "laimingas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "liūdnas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pavargęs",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "džiaugiuosi",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "bijau",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "laimingas",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "liūdnas",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "pavargęs",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "džiaugiuosi",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "bijau",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "laimingas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "liūdnas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pavargęs",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "džiaugiuosi",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "bijau",
+      "type": "unknown"
+    }
+  ]
+}

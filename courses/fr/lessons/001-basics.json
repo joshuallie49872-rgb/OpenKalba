@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "bonjour",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "bonjour"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "merci",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "merci"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "oui",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "oui"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "non",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "non"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "s’il vous plaît",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "s’il vous plaît"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "désolé",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "désolé"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "au revoir",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "au revoir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "jusqu’à",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "jusqu’à"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "bien",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "bien"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "mal",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "mal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "fr": "",
+      "correct": [
+        "bonjour"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "bonjour"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "fr": "",
+      "correct": [
+        "merci"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "merci"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "fr": "",
+      "correct": [
+        "oui"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "oui"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "fr": "",
+      "correct": [
+        "non"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "non"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "fr": "",
+      "correct": [
+        "s’il vous plaît"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "s’il vous plaît"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "fr": "",
+      "correct": [
+        "désolé"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "désolé"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "fr": "",
+      "correct": [
+        "au revoir"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "au revoir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "fr": "",
+      "correct": [
+        "jusqu’à"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "jusqu’à"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "fr": "",
+      "correct": [
+        "bien"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "bien"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "fr": "",
+      "correct": [
+        "mal"
+      ],
+      "placeholder": "Type FR…",
+      "tts": "mal"
+    }
+  ]
+}

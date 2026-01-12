@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "un",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "un"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "deux",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "deux"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "trois",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "trois"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "quatre",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "quatre"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "cinq",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "cinq"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "rouge",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "rouge"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "bleu",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "bleu"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "vert",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "vert"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "noire",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "noire"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "blanche",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "blanche"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "maman",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "maman"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "papa",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "papa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "frère",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "frère"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "sœur",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "sœur"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "famille",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "famille"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "eau",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "eau"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "pain",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "pain"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "hôtel",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "hôtel"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "fr": "billet",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "billet"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "quiero",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "quiero"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "tengo",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "tengo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "como",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "como"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "bebo",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "bebo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "agua",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "agua"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "cerveza",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "cerveza"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "pan",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "pan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "mx": "",
+      "correct": [
+        "quiero agua"
+      ],
+      "placeholder": "Type MX…",
+      "tts": "quiero agua"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "mx": "",
+      "correct": [
+        "quiero café"
+      ],
+      "placeholder": "Type MX…",
+      "tts": "quiero café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "aquí",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "aquí"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "allí",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "allí"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "mx": "",
+      "correct": [
+        "aquí hay agua"
+      ],
+      "placeholder": "Type MX…",
+      "tts": "aquí hay agua"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "mx": "",
+      "correct": [
+        "hay café allí"
+      ],
+      "placeholder": "Type MX…",
+      "tts": "hay café allí"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "por favor, agua",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "por favor, agua"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "quiero cerveza",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "quiero cerveza"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "mx": "",
+      "correct": [
+        "bebo agua"
+      ],
+      "placeholder": "Type MX…",
+      "tts": "bebo agua"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "mx": "",
+      "correct": [
+        "como pan"
+      ],
+      "placeholder": "Type MX…",
+      "tts": "como pan"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "mx": "bien",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "bien"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "mx": "",
+      "correct": [
+        "bien"
+      ],
+      "placeholder": "Type MX…",
+      "tts": "bien"
+    }
+  ]
+}

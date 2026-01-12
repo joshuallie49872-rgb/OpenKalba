@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "один",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "один"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "два",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "два"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "три",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "три"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "четыре",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "четыре"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "пять",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "пять"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "красный",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "красный"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "синий",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "синий"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "зеленый",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "зеленый"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "черный",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "черный"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "белый",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "белый"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "мама",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "мама"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "папа",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "папа"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "брат",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "брат"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "сестра",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "сестра"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "семья",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "семья"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "вода",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "вода"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "кофе",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "кофе"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "хлеб",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "хлеб"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "отель",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "отель"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ru": "билет",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "билет"
+    }
+  ]
+}

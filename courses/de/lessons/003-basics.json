@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "ich will",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "ich will"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "ich habe",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "ich habe"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "ich esse",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "ich esse"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "ich trinke",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "ich trinke"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "Wasser",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "Wasser"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "Kaffee",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "Kaffee"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "Bier",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "Bier"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "Brot",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "Brot"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "de": "",
+      "correct": [
+        "ich will Wasser"
+      ],
+      "placeholder": "Type DE…",
+      "tts": "ich will Wasser"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "de": "",
+      "correct": [
+        "ich will Kaffee"
+      ],
+      "placeholder": "Type DE…",
+      "tts": "ich will Kaffee"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "hier",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "hier"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "dort",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "dort"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "de": "",
+      "correct": [
+        "hier ist Wasser"
+      ],
+      "placeholder": "Type DE…",
+      "tts": "hier ist Wasser"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "de": "",
+      "correct": [
+        "dort gibt es Kaffee"
+      ],
+      "placeholder": "Type DE…",
+      "tts": "dort gibt es Kaffee"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "bitte Wasser",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "bitte Wasser"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "ich will Bier",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "ich will Bier"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "de": "",
+      "correct": [
+        "ich trinke Wasser"
+      ],
+      "placeholder": "Type DE…",
+      "tts": "ich trinke Wasser"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "de": "",
+      "correct": [
+        "ich esse Brot"
+      ],
+      "placeholder": "Type DE…",
+      "tts": "ich esse Brot"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "de": "gut",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "gut"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "de": "",
+      "correct": [
+        "gut"
+      ],
+      "placeholder": "Type DE…",
+      "tts": "gut"
+    }
+  ]
+}

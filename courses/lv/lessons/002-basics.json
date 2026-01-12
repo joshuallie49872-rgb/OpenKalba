@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "viens",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "viens"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "divi",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "divi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "trīs",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "trīs"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "četri",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "četri"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "pieci",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "pieci"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "sarkana",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "sarkana"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "zila",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "zila"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "zaļš",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "zaļš"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "melna",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "melna"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "balta",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "balta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "mamma",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "mamma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "tētis",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "tētis"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "brālis",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "brālis"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "māsa",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "māsa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "ģimene",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "ģimene"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "ūdens",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "ūdens"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "kafija",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "kafija"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "maize",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "maize"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "viesnīca",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "viesnīca"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lv": "biļete",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "biļete"
+    }
+  ]
+}
