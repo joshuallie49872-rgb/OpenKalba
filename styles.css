@@ -1,10 +1,10 @@
 /* =========================
    OpenKalba — BLUE APP THEME (ONE THEME, NO DARK MODE)
-   PATCH = COLORS ONLY (no layout logic changes)
+   BEAUTIFY PATCH (keeps your structure, just makes it feel premium)
    - Outer background: #316493
-   - Canvas: #C0DBEC (replaces the lighter blue)
+   - Canvas: #C0DBEC
    - Accent: #32AACA
-   - Removes “whitey” look by tinting surfaces slightly blue (still clean)
+   - Tints surfaces slightly blue (clean, not “whitey”)
 ========================= */
 
 /* -------------------------
@@ -13,50 +13,62 @@
 :root{
   /* Your 3 core colors */
   --outer:  #316493;   /* dark blue background */
-  --canvas: #C0DBEC;   /* light blue canvas (replaces the white space) */
+  --canvas: #C0DBEC;   /* light blue canvas */
   --accent: #32AACA;   /* pop accent */
 
-  /* Supporting blues (keep your vibe, but aligned) */
-  --primary:   var(--accent);
-  --primary-2: #1F7FA0;                 /* deeper accent for button depth */
-  --primary-3: #7FCFE0;                 /* soft highlight */
-  --primary-soft: rgba(50,170,202,.16);
+  /* Supporting blues */
+  --primary:        var(--accent);
+  --primary-2:      #1F7FA0;                 /* deeper accent */
+  --primary-3:      #7FCFE0;                 /* soft highlight */
+  --primary-soft:   rgba(50,170,202,.16);
 
   /* Surfaces (TINTED — NOT WHITE) */
-  --card:   rgba(231,241,252,.92);      /* based on #E7F1FC but glassy */
-  --card-2: rgba(231,241,252,.78);
-  --border: rgba(15,23,42,.10);
+  --card:           rgba(231,241,252,.92);  /* glassy */
+  --card-2:         rgba(231,241,252,.78);
+  --surface:        rgba(221,235,248,.88);  /* slightly deeper tint */
+  --border:         rgba(15,23,42,.10);
+  --border-2:       rgba(15,23,42,.14);
 
-  /* Text (always readable) */
+  /* Text */
   --text:  #0F172A;
   --muted: rgba(15,23,42,.70);
 
   /* Shadows */
-  --shadow:      0 18px 50px rgba(15,23,42,.14);
-  --shadow-soft: 0 10px 28px rgba(15,23,42,.14);
+  --shadow:         0 18px 50px rgba(15,23,42,.14);
+  --shadow-soft:    0 10px 28px rgba(15,23,42,.14);
+  --shadow-tight:   0 10px 20px rgba(15,23,42,.10);
 
   /* Radius */
-  --r-xl: 22px;
-  --r-lg: 16px;
-  --r-md: 12px;
+  --r-xxl: 28px;
+  --r-xl:  22px;
+  --r-lg:  16px;
+  --r-md:  12px;
 
   /* Layout */
   --maxw: 1040px;
+
+  /* Focus ring */
+  --focus: rgba(50,170,202,.22);
 }
 
 /* -------------------------
-   BASE PAGE
+   BASE / RESET-ish
 ------------------------- */
+*{ box-sizing: border-box; }
 html, body{
   height: 100%;
   margin: 0;
   background: var(--outer); /* SOLID, NO GRADIENT */
 }
-
 body{
   font-family: Arial, sans-serif;
   color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
+img{ max-width: 100%; height: auto; }
+a{ color: inherit; }
+.muted{ color: var(--muted); }
 
 /* App canvas (kills the “white space” feel) */
 .wrap{
@@ -65,7 +77,7 @@ body{
   padding: 12px 16px 28px;
 
   background: var(--canvas);
-  border-radius: 28px;
+  border-radius: var(--r-xxl);
   box-shadow: 0 30px 90px rgba(0,0,0,.30);
 }
 
@@ -84,23 +96,36 @@ body{
   padding: 10px 14px;
 
   border: 1px solid var(--border);
-  border-radius: var(--r-xl);
+  border-radius: var(--r-xxl);
   background: var(--card);
 
-  box-shadow: var(--shadow-soft);
+  box-shadow: var(--shadow-tight);
+
+  /* make the logo feel “anchored” */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 
-/* logo sizing */
+/* logo sizing (keep your intent, but ensure it can actually look BIG) */
 .brandLogo{
   height: 150px; /* desktop */
   width: auto;
   display: block;
-  max-width: 100%;
-}
-@media (max-width: 900px){ .brandLogo{ height: 120px; } }
-@media (max-width: 720px){ .brandLogo{ height: 92px; } }
-@media (max-width: 420px){ .brandLogo{ height: 78px; } }
 
+  /* crisp and not mushy */
+  image-rendering: auto;
+
+  /* slight depth so it feels premium on the glass */
+  filter: drop-shadow(0 10px 18px rgba(15,23,42,.14));
+}
+
+/* Responsive logo heights */
+@media (max-width: 900px){ .brandLogo{ height: 120px; } }
+@media (max-width: 720px){ .brandLogo{ height: 104px; } }
+@media (max-width: 520px){ .brandLogo{ height: 96px; } }
+@media (max-width: 420px){ .brandLogo{ height: 90px; } }
+
+/* (kept) */
 .brandText{
   font-weight: 900;
   font-size: 46px;
@@ -124,7 +149,7 @@ body{
   text-transform: uppercase;
 
   color: var(--muted);
-  background: rgba(231,241,252,.92); /* tinted, not white */
+  background: rgba(231,241,252,.92);
   border: 1px solid var(--border);
   border-radius: 999px;
   box-shadow: var(--shadow-soft);
@@ -137,13 +162,21 @@ body{
 .screen, #screenHome, #screenLesson, #screenMap, #screenDone{
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: var(--r-xl);
+  border-radius: var(--r-xxl);
   box-shadow: var(--shadow);
 }
 
 .card{
   padding: 18px;
   min-height: 120px;
+}
+
+/* Helpful generic row class (your HTML uses it a lot) */
+.row{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 /* -------------------------
@@ -163,7 +196,7 @@ button, .btn{
   cursor: pointer;
 
   border: 1px solid var(--border);
-  background: rgba(231,241,252,.92);  /* tinted, not white */
+  background: rgba(231,241,252,.92);
   color: var(--text);
 
   box-shadow: 0 10px 25px rgba(0,0,0,0.06);
@@ -173,7 +206,7 @@ button, .btn{
 button:hover, .btn:hover{
   transform: translateY(-1px);
   filter: brightness(1.02);
-  box-shadow: 0 14px 28px rgba(0,0,0,0.09);
+  box-shadow: 0 14px 28px rgba(0,0,0,.09);
 }
 
 button:active, .btn:active{ transform: scale(.985); }
@@ -185,7 +218,7 @@ button:disabled, .btn:disabled{
   box-shadow: none;
 }
 
-/* Primary actions = ACCENT BLUE ONLY */
+/* Primary actions */
 .btn-primary, .btn-main, #startBtn, #continueBtn, #checkBtn, #nextBtn{
   background: linear-gradient(180deg, var(--primary) 0%, var(--primary-2) 100%) !important;
   color: #fff !important;
@@ -193,11 +226,20 @@ button:disabled, .btn:disabled{
   box-shadow: 0 14px 35px rgba(50,170,202,.28) !important;
 }
 
-#nextBtn{
-  background: linear-gradient(180deg, var(--primary) 0%, var(--primary-2) 100%) !important;
+/* Secondary */
+.btn-secondary, #mapBtn, #doneBtn{
+  background: linear-gradient(180deg, rgba(231,241,252,.92) 0%, rgba(216,232,248,.92) 100%);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-soft);
 }
 
-/* Ghost buttons */
+/* Warn */
+.btn-warn, #resetBtn{
+  background: linear-gradient(180deg, rgba(255,232,232,.92) 0%, rgba(255,214,214,.92) 100%);
+  border: 1px solid rgba(239,68,68,.20);
+}
+
+/* Ghost */
 .btn-ghost{
   background: rgba(231,241,252,.65);
   border: 1px solid var(--border);
@@ -207,7 +249,7 @@ button:disabled, .btn:disabled{
    PROGRESS BAR
 ------------------------- */
 .progressTrack{
-  background: rgba(49,100,147,.22); /* based on outer, but subtle */
+  background: rgba(49,100,147,.22);
 }
 
 .progressFill,
@@ -230,7 +272,7 @@ button:disabled, .btn:disabled{
    INPUTS
 ------------------------- */
 input[type="text"], input, .input, #answerInput, select, textarea{
-  background: rgba(231,241,252,.92); /* tinted */
+  background: rgba(231,241,252,.92);
   border: 1px solid var(--border);
   border-radius: 14px;
   color: var(--text);
@@ -242,7 +284,7 @@ input[type="text"], input, .input, #answerInput, select, textarea{
 
 input:focus, #answerInput:focus, select:focus, textarea:focus{
   border-color: rgba(50,170,202,.55);
-  box-shadow: 0 0 0 4px rgba(50,170,202,.22);
+  box-shadow: 0 0 0 4px var(--focus);
 }
 
 /* -------------------------
@@ -251,7 +293,7 @@ input:focus, #answerInput:focus, select:focus, textarea:focus{
 .lessonHeader{
   padding: 14px 14px 12px;
   border: 1px solid var(--border);
-  border-radius: var(--r-xl);
+  border-radius: var(--r-xxl);
   background: var(--card);
   box-shadow: var(--shadow-soft);
   margin-bottom: 14px;
@@ -301,7 +343,7 @@ input:focus, #answerInput:focus, select:focus, textarea:focus{
 
   border-radius: 14px;
   border: 1px solid var(--border);
-  background: rgba(231,241,252,.92); /* tinted */
+  background: rgba(231,241,252,.92);
   box-shadow: 0 8px 18px rgba(0,0,0,.05);
 
   cursor: pointer;
@@ -329,7 +371,7 @@ input:focus, #answerInput:focus, select:focus, textarea:focus{
   padding: 12px 12px;
   border-radius: var(--r-lg);
   border: 1px solid var(--border);
-  background: rgba(231,241,252,.85); /* tinted */
+  background: rgba(231,241,252,.85);
 }
 .feedback-ok{
   border-color: rgba(34,197,94,.45);
@@ -490,7 +532,6 @@ input:focus, #answerInput:focus, select:focus, textarea:focus{
 
 /* -------------------------
    ACCOUNT BUTTON (pill + circle avatar)
-   Keeps it same height as buttons
 ------------------------- */
 #accountBtn,
 .btn-account,
@@ -506,7 +547,7 @@ input:focus, #answerInput:focus, select:focus, textarea:focus{
   max-width: 260px !important;
   overflow: hidden !important;
 
-  background: rgba(231,241,252,.70) !important; /* tinted */
+  background: rgba(231,241,252,.70) !important;
   border: 1px solid var(--border) !important;
   box-shadow: var(--shadow-soft) !important;
 }
@@ -557,31 +598,25 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
 
 /* =========================================================
    MOBILE ONLY: keep Next visible without changing desktop
-   Paste at VERY END of styles.css
 ========================================================= */
 @media (max-width: 520px){
-
-  /* shrink outer padding so the lesson fits */
   .wrap{
     padding: 10px 12px 14px !important;
   }
 
-  /* shrink the big top logo space a bit on phones */
-  .brandLogo{ height: 78px !important; }
-  .brandHeader{ padding: 8px 10px !important; }
+  /* keep logo readable on phones */
+  .brandLogo{ height: 96px !important; }
+  .brandHeader{ padding: 10px 12px !important; }
 
-  /* tighten the lesson card */
   .card{
     padding: 14px !important;
   }
 
-  /* reduce extra whitespace above the question/choices */
   .lessonHeader{
     padding: 12px !important;
     margin-bottom: 10px !important;
   }
 
-  /* choices are the main “height hog” */
   .choices{
     gap: 8px !important;
     margin-top: 10px !important;
@@ -592,7 +627,6 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
     padding: 12px 12px !important;
   }
 
-  /* feedback + Next area */
   .feedback{
     margin-top: 10px !important;
     padding: 10px 10px !important;
@@ -602,7 +636,6 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
     margin-top: 8px !important;
   }
 
-  /* keep Mikas from eating the bottom space visually */
   .mikasDock{
     bottom: 74px !important;
   }
@@ -628,7 +661,7 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
   display: inline-block !important;
 }
 
-/* Flags next to language selects (paste at END of styles.css) */
+/* Flags next to language selects */
 .modeSelectWrap{
   display: flex;
   align-items: center;
@@ -644,14 +677,12 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
 }
 
 /* ===========================
-   Auth / Account Modal
-   =========================== */
-
+   Auth / Account Modal (tinted to match theme)
+=========================== */
 .modal {
   position: fixed;
   inset: 0;
   z-index: 9999;
-  /* your JS sets display:block; this keeps it visible */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -665,7 +696,9 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
 .modal-backdrop {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.45);
+  background: rgba(15, 23, 42, 0.45);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
 }
 
 .modal-card {
@@ -674,10 +707,10 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
   max-height: calc(100vh - 48px);
   overflow: auto;
 
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(231,241,252, 0.96); /* tinted (no harsh white) */
   border-radius: 20px;
   box-shadow: 0 18px 50px rgba(0,0,0,0.25);
-  border: 1px solid rgba(0,0,0,0.08);
+  border: 1px solid rgba(15,23,42,0.10);
   padding: 16px;
 }
 
