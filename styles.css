@@ -643,23 +643,6 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
   display: inline-block;
 }
 
-/* -------------------------
-   Home badge (translate logo)
-------------------------- */
-.homeBadge{
-  height: 84px;
-  width: auto;
-  margin-left: 2px;
-  vertical-align: middle;
-}
-
-/* Mobile tuning */
-@media (max-width: 600px){
-  .homeBadge{
-    height: 22px;    /* smaller but still visible */
-  }
-}
-
 /* ===========================
    Auth / Account Modal
    =========================== */
