@@ -82,7 +82,8 @@ a{ color: inherit; }
 }
 
 /* -------------------------
-   TOP BAR / BRAND
+  /* -------------------------
+   TOP BAR / BRAND (REWORKED)
 ------------------------- */
 .brandHeader{
   position: sticky;
@@ -91,47 +92,45 @@ a{ color: inherit; }
 
   display: flex;
   align-items: center;
-  gap: 18px;
+  gap: 14px;
 
-  padding: 10px 14px;
+  padding: 8px 12px;              /* tighter = less empty space */
+  min-height: 74px;              /* keeps header from ballooning */
 
   border: 1px solid var(--border);
-  border-radius: var(--r-xxl);
+  border-radius: var(--r-xl);
   background: var(--card);
 
-  box-shadow: var(--shadow-tight);
-
-  /* make the logo feel “anchored” */
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
+  box-shadow: var(--shadow-soft);
 }
 
-/* logo sizing (keep your intent, but ensure it can actually look BIG) */
+/* Smart responsive logo sizing */
 .brandLogo{
-  height: 320px; /* desktop */
+  height: clamp(52px, 6vw, 96px); /* min, fluid, max */
   width: auto;
   display: block;
-
-  /* crisp and not mushy */
-  image-rendering: auto;
-
-  /* slight depth so it feels premium on the glass */
-  filter: drop-shadow(0 10px 18px rgba(15,23,42,.14));
+  max-width: 100%;
+  object-fit: contain;           /* prevents distortion */
 }
 
-/* Responsive logo heights */
-@media (max-width: 900px){ .brandLogo{ height: 120px; } }
-@media (max-width: 720px){ .brandLogo{ height: 104px; } }
-@media (max-width: 520px){ .brandLogo{ height: 96px; } }
-@media (max-width: 420px){ .brandLogo{ height: 90px; } }
-
-/* (kept) */
+/* Text fallback (if image fails) */
 .brandText{
   font-weight: 900;
-  font-size: 46px;
+  font-size: clamp(26px, 4vw, 42px);
   letter-spacing: 0.3px;
 }
 
+/* Mobile refinement */
+@media (max-width: 520px){
+  .brandHeader{
+    padding: 6px 10px;
+    min-height: 64px;
+  }
+
+  .brandLogo{
+    height: 58px;
+  }
+}
 /* -------------------------
    "Basics 1" pill (prompt)
 ------------------------- */
