@@ -108,7 +108,7 @@ a{ color: inherit; }
 
 /* logo sizing (keep your intent, but ensure it can actually look BIG) */
 .brandLogo{
-  height: 150px; /* desktop */
+  height: 320px; /* desktop */
   width: auto;
   display: block;
 
