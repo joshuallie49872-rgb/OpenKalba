@@ -37,6 +37,24 @@
    PATCH (2026-01-09) (PROMPT OVERRIDE):
    - Translate questions no longer display "Translate to Lithuanian" from copied lesson prompts.
    - UI forces: "Translate to <current learn language>" (Latvian/Russian/etc).
+
+   PATCH (2026-01-13) (HOME BTN + HELPER TOGGLE + CUSTOM LANG MODAL):
+   - Adds Home button visibility rules (home hidden on home, shown on map/lesson)
+   - Adds Mikas helper toggle w/ preference (hidden on small screens by default)
+   - Adds custom language picker modal (native/learn) with flags + coming soon badges
+
+   PATCH (2026-01-13) (START vs CONTINUE AUTO TOGGLE):
+   - Hides Start when returning user has progress; shows Continue instead.
+
+   PATCH (2026-01-14) (LESSON PROGRESS BAR WIRING):
+   - Adds DOM refs for lesson progress elements
+   - Adds setLessonProgressUI()
+   - Updates progress each renderQuestion() + resetLesson()
+
+   FIX (2026-01-14) (HELPER TOGGLE PREF CONSISTENCY):
+   - One source of truth: reads/writes BOTH "mikas_hidden" and LS.helperHidden
+   - applyHelperVisibility also sets aria-hidden to match state
+   - toggle click uses applyHelperVisibility() so UI never desyncs
    ========================================================= */
 
 "use strict";
@@ -94,13 +112,20 @@ function pickOverlay(obj, base, lang, fallback) {
   return fallback;
 }
 
-function flagFileForLang(code){
-  const map = { en:"us", uk:"ua" }; // your filenames
+function flagFileForLang(code) {
+  const map = { en: "us", uk: "ua" }; // your filenames
   return map[code] || code;
 }
-function updateFlags(){
-  if (DOM.nativeFlag) DOM.nativeFlag.src = `assets/flags/${flagFileForLang(nativeLang)}.svg`;
-  if (DOM.learnFlag)  DOM.learnFlag.src  = `assets/flags/${flagFileForLang(learnLang)}.svg`;
+
+/* ✅ single source of truth for flag src */
+function flagSrc(code) {
+  const c = String(code || "en").toLowerCase();
+  return `assets/flags/${flagFileForLang(c)}.svg`;
+}
+
+function updateFlags() {
+  if (DOM.nativeFlag) DOM.nativeFlag.src = flagSrc(nativeLang);
+  if (DOM.learnFlag) DOM.learnFlag.src = flagSrc(learnLang);
 }
 
 /* -----------------------------
@@ -140,6 +165,9 @@ const LS = {
 
   user: "lt_user_v1",
   langSettings: "ok_lang_settings_v1",
+
+  // helper hide/show preference
+  helperHidden: "ok_helper_hidden_v1",
 };
 
 let nativeLang = "en";
@@ -152,7 +180,7 @@ function streakKey() {
   return `${LS.streakBase}_${learnLang}_${nativeLang}`;
 }
 function lastLessonKey() {
-  // ✅ per journey (prevents Continue mixing across native)
+  // per journey (prevents Continue mixing across native)
   return `${LS.lastLessonBase}_${learnLang}_${nativeLang}`;
 }
 
@@ -237,10 +265,21 @@ const DOM = {
     speakSlowBtn: el("speakSlowBtn"),
     mapBtn: el("mapBtn"),
     resetBtn: el("resetBtn"),
+
+    homeBtn: el("homeBtn"),
+    helperToggleBtn: el("helperToggleBtn"),
+    helperToggleText: el("helperToggleText"),
+
     accountBtn: el("accountBtn"),
     accountDot: el("accountDot"),
     accountBtnLabel: el("accountBtnLabel"),
   },
+
+  // ✅ top-level aliases for patches (safe)
+  helperToggleBtn: el("helperToggleBtn"),
+  helperToggleText: el("helperToggleText"),
+  helperToggleIcon: el("helperToggleIcon"),
+
   screens: {
     home: el("screenHome"),
     lesson: el("screenLesson"),
@@ -256,6 +295,19 @@ const DOM = {
   nativeFlag: el("nativeFlag"),
   learnFlag: el("learnFlag"),
 
+  // Home (custom pickers)
+  nativeLangBtn: el("nativeLangBtn"),
+  learnLangBtn: el("learnLangBtn"),
+  nativeLangLabel: el("nativeLangLabel"),
+  learnLangLabel: el("learnLangLabel"),
+
+  // Language modal
+  langModal: el("langModal"),
+  langModalTitle: el("langModalTitle"),
+  langModalSub: el("langModalSub"),
+  langModalClose: el("langModalClose"),
+  langList: el("langList"),
+
   // Lesson UI
   lessonHeader: document.querySelector(".lessonHeader"),
   lessonPromptPretty: el("lessonPromptPretty"),
@@ -265,6 +317,11 @@ const DOM = {
   checkBtn: el("checkBtn"),
   nextBtn: el("nextBtn"),
   feedback: el("feedback"),
+
+  // ✅ Lesson progress UI (NEW)
+  lessonProgress: el("lessonProgress"),
+  lessonProgressFill: el("lessonProgressFill"),
+  lessonProgressText: el("lessonProgressText"),
 
   // Map
   mapWrap: el("mapWrap"),
@@ -279,6 +336,9 @@ const DOM = {
   // Mikas
   mikasImg: el("mikasImg"),
   mikasBubble: el("mikasBubble"),
+
+  // Mikas dock wrapper
+  mikasDock: el("mikasDock"),
 
   // Auth modal
   authModal: el("authModal"),
@@ -335,7 +395,7 @@ function uiT(s) {
   return (overlay?.ui && overlay.ui[k]) ? overlay.ui[k] : k;
 }
 
-/* ✅ gloss keys are lowercase in your JSON */
+/* gloss keys are lowercase in your JSON */
 function glossT(s) {
   const key = String(s || "").trim().toLowerCase();
   return (overlay?.gloss && overlay.gloss[key]) ? overlay.gloss[key] : String(s || "");
@@ -348,23 +408,31 @@ function applyUiOverlays() {
   });
 }
 
+/* helper: set text into .btnText if present (preserves icon-only markup) */
+function setBtnLabel(btn, text) {
+  if (!btn) return;
+  const t = btn.querySelector(".btnText");
+  if (t) t.textContent = text;
+  else btn.textContent = text;
+}
+
 /* Apply overlay UI to fixed buttons/labels (so Spanish shows on buttons too) */
 function applyStaticUiText() {
   // Controls
-  if (DOM.controls.prevBtn) DOM.controls.prevBtn.textContent = uiT("back");
-  if (DOM.controls.speakBtn) DOM.controls.speakBtn.textContent = `🔊 ${uiT("hear_it")}`;
-  if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.textContent = `🐢 ${uiT("hear_it_slow")}`;
-  if (DOM.controls.mapBtn) DOM.controls.mapBtn.textContent = `🗺️ ${uiT("course_map")}`;
-  if (DOM.controls.resetBtn) DOM.controls.resetBtn.textContent = uiT("restart_lesson");
+  if (DOM.controls.prevBtn) setBtnLabel(DOM.controls.prevBtn, uiT("back"));
+  if (DOM.controls.speakBtn) setBtnLabel(DOM.controls.speakBtn, uiT("hear_it"));
+  if (DOM.controls.speakSlowBtn) setBtnLabel(DOM.controls.speakSlowBtn, uiT("hear_it_slow"));
+  if (DOM.controls.mapBtn) setBtnLabel(DOM.controls.mapBtn, uiT("course_map"));
+  if (DOM.controls.resetBtn) setBtnLabel(DOM.controls.resetBtn, uiT("restart_lesson"));
   if (DOM.controls.accountBtnLabel) DOM.controls.accountBtnLabel.textContent = uiT("account");
 
   // Home buttons
-  if (DOM.startBtn) DOM.startBtn.textContent = uiT("start");
-  if (DOM.continueBtn) DOM.continueBtn.textContent = uiT("continue");
+  if (DOM.startBtn) setBtnLabel(DOM.startBtn, uiT("start"));
+  if (DOM.continueBtn) setBtnLabel(DOM.continueBtn, uiT("continue"));
 
   // Lesson buttons
-  if (DOM.checkBtn) DOM.checkBtn.textContent = uiT("check");
-  if (DOM.nextBtn) DOM.nextBtn.textContent = uiT("next");
+  if (DOM.checkBtn) setBtnLabel(DOM.checkBtn, uiT("check"));
+  if (DOM.nextBtn) setBtnLabel(DOM.nextBtn, uiT("next"));
 
   // Done screen
   if (DOM.doneTitle) {
@@ -390,7 +458,7 @@ function loadProgress() {
     }
   } catch {}
 
-  // 2) fallback old key (single-language LT save) — ✅ ONLY for Lithuanian course
+  // 2) fallback old key (single-language LT save) — ONLY for Lithuanian course
   if (learnLang === "lt") {
     try {
       const rawOld = localStorage.getItem(LS.oldProgress);
@@ -423,7 +491,7 @@ function loadProgress() {
 function saveProgress() {
   localStorage.setItem(progressKey(), JSON.stringify(progress));
 
-  // ✅ keep writing legacy key ONLY for Lithuanian (optional but keeps old installs happy)
+  // keep writing legacy key ONLY for Lithuanian (optional but keeps old installs happy)
   if (learnLang === "lt") {
     try { localStorage.setItem(LS.oldProgress, JSON.stringify(progress)); } catch {}
   }
@@ -457,7 +525,7 @@ function loadStreak() {
     return Number.isFinite(n) ? n : 0;
   }
 
-  // ✅ Old streak fallback ONLY for Lithuanian (prevents cross-language streak bleed)
+  // Old streak fallback ONLY for Lithuanian (prevents cross-language streak bleed)
   if (learnLang === "lt") {
     const old = localStorage.getItem(LS.oldStreak);
     if (old != null) {
@@ -470,7 +538,7 @@ function loadStreak() {
 function saveStreak() {
   localStorage.setItem(streakKey(), String(streak));
 
-  // ✅ legacy write only for Lithuanian
+  // legacy write only for Lithuanian
   if (learnLang === "lt") {
     try { localStorage.setItem(LS.oldStreak, String(streak)); } catch {}
   }
@@ -497,6 +565,199 @@ function refreshAccountDot() {
 }
 
 /* -----------------------------
+   Home button + Helper toggle + Custom language modal helpers
+----------------------------- */
+function isSmallScreen() {
+  return window.matchMedia && window.matchMedia("(max-width: 560px)").matches;
+}
+
+/* ✅ unified read of helper pref */
+function getHelperHiddenPref() {
+  // Prefer "mikas_hidden" (new key) if present
+  try {
+    const mk = localStorage.getItem("mikas_hidden");
+    if (mk === "1" || mk === "0") return mk === "1";
+  } catch {}
+
+  // Fallback to LS.helperHidden
+  try {
+    const raw = localStorage.getItem(LS.helperHidden);
+    if (raw === "1" || raw === "0") return raw === "1";
+  } catch {}
+
+  // default: hidden on small screens, visible on desktop
+  return isSmallScreen();
+}
+
+/* ✅ unified write of helper pref */
+function setHelperHiddenPref(hidden) {
+  try { localStorage.setItem("mikas_hidden", hidden ? "1" : "0"); } catch {}
+  try { localStorage.setItem(LS.helperHidden, hidden ? "1" : "0"); } catch {}
+}
+
+function updateHelperToggleIcon(isHidden) {
+  // isHidden=true means Mikas is OFF -> show mikas_off icon
+  if (!DOM?.helperToggleIcon) return;
+  DOM.helperToggleIcon.src = isHidden ? "assets/icons/mikas_off.png" : "assets/icons/mikas_on.png";
+}
+
+function applyHelperVisibility(hidden) {
+  // Hide/show Mikas dock + keep aria-hidden consistent
+  if (DOM.mikasDock) {
+    DOM.mikasDock.style.display = hidden ? "none" : "";
+    DOM.mikasDock.setAttribute("aria-hidden", hidden ? "true" : "false");
+  }
+
+  // Update button icon + label (legacy emoji icon)
+  if (DOM.controls.helperToggleBtn) {
+    const icon = DOM.controls.helperToggleBtn.querySelector(".btnIcon");
+    if (icon) icon.textContent = hidden ? "👀" : "🙈"; // show vs hide
+  }
+
+  // Keep the new image icon in sync
+  updateHelperToggleIcon(hidden);
+
+  // Label (desktop)
+  if (DOM.controls.helperToggleText) {
+    DOM.controls.helperToggleText.textContent = hidden ? uiT("Show") : uiT("Hide");
+  }
+  if (DOM.helperToggleText) {
+    DOM.helperToggleText.textContent = hidden ? uiT("Show") : uiT("Hide");
+  }
+}
+
+/* =========================================================
+   PATCH 1 — Viewport + icon-only helpers (above init())
+========================================================= */
+function isNarrowMobile() {
+  return window.matchMedia && window.matchMedia("(max-width: 560px)").matches;
+}
+
+function applyControlsIconOnlyMode() {
+  const controls = document.querySelector(".controls");
+  if (!controls) return;
+
+  // Add/remove a class so CSS can center properly in icon-only mode
+  controls.classList.toggle("iconOnly", isNarrowMobile());
+}
+
+function setBtnTextVisible(btn, visible) {
+  if (!btn) return;
+  const t = btn.querySelector(".btnText");
+  if (t) t.style.display = visible ? "" : "none";
+}
+
+function updateControlsForViewport() {
+  applyControlsIconOnlyMode();
+
+  const iconOnly = isNarrowMobile();
+
+  // Hide button text on mobile *even if CSS fails/gets overridden*
+  setBtnTextVisible(DOM?.controls?.speakBtn, !iconOnly);
+  setBtnTextVisible(DOM?.controls?.speakSlowBtn, !iconOnly);
+  setBtnTextVisible(DOM?.controls?.mapBtn, !iconOnly);
+  setBtnTextVisible(DOM?.controls?.homeBtn, !iconOnly);
+  setBtnTextVisible(DOM?.controls?.helperToggleBtn, !iconOnly);
+  setBtnTextVisible(DOM?.controls?.accountBtn, !iconOnly);
+  setBtnTextVisible(DOM?.controls?.prevBtn, !iconOnly); // doesn’t matter if you hide prev anyway
+}
+
+/* =========================================================
+   Custom language modal wiring (copy/paste blocks)
+========================================================= */
+let langPickerKind = "native"; // "native" | "learn"
+
+function openLangModal(kind) {
+  langPickerKind = kind;
+
+  if (!DOM.langModal || !DOM.langList) return;
+
+  const isNative = (kind === "native");
+  const selectEl = isNative ? DOM.nativeLangSelect : DOM.learnLangSelect;
+
+  if (!selectEl) return;
+
+  if (DOM.langModalTitle) DOM.langModalTitle.textContent = isNative ? uiT("i_speak") : uiT("i_want_to_learn");
+  if (DOM.langModalSub) DOM.langModalSub.textContent = isNative ? uiT("Pick your native language") : uiT("Pick a course");
+
+  // Build list from the REAL <select> options (so disabled/ready logic stays correct)
+  DOM.langList.innerHTML = "";
+  [...selectEl.options].forEach((opt) => {
+    const code = opt.value;
+    const name = opt.textContent || code.toUpperCase();
+    const disabled = !!opt.disabled;
+
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "langItem";
+    btn.setAttribute("aria-disabled", disabled ? "true" : "false");
+    btn.disabled = disabled;
+
+    btn.innerHTML = `
+      <img class="flagIcon" src="${flagSrc(code)}" alt="" aria-hidden="true" />
+      <span class="langName">${escapeHtml(name)}</span>
+      ${disabled ? `<span class="langBadge">SOON</span>` : ``}
+    `;
+
+    btn.onclick = () => {
+      // update select -> trigger existing onchange logic
+      selectEl.value = code;
+      selectEl.dispatchEvent(new Event("change", { bubbles: true }));
+      closeLangModal();
+    };
+
+    DOM.langList.appendChild(btn);
+  });
+
+  DOM.langModal.style.display = "flex";
+  DOM.langModal.setAttribute("aria-hidden", "false");
+  document.body.classList.add("modal-open");
+}
+
+function closeLangModal() {
+  if (!DOM.langModal) return;
+  DOM.langModal.style.display = "none";
+  DOM.langModal.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("modal-open");
+}
+
+function syncLangPickButtons() {
+  // keep the pretty buttons in sync with current selects
+  if (DOM.nativeLangLabel) DOM.nativeLangLabel.textContent = langName(nativeLang);
+  if (DOM.learnLangLabel) DOM.learnLangLabel.textContent = langName(learnLang);
+
+  if (DOM.nativeFlag) DOM.nativeFlag.src = flagSrc(nativeLang);
+  if (DOM.learnFlag) DOM.learnFlag.src = flagSrc(learnLang);
+}
+
+/* (compat helper used elsewhere) */
+function updateLangPickerLabels() {
+  syncLangPickButtons();
+}
+
+/* ✅ FIXED: hide Map + Mikas toggle ONLY on Home */
+function setControlsForHome() {
+  // Home page should NOT show Back or Home
+  show(DOM.controls.prevBtn, false);
+  show(DOM.controls.homeBtn, false);
+
+  // Speak buttons only matter in lesson
+  if (DOM.controls.speakBtn) DOM.controls.speakBtn.style.display = "none";
+  if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.style.display = "none";
+
+  // Hide Map on Home
+  show(DOM.controls.mapBtn, false);
+
+  // Hide helper toggle on Home ONLY
+  show(DOM.controls.helperToggleBtn, false);
+
+  // Account still allowed
+  show(DOM.controls.accountBtn, true);
+
+  updateControlsForViewport();
+}
+
+/* -----------------------------
    Screens
 ----------------------------- */
 function setScreen(name) {
@@ -505,6 +766,11 @@ function setScreen(name) {
   if (DOM.screens.lesson) show(DOM.screens.lesson, name === "lesson");
   if (DOM.screens.map) show(DOM.screens.map, name === "map");
   if (DOM.screens.done) show(DOM.screens.done, name === "done");
+
+  // Controls behavior by screen
+  if (name === "home") setControlsForHome();
+  if (name === "lesson") show(DOM.controls.homeBtn, true);
+  if (name === "map") show(DOM.controls.homeBtn, true);
 }
 
 /* -----------------------------
@@ -585,6 +851,10 @@ function populateLanguageSelects(cat) {
 
   saveLangSettings(nativeLang, learnLang);
   langNameMap = nameMap;
+
+  // sync visible labels + flags after selects are populated
+  updateLangPickerLabels();
+  updateFlags();
 }
 
 /* -----------------------------
@@ -647,7 +917,7 @@ function normalizeLessonToQuestions(data) {
           prompt: promptBase,
           prompt_native: promptNative,
 
-          // ✅ correct target key for the course
+          // correct target key for the course
           [targetKey]: targetText,
 
           // optional: keep lt for old content fallback (harmless)
@@ -686,7 +956,7 @@ function normalizeLessonToQuestions(data) {
           native: nativeText,
           en: enText,
 
-          // ✅ correct target key for the course
+          // correct target key for the course
           [targetKey]: targetText,
 
           // optional fallback
@@ -763,7 +1033,7 @@ async function loadLessonByIndex(i) {
 
   localStorage.setItem(lastLessonKey(), meta.id);
 
-  // ✅ legacy last-lesson fallback ONLY for Lithuanian
+  // legacy last-lesson fallback ONLY for Lithuanian
   if (learnLang === "lt") {
     try { localStorage.setItem(LS.oldLastLesson, meta.id); } catch {}
   }
@@ -775,29 +1045,90 @@ async function loadLessonByIndex(i) {
    Lesson rendering helpers
 ----------------------------- */
 function setControlsForQuestion(hasPrev) {
-  show(DOM.controls.prevBtn, hasPrev);
+  // You do NOT want backtracking (XP anti-cheat), so ALWAYS hide Back.
+  show(DOM.controls.prevBtn, false);
+
+  // If you still have a reset/restart button in your DOM refs, keep it;
+  // otherwise this line is harmless if DOM.controls.resetBtn is undefined.
   show(DOM.controls.resetBtn, true);
+
+  // Map button in lesson is OK
   show(DOM.controls.mapBtn, true);
 
-  if (DOM.controls.speakBtn) DOM.controls.speakBtn.style.display = "none";
-  if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.style.display = "none";
+  // Home button should be visible in lesson
+  show(DOM.controls.homeBtn, true);
+
+  // ✅ FIX: helper toggle should be visible in lesson (NOT home)
+  show(DOM.controls.helperToggleBtn, true);
+
+  // Account should be visible
+  show(DOM.controls.accountBtn, true);
+
+  // Enforce icon-only behavior on mobile every question render
+  updateControlsForViewport();
+}
+
+/* ✅ NEW: lesson progress updater (question-by-question) */
+function setLessonProgressUI(currentIndex, totalCount) {
+  const wrap = DOM.lessonProgress;
+  const fill = DOM.lessonProgressFill;
+  const text = DOM.lessonProgressText;
+
+  if (!wrap || !fill) return;
+
+  const total = Math.max(1, Number(totalCount || 1));
+  const cur = clamp(Number(currentIndex || 0), 0, total);
+
+  // "Question 1 of N" shows progress immediately
+  const pct = clamp((cur / total) * 100, 0, 100);
+
+  fill.style.width = pct.toFixed(0) + "%";
+  //if (text) text.textContent = `${pct.toFixed(0)}%`;
 }
 
 function getSpeakText(q) {
   if (!q) return "";
-  if (q.tts && typeof q.tts === "object" && q.tts.text) return String(q.tts.text);
-  if (typeof q.tts === "string" && q.tts.trim()) return q.tts;
 
-  // ✅ course-aware target (ru/pl/lt/...)
-  const target = getTargetText(q);
+  // explicit tts override always wins
+  if (q.tts && typeof q.tts === "object" && q.tts.text) return String(q.tts.text);
+  if (typeof q.tts === "string" && q.tts.trim()) return q.tts.trim();
+
+  // course-aware target (ru/pl/lt/...)
+  const target = safeStr(getTargetText(q) || "").trim();
   if (target) return target;
 
+  // fallback (older format)
   if (Array.isArray(q.correct) && q.correct[0]) return String(q.correct[0]);
+
   return "";
 }
 
+function updateSpeakControlsForQuestion(q) {
+  const text = getSpeakText(q);
+
+  // no text => hide both
+  if (!text) {
+    if (DOM.controls.speakBtn) DOM.controls.speakBtn.style.display = "none";
+    if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.style.display = "none";
+    return;
+  }
+
+  // show both buttons
+  if (DOM.controls.speakBtn) DOM.controls.speakBtn.style.display = "";
+  if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.style.display = "";
+
+  // wire clicks
+  if (DOM.controls.speakBtn) {
+    DOM.controls.speakBtn.onclick = () => speakTarget(text, false);
+  }
+  if (DOM.controls.speakSlowBtn) {
+    DOM.controls.speakSlowBtn.onclick = () => speakTarget(text, true);
+  }
+}
+
 function ensureLessonHeaderVisible() {
-  const header = document.querySelector(".lessonHeader");
+  // prefer cached DOM ref if you have it, fallback to querySelector
+  const header = DOM.lessonHeader || document.querySelector(".lessonHeader");
   if (header) header.style.display = "block";
 }
 
@@ -813,9 +1144,8 @@ function getPromptForNative(q) {
   return safeStr(q?.prompt || "");
 }
 
-/* ✅ PATCH: ONLY return native arrays if they truly exist (no fallback to canonical) */
+/* ONLY return native arrays if they truly exist (no fallback to canonical) */
 function getChooseChoicesForNative(q) {
-  // ONLY return native arrays if they truly exist.
   const direct = q?.[overlayKey("choices", nativeLang)];
   if (Array.isArray(direct) && direct.length) return direct;
 
@@ -836,6 +1166,9 @@ function getTranslateSourceForNative(q) {
   return safeStr(q?.en || "");
 }
 
+/* -----------------------------
+   Target text helpers
+----------------------------- */
 function getTargetKey() {
   return learnLang; // "lt", "ru", "pl", etc
 }
@@ -853,7 +1186,7 @@ function getTargetText(q) {
   return "";
 }
 
-/* ✅ PATCH: renderChoices uses native choices if present; else overlay gloss on canonical */
+/* renderChoices uses native choices if present; else overlay gloss on canonical */
 function renderChoices(q) {
   show(DOM.inputWrap, false);
 
@@ -871,8 +1204,6 @@ function renderChoices(q) {
     b.dataset.value = canonical[i];
     b.dataset.idx = String(i);
 
-    // If lesson provides choices_uk, use those.
-    // Otherwise use overlay gloss on the canonical English token.
     b.textContent = hasNativeChoices
       ? String(nativeChoices[i])
       : glossT(canonical[i]);
@@ -909,33 +1240,49 @@ function markChoiceButtons({ userValue, wasCorrect }) {
   }
 }
 
-/* =========================================================
-   END PATCHED FUNCTIONS
-========================================================= */
-
 function renderQuestion() {
   isAnswered = false;
   currentQuestion = lessonData.questions[qIndex];
   if (!currentQuestion) return;
 
-  setControlsForQuestion(qIndex > 0);
+  // ✅ update lesson progress bar (Question-based)
+  setLessonProgressUI(qIndex + 1, lessonData.questions.length);
 
-  const meta = manifest.lessons[lessonIndex];
+  // Keep speak controls in sync for this question
+  updateSpeakControlsForQuestion(currentQuestion);
 
+  // Lock lesson navigation: no Back during lessons
+  if (DOM.controls.prevBtn) DOM.controls.prevBtn.style.display = "none";
+
+  const meta = manifest.lessons[lessonIndex] || {};
+
+  // Title (keeps your existing behavior)
   if (DOM.title) {
     DOM.title.textContent = `${meta.icon ? meta.icon + " " : ""}${meta.title || ""}`.trim();
   }
 
   ensureLessonHeaderVisible();
 
-  // In-card prompt
+  // ✅ Top pill should be COURSE CONTEXT (not the question)
+  // Example: 🇱🇹 Lithuanian — Basics 1
+  if (DOM.prompt) {
+    const lang = langName(learnLang);
+    const courseTitle = meta.title || "";
+    DOM.prompt.innerHTML = `
+      <span class="promptPill">
+        <img class="promptFlag" src="${flagSrc(learnLang)}" alt="" aria-hidden="true">
+        <span>${escapeHtml(`${lang}${courseTitle ? " — " + courseTitle : ""}`)}</span>
+      </span>
+    `.trim();
+  }
+
+  // In-card prompt (question itself)
   if (DOM.lessonHeader && DOM.lessonPromptPretty) {
     show(DOM.lessonHeader, true);
 
     const type = currentQuestion.type || "";
     const promptText = uiT(getPromptForNative(currentQuestion));
 
-    // ✅ FIX: Force translate prompt to current learn language (no LT hardcode)
     let promptTextFixed = promptText;
     if (type === "translate") {
       promptTextFixed = `Translate to ${langName(learnLang)}`;
@@ -958,53 +1305,8 @@ function renderQuestion() {
     `.trim();
   }
 
-  // Top prompt line
-  const type = currentQuestion.type || "";
-  const promptText = uiT(getPromptForNative(currentQuestion));
-
-  // ✅ FIX: Force translate prompt to current learn language (no LT hardcode)
-  let promptTextFixed = promptText;
-  if (type === "translate") {
-    promptTextFixed = `Translate to ${langName(learnLang)}`;
-  }
-
-  let line = promptTextFixed;
-
-  if (type === "choose") {
-    const tgt = getTargetText(currentQuestion).trim();
-    line = tgt ? `${tgt} — ${promptTextFixed}` : promptTextFixed;
-  } else if (type === "translate") {
-    const src = getTranslateSourceForNative(currentQuestion).trim();
-    line = src ? `${src} — ${promptTextFixed}` : promptTextFixed;
-  }
-
-  if (DOM.prompt) DOM.prompt.textContent = line;
-
   if (DOM.feedback) DOM.feedback.textContent = "";
   show(DOM.nextBtn, false);
-
-  // Voice buttons
-  const speakText = getSpeakText(currentQuestion);
-
-  if (DOM.controls.speakBtn) {
-    if (speakText) {
-      DOM.controls.speakBtn.style.display = "";
-      DOM.controls.speakBtn.onclick = () => speakTarget(speakText, false);
-    } else {
-      DOM.controls.speakBtn.style.display = "none";
-      DOM.controls.speakBtn.onclick = null;
-    }
-  }
-
-  if (DOM.controls.speakSlowBtn) {
-    if (speakText) {
-      DOM.controls.speakSlowBtn.style.display = "";
-      DOM.controls.speakSlowBtn.onclick = () => speakTarget(speakText, true);
-    } else {
-      DOM.controls.speakSlowBtn.style.display = "none";
-      DOM.controls.speakSlowBtn.onclick = null;
-    }
-  }
 
   setMikas("neutral");
 
@@ -1012,11 +1314,17 @@ function renderQuestion() {
   if (DOM.answers) DOM.answers.innerHTML = "";
   show(DOM.inputWrap, false);
 
-  /* ✅ IMPORTANT with new getChooseChoicesForNative(): use canonical choices to decide */
-  const hasChoices = (type === "choose") && Array.isArray(currentQuestion.choices) && currentQuestion.choices.length > 0;
+  const type = currentQuestion.type || "";
+  const hasChoices =
+    (type === "choose") &&
+    Array.isArray(currentQuestion.choices) &&
+    currentQuestion.choices.length > 0;
 
   if (hasChoices) renderChoices(currentQuestion);
   else renderTextInput(currentQuestion);
+
+  // ✅ ensure controls (icon-only + centering) are correct every question
+  setControlsForQuestion(false);
 }
 
 function renderTextInput(q) {
@@ -1109,7 +1417,6 @@ function checkAnswer({ userValue, userIndex }) {
     streak += 1;
     saveStreak();
 
-    /* ✅ PATCH: stop hardcoding English in Mikas bubble */
     if (streak === 5 || streak === 10 || streak === 15) {
       setMikas("proud", `🔥 ${uiT("Streak")} ${streak}!`);
     } else {
@@ -1154,6 +1461,10 @@ function resetLesson() {
   qIndex = 0;
   streak = 0;
   saveStreak();
+
+  // ✅ progress bar reset (shows first question progress immediately)
+  setLessonProgressUI(1, lessonData?.questions?.length || 1);
+
   renderQuestion();
 }
 
@@ -1197,20 +1508,69 @@ function setControlsForMap() {
   show(DOM.controls.prevBtn, false);
   show(DOM.controls.resetBtn, false);
   show(DOM.controls.mapBtn, false);
+
+  // ✅ Map screen: show Home + Helper toggle + Account
+  show(DOM.controls.homeBtn, true);
+  show(DOM.controls.helperToggleBtn, true);
+  show(DOM.controls.accountBtn, true);
+
   if (DOM.controls.speakBtn) DOM.controls.speakBtn.style.display = "none";
   if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.style.display = "none";
+
+  updateControlsForViewport();
 }
 
 function renderMap() {
   setControlsForMap();
 
-  if (DOM.title) DOM.title.textContent = `${langName(learnLang)} ${uiT("course_map")}`;
-
-  const baseMapLine = "Tap a node to play. 🔒 lessons unlock in order.";
-  const line = uiT(baseMapLine);
-  if (DOM.prompt) DOM.prompt.textContent = line;
-
+  // Screen
   setScreen("map");
+
+  // Hide the plain header text in the map screen (we’ll use the top pill instead)
+  const mapTitleEl = document.querySelector(".map-title");
+  const mapSubEl = document.querySelector(".map-subtitle");
+  if (mapTitleEl) mapTitleEl.style.display = "none";
+  if (mapSubEl) mapSubEl.style.display = "none";
+
+  // Title (hidden h1 is fine, but keep it accurate)
+  if (DOM.title) DOM.title.textContent = `${langName(learnLang)} ${uiT("course_map") || "Course Map"}`;
+
+  // Progress %
+  const lessonCount = manifest.lessons.length || 1;
+  let doneCount = 0;
+  for (const m of manifest.lessons) {
+    if (m?.id && isLessonCompleted(m.id)) doneCount++;
+  }
+  const pct = Math.round((doneCount / lessonCount) * 100);
+
+  // Top pill content (flag + Course Map + language + % + guidance)
+  const cm = uiT("course_map") || "Course Map";
+  const guidance = uiT("Tap a node to play. 🔒 lessons unlock in order.") || "Tap a node to play. 🔒 lessons unlock in order.";
+
+  if (DOM.prompt) {
+    DOM.prompt.innerHTML = `
+      <span class="promptMeta">
+        <span class="promptPair">
+          <img class="promptFlag" src="${flagSrc(learnLang)}" alt="" aria-hidden="true">
+          <span class="promptPairLabel" data-short="COURSE MAP">${escapeHtml(cm)}:</span>
+          <span class="promptPairValue">${escapeHtml(langName(learnLang))}</span>
+        </span>
+
+        <span class="promptDot" aria-hidden="true">•</span>
+
+        <span class="promptPair">
+          <span class="promptPairLabel" data-short="DONE">Done:</span>
+          <span class="promptPairValue">${pct}%</span>
+        </span>
+
+        <span class="promptDot" aria-hidden="true">•</span>
+
+        <span class="promptPair">
+          <span class="promptPairValue">${escapeHtml(guidance)}</span>
+        </span>
+      </span>
+    `.trim();
+  }
 
   const wrap = DOM.mapWrap;
   const nodesEl = DOM.mapNodes;
@@ -1227,7 +1587,6 @@ function renderMap() {
   const stepY = 86;
   const nodeR = 35;
 
-  const lessonCount = manifest.lessons.length;
   const H = topPad * 2 + (lessonCount - 1) * stepY + 120;
 
   svg.style.height = `${H}px`;
@@ -1243,6 +1602,7 @@ function renderMap() {
 
   const maxUnlocked = unlockIndex();
 
+  // Paths
   for (let i = 0; i < lessonCount - 1; i++) {
     const x1 = xs[i % xs.length];
     const y1 = topPad + i * stepY;
@@ -1261,6 +1621,7 @@ function renderMap() {
     svg.appendChild(path);
   }
 
+  // Nodes + labels
   for (let i = 0; i < lessonCount; i++) {
     const meta = manifest.lessons[i];
     const x = xs[i % xs.length];
@@ -1326,9 +1687,7 @@ async function startLesson(i) {
 }
 
 async function startFromContinue() {
-  // ✅ per journey key
   const lastId = localStorage.getItem(lastLessonKey())
-    // legacy fallback ONLY for Lithuanian
     || (learnLang === "lt" ? localStorage.getItem(LS.oldLastLesson) : null);
 
   if (!lastId) return startLesson(0);
@@ -1365,7 +1724,6 @@ function speakTarget(text, slow = false) {
 
     const u = new SpeechSynthesisUtterance(raw);
 
-    // 🔑 language map
     const langMap = {
       lt: "lt-LT",
       ru: "ru-RU",
@@ -1398,7 +1756,6 @@ function speakTarget(text, slow = false) {
   }
 }
 
-
 /* -----------------------------
    Auth modal wiring
 ----------------------------- */
@@ -1426,13 +1783,54 @@ function openAuth() {
 }
 
 /* -----------------------------
+   ✅ NEW: Start vs Continue toggle helper (put near setHomeCopy)
+----------------------------- */
+function updateStartContinueButtons() {
+  // progress shape varies across versions — handle safely
+  let completedCount = 0;
+
+  if (Array.isArray(progress?.completedLessonIds)) completedCount = progress.completedLessonIds.length;
+  else if (Array.isArray(progress?.done)) completedCount = progress.done.length;
+  else if (progress && typeof progress === "object" && progress.completed && typeof progress.completed === "object") {
+    completedCount = Object.keys(progress.completed).length;
+  }
+
+  const isReturning = completedCount > 0;
+
+  if (DOM.startBtn) DOM.startBtn.style.display = isReturning ? "none" : "";
+  if (DOM.continueBtn) DOM.continueBtn.style.display = isReturning ? "" : "none";
+}
+
+/* -----------------------------
    Home copy (no Lithuanian hardcode)
 ----------------------------- */
 function setHomeCopy() {
   if (DOM.title) DOM.title.textContent = "OpenKalba";
 
   if (DOM.prompt) {
-    DOM.prompt.textContent = `Native: ${langName(nativeLang)} • Learning: ${langName(learnLang)}`;
+    const nCode = nativeLang;
+    const lCode = learnLang;
+
+    const nName = langName(nCode);
+    const lName = langName(lCode);
+
+    DOM.prompt.innerHTML = `
+      <span class="promptMeta">
+        <span class="promptPair">
+          <img class="promptFlag" src="${flagSrc(nCode)}" alt="" aria-hidden="true">
+          <span class="promptPairLabel" data-short="NATIVE">Native:</span>
+          <span class="promptPairValue">${escapeHtml(nName)}</span>
+        </span>
+
+        <span class="promptDot" aria-hidden="true">•</span>
+
+        <span class="promptPair">
+          <img class="promptFlag" src="${flagSrc(lCode)}" alt="" aria-hidden="true">
+          <span class="promptPairLabel" data-short="LEARNING">Learning:</span>
+          <span class="promptPairValue">${escapeHtml(lName)}</span>
+        </span>
+      </span>
+    `;
   }
 
   const kicker = document.querySelector(".homeKicker");
@@ -1440,6 +1838,9 @@ function setHomeCopy() {
 
   const mapTitle = document.querySelector(".map-title");
   if (mapTitle) mapTitle.textContent = uiT("course_map") || "Course Map";
+
+  // If you later add your Start/Continue auto-toggle, keep this line:
+  updateStartContinueButtons();
 }
 
 /* -----------------------------
@@ -1452,6 +1853,40 @@ function wireEvents() {
     renderMap();
   };
   if (DOM.controls.resetBtn) DOM.controls.resetBtn.onclick = () => resetLesson();
+
+  // Home button
+  if (DOM.controls.homeBtn) DOM.controls.homeBtn.onclick = () => goHome();
+
+  // ✅ helper toggle click: always go through applyHelperVisibility + persist (no desync)
+  if (DOM.controls.helperToggleBtn) {
+    DOM.controls.helperToggleBtn.onclick = () => {
+      const hiddenNow =
+        (DOM.mikasDock && DOM.mikasDock.getAttribute("aria-hidden") === "true")
+          ? true
+          : getHelperHiddenPref();
+
+      const nextHidden = !hiddenNow;
+
+      setHelperHiddenPref(nextHidden);
+      applyHelperVisibility(nextHidden);
+
+      // Re-apply mobile icon-only (so the pills stay centered)
+      updateControlsForViewport();
+    };
+  }
+
+  // Custom language pickers
+  if (DOM.nativeLangBtn) DOM.nativeLangBtn.onclick = () => openLangModal("native");
+  if (DOM.learnLangBtn) DOM.learnLangBtn.onclick = () => openLangModal("learn");
+
+  // close modal by clicking backdrop / X
+  if (DOM.langModal) {
+    DOM.langModal.addEventListener("click", (e) => {
+      const t = e.target;
+      if (t && t.getAttribute && t.getAttribute("data-close-lang") === "1") closeLangModal();
+    });
+  }
+  if (DOM.langModalClose) DOM.langModalClose.onclick = closeLangModal;
 
   if (DOM.controls.accountBtn) {
     if (!(window.AuthUI && typeof window.AuthUI.open === "function")) {
@@ -1466,25 +1901,32 @@ function wireEvents() {
   if (DOM.nativeLangSelect) {
     DOM.nativeLangSelect.onchange = async () => {
       nativeLang = DOM.nativeLangSelect.value || "en";
+
+      updateLangPickerLabels();
       updateFlags();
       saveLangSettings(nativeLang, learnLang);
 
       await loadOverlay(nativeLang, learnLang);
       applyUiOverlays();
 
-      if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.textContent = `🐢 ${uiT("hear_it_slow")}`;
-      if (DOM.controls.speakBtn) DOM.controls.speakBtn.textContent = `🔊 ${uiT("hear_it")}`;
-
       applyStaticUiText();
 
       progress = loadProgress();
       streak = loadStreak();
+
+      // ✅ NEW: refresh Start/Continue visibility after progress reload
+      updateStartContinueButtons();
 
       if (lessonData) lessonData = normalizeLessonToQuestions(lessonData);
 
       if (currentScreen === "lesson") renderQuestion();
       if (currentScreen === "map") renderMap();
       setHomeCopy();
+
+      // ✅ sync pretty buttons
+      syncLangPickButtons();
+
+      updateControlsForViewport();
     };
   }
 
@@ -1492,6 +1934,8 @@ function wireEvents() {
   if (DOM.learnLangSelect) {
     DOM.learnLangSelect.onchange = async () => {
       learnLang = DOM.learnLangSelect.value || "lt";
+
+      updateLangPickerLabels();
       updateFlags();
       saveLangSettings(nativeLang, learnLang);
 
@@ -1500,20 +1944,25 @@ function wireEvents() {
       progress = loadProgress();
       streak = loadStreak();
 
+      // ✅ NEW: refresh Start/Continue visibility after progress reload
+      updateStartContinueButtons();
+
       manifest = await loadManifest();
       ltAudioMap = await loadLtAudioManifest(getAudioManifestUrl());
 
       await loadOverlay(nativeLang, learnLang);
       applyUiOverlays();
 
-      if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.textContent = `🐢 ${uiT("hear_it_slow")}`;
-      if (DOM.controls.speakBtn) DOM.controls.speakBtn.textContent = `🔊 ${uiT("hear_it")}`;
-
       applyStaticUiText();
 
       setHomeCopy();
       setScreen("map");
       renderMap();
+
+      // ✅ sync pretty buttons
+      syncLangPickButtons();
+
+      updateControlsForViewport();
     };
   }
 
@@ -1535,18 +1984,22 @@ async function init() {
 
     catalog = await loadCatalog();
     populateLanguageSelects(catalog);
+
+    // ✅ call once after populateLanguageSelects(catalog)
+    syncLangPickButtons();
+
     updateFlags();
 
     await loadOverlay(nativeLang, learnLang);
     applyUiOverlays();
 
-    if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.textContent = `🐢 ${uiT("hear_it_slow")}`;
-    if (DOM.controls.speakBtn) DOM.controls.speakBtn.textContent = `🔊 ${uiT("hear_it")}`;
-
     applyStaticUiText();
 
     progress = loadProgress();
     streak = loadStreak();
+
+    // ✅ NEW: Start/Continue visibility after initial progress load
+    updateStartContinueButtons();
 
     manifest = await loadManifest();
 
@@ -1555,8 +2008,16 @@ async function init() {
     refreshAccountDot();
     wireEvents();
 
+    // Apply helper visibility preference on startup (and keep icon/aria in sync)
+    const hidden = getHelperHiddenPref();
+    applyHelperVisibility(hidden);
+    setHelperHiddenPref(hidden); // ensure both keys exist
+
     setScreen("home");
     setHomeCopy();
+
+    // ensure Home controls are correct
+    setControlsForHome();
 
     if ("speechSynthesis" in window) {
       await sleep(50);
@@ -1567,6 +2028,10 @@ async function init() {
       setScreen("map");
       renderMap();
     }
+
+    // Force correct icon-only behavior + centering on load and resize
+    updateControlsForViewport();
+    window.addEventListener("resize", updateControlsForViewport);
   } catch (err) {
     console.error(err);
     if (DOM.title) DOM.title.textContent = "Error";
@@ -1575,3 +2040,12 @@ async function init() {
 }
 
 init();
+
+/* -----------------------------
+   Screens (kept at end in your paste; no change needed)
+----------------------------- */
+function goHome() {
+  setScreen("home");
+  setHomeCopy();
+  setControlsForHome();
+}

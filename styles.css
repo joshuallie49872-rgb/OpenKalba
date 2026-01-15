@@ -49,6 +49,9 @@
 
   /* Focus ring */
   --focus: rgba(50,170,202,.22);
+
+  /* Icon scale (global) */
+  --okIconScale: 1.2; /* +20% */
 }
 
 /* -------------------------
@@ -82,7 +85,6 @@ a{ color: inherit; }
 }
 
 /* -------------------------
-  /* -------------------------
    TOP BAR / BRAND (REWORKED)
 ------------------------- */
 .brandHeader{
@@ -95,7 +97,7 @@ a{ color: inherit; }
   gap: 14px;
 
   padding: 8px 12px;              /* tighter = less empty space */
-  min-height: 74px;              /* keeps header from ballooning */
+  min-height: 74px;               /* keeps header from ballooning */
 
   border: 1px solid var(--border);
   border-radius: var(--r-xl);
@@ -110,7 +112,7 @@ a{ color: inherit; }
   width: auto;
   display: block;
   max-width: 100%;
-  object-fit: contain;           /* prevents distortion */
+  object-fit: contain;            /* prevents distortion */
 }
 
 /* Text fallback (if image fails) */
@@ -131,6 +133,7 @@ a{ color: inherit; }
     height: 58px;
   }
 }
+
 /* -------------------------
    "Basics 1" pill (prompt)
 ------------------------- */
@@ -152,6 +155,76 @@ a{ color: inherit; }
   border: 1px solid var(--border);
   border-radius: 999px;
   box-shadow: var(--shadow-soft);
+}
+
+/* ✅ NEVER WRAP: course pill should NEVER go to two lines */
+#prompt,
+.prompt,
+.promptPill{
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+#prompt{ min-width: 0; }
+#prompt *{ min-width: 0; }
+
+/* =========================
+   MOBILE: Course pill + Account pill on SAME ROW
+   - Course pill keeps its normal look, just takes remaining space
+   - Account pill sits immediately to the right
+========================= */
+@media (max-width: 560px){
+
+  /* Wrapper that contains BOTH:
+     - course pill area (#prompt)
+     - account button (#accountBtn) */
+  .lessonTopBar,
+  .promptBar,
+  .topPillRow{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  /* Course pill area takes remaining space */
+  .lessonTopBar #prompt,
+  .promptBar #prompt,
+  .topPillRow #prompt{
+    flex: 1 1 auto;
+    min-width: 0; /* prevents overflow pushing account away */
+  }
+
+  /* The actual pill should NOT be forced wider than its container */
+  #prompt .promptPill{
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* Account button sits to the right */
+  #accountBtn{
+    position: static !important;
+    transform: none !important;
+
+    flex: 0 0 auto;
+    margin: 0 !important;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Center the avatar circle inside the account pill */
+  #accountBtn img,
+  #accountBtn .avatar,
+  #accountBtn .userAvatar{
+    display: block;
+    margin: 0 auto;
+    width: 34px;
+    height: 34px;
+    border-radius: 999px;
+    object-fit: cover;
+    object-position: center;
+  }
 }
 
 /* -------------------------
@@ -189,7 +262,12 @@ a{ color: inherit; }
   align-items: center;
 }
 
+/* Make .btn a real flex row so icons/text align */
 button, .btn{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
   padding: 10px 12px;
   border-radius: 14px;
   cursor: pointer;
@@ -208,13 +286,44 @@ button:hover, .btn:hover{
   box-shadow: 0 14px 28px rgba(0,0,0,.09);
 }
 
-button:active, .btn:active{ transform: scale(.985); }
+/* ✅ PRESS DOWN (more button-like than scaling) */
+button:active, .btn:active{ transform: translateY(2px); }
 
 button:disabled, .btn:disabled{
   opacity: 0.55;
   cursor: not-allowed;
   transform: none;
   box-shadow: none;
+}
+
+/* ✅ Focus ring (keyboard + accessibility) */
+.btn:focus-visible,
+button:focus-visible{
+  outline: none;
+  box-shadow: 0 0 0 4px var(--focus), 0 14px 28px rgba(0,0,0,.09);
+}
+
+/* =========================
+   ICON BUTTON IMAGES (assets/icons/*.png)
+========================= */
+.btnIconImg{
+  display:inline-block;
+  width:22px;
+  height:22px;
+  object-fit:contain;
+  vertical-align:middle;
+}
+@media (min-width: 640px){
+  .btnIconImg{ width:24px; height:24px; }
+}
+
+/* If you keep emoji fallback icons, keep them aligned too */
+.btnIcon{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  line-height: 1;
+  font-size: 16px;
 }
 
 /* Primary actions */
@@ -233,15 +342,25 @@ button:disabled, .btn:disabled{
 }
 
 /* Warn */
-.btn-warn, #resetBtn{
+.btn-warn, #homeBtn{
   background: linear-gradient(180deg, rgba(255,232,232,.92) 0%, rgba(255,214,214,.92) 100%);
   border: 1px solid rgba(239,68,68,.20);
 }
 
-/* Ghost */
+/* Ghost (✅ upgraded glass button look) */
 .btn-ghost{
-  background: rgba(231,241,252,.65);
+  background: linear-gradient(180deg, rgba(255,255,255,.78), rgba(231,241,252,.68));
   border: 1px solid var(--border);
+  box-shadow:
+    0 1px 0 rgba(255,255,255,.70) inset,
+    0 12px 22px rgba(15,23,42,.10);
+  backdrop-filter: blur(6px);
+}
+.btn-ghost:hover{
+  border-color: rgba(15,23,42,.16);
+  box-shadow:
+    0 1px 0 rgba(255,255,255,.75) inset,
+    0 16px 28px rgba(15,23,42,.14);
 }
 
 /* -------------------------
@@ -334,26 +453,41 @@ input:focus, #answerInput:focus, select:focus, textarea:focus{
   .choices{ grid-template-columns: 1fr 1fr; }
 }
 
+/* ✅ CHOICE BUTTONS (more button-like) */
 .choice{
   padding: 14px 14px;
   font-size: 16px;
-  font-weight: 650;
+  font-weight: 700;
   min-height: 52px;
 
   border-radius: 14px;
-  border: 1px solid var(--border);
-  background: rgba(231,241,252,.92);
-  box-shadow: 0 8px 18px rgba(0,0,0,.05);
+  border: 1.5px solid var(--border-2);
+  background: linear-gradient(180deg, rgba(255,255,255,.90), rgba(231,241,252,.86));
+  box-shadow:
+    0 1px 0 rgba(255,255,255,.70) inset,
+    0 2px 0 rgba(15,23,42,.05),
+    0 12px 22px rgba(15,23,42,.08);
 
   cursor: pointer;
-  transition: transform .12s ease, box-shadow .12s ease, filter .12s ease;
+  transition: transform .12s ease, box-shadow .12s ease, filter .12s ease, border-color .12s ease;
 }
 .choice:hover{
   transform: translateY(-1px);
   filter: brightness(1.02);
-  box-shadow: 0 14px 28px rgba(0,0,0,.09);
+  border-color: rgba(50,170,202,.40);
+  box-shadow:
+    0 1px 0 rgba(255,255,255,.75) inset,
+    0 3px 0 rgba(15,23,42,.06),
+    0 18px 30px rgba(15,23,42,.12);
 }
-.choice:active{ transform: scale(.985); }
+/* ✅ press down (no scale) */
+.choice:active{ transform: translateY(2px); }
+
+/* ✅ focus ring for choices */
+.choice:focus-visible{
+  outline: none;
+  box-shadow: 0 0 0 4px var(--focus), 0 18px 30px rgba(15,23,42,.12);
+}
 
 .choice-correct{
   border-color: rgba(34,197,94,.55) !important;
@@ -668,11 +802,93 @@ button, .btn, .mapNode, .map-nodes, #mapNodes, #startBtn, #continueBtn, #checkBt
 }
 
 .flagIcon{
-  width: 22px;
-  height: 16px;
+  width: 26px;
+  height: 19px;
   border-radius: 3px;
   flex: 0 0 auto;
   display: inline-block;
+}
+
+/* Visually hide (keep for screen readers / form logic) */
+.srOnly{
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0,0,0,0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Custom language picker button (replaces native <select> UI) */
+.modeSelectBtn{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+
+  padding: 12px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(15,23,42,0.10);
+  background: rgba(231,241,252, 0.82);
+  box-shadow: 0 10px 22px rgba(0,0,0,0.08);
+
+  font-weight: 800;
+  color: rgba(15,23,42,0.90);
+  text-align: left;
+}
+
+.modeSelectBtn:hover{
+  border-color: rgba(15,23,42,0.18);
+  background: rgba(231,241,252, 0.92);
+}
+
+.modeSelectBtn:active{ transform: translateY(1px); }
+
+.modeSelectLabel{ flex: 1 1 auto; }
+.modeSelectChev{ opacity: 0.65; }
+
+/* Language picker modal list */
+.langList{
+  display: grid;
+  gap: 10px;
+  padding-top: 8px;
+}
+
+.langItem{
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(15,23,42,0.10);
+  background: rgba(255,255,255,0.45);
+  font-weight: 900;
+  color: rgba(15,23,42,0.90);
+  text-align: left;
+}
+
+.langItem:hover{
+  border-color: rgba(15,23,42,0.18);
+  background: rgba(255,255,255,0.62);
+}
+
+.langItem[aria-disabled="true"]{ opacity: 0.55; }
+.langItem:disabled{ cursor: not-allowed; }
+
+.langName{ flex: 1 1 auto; }
+
+.langBadge{
+  font-size: 12px;
+  font-weight: 900;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(15,23,42,0.12);
+  background: rgba(255,255,255,0.40);
+  color: rgba(15,23,42,0.70);
 }
 
 /* ===========================
@@ -721,4 +937,308 @@ body.modal-open {
 /* If Mikas or other UI floats above it, keep them below */
 .mikasDock {
   z-index: 10;
+}
+
+/* Hide the redundant "OpenKalba" kicker line inside the home card */
+.homeKicker{ display:none !important; }
+
+/* Mobile: tighten the logo header bubble height */
+@media (max-width: 560px){
+  .brandHeader{
+    min-height: 58px !important;
+    padding: 6px 10px !important;
+  }
+  .brandLogo{
+    height: 72px !important; /* was 96, too tall on phone */
+  }
+
+  /* Center controls row more on mobile */
+  .controls{
+    justify-content: center;
+  }
+
+  /* Account pill shouldn’t hug the far right */
+  #accountBtn{
+    margin-left: 0 !important;
+  }
+
+  /* Prompt pill tighten */
+  .prompt{
+    padding: 7px 10px !important;
+    gap: 8px !important;
+    letter-spacing: .12em !important;
+  }
+}
+
+/* =========================
+   TOP PILL (Prompt) — alignment (DESKTOP + MOBILE)
+   ✅ cleaned + polished (no duplicate/conflicting blocks)
+========================= */
+.promptMeta{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.promptPair{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+}
+
+.promptPairLabel{
+  font-weight: 900;
+  opacity: 0.80;
+}
+
+.promptPairValue{
+  font-weight: 900;
+}
+
+.promptDot{
+  opacity: 0.55;
+  font-weight: 900;
+}
+
+.promptFlag{
+  width: 26px;
+  height: 19px;
+  border-radius: 3px;
+  flex: 0 0 auto;
+  display: inline-block;
+  vertical-align: middle;
+  transform: none;
+}
+
+/* =========================
+   MOBILE: show NATIVE / LEARNING (not language names)
+   ✅ one-line, centered, tighter spacing, flag close to label
+========================= */
+@media (max-width: 560px){
+  /* hide language names (English / Lithuanian) */
+  .promptPairValue{
+    display: none !important;
+  }
+
+  /* replace label text using data-short */
+  .promptPairLabel{
+    font-size: 0 !important;
+    line-height: 0 !important;
+    display: inline-block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .promptPairLabel::after{
+    content: attr(data-short); /* NATIVE / LEARNING */
+    font-size: 11px !important;
+    line-height: 1;
+    font-weight: 900;
+    opacity: 0.90;
+    letter-spacing: .10em !important;
+  }
+
+  /* ✅ keep one line and centered */
+  .promptMeta{
+    flex-wrap: nowrap !important;
+    justify-content: center !important;
+    gap: 12px !important;
+  }
+
+  /* ✅ flag close to label */
+  .promptPair{
+    gap: 6px !important;
+  }
+
+  /* ✅ dot not floating wide */
+  .promptDot{
+    flex: 0 0 auto !important;
+    margin: 0 2px !important;
+  }
+
+  /* ✅ slightly smaller flags so they never force wrap */
+  .promptFlag{
+    width: 22px !important;
+    height: 16px !important;
+    margin: 0 !important;
+  }
+}
+
+/* =========================
+   MAP PILL: remove trailing divider when last segment is hidden on mobile
+========================= */
+@media (max-width: 560px){
+  .promptMeta .promptDot:last-of-type{
+    display: none !important;
+  }
+}
+
+/* =========================
+   MOBILE: hide Hear it / Slow text (your request)
+   (works for BOTH emoji and PNG icon versions)
+========================= */
+@media (max-width: 560px){
+  #speakBtn .btnText,
+  #speakSlowBtn .btnText{
+    display: none !important;
+  }
+
+  #speakBtn,
+  #speakSlowBtn{
+    min-width: 44px !important;
+    justify-content: center !important;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+}
+
+/* -------------------------
+   ICON SCALE (global)
+------------------------- */
+/* control buttons (mic/home/map/etc) */
+.controls .btnIcon,
+.controls img,
+.controls svg{
+  transform: scale(var(--okIconScale));
+  transform-origin: center;
+}
+
+/* map icons / little squares row icons */
+.mapNodeIcon,
+.homeQuickIcon,
+.quickIcon,
+.iconBtn img{
+  transform: scale(var(--okIconScale));
+  transform-origin: center;
+}
+
+/* =========================================================
+   STEP 2 ADDITIONS — Home Intro modal polish + Home-only flow
+   (Home-only rules use: body.is-home ... ; wired in app.js next)
+========================================================= */
+
+/* =========================
+   HOME INTRO MODAL (premium look)
+========================= */
+#homeIntroModal .modal-card{
+  width: min(520px, calc(100vw - 32px));
+  padding: 18px;
+  border-radius: 22px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(231,241,252,0.98) 0%,
+    rgba(221,235,248,0.96) 100%
+  );
+
+  border: 1px solid rgba(15,23,42,0.10);
+  box-shadow: 0 22px 70px rgba(0,0,0,0.28);
+}
+
+/* Title row in intro modal */
+#homeIntroModal .modal-titleRow{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+#homeIntroModal .modal-title{
+  font-weight: 950;
+  font-size: 20px;
+  letter-spacing: .2px;
+  color: rgba(15,23,42,0.96);
+}
+
+/* Close button (consistent with your glass vibe) */
+#homeIntroModal .modal-close{
+  border-radius: 12px;
+  border: 1px solid rgba(15,23,42,0.12);
+  background: rgba(255,255,255,0.55);
+  box-shadow: 0 10px 18px rgba(15,23,42,0.10);
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+#homeIntroModal .modal-close:hover{
+  filter: brightness(1.02);
+}
+
+#homeIntroModal #homeIntroBody{
+  margin-top: 4px;
+  padding: 12px 12px;
+  border-radius: 16px;
+  border: 1px solid rgba(15,23,42,0.10);
+  background: rgba(255,255,255,0.50);
+
+  color: rgba(15,23,42,0.86);
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+/* Nice CTA spacing */
+#homeIntroModal .row{
+  margin-top: 14px !important;
+  justify-content: flex-end;
+}
+#homeIntroModal #homeIntroGotIt{
+  min-width: 130px;
+  justify-content: center;
+}
+
+/* Mobile tighten */
+@media (max-width: 520px){
+  #homeIntroModal .modal-card{
+    padding: 16px;
+    border-radius: 20px;
+  }
+  #homeIntroModal .modal-title{
+    font-size: 18px;
+  }
+  #homeIntroModal #homeIntroBody{
+    font-size: 14px;
+  }
+}
+
+/* =========================
+   HOME-ONLY: hide Map + Hide-Mikas buttons (flow cleanup)
+   (Body class added in app.js next step)
+========================= */
+body.is-home #mapBtn,
+body.is-home #helperToggleBtn{
+  display: none !important;
+}
+
+/* If you hide 2 buttons, re-center the remaining controls nicely */
+body.is-home .controls{
+  justify-content: center;
+}
+
+/* =========================
+   HOME-ONLY: lift Mikas slightly (less “too low”)
+   (Body class added in app.js next step)
+========================= */
+body.is-home .mikasDock{
+  bottom: 34px; /* default is 18px; this lifts him slightly */
+}
+
+/* Keep your mobile offsets sane */
+@media (max-width: 720px){
+  body.is-home .mikasDock{
+    bottom: 104px; /* was 92px — a bit higher */
+  }
+}
+@media (max-width: 420px){
+  body.is-home .mikasDock{
+    bottom: 124px; /* was 110px — a bit higher */
+  }
+}
+@media (max-width: 520px){
+  body.is-home .mikasDock{
+    bottom: 88px !important; /* your hotfix had 74px; lift on home */
+  }
 }

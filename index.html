@@ -21,7 +21,7 @@
       <img
         id="brandLogo"
         class="brandLogo"
-        src="assets/openkalba-logo.png?v=6"
+        src="assets/openkalba-logo.png?v=7"
         alt="OpenKalba"
       />
 
@@ -30,35 +30,69 @@
     </div>
 
     <!-- Small context line under header (app.js uses #prompt) -->
-    <div id="prompt" class="prompt"></div>
+    <div class="topPillRow" id="topPillRow">
+      <div id="prompt" class="prompt"></div>
 
-    <!-- Keep #title in DOM for app.js safety (hidden) -->
-    <h1 id="title" style="display:none;"></h1>
-
-    <div class="controls">
-      <button id="prevBtn" class="btn btn-ghost">Back</button>
-
-      <!-- Speak controls -->
-      <button id="speakBtn" class="btn btn-ghost" style="display:none;">🔊 Hear it</button>
-      <button id="speakSlowBtn" class="btn btn-ghost" style="display:none;">🐢 Hear it slow</button>
-
-      <button id="mapBtn" class="btn btn-secondary">🗺️ Course Map</button>
-      <button id="resetBtn" class="btn btn-warn">Restart lesson</button>
-
-      <button id="accountBtn" class="btn btn-ghost btn-account">
+      <!-- Account (moved here so it can sit next to the course pill) -->
+      <button id="accountBtn" class="btn btn-ghost btn-account" aria-label="Account">
         <span class="dot" id="accountDot" aria-hidden="true"></span>
 
         <img
           id="accountAvatarSmall"
           class="accountAvatarSmall"
-          src=""
+          src="assets/icons/account.png"
           alt=""
-          referrerpolicy="no-referrer"
+          aria-hidden="true"
           style="display:none;"
         />
 
-        <span id="accountNameSmall" class="accountNameSmall" style="display:none;"></span>
-        <span id="accountBtnLabel">Account</span>
+        <span id="accountBtnLabel" class="btnText">Account</span>
+      </button>
+    </div>
+
+    <!-- Keep #title in DOM for app.js safety (hidden) -->
+    <h1 id="title" style="display:none;"></h1>
+
+    <div class="controls">
+      <!-- Back -->
+      <button id="prevBtn" class="btn btn-ghost" aria-label="Back">
+        <img class="btnIconImg" src="assets/icons/back.png" alt="" aria-hidden="true">
+        <span class="btnText">Back</span>
+      </button>
+
+      <!-- Speak controls -->
+      <button id="speakBtn" class="btn btn-ghost" style="display:none;" aria-label="Hear it">
+        <img class="btnIconImg" src="assets/icons/hear_it.png" alt="" aria-hidden="true">
+        <span class="btnText" id="speakBtnText">Hear it</span>
+      </button>
+
+      <button id="speakSlowBtn" class="btn btn-ghost" style="display:none;" aria-label="Hear it slow">
+        <img class="btnIconImg" src="assets/icons/slow.png" alt="" aria-hidden="true">
+        <span class="btnText" id="speakSlowBtnText">Hear it slow</span>
+      </button>
+
+      <!-- Course Map -->
+      <button id="mapBtn" class="btn btn-secondary" aria-label="Course Map">
+        <img class="btnIconImg" src="assets/icons/map.png" alt="" aria-hidden="true">
+        <span class="btnText" id="mapBtnText">Course Map</span>
+      </button>
+
+      <!-- Home replaces Restart -->
+      <button id="homeBtn" class="btn btn-warn" style="display:none;" aria-label="Home">
+        <img class="btnIconImg" src="assets/icons/home.png" alt="" aria-hidden="true">
+        <span class="btnText" id="homeBtnText">Home</span>
+      </button>
+
+      <!-- Hide/Show helper (Mikas) -->
+      <button id="helperToggleBtn" class="btn btn-ghost" type="button" aria-label="Toggle helper">
+        <img
+          id="helperToggleIcon"
+          class="btnIconImg"
+          src="assets/icons/mikas_on.png"
+          alt=""
+          aria-hidden="true"
+        />
+        <span class="btnText" id="helperToggleText">Hide</span>
       </button>
     </div>
 
@@ -66,36 +100,41 @@
       <div id="homeBody" class="card homeCard">
         <div class="homeHero">
           <div class="homeKicker">OpenKalba</div>
-          <h2 class="homeTitle" data-i18n="home_title">
-            Learn languages through quick, game-like lessons
-          </h2>
 
-          <p class="homeSub muted" data-i18n="home_sub">
-            Pick your languages, then tap Start or Continue.
-          </p>
+          <!-- NOTE:
+               We moved the “Learn languages…” + “Pick your languages…” copy
+               into a show-once popup modal (below).
+               This keeps the home screen cleaner after first use.
+          -->
         </div>
 
-        <!-- ✅ Keep ONLY these two dropdowns -->
         <div class="homeModeRow">
           <div class="modeLabel" data-i18n="i_speak">I speak</div>
+
           <div class="modeSelectWrap">
-            <img id="nativeFlag" class="flagIcon" src="assets/flags/en.svg" alt="" aria-hidden="true" />
-            <select id="nativeLangSelect" class="modeSelect nativeSelect" aria-label="Native language">
-              <option value="en" selected>English</option>
-            </select>
+            <button id="nativeLangBtn" class="modeSelectBtn" type="button" aria-haspopup="dialog" aria-controls="langModal">
+              <img id="nativeFlag" class="flagIcon" src="assets/flags/en.svg" alt="" aria-hidden="true" />
+              <span id="nativeLangLabel" class="modeSelectLabel">English</span>
+              <span class="modeSelectChev" aria-hidden="true">▾</span>
+            </button>
+
+            <!-- keep the real select for logic, but hide it -->
+            <select id="nativeLangSelect" class="modeSelect nativeSelect srOnly" aria-label="Native language"></select>
           </div>
         </div>
 
         <div class="homeModeRow">
           <div class="modeLabel" data-i18n="i_want_to_learn">I want to learn</div>
+
           <div class="modeSelectWrap">
-            <img id="learnFlag" class="flagIcon" src="assets/flags/lt.svg" alt="" aria-hidden="true" />
-            <select id="learnLangSelect" class="modeSelect nativeSelect" aria-label="Learn language">
-              <option value="lt" selected>Lithuanian</option>
-            </select>
-            <div class="modeHint muted" data-i18n="coming_soon">
-              Courses marked “coming soon” will be disabled.
-            </div>
+            <button id="learnLangBtn" class="modeSelectBtn" type="button" aria-haspopup="dialog" aria-controls="langModal">
+              <img id="learnFlag" class="flagIcon" src="assets/flags/lt.svg" alt="" aria-hidden="true" />
+              <span id="learnLangLabel" class="modeSelectLabel">Lithuanian</span>
+              <span class="modeSelectChev" aria-hidden="true">▾</span>
+            </button>
+
+            <!-- keep the real select for logic, but hide it -->
+            <select id="learnLangSelect" class="modeSelect learnSelect srOnly" aria-label="Learning language"></select>
           </div>
         </div>
 
@@ -109,7 +148,7 @@
     <div id="screenMap" class="map-screen" style="display:none;">
       <div class="map-header">
         <div class="map-title">Course Map</div>
-        <div class="map-subtitle">Tap a node to play</div>
+        <!-- removed map-subtitle text -->
       </div>
 
       <div id="mapWrap" class="map-wrap">
@@ -160,6 +199,27 @@
     <div id="mikasBubble" class="mikasBubble"></div>
   </div>
 
+  <!-- ✅ NEW: Show-once Home Intro modal (we’ll wire logic in app.js next step) -->
+  <div id="homeIntroModal" class="modal" aria-hidden="true" style="display:none;">
+    <div class="modal-backdrop" data-close-intro="1" aria-hidden="true"></div>
+
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="homeIntroTitle">
+      <div class="modal-titleRow">
+        <div class="modal-title" id="homeIntroTitle">Welcome to OpenKalba</div>
+        <button class="modal-close" type="button" data-close-intro="1" aria-label="Close">✕</button>
+      </div>
+
+      <div class="modal-sub" id="homeIntroBody">
+        Learn languages through quick, game-like lessons.<br>
+        Pick your languages, then tap Start or Continue.
+      </div>
+
+      <div class="row" style="margin-top:14px;">
+        <button id="homeIntroGotIt" class="btn btn-primary">Got it</button>
+      </div>
+    </div>
+  </div>
+
   <div id="authModal" class="modal" aria-hidden="true" style="display:none;">
     <div class="modal-backdrop" data-close="1"></div>
 
@@ -182,8 +242,8 @@
         <div class="user-row">
           <img id="userPhoto" class="avatar" alt="" referrerpolicy="no-referrer" />
           <div class="user-meta">
-            <div id="userName" class="user-name">Signed in</div>
-            <div id="userEmail" class="user-email"></div>
+            <div class="user-name" id="userName">Signed in</div>
+            <div class="user-email" id="userEmail"></div>
           </div>
         </div>
 
@@ -218,6 +278,22 @@
 
         <div id="authMsg" class="msg" aria-live="polite"></div>
       </div>
+    </div>
+  </div>
+
+  <!-- Custom language picker modal -->
+  <div id="langModal" class="modal" aria-hidden="true" style="display:none;">
+    <div class="modal-backdrop" aria-hidden="true"></div>
+
+    <div class="modal-card">
+      <div class="modal-titleRow">
+        <div class="modal-title" id="langModalTitle">Choose language</div>
+        <button class="modal-close" type="button" data-close="1" aria-label="Close">✕</button>
+      </div>
+
+      <div class="modal-sub" id="langModalSub">Tap a language</div>
+
+      <div class="langList" id="langList" role="list"></div>
     </div>
   </div>
 
