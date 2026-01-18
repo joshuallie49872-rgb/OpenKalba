@@ -77,7 +77,14 @@
         <span class="btnText" id="mapBtnText">Course Map</span>
       </button>
 
-      <!-- Home replaces Restart -->
+      
+
+      <!-- Achievements (Course Map only) -->
+      <button id="trophyBtn" class="btn btn-ghost" style="display:none;" aria-label="Achievements" type="button">
+        <img class="btnIconImg" src="assets/icons/trophy.png" alt="" aria-hidden="true">
+        <span class="btnText">Achievements</span>
+      </button>
+<!-- Home replaces Restart -->
       <button id="homeBtn" class="btn btn-warn" style="display:none;" aria-label="Home">
         <img class="btnIconImg" src="assets/icons/home.png" alt="" aria-hidden="true">
         <span class="btnText" id="homeBtnText">Home</span>
@@ -151,9 +158,69 @@
         <!-- removed map-subtitle text -->
       </div>
 
+
+      <div id="achievementsPanel" class="achPanel" style="display:none;">
+        <div class="achHead">
+          <div class="achTitle">🏆 Achievements</div>
+          <button id="achCloseBtn" class="icon-btn" type="button" aria-label="Close">✕</button>
+        </div>
+
+        <div class="achStats">
+          <div class="achStat">
+            <div class="achStatLabel">Total XP</div>
+            <div class="achStatValue" id="achTotalXp">0</div>
+          </div>
+          <div class="achStat">
+            <div class="achStatLabel">This course</div>
+            <div class="achStatValue" id="achCourseXp">0</div>
+          </div>
+        </div>
+
+        <div class="achSection">
+          <div class="achSectionTitle">XP by course</div>
+          <div id="achCourseList" class="achCourseList"></div>
+        </div>
+
+        <div class="achSection">
+          <div class="achSectionTitle">Unlocked</div>
+          <div id="achBadges" class="achBadges"></div>
+        </div>
+      </div>
+
       <div id="mapWrap" class="map-wrap">
         <svg id="mapSvg" class="map-svg" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"></svg>
         <div id="mapNodes" class="map-nodes"></div>
+      </div>
+    </div>
+
+    <!-- Achievements screen (opens from trophy button on Course Map) -->
+    <div id="screenAchievements" style="display:none;">
+      <div class="card">
+        <div class="achScreenHeader">
+          <div class="achScreenTitle">Achievements</div>
+          <div class="achScreenSub">Your XP + progress by course</div>
+        </div>
+
+        <div class="achStats">
+          <div class="achStat">
+            <div class="achStatLabel">Total XP</div>
+            <div class="achStatValue" id="achTotalXp2">0</div>
+          </div>
+          <div class="achStat">
+            <div class="achStatLabel">This journey</div>
+            <div class="achStatValue" id="achJourneyXp2">0</div>
+          </div>
+        </div>
+
+        <div class="achSection">
+          <div class="achSectionTitle">XP by course</div>
+          <div id="achCourseList2" class="achCourseList"></div>
+        </div>
+
+        <div class="achSection">
+          <div class="achSectionTitle">Unlocked</div>
+          <div id="achBadges2" class="achBadges"></div>
+        </div>
       </div>
     </div>
 
@@ -173,6 +240,7 @@
         <div id="answers" class="answers"></div>
 
         <div id="inputWrap" class="inputWrap" style="display:none;">
+          <div id="charBar" class="charBar" style="display:none;"></div>
           <input id="answerInput" type="text" autocomplete="off" spellcheck="false" />
           <button id="checkBtn" class="btn btn-primary">Check</button>
         </div>

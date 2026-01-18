@@ -96,6 +96,32 @@ function normalizeAnswer(s) {
     .replace(/[’]/g, "'");
 }
 
+function stripMinorPunct(s) {
+  return (s || "")
+    .replace(/[.,!?;:]/g, "")
+    .replace(/[()\[\]{}]/g, "")
+    .replace(/[\/\\]/g, " ")
+    .replace(/[–—]/g, "-");
+}
+
+function removeDiacritics(s) {
+  try {
+    return (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "");
+  } catch {
+    return s || "";
+  }
+}
+
+function normalizeStrictAnswer(s) {
+  // strict = keep diacritics, but ignore case/spacing/punct
+  return normalizeAnswer(stripMinorPunct(s));
+}
+
+function normalizeLooseAnswer(s) {
+  // loose = strict + diacritics removed
+  return normalizeAnswer(removeDiacritics(stripMinorPunct(s)));
+}
+
 /* Returns overlay key like "prompt_es", "choices_pl", etc */
 function overlayKey(base, lang) {
   return `${base}_${lang}`;
@@ -121,6 +147,25 @@ function flagFileForLang(code) {
 function flagSrc(code) {
   const c = String(code || "en").toLowerCase();
   return `assets/flags/${flagFileForLang(c)}.svg`;
+}
+
+function getCharSetForLang(code) {
+  const map = {
+    lt: ["ą","č","ę","ė","į","š","ų","ū","ž"],
+    pl: ["ą","ć","ę","ł","ń","ó","ś","ź","ż"],
+    lv: ["ā","č","ē","ģ","ī","ķ","ļ","ņ","š","ū","ž"],
+    et: ["ä","ö","õ","ü"],
+    fr: ["à","â","ç","é","è","ê","ë","î","ï","ô","ù","û","ü","ÿ"],
+    de: ["ä","ö","ü","ß"],
+    is: ["á","ð","é","í","ó","ú","ý","þ","æ","ö"],
+    es: ["á","é","í","ñ","ó","ú","ü","¿","¡"],
+    fi: ["ä","ö"],
+    se: ["å","ä","ö"],
+    no: ["å","æ","ø"],
+    uk: ["а","б","в","г","ґ","д","е","є","ж","з","и","і","ї","й","к","л","м","н","о","п","р","с","т","у","ф","х","ц","ч","ш","щ","ь","ю","я"],
+    ru: ["а","б","в","г","д","е","ё","ж","з","и","й","к","л","м","н","о","п","р","с","т","у","ф","х","ц","ч","ш","щ","ъ","ы","ь","э","ю","я"],
+  };
+  return map[code] || [];
 }
 
 function updateFlags() {
@@ -249,6 +294,8 @@ let currentScreen = "home";     // home|lesson|map|done
 let currentQuestion = null;     // active question object
 let isAnswered = false;
 
+let lessonRun = null; // per-lesson scoring
+
 let catalog = null;
 let langNameMap = {};
 let overlay = { ui: {}, gloss: {} }; // overlay for current (learnLang, nativeLang)
@@ -265,6 +312,8 @@ const DOM = {
     speakSlowBtn: el("speakSlowBtn"),
     mapBtn: el("mapBtn"),
     resetBtn: el("resetBtn"),
+
+    trophyBtn: el("trophyBtn"),
 
     homeBtn: el("homeBtn"),
     helperToggleBtn: el("helperToggleBtn"),
@@ -285,6 +334,7 @@ const DOM = {
     lesson: el("screenLesson"),
     map: el("screenMap"),
     done: el("screenDone"),
+    achievements: el("screenAchievements"),
   },
 
   // Home
@@ -314,6 +364,7 @@ const DOM = {
   answers: el("answers"),
   inputWrap: el("inputWrap"),
   input: el("answerInput"),
+  charBar: el("charBar"),
   checkBtn: el("checkBtn"),
   nextBtn: el("nextBtn"),
   feedback: el("feedback"),
@@ -327,6 +378,19 @@ const DOM = {
   mapWrap: el("mapWrap"),
   mapNodes: el("mapNodes"),
   mapSvg: el("mapSvg"),
+
+  // Achievements (map panel + screen)
+  achPanel: el("achievementsPanel"),
+  achTotalXp: el("achTotalXp"),
+  achCourseXp: el("achCourseXp"),
+  achCourseList: el("achCourseList"),
+  achBadges: el("achBadges"),
+  achCloseBtn: el("achCloseBtn"),
+
+  achTotalXp2: el("achTotalXp2"),
+  achJourneyXp2: el("achJourneyXp2"),
+  achCourseList2: el("achCourseList2"),
+  achBadges2: el("achBadges2"),
 
   // Done
   doneTitle: el("doneTitle"),
@@ -453,7 +517,7 @@ function loadProgress() {
       if (p && typeof p === "object") {
         const ids = Array.isArray(p.completedLessonIds) ? p.completedLessonIds.filter(Boolean) : [];
         const best = p.best && typeof p.best === "object" ? p.best : {};
-        return { completedLessonIds: ids, best };
+        return { completedLessonIds: ids, best, xpTotal: Number(p.xpTotal||0) };
       }
     }
   } catch {}
@@ -462,10 +526,10 @@ function loadProgress() {
   if (learnLang === "lt") {
     try {
       const rawOld = localStorage.getItem(LS.oldProgress);
-      if (!rawOld) return { completedLessonIds: [], best: {} };
+      if (!rawOld) return { completedLessonIds: [], best: {}, xpTotal: 0 };
 
       const p = JSON.parse(rawOld);
-      if (!p || typeof p !== "object") return { completedLessonIds: [], best: {} };
+      if (!p || typeof p !== "object") return { completedLessonIds: [], best: {}, xpTotal: 0 };
 
       let ids =
         p.completedLessonIds ||
@@ -478,14 +542,14 @@ function loadProgress() {
       ids = ids.map((x) => (typeof x === "string" ? x : (x && x.id ? x.id : ""))).filter(Boolean);
 
       const best = p.best && typeof p.best === "object" ? p.best : {};
-      return { completedLessonIds: ids, best };
+      return { completedLessonIds: ids, best, xpTotal: Number(p.xpTotal||0) };
     } catch {
-      return { completedLessonIds: [], best: {} };
+      return { completedLessonIds: [], best: {}, xpTotal: 0 };
     }
   }
 
   // 3) default for all other languages (no bleed)
-  return { completedLessonIds: [], best: {} };
+  return { completedLessonIds: [], best: {}, xpTotal: 0 };
 }
 
 function saveProgress() {
@@ -495,6 +559,67 @@ function saveProgress() {
   if (learnLang === "lt") {
     try { localStorage.setItem(LS.oldProgress, JSON.stringify(progress)); } catch {}
   }
+}
+
+
+/* -----------------------------
+   Global XP + achievements meta (across courses)
+----------------------------- */
+const GLOBAL_META_KEY = "openkalba_global_meta_v1";
+
+function loadGlobalMeta() {
+  try {
+    const raw = localStorage.getItem(GLOBAL_META_KEY);
+    if (!raw) return { xpByCourse: {}, lessonsCompletedByCourse: {}, repeatsByCourse: {}, xpByPair: {}, lessonsCompletedByPair: {}, repeatsByPair: {} };
+    const j = JSON.parse(raw);
+    return {
+      xpByCourse: (j && typeof j.xpByCourse === "object" && j.xpByCourse) ? j.xpByCourse : {},
+      lessonsCompletedByCourse: (j && typeof j.lessonsCompletedByCourse === "object" && j.lessonsCompletedByCourse) ? j.lessonsCompletedByCourse : {},
+      repeatsByCourse: (j && typeof j.repeatsByCourse === "object" && j.repeatsByCourse) ? j.repeatsByCourse : {},
+      xpByPair: (j && typeof j.xpByPair === "object" && j.xpByPair) ? j.xpByPair : {},
+      lessonsCompletedByPair: (j && typeof j.lessonsCompletedByPair === "object" && j.lessonsCompletedByPair) ? j.lessonsCompletedByPair : {},
+      repeatsByPair: (j && typeof j.repeatsByPair === "object" && j.repeatsByPair) ? j.repeatsByPair : {},
+    };
+  } catch {
+    return { xpByCourse: {}, lessonsCompletedByCourse: {}, repeatsByCourse: {}, xpByPair: {}, lessonsCompletedByPair: {}, repeatsByPair: {} };
+  }
+}
+
+function saveGlobalMeta(meta) {
+  try { localStorage.setItem(GLOBAL_META_KEY, JSON.stringify(meta)); } catch {}
+}
+
+function totalGlobalXp(meta) {
+  const m = (meta && meta.xpByPair && Object.keys(meta.xpByPair).length) ? meta.xpByPair : (meta && meta.xpByCourse ? meta.xpByCourse : {});
+  let t = 0;
+  for (const k of Object.keys(m)) t += Number(m[k] || 0);
+  return t;
+}
+
+function computeBadgesForCourse(courseCode, meta) {
+  const done = Number((meta.lessonsCompletedByCourse || {})[courseCode] || 0);
+  const xp = Number((meta.xpByCourse || {})[courseCode] || 0);
+  const reps = Number((meta.repeatsByCourse || {})[courseCode] || 0);
+
+  const badges = [];
+  if (xp > 0) badges.push("First Course Started");
+  if (done >= 10) badges.push("10 Lessons Completed");
+  if (done >= 50) badges.push("50 Lessons Completed");
+  if (reps >= 1) badges.push("Retry badge");
+  return badges;
+}
+
+function computeBadgesForPair(pairKey, meta) {
+  const done = Number((meta.lessonsCompletedByPair || {})[pairKey] || 0);
+  const xp = Number((meta.xpByPair || {})[pairKey] || 0);
+  const reps = Number((meta.repeatsByPair || {})[pairKey] || 0);
+
+  const badges = [];
+  if (xp > 0) badges.push("First Course Started");
+  if (done >= 10) badges.push("10 Lessons Completed");
+  if (done >= 50) badges.push("50 Lessons Completed");
+  if (reps >= 1) badges.push("Retry badge");
+  return badges;
 }
 
 function isLessonCompleted(lessonId) {
@@ -569,6 +694,43 @@ function refreshAccountDot() {
 ----------------------------- */
 function isSmallScreen() {
   return window.matchMedia && window.matchMedia("(max-width: 560px)").matches;
+}
+
+function homeLangShortLabel(code) {
+  // Default to full language name.
+  // If the home pill runs out of space on smaller screens, we will swap to 2-letter codes
+  // *only for the side(s) that actually overflow*.
+  return langName(code);
+}
+
+// ✅ Home pill overflow handling:
+// Keep full names unless the text would collide/clip, then swap that side to 2-letter code.
+function applyHomePillFit() {
+  if (!DOM?.prompt) return;
+  const root = DOM.prompt.querySelector(".promptMeta--home");
+  if (!root) return;
+
+  const items = Array.from(root.querySelectorAll(".homeLangItem"));
+  if (!items.length) return;
+
+  items.forEach((item) => {
+    const txt = item.querySelector(".homeLangText");
+    if (!txt) return;
+    const full = txt.getAttribute("data-full") || txt.textContent || "";
+    const code = txt.getAttribute("data-code") || "";
+
+    // Reset to full first
+    txt.textContent = full;
+
+    // If it overflows (ellipsized), swap to 2-letter code
+    // Use a rAF so layout settles (fonts/images loaded).
+    requestAnimationFrame(() => {
+      try {
+        const overflow = txt.scrollWidth > txt.clientWidth + 1;
+        if (overflow && code) txt.textContent = String(code).toUpperCase();
+      } catch {}
+    });
+  });
 }
 
 /* ✅ unified read of helper pref */
@@ -696,7 +858,7 @@ function openLangModal(kind) {
     btn.innerHTML = `
       <img class="flagIcon" src="${flagSrc(code)}" alt="" aria-hidden="true" />
       <span class="langName">${escapeHtml(name)}</span>
-      ${disabled ? `<span class="langBadge">SOON</span>` : ``}
+      
     `;
 
     btn.onclick = () => {
@@ -751,8 +913,28 @@ function setControlsForHome() {
   // Hide helper toggle on Home ONLY
   show(DOM.controls.helperToggleBtn, false);
 
+  // Hide Achievements button on Home
+  if (DOM.controls.trophyBtn) show(DOM.controls.trophyBtn, false);
+
   // Account still allowed
   show(DOM.controls.accountBtn, true);
+
+  updateControlsForViewport();
+}
+
+function setControlsForAchievements() {
+  // Achievements screen behaves like a “page”
+  show(DOM.controls.prevBtn, false);
+  show(DOM.controls.mapBtn, true);
+  show(DOM.controls.homeBtn, true);
+  show(DOM.controls.resetBtn, false);
+  show(DOM.controls.helperToggleBtn, false);
+  // Trophy button is only for Course Map entry
+  if (DOM.controls.trophyBtn) show(DOM.controls.trophyBtn, false);
+  show(DOM.controls.accountBtn, true);
+
+  if (DOM.controls.speakBtn) DOM.controls.speakBtn.style.display = "none";
+  if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.style.display = "none";
 
   updateControlsForViewport();
 }
@@ -766,11 +948,13 @@ function setScreen(name) {
   if (DOM.screens.lesson) show(DOM.screens.lesson, name === "lesson");
   if (DOM.screens.map) show(DOM.screens.map, name === "map");
   if (DOM.screens.done) show(DOM.screens.done, name === "done");
+  if (DOM.screens.achievements) show(DOM.screens.achievements, name === "achievements");
 
   // Controls behavior by screen
   if (name === "home") setControlsForHome();
   if (name === "lesson") show(DOM.controls.homeBtn, true);
   if (name === "map") show(DOM.controls.homeBtn, true);
+  if (name === "achievements") setControlsForAchievements();
 }
 
 /* -----------------------------
@@ -801,50 +985,72 @@ function langName(code) {
 function populateLanguageSelects(cat) {
   const nameMap = buildLangNameMap(cat);
 
-  // Find selected learn course
-  const learnCourse = (cat.courses || []).find((c) => c.code === learnLang) || (cat.courses || [])[0];
+  // All-to-all pairing (native <-> learning): any language can be native OR learning.
+  // Only constraint: you cannot pick the same language for both.
 
-  // Native options = English + overlays supported by selected learn course
-  const nativeCodes = unique(["en", ...(learnCourse?.nativeOverlays || [])]);
+  const courses = (cat && Array.isArray(cat.courses)) ? cat.courses.slice() : [];
+  const courseByCode = new Map(courses.map((c) => [c.code, c]));
 
-  // Learn options = courses list (disable if not ready)
-  const learnCourses = (cat.courses || []).slice();
+  // Ensure English exists as a selectable target (even if not built yet)
+  if (!courseByCode.has("en")) {
+    courses.unshift({ code: "en", name: "English", ready: false, nativeOverlays: [] });
+    courseByCode.set("en", courses[0]);
+  }
 
+  const allCodes = unique(["en", ...courses.map((c) => c.code)]);
+
+  // Load saved selections first (so filtering respects user's current choice)
+  const saved = loadLangSettings();
+  nativeLang = (saved.nativeLang && allCodes.includes(saved.nativeLang)) ? saved.nativeLang : "en";
+  learnLang = (saved.learnLang && allCodes.includes(saved.learnLang)) ? saved.learnLang : (courses.find((c) => c.ready)?.code || courses[0]?.code || "lt");
+
+  // Enforce "cannot be the same" by nudging learnLang off nativeLang when necessary
+  if (learnLang === nativeLang) {
+    const alt = allCodes.find((c) => c !== nativeLang && (courseByCode.get(c)?.ready || c === "en"));
+    learnLang = alt || learnLang;
+  }
+
+  // Build native options
   if (DOM.nativeLangSelect) {
     DOM.nativeLangSelect.innerHTML = "";
-    for (const code of nativeCodes) {
+    for (const code of allCodes) {
       const opt = document.createElement("option");
       opt.value = code;
       opt.textContent = nameMap[code] || code.toUpperCase();
+      // Disallow selecting same as learn
+      if (code === learnLang) opt.disabled = true;
       DOM.nativeLangSelect.appendChild(opt);
     }
   }
 
+  // Build learning options
   if (DOM.learnLangSelect) {
     DOM.learnLangSelect.innerHTML = "";
-    for (const c of learnCourses) {
+    for (const code of allCodes) {
+      const c = courseByCode.get(code) || { code, name: nameMap[code] || code.toUpperCase(), ready: false };
       const opt = document.createElement("option");
-      opt.value = c.code;
-      opt.textContent = c.name || c.code.toUpperCase();
-      if (!c.ready) opt.disabled = true;
+      opt.value = code;
+      opt.textContent = c.name || nameMap[code] || code.toUpperCase();
+      // Disallow selecting same as native
+      if (code === nativeLang) opt.disabled = true;
+      // If course isn't ready, keep it selectable but disabled (shows "coming soon" in your custom modal)
+      if (c.ready === false) opt.disabled = true;
       DOM.learnLangSelect.appendChild(opt);
     }
   }
 
-  const saved = loadLangSettings();
-  nativeLang = saved.nativeLang || "en";
-  learnLang = saved.learnLang || (learnCourse?.code || "lt");
-
-  const isLearnReady = learnCourses.some((c) => c.code === learnLang && c.ready);
-  if (!isLearnReady) {
-    const firstReady = learnCourses.find((c) => c.ready);
-    learnLang = firstReady ? firstReady.code : (learnCourses[0]?.code || "lt");
+  // Final sanity: if selected learn isn't ready, fall back to first ready
+  const selCourse = courseByCode.get(learnLang);
+  if (!selCourse || selCourse.ready === false) {
+    const firstReady = courses.find((c) => c.ready);
+    if (firstReady) learnLang = firstReady.code;
   }
 
-  const finalLearnCourse = learnCourses.find((c) => c.code === learnLang) || learnCourses[0];
-
-  const allowedNative = unique(["en", ...(finalLearnCourse?.nativeOverlays || [])]);
-  if (!allowedNative.includes(nativeLang)) nativeLang = "en";
+  // Re-enforce "cannot be the same" after fallback
+  if (learnLang === nativeLang) {
+    const alt = courses.find((c) => c.code !== nativeLang && c.ready);
+    learnLang = alt ? alt.code : learnLang;
+  }
 
   if (DOM.learnLangSelect) DOM.learnLangSelect.value = learnLang;
   if (DOM.nativeLangSelect) DOM.nativeLangSelect.value = nativeLang;
@@ -1031,6 +1237,8 @@ async function loadLessonByIndex(i) {
   qIndex = 0;
   streak = loadStreak();
 
+  lessonRun = { total: (data.questions || []).length, answered: 0, wrong: 0, strictPerfect: 0 };
+
   localStorage.setItem(lastLessonKey(), meta.id);
 
   // legacy last-lesson fallback ONLY for Lithuanian
@@ -1063,6 +1271,8 @@ function setControlsForQuestion(hasPrev) {
 
   // Account should be visible
   show(DOM.controls.accountBtn, true);
+
+  if (DOM.controls.trophyBtn) show(DOM.controls.trophyBtn, false);
 
   // Enforce icon-only behavior on mobile every question render
   updateControlsForViewport();
@@ -1328,6 +1538,31 @@ function renderQuestion() {
 }
 
 function renderTextInput(q) {
+  // show language-specific special characters (typing help)
+  const chars = getCharSetForLang(learnLang);
+  if (DOM.charBar) {
+    if (chars && chars.length) {
+      DOM.charBar.style.display = "flex";
+      DOM.charBar.innerHTML = chars.map(ch => `<button type="button" class="charKey">${escapeHtml(ch)}</button>`).join("");
+      DOM.charBar.onclick = (e) => {
+        const b = e.target.closest?.("button.charKey");
+        if (!b || !DOM.input) return;
+        const ch = b.textContent || "";
+        const start = DOM.input.selectionStart ?? DOM.input.value.length;
+        const end = DOM.input.selectionEnd ?? DOM.input.value.length;
+        const v = DOM.input.value || "";
+        DOM.input.value = v.slice(0, start) + ch + v.slice(end);
+        const pos = start + ch.length;
+        DOM.input.setSelectionRange(pos, pos);
+        DOM.input.focus();
+      };
+    } else {
+      DOM.charBar.style.display = "none";
+      DOM.charBar.innerHTML = "";
+      DOM.charBar.onclick = null;
+    }
+  }
+
   show(DOM.inputWrap, true);
 
   if (DOM.input) {
@@ -1405,11 +1640,17 @@ function checkAnswer({ userValue, userIndex }) {
         ? q.correct
         : (q.answer != null ? [q.answer] : (q.correctAnswer != null ? [q.correctAnswer] : []));
 
-    const userN = normalizeAnswer(userValue);
-    const correctList = correct.map(normalizeAnswer);
-    ok = correctList.includes(userN);
+    const userLoose = normalizeLooseAnswer(userValue);
+    const userStrict = normalizeStrictAnswer(userValue);
+    const looseList = correct.map(normalizeLooseAnswer);
+    const strictList = correct.map(normalizeStrictAnswer);
+    ok = looseList.includes(userLoose);
+    const strictOk = strictList.includes(userStrict);
+    if (ok && strictOk && lessonRun) lessonRun.strictPerfect += 1;
     showCorrect = correct[0] != null ? String(correct[0]) : "";
   }
+
+  if (lessonRun) { lessonRun.answered += 1; if (!ok) lessonRun.wrong += 1; }
 
   if (ok) {
     playSfx("correct");
@@ -1474,6 +1715,58 @@ function resetLesson() {
 function onLessonComplete() {
   const meta = manifest.lessons[lessonIndex];
 
+  // ----- Scoring (stars + XP) -----
+  const totalQ = Math.max(1, lessonRun ? lessonRun.total : (lessonData?.questions?.length || 1));
+  const wrong = lessonRun ? lessonRun.wrong : 0;
+  const strictPerfect = lessonRun ? lessonRun.strictPerfect : 0;
+  const accuracy = clamp((totalQ - wrong) / totalQ, 0, 1);
+
+  let stars = 1;
+  if (accuracy >= 0.90) stars = 2;
+  if (wrong === 0 && strictPerfect === totalQ) stars = 3;
+
+  const prev = (progress.best && progress.best[meta.id]) ? progress.best[meta.id] : null;
+  const prevStars = prev && Number.isFinite(prev.stars) ? prev.stars : 0;
+
+  const isNewCompletion = !isLessonCompleted(meta.id);
+  const baseXp = isNewCompletion ? 50 : 15;
+  const starBonus = stars === 3 ? 30 : stars === 2 ? 20 : 10;
+  const improveBonus = (stars > prevStars) ? 20 : 0;
+  const awardXp = baseXp + starBonus + improveBonus;
+
+  // Persist best stars for this lesson
+  if (!progress.best || typeof progress.best !== "object") progress.best = {};
+  progress.best[meta.id] = {
+    stars: Math.max(prevStars, stars),
+    lastStars: stars,
+    accuracy: Number(accuracy.toFixed(4)),
+    strictPerfect: strictPerfect,
+    total: totalQ,
+    updatedAt: Date.now(),
+  };
+
+  // Per-journey XP totals
+  progress.xpTotal = Number(progress.xpTotal || 0) + awardXp;
+
+  // Global XP per course
+  const g = loadGlobalMeta();
+  g.xpByCourse[learnLang] = Number(g.xpByCourse[learnLang] || 0) + awardXp;
+  if (isNewCompletion) g.lessonsCompletedByCourse[learnLang] = Number(g.lessonsCompletedByCourse[learnLang] || 0) + 1;
+  else g.repeatsByCourse[learnLang] = Number(g.repeatsByCourse[learnLang] || 0) + 1;
+
+  // Global XP per language pair (native->learn)
+  const pairKey = `${nativeLang}->${learnLang}`;
+  if (!g.xpByPair || typeof g.xpByPair !== "object") g.xpByPair = {};
+  if (!g.lessonsCompletedByPair || typeof g.lessonsCompletedByPair !== "object") g.lessonsCompletedByPair = {};
+  if (!g.repeatsByPair || typeof g.repeatsByPair !== "object") g.repeatsByPair = {};
+  g.xpByPair[pairKey] = Number(g.xpByPair[pairKey] || 0) + awardXp;
+  if (isNewCompletion) g.lessonsCompletedByPair[pairKey] = Number(g.lessonsCompletedByPair[pairKey] || 0) + 1;
+  else g.repeatsByPair[pairKey] = Number(g.repeatsByPair[pairKey] || 0) + 1;
+  saveGlobalMeta(g);
+
+  // Reset run state for safety
+  lessonRun = null;
+
   if (!isLessonCompleted(meta.id)) {
     progress.completedLessonIds.push(meta.id);
   }
@@ -1514,6 +1807,9 @@ function setControlsForMap() {
   show(DOM.controls.helperToggleBtn, true);
   show(DOM.controls.accountBtn, true);
 
+  // 🏆 Achievements button (map only)
+  if (DOM.controls.trophyBtn) show(DOM.controls.trophyBtn, true);
+
   if (DOM.controls.speakBtn) DOM.controls.speakBtn.style.display = "none";
   if (DOM.controls.speakSlowBtn) DOM.controls.speakSlowBtn.style.display = "none";
 
@@ -1521,6 +1817,9 @@ function setControlsForMap() {
 }
 
 function renderMap() {
+  // If achievements panel exists, default to showing map (not achievements)
+  if (DOM.achPanel) DOM.achPanel.style.display = "none";
+
   setControlsForMap();
 
   // Screen
@@ -1543,30 +1842,16 @@ function renderMap() {
   }
   const pct = Math.round((doneCount / lessonCount) * 100);
 
-  // Top pill content (flag + Course Map + language + % + guidance)
-  const cm = uiT("course_map") || "Course Map";
-  const guidance = uiT("Tap a node to play. 🔒 lessons unlock in order.") || "Tap a node to play. 🔒 lessons unlock in order.";
 
+
+  // Top pill content: ONLY flag + Course Map
+  const cm = uiT("course_map") || "Course Map";
   if (DOM.prompt) {
     DOM.prompt.innerHTML = `
-      <span class="promptMeta">
+      <span class="promptMeta promptMeta--map">
         <span class="promptPair">
           <img class="promptFlag" src="${flagSrc(learnLang)}" alt="" aria-hidden="true">
-          <span class="promptPairLabel" data-short="COURSE MAP">${escapeHtml(cm)}:</span>
-          <span class="promptPairValue">${escapeHtml(langName(learnLang))}</span>
-        </span>
-
-        <span class="promptDot" aria-hidden="true">•</span>
-
-        <span class="promptPair">
-          <span class="promptPairLabel" data-short="DONE">Done:</span>
-          <span class="promptPairValue">${pct}%</span>
-        </span>
-
-        <span class="promptDot" aria-hidden="true">•</span>
-
-        <span class="promptPair">
-          <span class="promptPairValue">${escapeHtml(guidance)}</span>
+          <span class="promptPairLabel" data-short="${escapeHtml(cm)}">${escapeHtml(cm)}</span>
         </span>
       </span>
     `.trim();
@@ -1621,6 +1906,16 @@ function renderMap() {
     svg.appendChild(path);
   }
 
+  // Determine current (next) lesson index (lowest unlocked but not completed)
+  let currentIdx = 0;
+  for (let i = 0; i < lessonCount; i++) {
+    const meta = manifest.lessons[i];
+    const unlocked = i === 0 || (i <= maxUnlocked);
+    const completed = isLessonCompleted(meta.id);
+    if (unlocked && !completed) { currentIdx = i; break; }
+    if (i === lessonCount - 1) currentIdx = i;
+  }
+
   // Nodes + labels
   for (let i = 0; i < lessonCount; i++) {
     const meta = manifest.lessons[i];
@@ -1638,11 +1933,27 @@ function renderMap() {
     btn.style.width = `${nodeR * 2}px`;
     btn.style.height = `${nodeR * 2}px`;
 
+    // Icon is optional; the new node art already conveys state.
+    // Keep a small hint icon for clarity.
     const icon = meta.icon || (completed ? "✅" : unlocked ? "▶️" : "🔒");
+    const st = (progress.best && progress.best[meta.id] && Number.isFinite(progress.best[meta.id].stars)) ? progress.best[meta.id].stars : 0;
+    const starsHtml = (st > 0)
+      ? `<div class="mapNodeStars" aria-label="${st} stars">
+          ${[1,2,3].map(n => `<img class="mapStarImg" src="assets/icons/${n <= st ? "star" : "empty_star"}.png" alt="" aria-hidden="true">`).join("")}
+         </div>`
+      : "";
     btn.innerHTML = `<div class="mapNodeInner">
         <div class="mapNodeIcon">${icon}</div>
         <div class="mapNodeNum">${i + 1}</div>
+        ${starsHtml}
       </div>`;
+
+    // Apply new node skins
+    if (!unlocked) btn.classList.add("mapNode-state-locked");
+    else if (completed) btn.classList.add("mapNode-state-green");
+    else btn.classList.add("mapNode-state-blue");
+
+    if (i === currentIdx && unlocked && !completed) btn.classList.add("node-current");
 
     if (!unlocked) {
       btn.disabled = true;
@@ -1671,6 +1982,103 @@ function renderMap() {
     await startLesson(idx);
   };
 }
+
+function renderAchievementsPanel() {
+  if (!DOM.achPanel) return;
+
+  const g = loadGlobalMeta();
+  const totalXp = totalGlobalXp(g);
+  const courseXp = Number((g.xpByCourse || {})[learnLang] || 0);
+
+  if (DOM.achTotalXp) DOM.achTotalXp.textContent = String(totalXp);
+  if (DOM.achCourseXp) DOM.achCourseXp.textContent = String(courseXp);
+
+  // Course list (XP + lessons completed)
+  if (DOM.achCourseList) {
+    const xpMap = g.xpByCourse || {};
+    const doneMap = g.lessonsCompletedByCourse || {};
+    const courses = Object.keys(xpMap).sort((a,b) => (xpMap[b]||0) - (xpMap[a]||0));
+
+    DOM.achCourseList.innerHTML = courses.length
+      ? courses.map(c => {
+          const xp = Number(xpMap[c] || 0);
+          const done = Number(doneMap[c] || 0);
+          return `<div class="achCourseRow">
+            <div class="achCourseLeft">
+              <img class="flagIcon" src="${flagSrc(c)}" alt="" aria-hidden="true" />
+              <div class="achCourseName">${escapeHtml(langName(c))}</div>
+            </div>
+            <div class="achCourseMeta">
+              <div class="achCourseXp">${xp} XP</div>
+              <div class="achCourseDone">${done} lessons</div>
+            </div>
+          </div>`;
+        }).join("")
+      : `<div class="muted">No XP yet. Complete a lesson to start earning.</div>`;
+  }
+
+  // Badges (for current course)
+  if (DOM.achBadges) {
+    const badges = computeBadgesForCourse(learnLang, g);
+    DOM.achBadges.innerHTML = badges.length
+      ? badges.map(b => `<span class="achBadge">${escapeHtml(b)}</span>`).join("")
+      : `<div class="muted">No achievements yet.</div>`;
+  }
+}
+
+function renderAchievementsScreen() {
+  // Full-page achievements screen
+  setScreen("achievements");
+  setControlsForAchievements();
+
+  // Top pill: trophy + Achievements (no flags)
+  const ttl = uiT("Achievements") || "Achievements";
+  if (DOM.prompt) {
+    DOM.prompt.innerHTML = `
+      <span class="promptMeta promptMeta--map">
+        <span class="promptPair">
+          <img class="promptIcon" src="assets/icons/trophy.png" alt="" aria-hidden="true">
+          <span class="promptPairLabel" data-short="${escapeHtml(ttl)}">${escapeHtml(ttl)}</span>
+        </span>
+      </span>
+    `.trim();
+  }
+
+  const g = loadGlobalMeta();
+  const totalXp = totalGlobalXp(g);
+  const pairKey = `${nativeLang}->${learnLang}`;
+  const pairXp = Number((g.xpByPair || {})[pairKey] || 0);
+
+  if (DOM.achTotalXp2) DOM.achTotalXp2.textContent = String(totalXp);
+  if (DOM.achJourneyXp2) DOM.achJourneyXp2.textContent = String(pairXp);
+
+  // List: XP by pair
+  if (DOM.achCourseList2) {
+    const xpMap = g.xpByPair || {};
+    const doneMap = g.lessonsCompletedByPair || {};
+    const pairs = Object.keys(xpMap).sort((a,b) => (xpMap[b]||0) - (xpMap[a]||0));
+    DOM.achCourseList2.innerHTML = pairs.length
+      ? pairs.map(k => {
+          const v = Number(xpMap[k] || 0);
+          const d = Number(doneMap[k] || 0);
+          return `<div class="achCourseRow">
+            <div class="achCourseName">${escapeHtml(k)}</div>
+            <div class="achCourseMeta">${d} lessons</div>
+            <div class="achCourseXp">${v} XP</div>
+          </div>`;
+        }).join("")
+      : `<div class="muted">No XP yet — complete a lesson to start earning.</div>`;
+  }
+
+  // Badges (for current pair)
+  if (DOM.achBadges2) {
+    const badges = computeBadgesForPair(pairKey, g);
+    DOM.achBadges2.innerHTML = badges.length
+      ? badges.map(b => `<span class="achBadge">${escapeHtml(b)}</span>`).join("")
+      : `<div class="muted">No achievements unlocked yet.</div>`;
+  }
+}
+
 
 /* -----------------------------
    Start/continue logic
@@ -1814,23 +2222,25 @@ function setHomeCopy() {
     const nName = langName(nCode);
     const lName = langName(lCode);
 
+    // Home top pill: ( TEXT FLAG  -  TEXT FLAG )
     DOM.prompt.innerHTML = `
-      <span class="promptMeta">
-        <span class="promptPair">
+      <span class="promptMeta promptMeta--home">
+        <span class="homeLangItem" aria-label="Native language">
+          <span class="homeLangText" data-code="${escapeHtml(String(nCode||''))}" data-full="${escapeHtml(nName)}">${escapeHtml(nName)}</span>
           <img class="promptFlag" src="${flagSrc(nCode)}" alt="" aria-hidden="true">
-          <span class="promptPairLabel" data-short="NATIVE">Native:</span>
-          <span class="promptPairValue">${escapeHtml(nName)}</span>
         </span>
 
-        <span class="promptDot" aria-hidden="true">•</span>
+        <span class="homeDivider" aria-hidden="true">-</span>
 
-        <span class="promptPair">
+        <span class="homeLangItem" aria-label="Learning language">
+          <span class="homeLangText" data-code="${escapeHtml(String(lCode||''))}" data-full="${escapeHtml(lName)}">${escapeHtml(lName)}</span>
           <img class="promptFlag" src="${flagSrc(lCode)}" alt="" aria-hidden="true">
-          <span class="promptPairLabel" data-short="LEARNING">Learning:</span>
-          <span class="promptPairValue">${escapeHtml(lName)}</span>
         </span>
       </span>
     `;
+
+    // Swap to 2-letter codes only if a side actually overflows.
+    applyHomePillFit();
   }
 
   const kicker = document.querySelector(".homeKicker");
@@ -1856,6 +2266,16 @@ function wireEvents() {
 
   // Home button
   if (DOM.controls.homeBtn) DOM.controls.homeBtn.onclick = () => goHome();
+
+  // Trophy / Achievements (map only)
+  if (DOM.controls.trophyBtn) {
+    DOM.controls.trophyBtn.onclick = () => {
+      renderAchievementsScreen();
+    };
+  }
+
+  // (legacy panel close — keep harmless)
+  if (DOM.achCloseBtn) DOM.achCloseBtn.onclick = () => { if (DOM.achPanel) DOM.achPanel.style.display = "none"; };
 
   // ✅ helper toggle click: always go through applyHelperVisibility + persist (no desync)
   if (DOM.controls.helperToggleBtn) {
@@ -1883,15 +2303,14 @@ function wireEvents() {
   if (DOM.langModal) {
     DOM.langModal.addEventListener("click", (e) => {
       const t = e.target;
-      if (t && t.getAttribute && t.getAttribute("data-close-lang") === "1") closeLangModal();
+      if (t && t.getAttribute && ((t.getAttribute("data-close-lang") === "1") || (t.getAttribute("data-close") === "1"))) closeLangModal();
     });
   }
   if (DOM.langModalClose) DOM.langModalClose.onclick = closeLangModal;
 
   if (DOM.controls.accountBtn) {
-    if (!(window.AuthUI && typeof window.AuthUI.open === "function")) {
-      DOM.controls.accountBtn.onclick = () => openAuth();
-    }
+    // Always wire the click — openAuth() will internally prefer AuthUI.open() when available.
+    DOM.controls.accountBtn.onclick = () => openAuth();
   }
 
   if (DOM.startBtn) DOM.startBtn.onclick = () => startLesson(0);
@@ -1912,6 +2331,10 @@ function wireEvents() {
       applyStaticUiText();
 
       progress = loadProgress();
+  if (!progress || typeof progress !== "object") progress = { completedLessonIds: [], best: {}, xpTotal: 0 };
+  if (!Array.isArray(progress.completedLessonIds)) progress.completedLessonIds = [];
+  if (!progress.best || typeof progress.best !== "object") progress.best = {};
+  if (!Number.isFinite(Number(progress.xpTotal))) progress.xpTotal = 0;
       streak = loadStreak();
 
       // ✅ NEW: refresh Start/Continue visibility after progress reload
@@ -1956,8 +2379,10 @@ function wireEvents() {
       applyStaticUiText();
 
       setHomeCopy();
-      setScreen("map");
-      renderMap();
+
+      // Do NOT auto-navigate to Course Map just because the user changed a dropdown.
+      if (currentScreen === "map") renderMap();
+      if (currentScreen === "lesson") renderQuestion();
 
       // ✅ sync pretty buttons
       syncLangPickButtons();
@@ -2045,6 +2470,7 @@ init();
    Screens (kept at end in your paste; no change needed)
 ----------------------------- */
 function goHome() {
+  if (DOM.achPanel) DOM.achPanel.style.display = "none";
   setScreen("home");
   setHomeCopy();
   setControlsForHome();
