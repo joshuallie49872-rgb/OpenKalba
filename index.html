@@ -54,12 +54,6 @@
     <h1 id="title" style="display:none;"></h1>
 
     <div class="controls">
-      <!-- Back -->
-      <button id="prevBtn" class="btn btn-ghost" aria-label="Back">
-        <img class="btnIconImg" src="assets/icons/back.png" alt="" aria-hidden="true">
-        <span class="btnText">Back</span>
-      </button>
-
       <!-- Speak controls -->
       <button id="speakBtn" class="btn btn-ghost" style="display:none;" aria-label="Hear it">
         <img class="btnIconImg" src="assets/icons/hear_it.png" alt="" aria-hidden="true">
@@ -387,5 +381,14 @@
 
   <!-- ✅ bump this when you change app.js so browser definitely loads newest JS -->
   <script src="app.js?v=5395"></script>
+
+  <script>
+    // Offline mode (Service Worker)
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./sw.js?v=1").catch(() => {});
+      });
+    }
+  </script>
 </body>
 </html>

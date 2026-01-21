@@ -257,7 +257,12 @@ function getAudioManifestUrl() {
   return `courses/${learnLang}/audio/manifest.json`;
 }
 
+function getAudioManifestUrlSlow() {
+  return `courses/${learnLang}/audio/manifest_slow.json`;
+}
+
 let ltAudioMap = null;   // { slug: "courses/<lang>/audio/<file>" }
+let ltAudioMapSlow = null; // { slug: "audio/<lang>/<file>" } (optional)
 let audioPlayer = null;  // HTMLAudioElement
 
 function slugifyLt(s) {
@@ -271,7 +276,7 @@ function slugifyLt(s) {
 
 async function loadLtAudioManifest(url) {
   try {
-    const res = await fetch(url, { cache: "no-store" });
+    const res = await fetch(url);
     if (!res.ok) return null;
     const m = await res.json();
     return (m && typeof m === "object") ? m : null;
@@ -441,7 +446,7 @@ async function loadOverlay(nativeLangArg, learnLangArg) {
   overlay = { ui: {}, gloss: {} };
   const url = overlayUrlFor(nativeLangArg, learnLangArg);
   try {
-    const res = await fetch(url, { cache: "no-store" });
+    const res = await fetch(url);
     if (!res.ok) return overlay;
     const j = await res.json();
     overlay = {
@@ -961,7 +966,7 @@ function setScreen(name) {
    Catalog + selects
 ----------------------------- */
 async function loadCatalog() {
-  const res = await fetch("./courses/catalog.json", { cache: "no-store" });
+  const res = await fetch("./courses/catalog.json");
   if (!res.ok) throw new Error("Failed to load courses/catalog.json");
   const j = await res.json();
   if (!j || !Array.isArray(j.courses)) throw new Error("catalog.json missing courses[]");
@@ -1067,7 +1072,7 @@ function populateLanguageSelects(cat) {
    Manifest + lesson loading
 ----------------------------- */
 async function loadManifest() {
-  const res = await fetch(`./courses/${learnLang}/lessons/manifest.json`, { cache: "no-store" });
+  const res = await fetch(`./courses/${learnLang}/lessons/manifest.json`);
   if (!res.ok) throw new Error(`Failed to load courses/${learnLang}/lessons/manifest.json`);
 
   const m = await res.json();
@@ -1223,7 +1228,7 @@ async function loadLessonByIndex(i) {
   lessonIndex = clamp(i, 0, manifest.lessons.length - 1);
   const meta = manifest.lessons[lessonIndex];
 
-  const res = await fetch(meta.file, { cache: "no-store" });
+  const res = await fetch(meta.file);
   if (!res.ok) throw new Error(`Failed to load ${meta.file}`);
 
   let data = await res.json();
@@ -2115,13 +2120,19 @@ function speakTarget(text, slow = false) {
     // 1) Native MP3 (only if course has audio)
     const key = slugifyLt(raw);
     const src = ltAudioMap && (ltAudioMap[key] || ltAudioMap[raw]);
+    const srcSlow = ltAudioMapSlow && (ltAudioMapSlow[key] || ltAudioMapSlow[raw]);
 
-    if (src) {
+    // Prefer dedicated 50% slow MP3 if available
+    const pickSrc = (slow && srcSlow) ? srcSlow : src;
+
+    if (pickSrc) {
       if (!audioPlayer) audioPlayer = new Audio();
       audioPlayer.pause();
       audioPlayer.currentTime = 0;
-      audioPlayer.src = src;
-      audioPlayer.playbackRate = slow ? 0.85 : 1.0;
+      audioPlayer.src = pickSrc;
+      // If we used a dedicated slow file, play at normal rate.
+      // Otherwise, slow down the normal file to exactly 50%.
+      audioPlayer.playbackRate = (slow && !srcSlow) ? 0.5 : 1.0;
       audioPlayer.play().catch(() => {});
       return;
     }
@@ -2150,7 +2161,7 @@ function speakTarget(text, slow = false) {
     };
 
     u.lang = langMap[learnLang] || "en-US";
-    u.rate = slow ? 0.85 : 0.95;
+    u.rate = slow ? 0.5 : 0.95;
 
     const voices = window.speechSynthesis.getVoices?.() || [];
     const match = voices.find(v =>
@@ -2372,6 +2383,7 @@ function wireEvents() {
 
       manifest = await loadManifest();
       ltAudioMap = await loadLtAudioManifest(getAudioManifestUrl());
+      ltAudioMapSlow = await loadLtAudioManifest(getAudioManifestUrlSlow());
 
       await loadOverlay(nativeLang, learnLang);
       applyUiOverlays();
@@ -2429,6 +2441,7 @@ async function init() {
     manifest = await loadManifest();
 
     ltAudioMap = await loadLtAudioManifest(getAudioManifestUrl());
+    ltAudioMapSlow = await loadLtAudioManifest(getAudioManifestUrlSlow());
 
     refreshAccountDot();
     wireEvents();
