@@ -70,23 +70,6 @@ const show = (node, yes = true) => {
 const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-
-function shuffleInPlace(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    let r;
-    if (window.crypto && crypto.getRandomValues) {
-      const buf = new Uint32Array(1);
-      crypto.getRandomValues(buf);
-      r = buf[0] / 2 ** 32;
-    } else {
-      r = Math.random();
-    }
-    const j = Math.floor(r * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
 function unique(arr) {
   return Array.from(new Set((arr || []).filter(Boolean)));
 }
@@ -234,65 +217,6 @@ const LS = {
 
 let nativeLang = "en";
 let learnLang = "lt";
-// -----------------------------
-// Course availability locks
-// -----------------------------
-// Visible but disabled in "I want to learn" (greyed option, no extra text)
-const LEARN_VISIBLE_DISABLED = new Set(["xtn"]); // Mixtec: not available yet
-// Learn targets that are only available when native language is English
-const EN_NATIVE_ONLY_LEARN = new Set(["prg"]);   // Old Prussian: English-native only (for now)
-
-function enforceCourseLocks() {
-  // If user somehow has a disabled learn selected, move them to a safe default.
-  if (LEARN_VISIBLE_DISABLED.has(learnLang)) {
-    // pick first ready course that's not disabled and not equal native
-    const safe = (catalog?.courses || []).find(c => c?.ready !== false && !LEARN_VISIBLE_DISABLED.has(c.code) && c.code !== nativeLang)?.code
-      || (catalog?.courses || []).find(c => c?.ready !== false && !LEARN_VISIBLE_DISABLED.has(c.code))?.code
-      || "lt";
-    learnLang = safe;
-  }
-
-  // PRG: force native=en
-  if (EN_NATIVE_ONLY_LEARN.has(learnLang) && nativeLang !== "en") {
-    nativeLang = "en";
-  }
-}
-
-function applyCourseLockUI() {
-  // Learn dropdown: xtn visible but disabled; also disallow same as native
-  if (DOM.learnLangSelect) {
-    for (const opt of DOM.learnLangSelect.options) {
-      const code = opt.value;
-      opt.disabled = false;
-
-      if (code === nativeLang) opt.disabled = true;
-      if (LEARN_VISIBLE_DISABLED.has(code)) opt.disabled = true;
-      // keep "not ready" courses disabled too (if your catalog marks them)
-      const c = catalog?.courses?.find(x => x.code === code);
-      if (c && c.ready === false) opt.disabled = true;
-    }
-  }
-
-  // Native dropdown: when learn=prg, ONLY English enabled (others greyed)
-  if (DOM.nativeLangSelect) {
-    for (const opt of DOM.nativeLangSelect.options) {
-      const code = opt.value;
-      // base rule: cannot equal learn
-      let dis = (code === learnLang);
-
-      if (EN_NATIVE_ONLY_LEARN.has(learnLang)) {
-        dis = dis || (code !== "en");
-      }
-
-      opt.disabled = dis;
-    }
-
-    if (EN_NATIVE_ONLY_LEARN.has(learnLang) && DOM.nativeLangSelect.value !== "en") {
-      DOM.nativeLangSelect.value = "en";
-    }
-  }
-}
-
 
 function progressKey() {
   return `${LS.progressBase}_${learnLang}_${nativeLang}`;
@@ -1100,8 +1024,6 @@ function populateLanguageSelects(cat) {
       opt.textContent = nameMap[code] || code.toUpperCase();
       // Disallow selecting same as learn
       if (code === learnLang) opt.disabled = true;
-      // Old Prussian: English-native only (grey others)
-      if (EN_NATIVE_ONLY_LEARN.has(learnLang) && code !== "en") opt.disabled = true;
       DOM.nativeLangSelect.appendChild(opt);
     }
   }
@@ -1116,9 +1038,7 @@ function populateLanguageSelects(cat) {
       opt.textContent = c.name || nameMap[code] || code.toUpperCase();
       // Disallow selecting same as native
       if (code === nativeLang) opt.disabled = true;
-      // Mixtec: visible but disabled (greyed option, no text)
-      if (LEARN_VISIBLE_DISABLED.has(code)) opt.disabled = true;
-      // If course isn't ready, keep it selectable but disabled
+      // If course isn't ready, keep it selectable but disabled (shows "coming soon" in your custom modal)
       if (c.ready === false) opt.disabled = true;
       DOM.learnLangSelect.appendChild(opt);
     }
@@ -1139,12 +1059,6 @@ function populateLanguageSelects(cat) {
 
   if (DOM.learnLangSelect) DOM.learnLangSelect.value = learnLang;
   if (DOM.nativeLangSelect) DOM.nativeLangSelect.value = nativeLang;
-
-  // Apply course locks (xtn disabled, prg English-native only)
-  enforceCourseLocks();
-  if (DOM.learnLangSelect) DOM.learnLangSelect.value = learnLang;
-  if (DOM.nativeLangSelect) DOM.nativeLangSelect.value = nativeLang;
-  applyCourseLockUI();
 
   saveLangSettings(nativeLang, learnLang);
   langNameMap = nameMap;
@@ -1232,7 +1146,7 @@ function normalizeLessonToQuestions(data) {
       }
 
       if (type === "translate") {
-        const promptBase = safeStr(it.prompt) || (learnLang === "en" ? "Translate to English" : "Translate to Lithuanian");
+        const promptBase = safeStr(it.prompt) || "Translate to Lithuanian";
         const promptNative = safeStr(pickOverlay(it, "prompt", nativeLang, ""));
 
         const correctList = Array.isArray(it.answers)
@@ -1498,12 +1412,7 @@ function renderChoices(q) {
   const nativeChoices = getChooseChoicesForNative(q);
   const hasNativeChoices = nativeChoices.length === canonical.length && nativeChoices.length > 0;
 
-  // ✅ Randomize displayed option order (prevents "A is usually correct")
-  const order = canonical.map((_, idx) => idx);
-  shuffleInPlace(order);
-
-  for (let oi = 0; oi < order.length; oi++) {
-    const i = order[oi];
+  for (let i = 0; i < canonical.length; i++) {
     const b = document.createElement("button");
     b.className = "choice btn btn-ghost";
 
@@ -2180,17 +2089,6 @@ function renderAchievementsScreen() {
    Start/continue logic
 ----------------------------- */
 async function startLesson(i) {
-  // Hard blocks (no fallback): Mixtec disabled; PRG only when native=en
-  if (LEARN_VISIBLE_DISABLED.has(learnLang)) {
-    alert("This course is not available yet.");
-    return;
-  }
-  if (EN_NATIVE_ONLY_LEARN.has(learnLang) && nativeLang !== "en") {
-    nativeLang = "en";
-    if (DOM.nativeLangSelect) DOM.nativeLangSelect.value = "en";
-    applyCourseLockUI();
-  }
-
   try {
     await loadLessonByIndex(i);
     setScreen("lesson");
@@ -2202,17 +2100,6 @@ async function startLesson(i) {
 }
 
 async function startFromContinue() {
-  // Hard blocks (no fallback)
-  if (LEARN_VISIBLE_DISABLED.has(learnLang)) {
-    alert("This course is not available yet.");
-    return;
-  }
-  if (EN_NATIVE_ONLY_LEARN.has(learnLang) && nativeLang !== "en") {
-    nativeLang = "en";
-    if (DOM.nativeLangSelect) DOM.nativeLangSelect.value = "en";
-    applyCourseLockUI();
-  }
-
   const lastId = localStorage.getItem(lastLessonKey())
     || (learnLang === "lt" ? localStorage.getItem(LS.oldLastLesson) : null);
 
@@ -2444,10 +2331,6 @@ function wireEvents() {
   if (DOM.nativeLangSelect) {
     DOM.nativeLangSelect.onchange = async () => {
       nativeLang = DOM.nativeLangSelect.value || "en";
-      enforceCourseLocks();
-      if (DOM.nativeLangSelect) DOM.nativeLangSelect.value = nativeLang;
-      if (DOM.learnLangSelect) DOM.learnLangSelect.value = learnLang;
-      applyCourseLockUI();
 
       updateLangPickerLabels();
       updateFlags();
@@ -2485,10 +2368,6 @@ function wireEvents() {
   if (DOM.learnLangSelect) {
     DOM.learnLangSelect.onchange = async () => {
       learnLang = DOM.learnLangSelect.value || "lt";
-      enforceCourseLocks();
-      if (DOM.nativeLangSelect) DOM.nativeLangSelect.value = nativeLang;
-      if (DOM.learnLangSelect) DOM.learnLangSelect.value = learnLang;
-      applyCourseLockUI();
 
       updateLangPickerLabels();
       updateFlags();
