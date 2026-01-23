@@ -1,0 +1,326 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "house",
+        "city",
+        "street",
+        "hotel"
+      ],
+      "tts": "house",
+      "correct": [
+        "house"
+      ],
+      "type": "choose",
+      "en": "house"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "village",
+        "city",
+        "river",
+        "airport"
+      ],
+      "tts": "city",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "en": "city"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "street",
+        "corner",
+        "bridge",
+        "park"
+      ],
+      "tts": "street",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "en": "street"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "left",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "en": "left"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "here",
+        "there"
+      ],
+      "tts": "right",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "en": "right"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "stop"
+      ],
+      "tts": "straight",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "en": "straight"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "here",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "en": "here"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "near",
+        "far"
+      ],
+      "tts": "there",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "en": "there"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "store",
+        "station",
+        "restaurant",
+        "museum"
+      ],
+      "tts": "store",
+      "correct": [
+        "store"
+      ],
+      "type": "choose",
+      "en": "store"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "station",
+        "airport",
+        "hotel",
+        "bank"
+      ],
+      "tts": "station",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "en": "station"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "airport",
+        "train",
+        "bridge",
+        "market"
+      ],
+      "tts": "airport",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "en": "airport"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "house",
+        "school",
+        "hospital"
+      ],
+      "tts": "hotel",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "en": "hotel"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "restaurant",
+        "park",
+        "street",
+        "bridge"
+      ],
+      "tts": "restaurant",
+      "correct": [
+        "restaurant"
+      ],
+      "type": "choose",
+      "en": "restaurant"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "bridge",
+        "corner",
+        "square",
+        "river"
+      ],
+      "tts": "bridge",
+      "correct": [
+        "bridge"
+      ],
+      "type": "choose",
+      "en": "bridge"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "corner",
+        "left",
+        "right",
+        "road"
+      ],
+      "tts": "corner",
+      "correct": [
+        "corner"
+      ],
+      "type": "choose",
+      "en": "corner"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "map",
+        "ticket",
+        "room",
+        "food"
+      ],
+      "tts": "map",
+      "correct": [
+        "map"
+      ],
+      "type": "choose",
+      "en": "map"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "square",
+        "street",
+        "forest",
+        "lake"
+      ],
+      "tts": "square",
+      "correct": [
+        "square"
+      ],
+      "type": "choose",
+      "en": "square"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "park",
+        "river",
+        "hotel",
+        "city"
+      ],
+      "tts": "park",
+      "correct": [
+        "park"
+      ],
+      "type": "choose",
+      "en": "park"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "river",
+        "sea",
+        "mountain",
+        "airport"
+      ],
+      "tts": "river",
+      "correct": [
+        "river"
+      ],
+      "type": "choose",
+      "en": "river"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "sea",
+        "river",
+        "bridge",
+        "road"
+      ],
+      "tts": "sea",
+      "correct": [
+        "sea"
+      ],
+      "type": "choose",
+      "en": "sea"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krumstus",
+      "choices": [
+        "gate",
+        "foam",
+        "threshing-floor",
+        "knuckle"
+      ],
+      "tts": "krumstus",
+      "correct": [
+        "knuckle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "parst'an",
+      "choices": [
+        "pig",
+        "saddle-maker",
+        "broth",
+        "navel"
+      ],
+      "tts": "parst'an",
+      "correct": [
+        "pig"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "digne",
+      "choices": [
+        "gable",
+        "pleiades",
+        "handle",
+        "quern"
+      ],
+      "tts": "digne",
+      "correct": [
+        "handle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plcnis",
+      "choices": [
+        "kettle",
+        "lake",
+        "flake-ashes",
+        "hub-shaft"
+      ],
+      "tts": "plcnis",
+      "correct": [
+        "flake-ashes"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kamate",
+      "choices": [
+        "throat",
+        "saddle-maker",
+        "ashes",
+        "dill"
+      ],
+      "tts": "kamate",
+      "correct": [
+        "dill"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mclinc",
+      "choices": [
+        "drizzle",
+        "tree",
+        "oat",
+        "bruise"
+      ],
+      "tts": "mclinc",
+      "correct": [
+        "bruise"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skebelis",
+      "choices": [
+        "millet",
+        "pancake",
+        "hair",
+        "donkey"
+      ],
+      "tts": "skebelis",
+      "correct": [
+        "hair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rinde",
+      "choices": [
+        "crib",
+        "chimney",
+        "moon",
+        "lungs"
+      ],
+      "tts": "rinde",
+      "correct": [
+        "crib"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klat...ei",
+      "choices": [
+        "ploughman",
+        "burdock",
+        "maiden",
+        "house"
+      ],
+      "tts": "klat...ei",
+      "correct": [
+        "burdock"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kirtis",
+      "choices": [
+        "blow",
+        "god",
+        "lentil",
+        "father"
+      ],
+      "tts": "kirtis",
+      "correct": [
+        "blow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laukinikis",
+      "choices": [
+        "thunder",
+        "shout",
+        "army",
+        "landowner"
+      ],
+      "tts": "laukinikis",
+      "correct": [
+        "landowner"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "givate",
+      "choices": [
+        "window",
+        "life",
+        "wicket-gate",
+        "rye"
+      ],
+      "tts": "givate",
+      "correct": [
+        "life"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "riklis",
+      "choices": [
+        "helmet",
+        "loft",
+        "flake-ashes",
+        "threshold"
+      ],
+      "tts": "riklis",
+      "correct": [
+        "loft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "medu",
+      "choices": [
+        "arm",
+        "air",
+        "honey",
+        "quern"
+      ],
+      "tts": "medu",
+      "correct": [
+        "honey"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "petis",
+      "choices": [
+        "dill",
+        "donkey",
+        "bake-house",
+        "shoulder-blade"
+      ],
+      "tts": "petis",
+      "correct": [
+        "shoulder-blade"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kam...eiss",
+      "choices": [
+        "shoulder-joint",
+        "navel",
+        "thumb",
+        "poppy"
+      ],
+      "tts": "kam...eiss",
+      "correct": [
+        "shoulder-joint"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sujc",
+      "choices": [
+        "coal",
+        "cartilage",
+        "father",
+        "rain"
+      ],
+      "tts": "sujc",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strambe",
+      "choices": [
+        "throat",
+        "stubble",
+        "bird",
+        "nipple"
+      ],
+      "tts": "strambe",
+      "correct": [
+        "stubble"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "urs",
+      "choices": [
+        "tallow",
+        "donkey",
+        "pond",
+        "seed"
+      ],
+      "tts": "urs",
+      "correct": [
+        "pond"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eizis",
+      "choices": [
+        "barley",
+        "finger",
+        "shelf",
+        "ploughshare"
+      ],
+      "tts": "m...eizis",
+      "correct": [
+        "barley"
+      ],
+      "type": "choose"
+    }
+  ]
+}

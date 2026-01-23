@@ -60,15 +60,46 @@ function shouldCacheRequest(req) {
   return true;
 }
 
+
+function normalizeCacheRequest(req) {
+  try {
+    const url = new URL(req.url);
+    // Only normalize same-origin requests
+    if (url.origin !== self.location.origin) return req;
+
+    // Drop cache-busting query params for static assets
+    const path = url.pathname || "";
+    const isStatic = /\.(js|css|png|jpg|jpeg|webp|svg|json|mp3|wav|ico|webmanifest)$/i.test(path);
+    if (!isStatic) return req;
+
+    url.search = "";
+    return new Request(url.toString(), {
+      method: req.method,
+      headers: req.headers,
+      mode: req.mode,
+      credentials: req.credentials,
+      redirect: req.redirect,
+      referrer: req.referrer,
+      referrerPolicy: req.referrerPolicy,
+      integrity: req.integrity,
+      cache: req.cache,
+    });
+  } catch {
+    return req;
+  }
+}
+
 // Cache strategies
 async function cacheFirst(req, cacheName) {
   const cache = await caches.open(cacheName);
-  const cached = await cache.match(req);
+  const keyReq = normalizeCacheRequest(req);
+  const keyReq = normalizeCacheRequest(req);
+  const cached = await cache.match(keyReq);
   if (cached) return cached;
 
   const res = await fetch(req);
   // Only cache good responses
-  if (res && res.ok) cache.put(req, res.clone());
+  if (res && res.ok) cache.put(keyReq, res.clone());
   return res;
 }
 
@@ -76,10 +107,11 @@ async function networkFirst(req, cacheName) {
   const cache = await caches.open(cacheName);
   try {
     const res = await fetch(req);
-    if (res && res.ok) cache.put(req, res.clone());
+    if (res && res.ok) cache.put(keyReq, res.clone());
     return res;
   } catch {
-    const cached = await cache.match(req);
+    const keyReq = normalizeCacheRequest(req);
+  const cached = await cache.match(keyReq);
     if (cached) return cached;
     throw new Error("NetworkFirst: no network and no cache");
   }
@@ -87,11 +119,11 @@ async function networkFirst(req, cacheName) {
 
 async function staleWhileRevalidate(req, cacheName) {
   const cache = await caches.open(cacheName);
-  const cached = await cache.match(req);
+  const cached = await cache.match(keyReq);
 
   const fetchPromise = fetch(req)
     .then((res) => {
-      if (res && res.ok) cache.put(req, res.clone());
+      if (res && res.ok) cache.put(keyReq, res.clone());
       return res;
     })
     .catch(() => null);

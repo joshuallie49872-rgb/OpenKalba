@@ -1,0 +1,306 @@
+{
+  "id": "041-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ebilis",
+      "choices": [
+        "ice",
+        "hoar-frost",
+        "tooth",
+        "clover"
+      ],
+      "tts": "ebilis",
+      "correct": [
+        "clover"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zamen acc. sg.",
+      "choices": [
+        "mow",
+        "soil",
+        "nettle",
+        "rain"
+      ],
+      "tts": "zamen acc. sg.",
+      "correct": [
+        "soil"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skalus",
+      "choices": [
+        "gravel",
+        "chin",
+        "sieve",
+        "liver"
+      ],
+      "tts": "skalus",
+      "correct": [
+        "chin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ilmis",
+      "choices": [
+        "shed",
+        "skin",
+        "cow",
+        "neck"
+      ],
+      "tts": "ilmis",
+      "correct": [
+        "shed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laste",
+      "choices": [
+        "wheat",
+        "bed",
+        "stepdaughter",
+        "gut"
+      ],
+      "tts": "laste",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gertis",
+      "choices": [
+        "barn",
+        "weathercock",
+        "river",
+        "maiden"
+      ],
+      "tts": "gertis",
+      "correct": [
+        "weathercock"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pasuprcs",
+      "choices": [
+        "spoon",
+        "armour",
+        "shelf",
+        "dipper"
+      ],
+      "tts": "pasuprcs",
+      "correct": [
+        "shelf"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "slaunis",
+      "choices": [
+        "uncle",
+        "donkey",
+        "hub",
+        "thigh"
+      ],
+      "tts": "slaunis",
+      "correct": [
+        "thigh"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rugis",
+      "choices": [
+        "rye",
+        "cloud",
+        "shutter",
+        "mead"
+      ],
+      "tts": "rugis",
+      "correct": [
+        "rye"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "veidulis",
+      "choices": [
+        "bone-marrow",
+        "peasant",
+        "father-in-law",
+        "eyeball"
+      ],
+      "tts": "veidulis",
+      "correct": [
+        "eyeball"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pedalis",
+      "choices": [
+        "pot",
+        "cloud",
+        "angel",
+        "plait"
+      ],
+      "tts": "pedalis",
+      "correct": [
+        "pot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mirklinc",
+      "choices": [
+        "death",
+        "helmet",
+        "drizzle",
+        "corpse"
+      ],
+      "tts": "mirklinc",
+      "correct": [
+        "drizzle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "katils",
+      "choices": [
+        "gable",
+        "bladder",
+        "swingletree",
+        "kettle"
+      ],
+      "tts": "katils",
+      "correct": [
+        "kettle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kuntis",
+      "choices": [
+        "ears",
+        "fist",
+        "flame",
+        "sea"
+      ],
+      "tts": "kuntis",
+      "correct": [
+        "fist"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laise",
+      "choices": [
+        "moustache",
+        "brain",
+        "cloud",
+        "alumina"
+      ],
+      "tts": "laise",
+      "correct": [
+        "alumina"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelcs",
+      "choices": [
+        "poker",
+        "corn-cockle",
+        "bladder",
+        "milk"
+      ],
+      "tts": "pelcs",
+      "correct": [
+        "bladder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krumstus",
+      "choices": [
+        "sunday",
+        "mill",
+        "knuckle",
+        "ravine"
+      ],
+      "tts": "krumstus",
+      "correct": [
+        "knuckle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zingsle",
+      "choices": [
+        "shield",
+        "dough",
+        "monday",
+        "table"
+      ],
+      "tts": "zingsle",
+      "correct": [
+        "dough"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lise",
+      "choices": [
+        "garden-bed",
+        "glass",
+        "calves",
+        "swingletree"
+      ],
+      "tts": "lise",
+      "correct": [
+        "garden-bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pirzdlankstan",
+      "choices": [
+        "mouth",
+        "shutter",
+        "mother",
+        "bulb"
+      ],
+      "tts": "pirzdlankstan",
+      "correct": [
+        "shutter"
+      ],
+      "type": "choose"
+    }
+  ]
+}

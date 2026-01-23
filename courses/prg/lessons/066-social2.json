@@ -1,0 +1,306 @@
+{
+  "id": "066-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pedalis",
+      "choices": [
+        "pot",
+        "aftermath",
+        "moon",
+        "eyebrow"
+      ],
+      "tts": "pedalis",
+      "correct": [
+        "pot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pentis",
+      "choices": [
+        "bird",
+        "child",
+        "shed",
+        "heel"
+      ],
+      "tts": "pentis",
+      "correct": [
+        "heel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zmoj",
+      "choices": [
+        "father-in-law",
+        "kitchen",
+        "barley",
+        "man"
+      ],
+      "tts": "zmoj",
+      "correct": [
+        "man"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "virbc",
+      "choices": [
+        "lightning",
+        "knight",
+        "grass",
+        "rope"
+      ],
+      "tts": "virbc",
+      "correct": [
+        "rope"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "urs",
+      "choices": [
+        "wednesday",
+        "hoar-frost",
+        "uncle",
+        "pond"
+      ],
+      "tts": "urs",
+      "correct": [
+        "pond"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plcnis",
+      "choices": [
+        "flake-ashes",
+        "son",
+        "weir",
+        "hearth"
+      ],
+      "tts": "plcnis",
+      "correct": [
+        "flake-ashes"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laste",
+      "choices": [
+        "bed",
+        "hip",
+        "wednesday",
+        "shout"
+      ],
+      "tts": "laste",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krauje",
+      "choices": [
+        "hoop",
+        "blood",
+        "blow",
+        "pan"
+      ],
+      "tts": "krauje",
+      "correct": [
+        "blood"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varte",
+      "choices": [
+        "barrel",
+        "door",
+        "baker",
+        "snot"
+      ],
+      "tts": "varte",
+      "correct": [
+        "door"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "eizve",
+      "choices": [
+        "grass",
+        "wound",
+        "water",
+        "stubble"
+      ],
+      "tts": "eizve",
+      "correct": [
+        "wound"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nevis",
+      "choices": [
+        "water",
+        "corpse",
+        "throat",
+        "loins"
+      ],
+      "tts": "nevis",
+      "correct": [
+        "corpse"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelve",
+      "choices": [
+        "chaff",
+        "monday",
+        "spindle",
+        "foam"
+      ],
+      "tts": "pelve",
+      "correct": [
+        "chaff"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "auste",
+      "choices": [
+        "worker",
+        "sea",
+        "rush",
+        "mouth"
+      ],
+      "tts": "auste",
+      "correct": [
+        "mouth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "snaigis",
+      "choices": [
+        "death",
+        "head",
+        "millstone",
+        "snow"
+      ],
+      "tts": "snaigis",
+      "correct": [
+        "snow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "keitare",
+      "choices": [
+        "baker",
+        "spark",
+        "hailstones",
+        "sand"
+      ],
+      "tts": "keitare",
+      "correct": [
+        "hailstones"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ratinzis",
+      "choices": [
+        "eyebrow",
+        "wednesday",
+        "chain",
+        "lungs"
+      ],
+      "tts": "ratinzis",
+      "correct": [
+        "chain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stcgc",
+      "choices": [
+        "brain",
+        "mow",
+        "ambler",
+        "cow"
+      ],
+      "tts": "stcgc",
+      "correct": [
+        "mow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "valti",
+      "choices": [
+        "room",
+        "ear",
+        "bone",
+        "cow"
+      ],
+      "tts": "valti",
+      "correct": [
+        "ear"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ikr...ei",
+      "choices": [
+        "nephew",
+        "kidney",
+        "hayloft",
+        "calves"
+      ],
+      "tts": "ikr...ei",
+      "correct": [
+        "calves"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinzus",
+      "choices": [
+        "palate",
+        "broth",
+        "neck",
+        "nipple"
+      ],
+      "tts": "vinzus",
+      "correct": [
+        "neck"
+      ],
+      "type": "choose"
+    }
+  ]
+}

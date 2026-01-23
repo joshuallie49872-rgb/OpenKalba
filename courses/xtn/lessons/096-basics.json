@@ -1,0 +1,306 @@
+{
+  "id": "096-basics",
+  "title": "Basics 96",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jiꞌi",
+      "choices": [
+        "beberá",
+        "sacar",
+        "soda",
+        "libro"
+      ],
+      "tts": "jiꞌi",
+      "correct": [
+        "beberá"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "koskii",
+      "choices": [
+        "anoche",
+        "jugará",
+        "chaparro nomás",
+        "cerrarás boca"
+      ],
+      "tts": "koskii",
+      "correct": [
+        "jugará"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kusun",
+      "choices": [
+        "hiciste",
+        "dormirá",
+        "cinco",
+        "irán"
+      ],
+      "tts": "kusun",
+      "correct": [
+        "dormirá"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuu",
+      "choices": [
+        "empezar",
+        "morirá",
+        "escondió",
+        "saben ustedes plural"
+      ],
+      "tts": "kuu",
+      "correct": [
+        "morirá"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "oo",
+      "choices": [
+        "está poco",
+        "yichi",
+        "trabajan",
+        "está"
+      ],
+      "tts": "oo",
+      "correct": [
+        "está"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tee",
+      "choices": [
+        "get used to",
+        "horno",
+        "comen",
+        "man"
+      ],
+      "tts": "tee",
+      "correct": [
+        "man"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndaꞌu",
+      "choices": [
+        "hijos",
+        "suchi",
+        "énfasis él",
+        "seco"
+      ],
+      "tts": "ndaꞌu",
+      "correct": [
+        "énfasis él"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yaꞌu",
+      "choices": [
+        "sí, sí",
+        "como",
+        "suchi",
+        "caro"
+      ],
+      "tts": "yaꞌu",
+      "correct": [
+        "caro"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "luu",
+      "choices": [
+        "borrego",
+        "irás",
+        "bonito plural parecen gatos pintos",
+        "hasta"
+      ],
+      "tts": "luu",
+      "correct": [
+        "bonito plural parecen gatos pintos"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaꞌnu/jaꞌnu",
+      "choices": [
+        "(forma de noꞌo ‘ir a base’)",
+        "doblar, quebrar",
+        "ocote (árbol + paja)",
+        "lavó"
+      ],
+      "tts": "kaꞌnu/jaꞌnu",
+      "correct": [
+        "doblar, quebrar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndee",
+      "choices": [
+        "hasta",
+        "recibir un pago",
+        "decir ndakaꞌan",
+        "completivo plural casaron"
+      ],
+      "tts": "ndee",
+      "correct": [
+        "recibir un pago"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "niꞌi",
+      "choices": [
+        "yichi",
+        "forma sustantivos (nominalizador)",
+        "oír",
+        "ocotal"
+      ],
+      "tts": "niꞌi",
+      "correct": [
+        "oír"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuni/jini",
+      "choices": [
+        "cabeza árbol",
+        "saber",
+        "completamente",
+        "chivos"
+      ],
+      "tts": "kuni/jini",
+      "correct": [
+        "saber"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndajiokuiin",
+      "choices": [
+        "regresó",
+        "doblar, quebrar",
+        "muchísimo",
+        "iré"
+      ],
+      "tts": "ndajiokuiin",
+      "correct": [
+        "regresó"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tisaa",
+      "choices": [
+        "tía",
+        "comerán",
+        "hasta",
+        "pájaro"
+      ],
+      "tts": "tisaa",
+      "correct": [
+        "pájaro"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "xtaa",
+      "choices": [
+        "cost",
+        "decir ndakaꞌan",
+        "ndikachi",
+        "jabón"
+      ],
+      "tts": "xtaa",
+      "correct": [
+        "decir ndakaꞌan"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndakani",
+      "choices": [
+        "desaparecer",
+        "speak",
+        "coyote",
+        "contar (cuentos)"
+      ],
+      "tts": "ndakani",
+      "correct": [
+        "contar (cuentos)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaku",
+      "choices": [
+        "eat",
+        "caminar",
+        "canta",
+        "sombrero mi"
+      ],
+      "tts": "kaku",
+      "correct": [
+        "caminar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "skaka",
+      "choices": [
+        "jabón",
+        "hacer caminar, manejar",
+        "causativo",
+        "desbaratar"
+      ],
+      "tts": "skaka",
+      "correct": [
+        "hacer caminar, manejar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "teku",
+      "choices": [
+        "desaparecer",
+        "completivo",
+        "descansaré yo",
+        "limón"
+      ],
+      "tts": "teku",
+      "correct": [
+        "desaparecer"
+      ],
+      "type": "choose"
+    }
+  ]
+}

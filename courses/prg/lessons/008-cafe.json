@@ -1,0 +1,306 @@
+{
+  "id": "008-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stranai",
+      "choices": [
+        "heel",
+        "calves",
+        "thumb",
+        "loins"
+      ],
+      "tts": "stranai",
+      "correct": [
+        "loins"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "puninan",
+      "choices": [
+        "flint",
+        "intestines",
+        "buttocks",
+        "glass"
+      ],
+      "tts": "puninan",
+      "correct": [
+        "buttocks"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kulsi",
+      "choices": [
+        "flag",
+        "bake-house",
+        "hip",
+        "elbow"
+      ],
+      "tts": "kulsi",
+      "correct": [
+        "hip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "slaunis",
+      "choices": [
+        "angel",
+        "cow",
+        "thigh",
+        "skull"
+      ],
+      "tts": "slaunis",
+      "correct": [
+        "thigh"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klupstis",
+      "choices": [
+        "mouldboard",
+        "heat",
+        "knee",
+        "mustard"
+      ],
+      "tts": "klupstis",
+      "correct": [
+        "knee"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ikr...ei",
+      "choices": [
+        "weir",
+        "gall",
+        "burdock",
+        "calves"
+      ],
+      "tts": "ikr...ei",
+      "correct": [
+        "calves"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kulnis",
+      "choices": [
+        "tallow",
+        "man",
+        "ankle-bone",
+        "plough"
+      ],
+      "tts": "kulnis",
+      "correct": [
+        "ankle-bone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pamatis",
+      "choices": [
+        "sole",
+        "thursday",
+        "fist",
+        "nose"
+      ],
+      "tts": "pamatis",
+      "correct": [
+        "sole"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pentis",
+      "choices": [
+        "spoon",
+        "man",
+        "forehead",
+        "heel"
+      ],
+      "tts": "pentis",
+      "correct": [
+        "heel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nagcpirstis",
+      "choices": [
+        "hip",
+        "eyeball",
+        "hook",
+        "toe"
+      ],
+      "tts": "nagcpirstis",
+      "correct": [
+        "toe"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nevis",
+      "choices": [
+        "thursday",
+        "pole",
+        "vetch",
+        "corpse"
+      ],
+      "tts": "nevis",
+      "correct": [
+        "corpse"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "givate",
+      "choices": [
+        "mare",
+        "life",
+        "ravine",
+        "plait"
+      ],
+      "tts": "givate",
+      "correct": [
+        "life"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dusi",
+      "choices": [
+        "stable",
+        "soul",
+        "bulb",
+        "sole"
+      ],
+      "tts": "dusi",
+      "correct": [
+        "soul"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ka...ulan",
+      "choices": [
+        "nephew",
+        "bone",
+        "liver",
+        "fall"
+      ],
+      "tts": "ka...ulan",
+      "correct": [
+        "bone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "en...eiss",
+      "choices": [
+        "baker",
+        "millet",
+        "lance",
+        "fever"
+      ],
+      "tts": "en...eiss",
+      "correct": [
+        "fever"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "eizve",
+      "choices": [
+        "sledge",
+        "weathercock",
+        "bung-hole",
+        "wound"
+      ],
+      "tts": "eizve",
+      "correct": [
+        "wound"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krauje",
+      "choices": [
+        "horse",
+        "stomach",
+        "blood",
+        "windpipe"
+      ],
+      "tts": "krauje",
+      "correct": [
+        "blood"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mclinc",
+      "choices": [
+        "bruise",
+        "meadows",
+        "mouth",
+        "steam"
+      ],
+      "tts": "mclinc",
+      "correct": [
+        "bruise"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gunziks",
+      "choices": [
+        "bran",
+        "earth",
+        "prick",
+        "swelling"
+      ],
+      "tts": "gunziks",
+      "correct": [
+        "swelling"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kirtis",
+      "choices": [
+        "spark",
+        "flake-ashes",
+        "blow",
+        "millet"
+      ],
+      "tts": "kirtis",
+      "correct": [
+        "blow"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "038-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "help",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "en": "help"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "police",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "en": "police"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "hospital",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "en": "hospital"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "fire",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "en": "fire"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "danger",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "en": "danger"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pagalba",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "policija",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "ligoninė",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "gaisras",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pavojus",
+      "type": "unknown"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "help",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "en": "help"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "police",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "en": "police"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "hospital",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "en": "hospital"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "fire",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "en": "fire"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "danger",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "en": "danger"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pagalba",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "policija",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "ligoninė",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "gaisras",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "pavojus",
+      "type": "unknown"
+    }
+  ]
+}

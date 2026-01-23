@@ -1,0 +1,236 @@
+{
+  "id": "100-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "phone",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "en": "phone"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "computer",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "en": "computer"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "internet",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "en": "internet"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "app",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "en": "app"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "message",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "en": "message"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "telefonas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "kompiuteris",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "internetas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "programa",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "žinutė",
+      "type": "unknown"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "phone",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "en": "phone"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "computer",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "en": "computer"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "internet",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "en": "internet"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "app",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "en": "app"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "message",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "en": "message"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "telefonas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "kompiuteris",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "internetas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "programa",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "žinutė",
+      "type": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "030-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strigene",
+      "choices": [
+        "maiden",
+        "ravine",
+        "bone-marrow",
+        "heaven"
+      ],
+      "tts": "strigene",
+      "correct": [
+        "bone-marrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lube",
+      "choices": [
+        "stars",
+        "poker",
+        "barn",
+        "friday"
+      ],
+      "tts": "lube",
+      "correct": [
+        "barn"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bl'auski",
+      "choices": [
+        "meat",
+        "rush",
+        "helmet",
+        "furrow"
+      ],
+      "tts": "bl'auski",
+      "correct": [
+        "rush"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lapivarte",
+      "choices": [
+        "fish",
+        "wicket-gate",
+        "bay",
+        "alumina"
+      ],
+      "tts": "lapivarte",
+      "correct": [
+        "wicket-gate"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sulis",
+      "choices": [
+        "trough",
+        "dough",
+        "pole",
+        "weir"
+      ],
+      "tts": "sulis",
+      "correct": [
+        "pole"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "umnudc",
+      "choices": [
+        "bake-house",
+        "clay",
+        "nail",
+        "soul"
+      ],
+      "tts": "umnudc",
+      "correct": [
+        "bake-house"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dvaris nom. pl.",
+      "choices": [
+        "rafter",
+        "gate",
+        "fish",
+        "pond"
+      ],
+      "tts": "dvaris nom. pl.",
+      "correct": [
+        "gate"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laise",
+      "choices": [
+        "scabbard",
+        "glass",
+        "life",
+        "alumina"
+      ],
+      "tts": "laise",
+      "correct": [
+        "alumina"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kraisi",
+      "choices": [
+        "straw",
+        "throat",
+        "nose",
+        "meninx"
+      ],
+      "tts": "kraisi",
+      "correct": [
+        "straw"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "birgakartis",
+      "choices": [
+        "ashes",
+        "hearth",
+        "bruise",
+        "dipper"
+      ],
+      "tts": "birgakartis",
+      "correct": [
+        "dipper"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sarvis",
+      "choices": [
+        "baker",
+        "peasant",
+        "thursday",
+        "armour"
+      ],
+      "tts": "sarvis",
+      "correct": [
+        "armour"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "alkunis",
+      "choices": [
+        "ear-wax",
+        "bed",
+        "chair",
+        "elbow"
+      ],
+      "tts": "alkunis",
+      "correct": [
+        "elbow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sk...erde",
+      "choices": [
+        "intestines",
+        "plough-tail",
+        "skin",
+        "hemp"
+      ],
+      "tts": "sk...erde",
+      "correct": [
+        "skin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gaidis",
+      "choices": [
+        "wheat",
+        "dagger",
+        "clay",
+        "lake"
+      ],
+      "tts": "gaidis",
+      "correct": [
+        "wheat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dangus",
+      "choices": [
+        "heaven",
+        "baker",
+        "flint",
+        "hayloft"
+      ],
+      "tts": "dangus",
+      "correct": [
+        "heaven"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "metc",
+      "choices": [
+        "whip",
+        "table",
+        "mow",
+        "mother"
+      ],
+      "tts": "metc",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nevis",
+      "choices": [
+        "fever",
+        "stubble",
+        "cloud",
+        "corpse"
+      ],
+      "tts": "nevis",
+      "correct": [
+        "corpse"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "apc",
+      "choices": [
+        "side-board",
+        "river",
+        "grass",
+        "pan"
+      ],
+      "tts": "apc",
+      "correct": [
+        "river"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "galis",
+      "choices": [
+        "death",
+        "moustache",
+        "vertex",
+        "bone-marrow"
+      ],
+      "tts": "galis",
+      "correct": [
+        "death"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grebis",
+      "choices": [
+        "gut",
+        "soil",
+        "plough-knife",
+        "cloud"
+      ],
+      "tts": "grebis",
+      "correct": [
+        "gut"
+      ],
+      "type": "choose"
+    }
+  ]
+}

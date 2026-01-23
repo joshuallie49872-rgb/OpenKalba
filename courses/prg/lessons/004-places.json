@@ -1,0 +1,306 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plcnis",
+      "choices": [
+        "friday",
+        "liver",
+        "horse",
+        "flake-ashes"
+      ],
+      "tts": "plcnis",
+      "correct": [
+        "flake-ashes"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dumis",
+      "choices": [
+        "smoke",
+        "stepdaughter",
+        "moon",
+        "drizzle"
+      ],
+      "tts": "dumis",
+      "correct": [
+        "smoke"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "perc",
+      "choices": [
+        "acre",
+        "sieve",
+        "steam",
+        "bran"
+      ],
+      "tts": "perc",
+      "correct": [
+        "steam"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "germc",
+      "choices": [
+        "besom",
+        "lake",
+        "heat",
+        "brother"
+      ],
+      "tts": "germc",
+      "correct": [
+        "heat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "l...epis",
+      "choices": [
+        "flame",
+        "garden-bed",
+        "fog",
+        "woman"
+      ],
+      "tts": "l...epis",
+      "correct": [
+        "flame"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vins",
+      "choices": [
+        "air",
+        "heart",
+        "moustache",
+        "rafter"
+      ],
+      "tts": "vins",
+      "correct": [
+        "air"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kupsins",
+      "choices": [
+        "breast",
+        "fog",
+        "spigot",
+        "bay"
+      ],
+      "tts": "kupsins",
+      "correct": [
+        "fog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mirklinc",
+      "choices": [
+        "eyeball",
+        "head",
+        "stepdaughter",
+        "drizzle"
+      ],
+      "tts": "mirklinc",
+      "correct": [
+        "drizzle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sujc",
+      "choices": [
+        "ditch",
+        "plait",
+        "grease",
+        "rain"
+      ],
+      "tts": "sujc",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grumins",
+      "choices": [
+        "thunder",
+        "arm",
+        "palate",
+        "poppy"
+      ],
+      "tts": "grumins",
+      "correct": [
+        "thunder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eldc",
+      "choices": [
+        "elbow",
+        "sword",
+        "lightning",
+        "head"
+      ],
+      "tts": "m...eldc",
+      "correct": [
+        "lightning"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vctre",
+      "choices": [
+        "thigh",
+        "god",
+        "support",
+        "wind"
+      ],
+      "tts": "vctre",
+      "correct": [
+        "wind"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "keitare",
+      "choices": [
+        "mouth",
+        "hailstones",
+        "paunch",
+        "ashes"
+      ],
+      "tts": "keitare",
+      "correct": [
+        "hailstones"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "snaigis",
+      "choices": [
+        "sister",
+        "broth",
+        "ditch",
+        "snow"
+      ],
+      "tts": "snaigis",
+      "correct": [
+        "snow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ladis",
+      "choices": [
+        "hub",
+        "ice",
+        "foam",
+        "ploughshare"
+      ],
+      "tts": "ladis",
+      "correct": [
+        "ice"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pasalis",
+      "choices": [
+        "child",
+        "frost",
+        "ploughshare",
+        "spleen"
+      ],
+      "tts": "pasalis",
+      "correct": [
+        "frost"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gr...eisis",
+      "choices": [
+        "roof",
+        "garden-bed",
+        "hoar-frost",
+        "god"
+      ],
+      "tts": "gr...eisis",
+      "correct": [
+        "hoar-frost"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "azaran",
+      "choices": [
+        "bulb",
+        "heat",
+        "lake",
+        "fever"
+      ],
+      "tts": "azaran",
+      "correct": [
+        "lake"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "urs",
+      "choices": [
+        "soul",
+        "pond",
+        "aunt",
+        "crib"
+      ],
+      "tts": "urs",
+      "correct": [
+        "pond"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "salus",
+      "choices": [
+        "handle",
+        "brook",
+        "foal",
+        "shutter"
+      ],
+      "tts": "salus",
+      "correct": [
+        "brook"
+      ],
+      "type": "choose"
+    }
+  ]
+}

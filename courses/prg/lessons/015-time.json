@@ -1,0 +1,306 @@
+{
+  "id": "015-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klekste",
+      "choices": [
+        "threshold",
+        "besom",
+        "rye",
+        "shoulder-blade"
+      ],
+      "tts": "klekste",
+      "correct": [
+        "besom"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "paz...ertis",
+      "choices": [
+        "door",
+        "chimney",
+        "poker",
+        "burdock"
+      ],
+      "tts": "paz...ertis",
+      "correct": [
+        "poker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "miltan",
+      "choices": [
+        "meal",
+        "arm",
+        "door",
+        "mouth"
+      ],
+      "tts": "miltan",
+      "correct": [
+        "meal"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klincs",
+      "choices": [
+        "bran",
+        "ice",
+        "lightning",
+        "sister"
+      ],
+      "tts": "klincs",
+      "correct": [
+        "bran"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zingsle",
+      "choices": [
+        "seed",
+        "mangle",
+        "dough",
+        "mustard"
+      ],
+      "tts": "zingsle",
+      "correct": [
+        "dough"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lugis",
+      "choices": [
+        "hoar-frost",
+        "neck",
+        "spleen",
+        "cake"
+      ],
+      "tts": "lugis",
+      "correct": [
+        "cake"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plinksnc",
+      "choices": [
+        "steam",
+        "fever",
+        "scone",
+        "nail"
+      ],
+      "tts": "plinksnc",
+      "correct": [
+        "scone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kalese",
+      "choices": [
+        "bean",
+        "bung-hole",
+        "pancake",
+        "peasant"
+      ],
+      "tts": "kalese",
+      "correct": [
+        "pancake"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "saitan",
+      "choices": [
+        "sieve",
+        "broth",
+        "fire",
+        "spindle"
+      ],
+      "tts": "saitan",
+      "correct": [
+        "sieve"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "aubirge",
+      "choices": [
+        "cook",
+        "acre",
+        "toe",
+        "sun"
+      ],
+      "tts": "aubirge",
+      "correct": [
+        "cook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kukerc",
+      "choices": [
+        "kitchen",
+        "handle",
+        "stallion",
+        "ear-wax"
+      ],
+      "tts": "kukerc",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zwirkstis",
+      "choices": [
+        "gravel",
+        "baker",
+        "mill",
+        "bird"
+      ],
+      "tts": "zwirkstis",
+      "correct": [
+        "gravel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pedalis",
+      "choices": [
+        "pot",
+        "child",
+        "knight",
+        "bench"
+      ],
+      "tts": "pedalis",
+      "correct": [
+        "pot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pan'auke",
+      "choices": [
+        "pan",
+        "corner",
+        "maiden",
+        "bird"
+      ],
+      "tts": "pan'auke",
+      "correct": [
+        "pan"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "katils",
+      "choices": [
+        "kettle",
+        "rain",
+        "stepson",
+        "roasting-jack"
+      ],
+      "tts": "katils",
+      "correct": [
+        "kettle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "birgakartis",
+      "choices": [
+        "forehead",
+        "encampment",
+        "millet",
+        "dipper"
+      ],
+      "tts": "birgakartis",
+      "correct": [
+        "dipper"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lapinis",
+      "choices": [
+        "bean",
+        "spoon",
+        "milk",
+        "thunder"
+      ],
+      "tts": "lapinis",
+      "correct": [
+        "spoon"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pagaptis",
+      "choices": [
+        "child",
+        "grab",
+        "tongue",
+        "woman"
+      ],
+      "tts": "pagaptis",
+      "correct": [
+        "grab"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "aismis",
+      "choices": [
+        "lentil",
+        "roasting-jack",
+        "liver",
+        "baker"
+      ],
+      "tts": "aismis",
+      "correct": [
+        "roasting-jack"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "minsavc",
+      "choices": [
+        "basin",
+        "ankle-bone",
+        "corner",
+        "ear"
+      ],
+      "tts": "minsavc",
+      "correct": [
+        "basin"
+      ],
+      "type": "choose"
+    }
+  ]
+}

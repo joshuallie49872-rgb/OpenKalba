@@ -1,0 +1,306 @@
+{
+  "id": "179-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dagis",
+      "choices": [
+        "skull",
+        "summer",
+        "nostril",
+        "hearth"
+      ],
+      "tts": "dagis",
+      "correct": [
+        "summer"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bruvi",
+      "choices": [
+        "arm-chair",
+        "malt",
+        "stallion",
+        "eyebrow"
+      ],
+      "tts": "bruvi",
+      "correct": [
+        "eyebrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kulnis",
+      "choices": [
+        "kindling-wood",
+        "kidney",
+        "bean",
+        "ankle-bone"
+      ],
+      "tts": "kulnis",
+      "correct": [
+        "ankle-bone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klekste",
+      "choices": [
+        "corner",
+        "plough-tail",
+        "dog",
+        "besom"
+      ],
+      "tts": "klekste",
+      "correct": [
+        "besom"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zamc",
+      "choices": [
+        "roof",
+        "earth",
+        "belly",
+        "spoon"
+      ],
+      "tts": "zamc",
+      "correct": [
+        "earth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kaivc",
+      "choices": [
+        "mare",
+        "ashes",
+        "tree",
+        "manger"
+      ],
+      "tts": "kaivc",
+      "correct": [
+        "mare"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "paz...ertis",
+      "choices": [
+        "year",
+        "straw",
+        "poker",
+        "heaven"
+      ],
+      "tts": "paz...ertis",
+      "correct": [
+        "poker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stegis",
+      "choices": [
+        "roof",
+        "house",
+        "weathercock",
+        "armour"
+      ],
+      "tts": "stegis",
+      "correct": [
+        "roof"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "staklc",
+      "choices": [
+        "support",
+        "moustache",
+        "spigot",
+        "coal"
+      ],
+      "tts": "staklc",
+      "correct": [
+        "support"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kamate",
+      "choices": [
+        "baker",
+        "toe",
+        "dill",
+        "sole"
+      ],
+      "tts": "kamate",
+      "correct": [
+        "dill"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "netis",
+      "choices": [
+        "fever",
+        "winter",
+        "valley",
+        "nettle"
+      ],
+      "tts": "netis",
+      "correct": [
+        "nettle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tevis",
+      "choices": [
+        "fall",
+        "thumb",
+        "father",
+        "earth"
+      ],
+      "tts": "tevis",
+      "correct": [
+        "father"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "muzgene",
+      "choices": [
+        "box-room",
+        "angel",
+        "window",
+        "brain"
+      ],
+      "tts": "muzgene",
+      "correct": [
+        "brain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sarvis",
+      "choices": [
+        "bench",
+        "poker",
+        "heel",
+        "armour"
+      ],
+      "tts": "sarvis",
+      "correct": [
+        "armour"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bluznc",
+      "choices": [
+        "spleen",
+        "dagger",
+        "thumb",
+        "mead"
+      ],
+      "tts": "bluznc",
+      "correct": [
+        "spleen"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stakameseris",
+      "choices": [
+        "friday",
+        "dagger",
+        "thursday",
+        "poker"
+      ],
+      "tts": "stakameseris",
+      "correct": [
+        "dagger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nevis",
+      "choices": [
+        "nettle",
+        "flake-ashes",
+        "buttocks",
+        "corpse"
+      ],
+      "tts": "nevis",
+      "correct": [
+        "corpse"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varzus",
+      "choices": [
+        "hook",
+        "cart",
+        "rush",
+        "lip"
+      ],
+      "tts": "varzus",
+      "correct": [
+        "lip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grumins",
+      "choices": [
+        "thunder",
+        "lentil",
+        "navel",
+        "bran"
+      ],
+      "tts": "grumins",
+      "correct": [
+        "thunder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "b...erdus",
+      "choices": [
+        "lightning",
+        "pleiades",
+        "besom",
+        "beard"
+      ],
+      "tts": "b...erdus",
+      "correct": [
+        "beard"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "sorry",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "en": "sorry"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "please",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "en": "please"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "thank you",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "en": "thank you"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "nice",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "en": "nice"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "good",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "en": "good"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "atsiprašau",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "prašau",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "ačiū",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "malonu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "geras",
+      "type": "unknown"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "sorry",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "en": "sorry"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "please",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "en": "please"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "thank you",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "en": "thank you"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "nice",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "en": "nice"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "good",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "en": "good"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "atsiprašau",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "prašau",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "ačiū",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "malonu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "geras",
+      "type": "unknown"
+    }
+  ]
+}

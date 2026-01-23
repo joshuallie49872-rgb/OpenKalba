@@ -1,0 +1,236 @@
+{
+  "id": "009-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "please",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "en": "please"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "menu",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "en": "menu"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "bill",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "en": "bill"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "table",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "en": "table"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "coffee",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "en": "coffee"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "meniu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "sąskaita",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "stalas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "kava",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "prašau",
+      "type": "unknown"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "please",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "en": "please"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "menu",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "en": "menu"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "bill",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "en": "bill"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "table",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "en": "table"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "coffee",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "en": "coffee"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "meniu",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "sąskaita",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "stalas",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "kava",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "prašau",
+      "type": "unknown"
+    }
+  ]
+}

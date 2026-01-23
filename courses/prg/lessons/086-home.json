@@ -1,0 +1,306 @@
+{
+  "id": "086-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "spanstan",
+      "choices": [
+        "eyeball",
+        "paunch",
+        "spindle",
+        "knee"
+      ],
+      "tts": "spanstan",
+      "correct": [
+        "spindle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grawc",
+      "choices": [
+        "stove",
+        "rib",
+        "cheek",
+        "weathercock"
+      ],
+      "tts": "grawc",
+      "correct": [
+        "rib"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lapivarte",
+      "choices": [
+        "aftermath",
+        "heaven",
+        "wicket-gate",
+        "hayloft"
+      ],
+      "tts": "lapivarte",
+      "correct": [
+        "wicket-gate"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grebis",
+      "choices": [
+        "stroke",
+        "king",
+        "wicket-gate",
+        "gut"
+      ],
+      "tts": "grebis",
+      "correct": [
+        "gut"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kel'an",
+      "choices": [
+        "eyes",
+        "winter",
+        "lance",
+        "soul"
+      ],
+      "tts": "kel'an",
+      "correct": [
+        "lance"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rusis",
+      "choices": [
+        "mead",
+        "chaff",
+        "horse",
+        "threshold"
+      ],
+      "tts": "rusis",
+      "correct": [
+        "horse"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stranai",
+      "choices": [
+        "snot",
+        "loins",
+        "foam",
+        "steam"
+      ],
+      "tts": "stranai",
+      "correct": [
+        "loins"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nadclc",
+      "choices": [
+        "brook",
+        "sledge",
+        "sunday",
+        "axle"
+      ],
+      "tts": "nadclc",
+      "correct": [
+        "sunday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "snaigis",
+      "choices": [
+        "snow",
+        "aunt",
+        "shoulder-joint",
+        "meat"
+      ],
+      "tts": "snaigis",
+      "correct": [
+        "snow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stikle",
+      "choices": [
+        "grease",
+        "loins",
+        "flame",
+        "glass"
+      ],
+      "tts": "stikle",
+      "correct": [
+        "glass"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jur'ai",
+      "choices": [
+        "pole",
+        "sea",
+        "bran",
+        "mail"
+      ],
+      "tts": "jur'ai",
+      "correct": [
+        "sea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "valdvike",
+      "choices": [
+        "kindling-wood",
+        "plough-knife",
+        "knight",
+        "hub"
+      ],
+      "tts": "valdvike",
+      "correct": [
+        "knight"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lapinis",
+      "choices": [
+        "spoon",
+        "thigh",
+        "stove",
+        "gums"
+      ],
+      "tts": "lapinis",
+      "correct": [
+        "spoon"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "garbis",
+      "choices": [
+        "bone-marrow",
+        "aftermath",
+        "cheek",
+        "mountain"
+      ],
+      "tts": "garbis",
+      "correct": [
+        "mountain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stabis",
+      "choices": [
+        "stone",
+        "loins",
+        "grandfather",
+        "broth"
+      ],
+      "tts": "stabis",
+      "correct": [
+        "stone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kekers",
+      "choices": [
+        "pea",
+        "acre",
+        "tongue",
+        "gravel"
+      ],
+      "tts": "kekers",
+      "correct": [
+        "pea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "saltan",
+      "choices": [
+        "rye",
+        "bone-marrow",
+        "flitch",
+        "mother"
+      ],
+      "tts": "saltan",
+      "correct": [
+        "flitch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "perc",
+      "choices": [
+        "steam",
+        "life",
+        "yeast",
+        "shout"
+      ],
+      "tts": "perc",
+      "correct": [
+        "steam"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "padaubis",
+      "choices": [
+        "nephew",
+        "eyebrow",
+        "ashes",
+        "valley"
+      ],
+      "tts": "padaubis",
+      "correct": [
+        "valley"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "keitare",
+      "choices": [
+        "hailstones",
+        "belly",
+        "heaven",
+        "shoulder"
+      ],
+      "tts": "keitare",
+      "correct": [
+        "hailstones"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "namas",
+      "choices": [
+        "house",
+        "city",
+        "street",
+        "hotel"
+      ],
+      "tts": "namas",
+      "correct": [
+        "house"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "miestas",
+      "choices": [
+        "village",
+        "city",
+        "river",
+        "airport"
+      ],
+      "tts": "miestas",
+      "correct": [
+        "city"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "corner",
+        "bridge",
+        "park"
+      ],
+      "tts": "gatvė",
+      "correct": [
+        "street"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "kairė",
+      "correct": [
+        "left"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "here",
+        "there"
+      ],
+      "tts": "dešinė",
+      "correct": [
+        "right"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "stop"
+      ],
+      "tts": "tiesiai",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "čia",
+      "correct": [
+        "here"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "near",
+        "far"
+      ],
+      "tts": "ten",
+      "correct": [
+        "there"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "parduotuvė",
+      "choices": [
+        "store",
+        "station",
+        "restaurant",
+        "museum"
+      ],
+      "tts": "parduotuvė",
+      "correct": [
+        "store"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "airport",
+        "hotel",
+        "bank"
+      ],
+      "tts": "stotis",
+      "correct": [
+        "station"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "train",
+        "bridge",
+        "market"
+      ],
+      "tts": "oro uostas",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "house",
+        "school",
+        "hospital"
+      ],
+      "tts": "viešbutis",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "restoranas",
+      "choices": [
+        "restaurant",
+        "park",
+        "street",
+        "bridge"
+      ],
+      "tts": "restoranas",
+      "correct": [
+        "restaurant"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "tiltas",
+      "choices": [
+        "bridge",
+        "corner",
+        "square",
+        "river"
+      ],
+      "tts": "tiltas",
+      "correct": [
+        "bridge"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "kampas",
+      "choices": [
+        "corner",
+        "left",
+        "right",
+        "road"
+      ],
+      "tts": "kampas",
+      "correct": [
+        "corner"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "žemėlapis",
+      "choices": [
+        "map",
+        "ticket",
+        "room",
+        "food"
+      ],
+      "tts": "žemėlapis",
+      "correct": [
+        "map"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "aikštė",
+      "choices": [
+        "square",
+        "street",
+        "forest",
+        "lake"
+      ],
+      "tts": "aikštė",
+      "correct": [
+        "square"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "parkas",
+      "choices": [
+        "park",
+        "river",
+        "hotel",
+        "city"
+      ],
+      "tts": "parkas",
+      "correct": [
+        "park"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "upė",
+      "choices": [
+        "river",
+        "sea",
+        "mountain",
+        "airport"
+      ],
+      "tts": "upė",
+      "correct": [
+        "river"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "jūra",
+      "choices": [
+        "sea",
+        "river",
+        "bridge",
+        "road"
+      ],
+      "tts": "jūra",
+      "correct": [
+        "sea"
+      ],
+      "type": "choose"
+    }
+  ]
+}

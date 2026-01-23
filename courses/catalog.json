@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "courses": [
     {
       "code": "lt",
@@ -20,6 +20,28 @@
         "se",
         "no",
         "de"
+      ]
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": [
+        "de",
+        "en",
+        "et",
+        "fi",
+        "fr",
+        "is",
+        "lt",
+        "lv",
+        "mx",
+        "no",
+        "pl",
+        "ru",
+        "se",
+        "uk"
       ]
     },
     {
@@ -256,6 +278,49 @@
     {
       "code": "de",
       "name": "German",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "en",
+        "mx",
+        "pl",
+        "ru",
+        "et",
+        "lv",
+        "uk",
+        "is",
+        "fr",
+        "fi",
+        "se",
+        "no",
+        "de"
+      ]
+    },
+    {
+      "code": "prg",
+      "name": "Old Prussian",
+      "ready": true,
+      "hasAudio": false,
+      "nativeOverlays": [
+        "de",
+        "en",
+        "et",
+        "fi",
+        "fr",
+        "is",
+        "lt",
+        "lv",
+        "mx",
+        "no",
+        "pl",
+        "ru",
+        "se",
+        "uk"
+      ]
+    },
+    {
+      "code": "xtn",
+      "name": "Tlaxiaco Mixtec",
       "ready": true,
       "hasAudio": false,
       "nativeOverlays": [

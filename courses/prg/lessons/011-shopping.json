@@ -1,0 +1,306 @@
+{
+  "id": "011-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stube",
+      "choices": [
+        "knuckle",
+        "thunder",
+        "rampart",
+        "room"
+      ],
+      "tts": "stube",
+      "correct": [
+        "room"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stabini",
+      "choices": [
+        "mow",
+        "mare",
+        "stove",
+        "weir"
+      ],
+      "tts": "stabini",
+      "correct": [
+        "stove"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kaminis",
+      "choices": [
+        "chimney",
+        "mangle",
+        "reed",
+        "piggery"
+      ],
+      "tts": "kaminis",
+      "correct": [
+        "chimney"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelane",
+      "choices": [
+        "hearth",
+        "harrow",
+        "shoulder",
+        "knuckle"
+      ],
+      "tts": "pelane",
+      "correct": [
+        "hearth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "preglis",
+      "choices": [
+        "kindling-wood",
+        "joist",
+        "shout",
+        "bake-house"
+      ],
+      "tts": "preglis",
+      "correct": [
+        "kindling-wood"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pasuprcs",
+      "choices": [
+        "steam",
+        "shelf",
+        "oat",
+        "cartilage"
+      ],
+      "tts": "pasuprcs",
+      "correct": [
+        "shelf"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "staldis",
+      "choices": [
+        "broth",
+        "peasant",
+        "stable",
+        "army"
+      ],
+      "tts": "staldis",
+      "correct": [
+        "stable"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rinde",
+      "choices": [
+        "crib",
+        "kitchen",
+        "side",
+        "flame"
+      ],
+      "tts": "rinde",
+      "correct": [
+        "crib"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "abares",
+      "choices": [
+        "neck",
+        "manger",
+        "chain",
+        "finger"
+      ],
+      "tts": "abares",
+      "correct": [
+        "manger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "suweinis",
+      "choices": [
+        "ice",
+        "piggery",
+        "buttocks",
+        "fog"
+      ],
+      "tts": "suweinis",
+      "correct": [
+        "piggery"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "prakartis",
+      "choices": [
+        "drizzle",
+        "trough",
+        "nose",
+        "scabbard"
+      ],
+      "tts": "prakartis",
+      "correct": [
+        "trough"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lube",
+      "choices": [
+        "fire",
+        "flint",
+        "barn",
+        "grandmother"
+      ],
+      "tts": "lube",
+      "correct": [
+        "barn"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "teris",
+      "choices": [
+        "ploughman",
+        "hayloft",
+        "quern",
+        "flame"
+      ],
+      "tts": "teris",
+      "correct": [
+        "hayloft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plenis",
+      "choices": [
+        "gable",
+        "threshing-floor",
+        "rye",
+        "stubble"
+      ],
+      "tts": "plenis",
+      "correct": [
+        "threshing-floor"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ilmis",
+      "choices": [
+        "shed",
+        "mead",
+        "child",
+        "sword"
+      ],
+      "tts": "ilmis",
+      "correct": [
+        "shed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stcgc",
+      "choices": [
+        "awn",
+        "pig",
+        "shelf",
+        "mow"
+      ],
+      "tts": "stcgc",
+      "correct": [
+        "mow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "artejs",
+      "choices": [
+        "heaven",
+        "ploughman",
+        "harrow",
+        "rush"
+      ],
+      "tts": "artejs",
+      "correct": [
+        "ploughman"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zamen acc. sg.",
+      "choices": [
+        "dog",
+        "soil",
+        "flame",
+        "loins"
+      ],
+      "tts": "zamen acc. sg.",
+      "correct": [
+        "soil"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gaste",
+      "choices": [
+        "cart",
+        "yeast",
+        "oat",
+        "plot"
+      ],
+      "tts": "gaste",
+      "correct": [
+        "plot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mergis",
+      "choices": [
+        "shield",
+        "bran",
+        "acre",
+        "mail"
+      ],
+      "tts": "mergis",
+      "correct": [
+        "acre"
+      ],
+      "type": "choose"
+    }
+  ]
+}

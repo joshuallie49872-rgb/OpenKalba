@@ -1,0 +1,306 @@
+{
+  "id": "005-basics",
+  "title": "Basics 5",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tlaxiaco",
+      "choices": [
+        "están ellas aquí",
+        "con",
+        "completivo",
+        "xch [ʃtʃ]"
+      ],
+      "tts": "tlaxiaco",
+      "correct": [
+        "completivo"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jaꞌankuei",
+      "choices": [
+        "quince",
+        "fueron",
+        "soda (líquido + sweet)",
+        "causativo"
+      ],
+      "tts": "jaꞌankuei",
+      "correct": [
+        "fueron"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kokoto",
+      "choices": [
+        "doblar, quebrar",
+        "hermano de man",
+        "brincar",
+        "habitual-cuidará él"
+      ],
+      "tts": "kokoto",
+      "correct": [
+        "habitual-cuidará él"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "lelu",
+      "choices": [
+        "dice",
+        "bendito",
+        "con",
+        "borreguitos"
+      ],
+      "tts": "lelu",
+      "correct": [
+        "borreguitos"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kokaka",
+      "choices": [
+        "saber",
+        "cerrará",
+        "compraré más",
+        "habitual-caminarán"
+      ],
+      "tts": "kokaka",
+      "correct": [
+        "habitual-caminarán"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ondite",
+      "choices": [
+        "habitual-ayunaba él muchas",
+        "completivo plural pidieron",
+        "completivo hubo",
+        "completivo emborrachó"
+      ],
+      "tts": "ondite",
+      "correct": [
+        "habitual-ayunaba él muchas"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kata",
+      "choices": [
+        "dormirá",
+        "ocotal",
+        "cantaré",
+        "comió hijo mi"
+      ],
+      "tts": "kata",
+      "correct": [
+        "cantaré"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "joo",
+      "choices": [
+        "poco",
+        "iré",
+        "today",
+        "anoche"
+      ],
+      "tts": "joo",
+      "correct": [
+        "poco"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "xixi",
+      "choices": [
+        "tía",
+        "brotará",
+        "así, de aquella manera",
+        "cargo"
+      ],
+      "tts": "xixi",
+      "correct": [
+        "tía"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jika",
+      "choices": [
+        "envejecer (ponerse + grande)",
+        "sabe",
+        "camina",
+        "comprar"
+      ],
+      "tts": "jika",
+      "correct": [
+        "camina"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndia",
+      "choices": [
+        "chikin",
+        "canta",
+        "comerán",
+        "bastante"
+      ],
+      "tts": "ndia",
+      "correct": [
+        "bastante"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "saꞌun",
+      "choices": [
+        "carne",
+        "limón",
+        "completamente",
+        "anoche"
+      ],
+      "tts": "saꞌun",
+      "correct": [
+        "completamente"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jaa",
+      "choices": [
+        "hombres",
+        "seco",
+        "como",
+        "hombro"
+      ],
+      "tts": "jaa",
+      "correct": [
+        "como"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaa",
+      "choices": [
+        "comeré mucho más",
+        "comeré mucho",
+        "pájaro",
+        "morirá"
+      ],
+      "tts": "kaa",
+      "correct": [
+        "comeré mucho más"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaa",
+      "choices": [
+        "progresivo-crece",
+        "sombrero mi",
+        "comeré mucho",
+        "cargar o poner encima de algo"
+      ],
+      "tts": "kaa",
+      "correct": [
+        "comeré mucho"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jita",
+      "choices": [
+        "canta",
+        "quelite",
+        "comeré mucho",
+        "hombres"
+      ],
+      "tts": "jita",
+      "correct": [
+        "canta"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "maa",
+      "choices": [
+        "carne",
+        "énfasis",
+        "¿quién sabe?",
+        "trash"
+      ],
+      "tts": "maa",
+      "correct": [
+        "énfasis"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "oo",
+      "choices": [
+        "carne",
+        "aquel",
+        "favor",
+        "están ellas aquí"
+      ],
+      "tts": "oo",
+      "correct": [
+        "están ellas aquí"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kiꞌin",
+      "choices": [
+        "hasta",
+        "cabeza",
+        "iré",
+        "completivo plural buscaron ellos man violinista"
+      ],
+      "tts": "kiꞌin",
+      "correct": [
+        "iré"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kao",
+      "choices": [
+        "con padre mi",
+        "rápidamente",
+        "trabajan",
+        "comeremos-nosotros"
+      ],
+      "tts": "kao",
+      "correct": [
+        "comeremos-nosotros"
+      ],
+      "type": "choose"
+    }
+  ]
+}

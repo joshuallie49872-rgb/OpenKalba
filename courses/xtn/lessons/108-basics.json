@@ -1,0 +1,306 @@
+{
+  "id": "108-basics",
+  "title": "Basics 108",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndee",
+      "choices": [
+        "chiukun kuii, ",
+        "face",
+        "culebra",
+        "go down"
+      ],
+      "tts": "ndee",
+      "correct": [
+        "go down"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yaꞌa",
+      "choices": [
+        "(forma de kii ‘venir’)",
+        "chile",
+        "cerro pelón",
+        "cabeza árbol"
+      ],
+      "tts": "yaꞌa",
+      "correct": [
+        "chili pepper"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "vita",
+      "choices": [
+        "(forma de noꞌo ‘ir a base’)",
+        "soft",
+        "varón",
+        "mucho, muchos"
+      ],
+      "tts": "vita",
+      "correct": [
+        "soft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "vitna",
+      "choices": [
+        "today",
+        "cargar o poner encima de algo",
+        "cargar o poner encima",
+        "today, ahora"
+      ],
+      "tts": "vitna",
+      "correct": [
+        "today"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuita",
+      "choices": [
+        "con",
+        "nacer",
+        "get tired",
+        "cargar o poner encima de algo"
+      ],
+      "tts": "kuita",
+      "correct": [
+        "get tired"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaa",
+      "choices": [
+        "poco",
+        "hiciste",
+        "eat",
+        "así"
+      ],
+      "tts": "kaa",
+      "correct": [
+        "eat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "nuu",
+      "choices": [
+        "vendió él",
+        "face",
+        "casa",
+        "hueso"
+      ],
+      "tts": "nuu",
+      "correct": [
+        "face"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "petate",
+      "choices": [
+        "día",
+        "está poco",
+        "río",
+        "casa"
+      ],
+      "tts": "petate",
+      "correct": [
+        "house"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "noꞌo",
+      "choices": [
+        "soft",
+        "habitual-caminarán",
+        "favor",
+        "quince"
+      ],
+      "tts": "noꞌo",
+      "correct": [
+        "quince"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tnuyuja",
+      "choices": [
+        "sacar",
+        "ocote (árbol + paja)",
+        "soda",
+        "completivo plural buscaron ellos man violinista"
+      ],
+      "tts": "tnuyuja",
+      "correct": [
+        "ocote (árbol + paja)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tevixin",
+      "choices": [
+        "irá",
+        "chi-",
+        "comió",
+        "soda (líquido + sweet)"
+      ],
+      "tts": "tevixin",
+      "correct": [
+        "soda (líquido + sweet)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "vekaa",
+      "choices": [
+        "irás",
+        "cárcel",
+        "cenar (kaa eatr’ + xini ‘noche’)",
+        "trabajar"
+      ],
+      "tts": "vekaa",
+      "correct": [
+        "cárcel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "toro",
+      "choices": [
+        "chivo",
+        "decir ndakaꞌan",
+        "casa",
+        "comió"
+      ],
+      "tts": "toro",
+      "correct": [
+        "chivo"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuekuee",
+      "choices": [
+        "están ellas aquí",
+        "énfasis él",
+        "sí, sí",
+        "venderán"
+      ],
+      "tts": "kuekuee",
+      "correct": [
+        "sí, sí"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "itu",
+      "choices": [
+        "camina",
+        "culebra adentro milpa",
+        "canta",
+        "seco"
+      ],
+      "tts": "itu",
+      "correct": [
+        "culebra adentro milpa"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "oo",
+      "choices": [
+        "hay",
+        "cargar o poner encima",
+        "así",
+        "hasta"
+      ],
+      "tts": "oo",
+      "correct": [
+        "hay"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jaa",
+      "choices": [
+        "así, de esta manera",
+        "eat",
+        "come",
+        "comeremos-nosotros"
+      ],
+      "tts": "jaa",
+      "correct": [
+        "come"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "juan",
+      "choices": [
+        "bendito",
+        "trabajan",
+        "comió nomás",
+        "completivo"
+      ],
+      "tts": "juan",
+      "correct": [
+        "trabajan"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jinu",
+      "choices": [
+        "desaparecer",
+        "así",
+        "doblar, quebrar",
+        "corre"
+      ],
+      "tts": "jinu",
+      "correct": [
+        "corre"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaa",
+      "choices": [
+        "hombres",
+        "hija",
+        "comerá",
+        "con"
+      ],
+      "tts": "kaa",
+      "correct": [
+        "comerá"
+      ],
+      "type": "choose"
+    }
+  ]
+}

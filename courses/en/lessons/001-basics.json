@@ -1,0 +1,306 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "tts": "hello",
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "en": "hello"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "tts": "thank you",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "en": "thank you"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "tts": "yes",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "en": "yes"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "tts": "no",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "en": "no"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "tts": "please / you're welcome",
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "en": "please / you're welcome"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "tts": "excuse me / sorry",
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "en": "excuse me / sorry"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "tts": "goodbye",
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "en": "goodbye"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "tts": "see you",
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "en": "see you"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "tts": "okay / good",
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "en": "okay / good"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "tts": "badly",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "en": "badly"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "labas"
+      ],
+      "tts": "labas",
+      "correct": [
+        "labas"
+      ],
+      "en": "labas",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "ačiū"
+      ],
+      "tts": "ačiū",
+      "correct": [
+        "ačiū"
+      ],
+      "en": "ačiū",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "taip"
+      ],
+      "tts": "taip",
+      "correct": [
+        "taip"
+      ],
+      "en": "taip",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "ne"
+      ],
+      "tts": "ne",
+      "correct": [
+        "ne"
+      ],
+      "en": "ne",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "prašau"
+      ],
+      "tts": "prašau",
+      "correct": [
+        "prašau"
+      ],
+      "en": "prašau",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "atsiprašau"
+      ],
+      "tts": "atsiprašau",
+      "correct": [
+        "atsiprašau"
+      ],
+      "en": "atsiprašau",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "viso gero"
+      ],
+      "tts": "viso gero",
+      "correct": [
+        "viso gero"
+      ],
+      "en": "viso gero",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "iki"
+      ],
+      "tts": "iki",
+      "correct": [
+        "iki"
+      ],
+      "en": "iki",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "gerai"
+      ],
+      "tts": "gerai",
+      "correct": [
+        "gerai"
+      ],
+      "en": "gerai",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "blogai"
+      ],
+      "tts": "blogai",
+      "correct": [
+        "blogai"
+      ],
+      "en": "blogai",
+      "type": "choose",
+      "placeholder": "Type Lithuanian…"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "138-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "drugis",
+      "choices": [
+        "drizzle",
+        "wednesday",
+        "reed",
+        "prick"
+      ],
+      "tts": "drugis",
+      "correct": [
+        "reed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kragis",
+      "choices": [
+        "shelf",
+        "jug",
+        "maiden",
+        "palate"
+      ],
+      "tts": "kragis",
+      "correct": [
+        "jug"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "likutkekers",
+      "choices": [
+        "lentil",
+        "millet",
+        "windpipe",
+        "winter"
+      ],
+      "tts": "likutkekers",
+      "correct": [
+        "lentil"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klumpis",
+      "choices": [
+        "skin",
+        "chair",
+        "malt",
+        "cloud"
+      ],
+      "tts": "klumpis",
+      "correct": [
+        "chair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "valti",
+      "choices": [
+        "ear",
+        "soil",
+        "shoulder-blade",
+        "breast"
+      ],
+      "tts": "valti",
+      "correct": [
+        "ear"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "keksti",
+      "choices": [
+        "plait",
+        "hay",
+        "besom",
+        "kettle"
+      ],
+      "tts": "keksti",
+      "correct": [
+        "plait"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "aubirge",
+      "choices": [
+        "cook",
+        "shoulder",
+        "seed",
+        "cartilage"
+      ],
+      "tts": "aubirge",
+      "correct": [
+        "cook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lait'an",
+      "choices": [
+        "intestines",
+        "sausage",
+        "tinder",
+        "bruise"
+      ],
+      "tts": "lait'an",
+      "correct": [
+        "sausage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pipelis",
+      "choices": [
+        "grab",
+        "ear",
+        "bird",
+        "nephew"
+      ],
+      "tts": "pipelis",
+      "correct": [
+        "bird"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "draztus",
+      "choices": [
+        "hub",
+        "saturday",
+        "child",
+        "paunch"
+      ],
+      "tts": "draztus",
+      "correct": [
+        "paunch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jur'ai",
+      "choices": [
+        "tree",
+        "sea",
+        "barley",
+        "breast"
+      ],
+      "tts": "jur'ai",
+      "correct": [
+        "sea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelane",
+      "choices": [
+        "vetch",
+        "kindling-wood",
+        "hearth",
+        "mountain"
+      ],
+      "tts": "pelane",
+      "correct": [
+        "hearth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bruzgis, bruzgis",
+      "choices": [
+        "whip",
+        "hub",
+        "clover",
+        "dagger"
+      ],
+      "tts": "bruzgis, bruzgis",
+      "correct": [
+        "whip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "asilis",
+      "choices": [
+        "landowner",
+        "donkey",
+        "plait",
+        "earth"
+      ],
+      "tts": "asilis",
+      "correct": [
+        "donkey"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunakelan",
+      "choices": [
+        "mountain",
+        "goblet",
+        "mill-wheel",
+        "lip"
+      ],
+      "tts": "malunakelan",
+      "correct": [
+        "mill-wheel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varzus",
+      "choices": [
+        "meninx",
+        "kettle",
+        "lip",
+        "besom"
+      ],
+      "tts": "varzus",
+      "correct": [
+        "lip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dantimaks",
+      "choices": [
+        "mouldboard",
+        "knuckle",
+        "foam",
+        "gums"
+      ],
+      "tts": "dantimaks",
+      "correct": [
+        "gums"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dangus",
+      "choices": [
+        "palate",
+        "spark",
+        "tyre",
+        "nape"
+      ],
+      "tts": "dangus",
+      "correct": [
+        "palate"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eizis",
+      "choices": [
+        "fist",
+        "father-in-law",
+        "kettle",
+        "barley"
+      ],
+      "tts": "m...eizis",
+      "correct": [
+        "barley"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "instiks",
+      "choices": [
+        "bake-house",
+        "swamp",
+        "flint",
+        "thumb"
+      ],
+      "tts": "instiks",
+      "correct": [
+        "thumb"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "106-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "instiks",
+      "choices": [
+        "bay",
+        "bulb",
+        "thumb",
+        "wine"
+      ],
+      "tts": "instiks",
+      "correct": [
+        "thumb"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "b...erdus",
+      "choices": [
+        "beard",
+        "flitch",
+        "helmet",
+        "shed"
+      ],
+      "tts": "b...erdus",
+      "correct": [
+        "beard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mclinc",
+      "choices": [
+        "lentil",
+        "bed",
+        "bruise",
+        "wound"
+      ],
+      "tts": "mclinc",
+      "correct": [
+        "bruise"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "netis",
+      "choices": [
+        "wall",
+        "nettle",
+        "stroke",
+        "rye"
+      ],
+      "tts": "netis",
+      "correct": [
+        "nettle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krauje",
+      "choices": [
+        "blood",
+        "crib",
+        "year",
+        "shed"
+      ],
+      "tts": "krauje",
+      "correct": [
+        "blood"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "galis",
+      "choices": [
+        "wind",
+        "death",
+        "shout",
+        "bean"
+      ],
+      "tts": "galis",
+      "correct": [
+        "death"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunastabis",
+      "choices": [
+        "millstone",
+        "cheek",
+        "scabbard",
+        "spleen"
+      ],
+      "tts": "malunastabis",
+      "correct": [
+        "millstone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vikis",
+      "choices": [
+        "plot",
+        "grandfather",
+        "vetch",
+        "shutter"
+      ],
+      "tts": "vikis",
+      "correct": [
+        "vetch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "garbis",
+      "choices": [
+        "grass",
+        "shoulder",
+        "barrel",
+        "mountain"
+      ],
+      "tts": "garbis",
+      "correct": [
+        "mountain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ka...ulan",
+      "choices": [
+        "stars",
+        "side",
+        "bone",
+        "plait"
+      ],
+      "tts": "ka...ulan",
+      "correct": [
+        "bone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vin'agavus",
+      "choices": [
+        "tinder",
+        "mustard",
+        "house",
+        "grape"
+      ],
+      "tts": "vin'agavus",
+      "correct": [
+        "grape"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skalus",
+      "choices": [
+        "knee",
+        "foam",
+        "heart",
+        "chin"
+      ],
+      "tts": "skalus",
+      "correct": [
+        "chin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pedalis",
+      "choices": [
+        "tree",
+        "peasant",
+        "pot",
+        "worker"
+      ],
+      "tts": "pedalis",
+      "correct": [
+        "pot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kaivc",
+      "choices": [
+        "calves",
+        "stone",
+        "ploughshare",
+        "mare"
+      ],
+      "tts": "kaivc",
+      "correct": [
+        "mare"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "salus",
+      "choices": [
+        "uncle",
+        "brook",
+        "lake",
+        "hayloft"
+      ],
+      "tts": "salus",
+      "correct": [
+        "brook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "anc",
+      "choices": [
+        "sieve",
+        "grandmother",
+        "tongue",
+        "kettle"
+      ],
+      "tts": "anc",
+      "correct": [
+        "grandmother"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mari",
+      "choices": [
+        "aunt",
+        "kettle",
+        "bay",
+        "besom"
+      ],
+      "tts": "mari",
+      "correct": [
+        "bay"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "snekstis",
+      "choices": [
+        "sea",
+        "snot",
+        "wind",
+        "bird"
+      ],
+      "tts": "snekstis",
+      "correct": [
+        "snot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kaminis",
+      "choices": [
+        "grandfather",
+        "ears",
+        "beard",
+        "chimney"
+      ],
+      "tts": "kaminis",
+      "correct": [
+        "chimney"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plcnis",
+      "choices": [
+        "meninx",
+        "weathercock",
+        "stepdaughter",
+        "tongue"
+      ],
+      "tts": "plcnis",
+      "correct": [
+        "meninx"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "034-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinis",
+      "choices": [
+        "ravine",
+        "threshing-floor",
+        "flint",
+        "spigot"
+      ],
+      "tts": "vinis",
+      "correct": [
+        "spigot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "instran",
+      "choices": [
+        "wine",
+        "eyeball",
+        "grease",
+        "shutter"
+      ],
+      "tts": "instran",
+      "correct": [
+        "grease"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pentiniks",
+      "choices": [
+        "friday",
+        "aftermath",
+        "chaff",
+        "drizzle"
+      ],
+      "tts": "pentiniks",
+      "correct": [
+        "friday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laste",
+      "choices": [
+        "milk",
+        "bed",
+        "house",
+        "gut"
+      ],
+      "tts": "laste",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gewincjs",
+      "choices": [
+        "sledge",
+        "worker",
+        "father-in-law",
+        "stallion"
+      ],
+      "tts": "gewincjs",
+      "correct": [
+        "worker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bruvi",
+      "choices": [
+        "threshold",
+        "bulb",
+        "grains",
+        "eyebrow"
+      ],
+      "tts": "bruvi",
+      "correct": [
+        "eyebrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sp...enksti",
+      "choices": [
+        "hair",
+        "winter",
+        "encampment",
+        "spark"
+      ],
+      "tts": "sp...enksti",
+      "correct": [
+        "spark"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pasuprcs",
+      "choices": [
+        "stars",
+        "grandfather",
+        "shelf",
+        "rush"
+      ],
+      "tts": "pasuprcs",
+      "correct": [
+        "shelf"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "preglis",
+      "choices": [
+        "arm",
+        "bread",
+        "wheel",
+        "kindling-wood"
+      ],
+      "tts": "preglis",
+      "correct": [
+        "kindling-wood"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vizc",
+      "choices": [
+        "swingletree",
+        "poppy",
+        "cloud",
+        "oat"
+      ],
+      "tts": "vizc",
+      "correct": [
+        "oat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "galu",
+      "choices": [
+        "fall",
+        "seed",
+        "flake-ashes",
+        "gall"
+      ],
+      "tts": "galu",
+      "correct": [
+        "gall"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krcslan",
+      "choices": [
+        "crib",
+        "arm-chair",
+        "hayloft",
+        "mountain"
+      ],
+      "tts": "krcslan",
+      "correct": [
+        "arm-chair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strambe",
+      "choices": [
+        "yeast",
+        "thursday",
+        "stubble",
+        "barrel"
+      ],
+      "tts": "strambe",
+      "correct": [
+        "stubble"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stcgc",
+      "choices": [
+        "mow",
+        "shield",
+        "mare",
+        "bean"
+      ],
+      "tts": "stcgc",
+      "correct": [
+        "mow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kar'angus",
+      "choices": [
+        "arm",
+        "barley",
+        "stepmother",
+        "flag"
+      ],
+      "tts": "kar'angus",
+      "correct": [
+        "flag"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strigene",
+      "choices": [
+        "clay",
+        "bone-marrow",
+        "barley",
+        "spark"
+      ],
+      "tts": "strigene",
+      "correct": [
+        "bone-marrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "anglis",
+      "choices": [
+        "king",
+        "corner",
+        "coal",
+        "corpse"
+      ],
+      "tts": "anglis",
+      "correct": [
+        "coal"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mirklinc",
+      "choices": [
+        "house",
+        "drizzle",
+        "swamp",
+        "bone-marrow"
+      ],
+      "tts": "mirklinc",
+      "correct": [
+        "drizzle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klentc",
+      "choices": [
+        "cow",
+        "wine",
+        "ditch",
+        "spleen"
+      ],
+      "tts": "klentc",
+      "correct": [
+        "cow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skebelis",
+      "choices": [
+        "chimney",
+        "hair",
+        "pea",
+        "shoulder"
+      ],
+      "tts": "skebelis",
+      "correct": [
+        "hair"
+      ],
+      "type": "choose"
+    }
+  ]
+}

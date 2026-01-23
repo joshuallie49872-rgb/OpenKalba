@@ -1,0 +1,306 @@
+{
+  "id": "118-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "birgakartis",
+      "choices": [
+        "dipper",
+        "jug",
+        "grandfather",
+        "frost"
+      ],
+      "tts": "birgakartis",
+      "correct": [
+        "dipper"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pemetrc",
+      "choices": [
+        "stepmother",
+        "stomach",
+        "malt",
+        "millet"
+      ],
+      "tts": "pemetrc",
+      "correct": [
+        "stepmother"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varzus",
+      "choices": [
+        "lip",
+        "hip",
+        "snot",
+        "snow"
+      ],
+      "tts": "varzus",
+      "correct": [
+        "lip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vins",
+      "choices": [
+        "air",
+        "king",
+        "elbow",
+        "navel"
+      ],
+      "tts": "vins",
+      "correct": [
+        "air"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tctis",
+      "choices": [
+        "spigot",
+        "sieve",
+        "grandfather",
+        "chaff"
+      ],
+      "tts": "tctis",
+      "correct": [
+        "grandfather"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "d...enge",
+      "choices": [
+        "hoop",
+        "chaff",
+        "malt",
+        "prick"
+      ],
+      "tts": "d...enge",
+      "correct": [
+        "hoop"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pan'auke",
+      "choices": [
+        "yeast",
+        "broth",
+        "pan",
+        "smoke"
+      ],
+      "tts": "pan'auke",
+      "correct": [
+        "pan"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kuntis",
+      "choices": [
+        "fist",
+        "mill",
+        "lip",
+        "cart"
+      ],
+      "tts": "kuntis",
+      "correct": [
+        "fist"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pintis",
+      "choices": [
+        "winter",
+        "tinder",
+        "ploughman",
+        "soul"
+      ],
+      "tts": "pintis",
+      "correct": [
+        "tinder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vin'agavus",
+      "choices": [
+        "mouth",
+        "head",
+        "life",
+        "grape"
+      ],
+      "tts": "vin'agavus",
+      "correct": [
+        "grape"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nagutis",
+      "choices": [
+        "frost",
+        "hemp",
+        "seed",
+        "nail"
+      ],
+      "tts": "nagutis",
+      "correct": [
+        "nail"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabis",
+      "choices": [
+        "navel",
+        "stroke",
+        "harrow",
+        "flitch"
+      ],
+      "tts": "nabis",
+      "correct": [
+        "navel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "atelis",
+      "choices": [
+        "foam",
+        "buttocks",
+        "gums",
+        "aftermath"
+      ],
+      "tts": "atelis",
+      "correct": [
+        "aftermath"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "saitan",
+      "choices": [
+        "air",
+        "grandmother",
+        "sieve",
+        "chain"
+      ],
+      "tts": "saitan",
+      "correct": [
+        "sieve"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "garkiti",
+      "choices": [
+        "mustard",
+        "bran",
+        "uncle",
+        "straw"
+      ],
+      "tts": "garkiti",
+      "correct": [
+        "mustard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "undan",
+      "choices": [
+        "wicket-gate",
+        "meal",
+        "mouth",
+        "water"
+      ],
+      "tts": "undan",
+      "correct": [
+        "water"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bedis",
+      "choices": [
+        "prick",
+        "eyes",
+        "aunt",
+        "hearth"
+      ],
+      "tts": "bedis",
+      "correct": [
+        "prick"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skritailc",
+      "choices": [
+        "kitchen",
+        "rim",
+        "pot",
+        "grandmother"
+      ],
+      "tts": "skritailc",
+      "correct": [
+        "rim"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sabatike",
+      "choices": [
+        "clover",
+        "milk",
+        "saturday",
+        "rain"
+      ],
+      "tts": "sabatike",
+      "correct": [
+        "saturday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klumpis",
+      "choices": [
+        "skin",
+        "chair",
+        "mountain",
+        "whip"
+      ],
+      "tts": "klumpis",
+      "correct": [
+        "chair"
+      ],
+      "type": "choose"
+    }
+  ]
+}

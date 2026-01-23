@@ -1,0 +1,306 @@
+{
+  "id": "070-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "l...epis",
+      "choices": [
+        "chaff",
+        "hay",
+        "flame",
+        "corn-cockle"
+      ],
+      "tts": "l...epis",
+      "correct": [
+        "flame"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kelan",
+      "choices": [
+        "basin",
+        "armour",
+        "wheel",
+        "landowner"
+      ],
+      "tts": "kelan",
+      "correct": [
+        "wheel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "minsavc",
+      "choices": [
+        "knuckle",
+        "wheat",
+        "palate",
+        "basin"
+      ],
+      "tts": "minsavc",
+      "correct": [
+        "basin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "atelis",
+      "choices": [
+        "soil",
+        "pan",
+        "aftermath",
+        "wicket-gate"
+      ],
+      "tts": "atelis",
+      "correct": [
+        "aftermath"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skalus",
+      "choices": [
+        "chin",
+        "rain",
+        "monday",
+        "meal"
+      ],
+      "tts": "skalus",
+      "correct": [
+        "chin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pikuls",
+      "choices": [
+        "hell",
+        "thumb",
+        "wall",
+        "sledge"
+      ],
+      "tts": "pikuls",
+      "correct": [
+        "hell"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "garkiti",
+      "choices": [
+        "plot",
+        "hemp",
+        "rye",
+        "mustard"
+      ],
+      "tts": "garkiti",
+      "correct": [
+        "mustard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sargstis",
+      "choices": [
+        "fall",
+        "gall",
+        "hay",
+        "scabbard"
+      ],
+      "tts": "sargstis",
+      "correct": [
+        "scabbard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "medu",
+      "choices": [
+        "intestines",
+        "honey",
+        "finger",
+        "plough-tail"
+      ],
+      "tts": "medu",
+      "correct": [
+        "honey"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sunis",
+      "choices": [
+        "axle",
+        "dog",
+        "burdock",
+        "life"
+      ],
+      "tts": "sunis",
+      "correct": [
+        "dog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strigene",
+      "choices": [
+        "flake-ashes",
+        "bone-marrow",
+        "sand",
+        "angel"
+      ],
+      "tts": "strigene",
+      "correct": [
+        "bone-marrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "seste",
+      "choices": [
+        "stepson",
+        "bench",
+        "tooth",
+        "mule"
+      ],
+      "tts": "seste",
+      "correct": [
+        "bench"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "liskis, liskis",
+      "choices": [
+        "loins",
+        "encampment",
+        "malt",
+        "cartilage"
+      ],
+      "tts": "liskis, liskis",
+      "correct": [
+        "encampment"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varte",
+      "choices": [
+        "autumn",
+        "door",
+        "bone",
+        "knee"
+      ],
+      "tts": "varte",
+      "correct": [
+        "door"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ebilis",
+      "choices": [
+        "shield",
+        "grab",
+        "week",
+        "clover"
+      ],
+      "tts": "ebilis",
+      "correct": [
+        "clover"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gravinc",
+      "choices": [
+        "chin",
+        "forearm",
+        "hearth",
+        "side-board"
+      ],
+      "tts": "gravinc",
+      "correct": [
+        "side-board"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "prasan",
+      "choices": [
+        "millet",
+        "son",
+        "poppy",
+        "monday"
+      ],
+      "tts": "prasan",
+      "correct": [
+        "millet"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "akins [acc.pl.fem.]",
+      "choices": [
+        "moustache",
+        "shed",
+        "mouldboard",
+        "eyes"
+      ],
+      "tts": "akins [acc.pl.fem.]",
+      "correct": [
+        "eyes"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tctis",
+      "choices": [
+        "spoon",
+        "gate",
+        "grandfather",
+        "wind"
+      ],
+      "tts": "tctis",
+      "correct": [
+        "grandfather"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunis",
+      "choices": [
+        "mill",
+        "sword",
+        "clover",
+        "wall"
+      ],
+      "tts": "malunis",
+      "correct": [
+        "mill"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "075-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lunkis",
+      "choices": [
+        "corner",
+        "nostril",
+        "scabbard",
+        "moon"
+      ],
+      "tts": "lunkis",
+      "correct": [
+        "corner"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pemetrc",
+      "choices": [
+        "ambler",
+        "nephew",
+        "house",
+        "stepmother"
+      ],
+      "tts": "pemetrc",
+      "correct": [
+        "stepmother"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laise",
+      "choices": [
+        "shelf",
+        "alumina",
+        "honey",
+        "hell"
+      ],
+      "tts": "laise",
+      "correct": [
+        "alumina"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mcnikis",
+      "choices": [
+        "mountain",
+        "sword",
+        "moon",
+        "bench"
+      ],
+      "tts": "mcnikis",
+      "correct": [
+        "moon"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vizc",
+      "choices": [
+        "pan",
+        "rope",
+        "oat",
+        "snow"
+      ],
+      "tts": "vizc",
+      "correct": [
+        "oat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pasuprcs",
+      "choices": [
+        "donkey",
+        "fever",
+        "tuesday",
+        "shelf"
+      ],
+      "tts": "pasuprcs",
+      "correct": [
+        "shelf"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vctre",
+      "choices": [
+        "wind",
+        "bulb",
+        "ashes",
+        "grains"
+      ],
+      "tts": "vctre",
+      "correct": [
+        "wind"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nesi",
+      "choices": [
+        "thursday",
+        "nose",
+        "sword",
+        "vertex"
+      ],
+      "tts": "nesi",
+      "correct": [
+        "nose"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lait'an",
+      "choices": [
+        "sausage",
+        "uncle",
+        "plait",
+        "chair"
+      ],
+      "tts": "lait'an",
+      "correct": [
+        "sausage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "perc",
+      "choices": [
+        "stubble",
+        "steam",
+        "mare",
+        "handle"
+      ],
+      "tts": "perc",
+      "correct": [
+        "steam"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunastabis",
+      "choices": [
+        "millstone",
+        "king",
+        "reed",
+        "spindle"
+      ],
+      "tts": "malunastabis",
+      "correct": [
+        "millstone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "slaunis",
+      "choices": [
+        "thigh",
+        "dipper",
+        "sausage",
+        "arm"
+      ],
+      "tts": "slaunis",
+      "correct": [
+        "thigh"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabis",
+      "choices": [
+        "chair",
+        "helmet",
+        "window",
+        "navel"
+      ],
+      "tts": "nabis",
+      "correct": [
+        "navel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "riklis",
+      "choices": [
+        "ashes",
+        "heel",
+        "loft",
+        "kidney"
+      ],
+      "tts": "riklis",
+      "correct": [
+        "loft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gaidis",
+      "choices": [
+        "wheat",
+        "whetstone",
+        "nostril",
+        "son"
+      ],
+      "tts": "gaidis",
+      "correct": [
+        "wheat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nopless",
+      "choices": [
+        "window",
+        "mangle",
+        "prick",
+        "air"
+      ],
+      "tts": "nopless",
+      "correct": [
+        "mangle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kel'an",
+      "choices": [
+        "flint",
+        "cartilage",
+        "spindle",
+        "lance"
+      ],
+      "tts": "kel'an",
+      "correct": [
+        "lance"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kunklis",
+      "choices": [
+        "flame",
+        "corn-cockle",
+        "weathercock",
+        "ambler"
+      ],
+      "tts": "kunklis",
+      "correct": [
+        "corn-cockle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "asis",
+      "choices": [
+        "axle",
+        "rampart",
+        "autumn",
+        "pea"
+      ],
+      "tts": "asis",
+      "correct": [
+        "axle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lube",
+      "choices": [
+        "saddle-maker",
+        "nettle",
+        "shoulder-joint",
+        "barn"
+      ],
+      "tts": "lube",
+      "correct": [
+        "barn"
+      ],
+      "type": "choose"
+    }
+  ]
+}

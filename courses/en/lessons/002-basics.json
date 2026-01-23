@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "one",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "en": "one"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "two",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "en": "two"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "three",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "en": "three"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "four",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "en": "four"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "five",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "en": "five"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "red",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "en": "red"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "blue",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "en": "blue"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "green",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "en": "green"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "black",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "en": "black"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "white",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "en": "white"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "mother",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "en": "mother"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "father",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "en": "father"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "brother",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "en": "brother"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "sister",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "en": "sister"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "family",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "en": "family"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "water",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "en": "water"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "coffee",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "en": "coffee"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "bread",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "en": "bread"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "hotel",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "en": "hotel"
+    },
+    {
+      "prompt": "Pick the word you hear",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "ticket",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "en": "ticket"
+    }
+  ]
+}

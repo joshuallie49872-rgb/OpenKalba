@@ -1,0 +1,306 @@
+{
+  "id": "122-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "salus",
+      "choices": [
+        "brook",
+        "alumina",
+        "harrow",
+        "ashes"
+      ],
+      "tts": "salus",
+      "correct": [
+        "brook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "paiteran",
+      "choices": [
+        "yeast",
+        "head",
+        "cook",
+        "pleiades"
+      ],
+      "tts": "paiteran",
+      "correct": [
+        "pleiades"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dantimaks",
+      "choices": [
+        "river",
+        "garden-bed",
+        "gums",
+        "mill"
+      ],
+      "tts": "dantimaks",
+      "correct": [
+        "gums"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "akans",
+      "choices": [
+        "shed",
+        "awn",
+        "lentil",
+        "mother"
+      ],
+      "tts": "akans",
+      "correct": [
+        "awn"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelve",
+      "choices": [
+        "bird",
+        "dog",
+        "chaff",
+        "tuesday"
+      ],
+      "tts": "pelve",
+      "correct": [
+        "chaff"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabis",
+      "choices": [
+        "navel",
+        "wheel",
+        "stubble",
+        "stable"
+      ],
+      "tts": "nabis",
+      "correct": [
+        "navel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "metan",
+      "choices": [
+        "year",
+        "nose",
+        "wednesday",
+        "skin"
+      ],
+      "tts": "metan",
+      "correct": [
+        "year"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "seste",
+      "choices": [
+        "seed",
+        "sword",
+        "bench",
+        "besom"
+      ],
+      "tts": "seste",
+      "correct": [
+        "bench"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "brun'es",
+      "choices": [
+        "stubble",
+        "mail",
+        "lance",
+        "bird"
+      ],
+      "tts": "brun'es",
+      "correct": [
+        "mail"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pazulis",
+      "choices": [
+        "nape",
+        "man",
+        "ashes",
+        "pancake"
+      ],
+      "tts": "pazulis",
+      "correct": [
+        "nape"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dvaris nom. pl.",
+      "choices": [
+        "stove",
+        "gate",
+        "rain",
+        "bone"
+      ],
+      "tts": "dvaris nom. pl.",
+      "correct": [
+        "gate"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "maldenikis",
+      "choices": [
+        "week",
+        "hub",
+        "child",
+        "spark"
+      ],
+      "tts": "maldenikis",
+      "correct": [
+        "child"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "en...eiss",
+      "choices": [
+        "grandfather",
+        "blood",
+        "fever",
+        "lightning"
+      ],
+      "tts": "en...eiss",
+      "correct": [
+        "fever"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bruvi",
+      "choices": [
+        "stubble",
+        "cartilage",
+        "bulb",
+        "eyebrow"
+      ],
+      "tts": "bruvi",
+      "correct": [
+        "eyebrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "irme",
+      "choices": [
+        "vertex",
+        "table",
+        "arm",
+        "sand"
+      ],
+      "tts": "irme",
+      "correct": [
+        "arm"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vaikelis",
+      "choices": [
+        "ice",
+        "hub",
+        "bird",
+        "son"
+      ],
+      "tts": "vaikelis",
+      "correct": [
+        "son"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "balgninikis",
+      "choices": [
+        "cook",
+        "skull",
+        "belly",
+        "saddle-maker"
+      ],
+      "tts": "balgninikis",
+      "correct": [
+        "saddle-maker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "aismis",
+      "choices": [
+        "manger",
+        "roasting-jack",
+        "paunch",
+        "elbow"
+      ],
+      "tts": "aismis",
+      "correct": [
+        "roasting-jack"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bl'auski",
+      "choices": [
+        "grandfather",
+        "rush",
+        "mouth",
+        "chimney"
+      ],
+      "tts": "bl'auski",
+      "correct": [
+        "rush"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kuntis",
+      "choices": [
+        "fist",
+        "stove",
+        "foam",
+        "wheat"
+      ],
+      "tts": "kuntis",
+      "correct": [
+        "fist"
+      ],
+      "type": "choose"
+    }
+  ]
+}

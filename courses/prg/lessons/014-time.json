@@ -1,0 +1,306 @@
+{
+  "id": "014-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kelan",
+      "choices": [
+        "ploughshare",
+        "whip",
+        "wheel",
+        "mill"
+      ],
+      "tts": "kelan",
+      "correct": [
+        "wheel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skritailc",
+      "choices": [
+        "bench",
+        "knee",
+        "rim",
+        "piggery"
+      ],
+      "tts": "skritailc",
+      "correct": [
+        "rim"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabis",
+      "choices": [
+        "stepdaughter",
+        "hub",
+        "flag",
+        "lord"
+      ],
+      "tts": "nabis",
+      "correct": [
+        "hub"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "asis",
+      "choices": [
+        "axle",
+        "scone",
+        "ambler",
+        "arm-chair"
+      ],
+      "tts": "asis",
+      "correct": [
+        "axle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nuskils",
+      "choices": [
+        "stepson",
+        "basin",
+        "tyre",
+        "hell"
+      ],
+      "tts": "nuskils",
+      "correct": [
+        "tyre"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gravinc",
+      "choices": [
+        "side-board",
+        "shield",
+        "room",
+        "bulb"
+      ],
+      "tts": "gravinc",
+      "correct": [
+        "side-board"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "slaje",
+      "choices": [
+        "pancake",
+        "sledge",
+        "swelling",
+        "gate"
+      ],
+      "tts": "slaje",
+      "correct": [
+        "sledge"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "virbc",
+      "choices": [
+        "rope",
+        "mare",
+        "shout",
+        "ploughman"
+      ],
+      "tts": "virbc",
+      "correct": [
+        "rope"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bruzgis, bruzgis",
+      "choices": [
+        "whip",
+        "swelling",
+        "eyeball",
+        "beard"
+      ],
+      "tts": "bruzgis, bruzgis",
+      "correct": [
+        "whip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunis",
+      "choices": [
+        "brook",
+        "mill",
+        "lightning",
+        "elbow"
+      ],
+      "tts": "malunis",
+      "correct": [
+        "mill"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "girnavis nom.pl.f.",
+      "choices": [
+        "quern",
+        "weir",
+        "mill",
+        "cart"
+      ],
+      "tts": "girnavis nom.pl.f.",
+      "correct": [
+        "quern"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunastabis",
+      "choices": [
+        "drizzle",
+        "broth",
+        "barrel",
+        "millstone"
+      ],
+      "tts": "malunastabis",
+      "correct": [
+        "millstone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "auvirpis",
+      "choices": [
+        "skull",
+        "jug",
+        "eyeball",
+        "gutter"
+      ],
+      "tts": "auvirpis",
+      "correct": [
+        "gutter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunakelan",
+      "choices": [
+        "weathercock",
+        "foal",
+        "nail",
+        "mill-wheel"
+      ],
+      "tts": "malunakelan",
+      "correct": [
+        "mill-wheel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "spanstan",
+      "choices": [
+        "seed",
+        "mill-wheel",
+        "spindle",
+        "finger"
+      ],
+      "tts": "spanstan",
+      "correct": [
+        "spindle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabete",
+      "choices": [
+        "lip",
+        "ambler",
+        "loft",
+        "hub-shaft"
+      ],
+      "tts": "nabete",
+      "correct": [
+        "hub-shaft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "supis",
+      "choices": [
+        "burdock",
+        "quern",
+        "shutter",
+        "rampart"
+      ],
+      "tts": "supis",
+      "correct": [
+        "rampart"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "takiss",
+      "choices": [
+        "weir",
+        "lightning",
+        "heart",
+        "yeast"
+      ],
+      "tts": "takiss",
+      "correct": [
+        "weir"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pekerc",
+      "choices": [
+        "mountain",
+        "baker",
+        "dough",
+        "bed"
+      ],
+      "tts": "pekerc",
+      "correct": [
+        "baker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "umnudc",
+      "choices": [
+        "rye",
+        "plait",
+        "bake-house",
+        "gall"
+      ],
+      "tts": "umnudc",
+      "correct": [
+        "bake-house"
+      ],
+      "type": "choose"
+    }
+  ]
+}

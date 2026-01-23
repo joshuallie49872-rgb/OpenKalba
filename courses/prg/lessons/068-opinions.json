@@ -1,0 +1,306 @@
+{
+  "id": "068-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kel'an",
+      "choices": [
+        "barley",
+        "lance",
+        "scone",
+        "saddle-maker"
+      ],
+      "tts": "kel'an",
+      "correct": [
+        "lance"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "aubirge",
+      "choices": [
+        "cook",
+        "garden-bed",
+        "grandmother",
+        "manger"
+      ],
+      "tts": "aubirge",
+      "correct": [
+        "cook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kaivc",
+      "choices": [
+        "gable",
+        "mare",
+        "tyre",
+        "swamp"
+      ],
+      "tts": "kaivc",
+      "correct": [
+        "mare"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "balgninikis",
+      "choices": [
+        "mow",
+        "ear",
+        "hip",
+        "saddle-maker"
+      ],
+      "tts": "balgninikis",
+      "correct": [
+        "saddle-maker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lait'an",
+      "choices": [
+        "lip",
+        "sausage",
+        "stepdaughter",
+        "room"
+      ],
+      "tts": "lait'an",
+      "correct": [
+        "sausage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kakte",
+      "choices": [
+        "forehead",
+        "stars",
+        "forearm",
+        "soil"
+      ],
+      "tts": "kakte",
+      "correct": [
+        "forehead"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sunis",
+      "choices": [
+        "milk",
+        "prick",
+        "dog",
+        "stepmother"
+      ],
+      "tts": "sunis",
+      "correct": [
+        "dog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ratinzis",
+      "choices": [
+        "chain",
+        "garden-bed",
+        "head",
+        "whetstone"
+      ],
+      "tts": "ratinzis",
+      "correct": [
+        "chain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vins",
+      "choices": [
+        "air",
+        "corn-cockle",
+        "ditch",
+        "nipple"
+      ],
+      "tts": "vins",
+      "correct": [
+        "air"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "inkstc",
+      "choices": [
+        "heaven",
+        "nail",
+        "rope",
+        "kidney"
+      ],
+      "tts": "inkstc",
+      "correct": [
+        "kidney"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zwirkstis",
+      "choices": [
+        "monday",
+        "heat",
+        "gravel",
+        "grab"
+      ],
+      "tts": "zwirkstis",
+      "correct": [
+        "gravel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "...eltis",
+      "choices": [
+        "air",
+        "forearm",
+        "dog",
+        "stroke"
+      ],
+      "tts": "...eltis",
+      "correct": [
+        "forearm"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "virbc",
+      "choices": [
+        "wine",
+        "glass",
+        "fever",
+        "rope"
+      ],
+      "tts": "virbc",
+      "correct": [
+        "rope"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stranai",
+      "choices": [
+        "loins",
+        "pancake",
+        "tree",
+        "foal"
+      ],
+      "tts": "stranai",
+      "correct": [
+        "loins"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "snekstis",
+      "choices": [
+        "clay",
+        "barrel",
+        "stable",
+        "snot"
+      ],
+      "tts": "snekstis",
+      "correct": [
+        "snot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pire",
+      "choices": [
+        "chair",
+        "barley",
+        "millet",
+        "foal"
+      ],
+      "tts": "pire",
+      "correct": [
+        "foal"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jur'ai",
+      "choices": [
+        "sea",
+        "mule",
+        "mail",
+        "son"
+      ],
+      "tts": "jur'ai",
+      "correct": [
+        "sea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "auvirpis",
+      "choices": [
+        "snot",
+        "ditch",
+        "gutter",
+        "chain"
+      ],
+      "tts": "auvirpis",
+      "correct": [
+        "gutter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "medu",
+      "choices": [
+        "tinder",
+        "honey",
+        "pan",
+        "lip"
+      ],
+      "tts": "medu",
+      "correct": [
+        "honey"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jakne",
+      "choices": [
+        "ploughman",
+        "grains",
+        "corner",
+        "liver"
+      ],
+      "tts": "jakne",
+      "correct": [
+        "liver"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "016-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ansis",
+      "choices": [
+        "loft",
+        "kindling-wood",
+        "plough-knife",
+        "hook"
+      ],
+      "tts": "ansis",
+      "correct": [
+        "hook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ratinzis",
+      "choices": [
+        "chain",
+        "hay",
+        "ear-wax",
+        "loft"
+      ],
+      "tts": "ratinzis",
+      "correct": [
+        "chain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nagis",
+      "choices": [
+        "cloud",
+        "flint",
+        "malt",
+        "furrow"
+      ],
+      "tts": "nagis",
+      "correct": [
+        "flint"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pintis",
+      "choices": [
+        "grandfather",
+        "mountain",
+        "tinder",
+        "cloud"
+      ],
+      "tts": "pintis",
+      "correct": [
+        "tinder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gleste",
+      "choices": [
+        "malt",
+        "harrow",
+        "blood",
+        "whetstone"
+      ],
+      "tts": "gleste",
+      "correct": [
+        "whetstone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "saltan",
+      "choices": [
+        "pole",
+        "harrow",
+        "flitch",
+        "woman"
+      ],
+      "tts": "saltan",
+      "correct": [
+        "flitch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jusc",
+      "choices": [
+        "broth",
+        "peasant",
+        "cat",
+        "loins"
+      ],
+      "tts": "jusc",
+      "correct": [
+        "broth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laje",
+      "choices": [
+        "tallow",
+        "ambler",
+        "weathercock",
+        "hub"
+      ],
+      "tts": "laje",
+      "correct": [
+        "tallow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lait'an",
+      "choices": [
+        "ambler",
+        "ploughshare",
+        "sausage",
+        "grape"
+      ],
+      "tts": "lait'an",
+      "correct": [
+        "sausage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pivamaltan",
+      "choices": [
+        "malt",
+        "knuckle",
+        "shout",
+        "roof"
+      ],
+      "tts": "pivamaltan",
+      "correct": [
+        "malt"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "drag'es",
+      "choices": [
+        "malt",
+        "ambler",
+        "pond",
+        "yeast"
+      ],
+      "tts": "drag'es",
+      "correct": [
+        "yeast"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sp...eine",
+      "choices": [
+        "swingletree",
+        "foam",
+        "pan",
+        "pleiades"
+      ],
+      "tts": "sp...eine",
+      "correct": [
+        "foam"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vin'agavus",
+      "choices": [
+        "prick",
+        "grape",
+        "hearth",
+        "armour"
+      ],
+      "tts": "vin'agavus",
+      "correct": [
+        "grape"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinis",
+      "choices": [
+        "ear-wax",
+        "nose",
+        "clover",
+        "wine"
+      ],
+      "tts": "vinis",
+      "correct": [
+        "wine"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "medu",
+      "choices": [
+        "paunch",
+        "honey",
+        "harrow",
+        "gut"
+      ],
+      "tts": "medu",
+      "correct": [
+        "honey"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "alu",
+      "choices": [
+        "steam",
+        "mead",
+        "reed",
+        "tongue"
+      ],
+      "tts": "alu",
+      "correct": [
+        "mead"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nopless",
+      "choices": [
+        "vertex",
+        "swingletree",
+        "mangle",
+        "tuesday"
+      ],
+      "tts": "nopless",
+      "correct": [
+        "mangle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kanavc",
+      "choices": [
+        "barrel",
+        "dog",
+        "poker",
+        "weir"
+      ],
+      "tts": "kanavc",
+      "correct": [
+        "barrel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinis",
+      "choices": [
+        "spigot",
+        "gable",
+        "landowner",
+        "forehead"
+      ],
+      "tts": "vinis",
+      "correct": [
+        "spigot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dulzis",
+      "choices": [
+        "bung-hole",
+        "rush",
+        "nail",
+        "wind"
+      ],
+      "tts": "dulzis",
+      "correct": [
+        "bung-hole"
+      ],
+      "type": "choose"
+    }
+  ]
+}

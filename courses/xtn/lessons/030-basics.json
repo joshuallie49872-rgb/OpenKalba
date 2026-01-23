@@ -1,0 +1,306 @@
+{
+  "id": "030-basics",
+  "title": "Basics 30",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndee",
+      "choices": [
+        "recibir un pago",
+        "jugará",
+        "brincar",
+        "chueco"
+      ],
+      "tts": "ndee",
+      "correct": [
+        "recibir un pago"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "niꞌi",
+      "choices": [
+        "causativo",
+        "color claro ndi- + yaa ‘blanco’",
+        "oír",
+        "cenar (kaa eatr’ + xini ‘noche’)"
+      ],
+      "tts": "niꞌi",
+      "correct": [
+        "oír"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuni/jini",
+      "choices": [
+        "maquila",
+        "saber",
+        "hay",
+        "horno"
+      ],
+      "tts": "kuni/jini",
+      "correct": [
+        "saber"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndajiokuiin",
+      "choices": [
+        "empezar de nuevo",
+        "regresó",
+        "recibir un pago",
+        "progresivo-crece"
+      ],
+      "tts": "ndajiokuiin",
+      "correct": [
+        "regresó"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tisaa",
+      "choices": [
+        "oír",
+        "así, de aquella manera",
+        "regresó",
+        "pájaro"
+      ],
+      "tts": "tisaa",
+      "correct": [
+        "pájaro"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "xtaa",
+      "choices": [
+        "sombrero mi",
+        "chi",
+        "hombro",
+        "decir ndakaꞌan"
+      ],
+      "tts": "xtaa",
+      "correct": [
+        "decir ndakaꞌan"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndakani",
+      "choices": [
+        "recibir un pago",
+        "contar (cuentos)",
+        "venderán",
+        "completivo deseó"
+      ],
+      "tts": "ndakani",
+      "correct": [
+        "contar (cuentos)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaku",
+      "choices": [
+        "carne",
+        "seco",
+        "caminar",
+        "completamente"
+      ],
+      "tts": "kaku",
+      "correct": [
+        "caminar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "skaka",
+      "choices": [
+        "face",
+        "cantaré",
+        "hacer caminar, manejar",
+        "completivo emborrachó"
+      ],
+      "tts": "skaka",
+      "correct": [
+        "hacer caminar, manejar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "teku",
+      "choices": [
+        "desaparecer",
+        "hair, hair",
+        "énfasis",
+        "comerá"
+      ],
+      "tts": "teku",
+      "correct": [
+        "desaparecer"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ii",
+      "choices": [
+        "bendito",
+        "dice",
+        "cabeza árbol",
+        "envejecer (ponerse + grande)"
+      ],
+      "tts": "ii",
+      "correct": [
+        "bendito"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jitnu",
+      "choices": [
+        "confesar",
+        "hija",
+        "cabeza",
+        "horno"
+      ],
+      "tts": "jitnu",
+      "correct": [
+        "horno"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tniuu",
+      "choices": [
+        "trabajo",
+        "anoche",
+        "cantaré",
+        "cabeza árbol"
+      ],
+      "tts": "tniuu",
+      "correct": [
+        "trabajo"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "satniuu",
+      "choices": [
+        "fueron",
+        "trabajar",
+        "(habitual)",
+        "comprar"
+      ],
+      "tts": "satniuu",
+      "correct": [
+        "trabajar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "nevaꞌa",
+      "choices": [
+        "fue",
+        "cenar (kaa eatr’ + xini ‘noche’)",
+        "regará",
+        "¡qué lástima!"
+      ],
+      "tts": "nevaꞌa",
+      "correct": [
+        "cenar (kaa eatr’ + xini ‘noche’)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kukaꞌnu",
+      "choices": [
+        "soft",
+        "vámonos-nosotros",
+        "go down",
+        "envejecer (ponerse + grande)"
+      ],
+      "tts": "kukaꞌnu",
+      "correct": [
+        "envejecer (ponerse + grande)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuiso/jiso",
+      "choices": [
+        "aquel",
+        "cabeza",
+        "cargar o poner encima de algo",
+        "canta ave"
+      ],
+      "tts": "kuiso/jiso",
+      "correct": [
+        "cargar o poner encima de algo"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tenee",
+      "choices": [
+        "comprar",
+        "escondió",
+        "comen",
+        "colgar, tender en un plano"
+      ],
+      "tts": "tenee",
+      "correct": [
+        "colgar, tender en un plano"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "xiko",
+      "choices": [
+        "completivo",
+        "dormirá",
+        "completamente",
+        "carne"
+      ],
+      "tts": "xiko",
+      "correct": [
+        "carne"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuñu",
+      "choices": [
+        "empezar de nuevo",
+        "carne",
+        "favor",
+        "cuello"
+      ],
+      "tts": "kuñu",
+      "correct": [
+        "carne"
+      ],
+      "type": "choose"
+    }
+  ]
+}

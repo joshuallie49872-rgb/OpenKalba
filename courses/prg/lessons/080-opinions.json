@@ -1,0 +1,306 @@
+{
+  "id": "080-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stakameseris",
+      "choices": [
+        "goblet",
+        "sausage",
+        "dagger",
+        "fog"
+      ],
+      "tts": "stakameseris",
+      "correct": [
+        "dagger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "savaitc",
+      "choices": [
+        "week",
+        "seed",
+        "alumina",
+        "lip"
+      ],
+      "tts": "savaitc",
+      "correct": [
+        "week"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "balgninikis",
+      "choices": [
+        "saddle-maker",
+        "palate",
+        "fever",
+        "lentil"
+      ],
+      "tts": "balgninikis",
+      "correct": [
+        "saddle-maker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "miltan",
+      "choices": [
+        "snot",
+        "shed",
+        "meal",
+        "poker"
+      ],
+      "tts": "miltan",
+      "correct": [
+        "meal"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kupsins",
+      "choices": [
+        "hoop",
+        "fog",
+        "rye",
+        "loft"
+      ],
+      "tts": "kupsins",
+      "correct": [
+        "fog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pemetrc",
+      "choices": [
+        "mill",
+        "mow",
+        "stepmother",
+        "chaff"
+      ],
+      "tts": "pemetrc",
+      "correct": [
+        "stepmother"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sparis",
+      "choices": [
+        "heel",
+        "rafter",
+        "house",
+        "fog"
+      ],
+      "tts": "sparis",
+      "correct": [
+        "rafter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelekis",
+      "choices": [
+        "mill-wheel",
+        "hay",
+        "gable",
+        "kindling-wood"
+      ],
+      "tts": "pelekis",
+      "correct": [
+        "gable"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ratinzis",
+      "choices": [
+        "wheel",
+        "pancake",
+        "chair",
+        "chain"
+      ],
+      "tts": "ratinzis",
+      "correct": [
+        "chain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "girnavis nom.pl.f.",
+      "choices": [
+        "quern",
+        "throat",
+        "moon",
+        "ears"
+      ],
+      "tts": "girnavis nom.pl.f.",
+      "correct": [
+        "quern"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pivamaltan",
+      "choices": [
+        "tinder",
+        "autumn",
+        "hub",
+        "malt"
+      ],
+      "tts": "pivamaltan",
+      "correct": [
+        "malt"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laste",
+      "choices": [
+        "shoulder-joint",
+        "wound",
+        "bed",
+        "life"
+      ],
+      "tts": "laste",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nagutis",
+      "choices": [
+        "house",
+        "meninx",
+        "nail",
+        "arm"
+      ],
+      "tts": "nagutis",
+      "correct": [
+        "nail"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kar'angus",
+      "choices": [
+        "hip",
+        "landowner",
+        "flag",
+        "frost"
+      ],
+      "tts": "kar'angus",
+      "correct": [
+        "flag"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "puninan",
+      "choices": [
+        "chin",
+        "navel",
+        "buttocks",
+        "army"
+      ],
+      "tts": "puninan",
+      "correct": [
+        "buttocks"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skalus",
+      "choices": [
+        "chin",
+        "yeast",
+        "lord",
+        "box-room"
+      ],
+      "tts": "skalus",
+      "correct": [
+        "chin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "minsavc",
+      "choices": [
+        "basin",
+        "rain",
+        "piggery",
+        "honey"
+      ],
+      "tts": "minsavc",
+      "correct": [
+        "basin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klumpis",
+      "choices": [
+        "glass",
+        "chair",
+        "corner",
+        "winter"
+      ],
+      "tts": "klumpis",
+      "correct": [
+        "chair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "visascdis",
+      "choices": [
+        "tuesday",
+        "kidney",
+        "fire",
+        "eyes"
+      ],
+      "tts": "visascdis",
+      "correct": [
+        "tuesday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "padaubis",
+      "choices": [
+        "glass",
+        "helmet",
+        "valley",
+        "kidney"
+      ],
+      "tts": "padaubis",
+      "correct": [
+        "valley"
+      ],
+      "type": "choose"
+    }
+  ]
+}

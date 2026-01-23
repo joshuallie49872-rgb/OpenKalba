@@ -1,0 +1,306 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dantis",
+      "choices": [
+        "father-in-law",
+        "room",
+        "stallion",
+        "tooth"
+      ],
+      "tts": "dantis",
+      "correct": [
+        "tooth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dantimaks",
+      "choices": [
+        "bung-hole",
+        "gums",
+        "air",
+        "mustard"
+      ],
+      "tts": "dantimaks",
+      "correct": [
+        "gums"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "inzuvis",
+      "choices": [
+        "furrow",
+        "sunday",
+        "tongue",
+        "encampment"
+      ],
+      "tts": "inzuvis",
+      "correct": [
+        "tongue"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dangus",
+      "choices": [
+        "palate",
+        "paunch",
+        "bread",
+        "shutter"
+      ],
+      "tts": "dangus",
+      "correct": [
+        "palate"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kesi",
+      "choices": [
+        "aunt",
+        "windpipe",
+        "father-in-law",
+        "shutter"
+      ],
+      "tts": "kesi",
+      "correct": [
+        "windpipe"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gurklc",
+      "choices": [
+        "water",
+        "throat",
+        "vetch",
+        "hell"
+      ],
+      "tts": "gurklc",
+      "correct": [
+        "throat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laiknan",
+      "choices": [
+        "god",
+        "mail",
+        "cheek",
+        "armour"
+      ],
+      "tts": "laiknan",
+      "correct": [
+        "cheek"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skalus",
+      "choices": [
+        "chin",
+        "bung-hole",
+        "tongue",
+        "river"
+      ],
+      "tts": "skalus",
+      "correct": [
+        "chin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vanse",
+      "choices": [
+        "corn-cockle",
+        "spark",
+        "moustache",
+        "stallion"
+      ],
+      "tts": "vanse",
+      "correct": [
+        "moustache"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "b...erdus",
+      "choices": [
+        "foam",
+        "bone-marrow",
+        "beard",
+        "box-room"
+      ],
+      "tts": "b...erdus",
+      "correct": [
+        "beard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinzus",
+      "choices": [
+        "ditch",
+        "grab",
+        "neck",
+        "nose"
+      ],
+      "tts": "vinzus",
+      "correct": [
+        "neck"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "petc",
+      "choices": [
+        "stars",
+        "shoulder",
+        "kindling-wood",
+        "gums"
+      ],
+      "tts": "petc",
+      "correct": [
+        "shoulder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kam...eiss",
+      "choices": [
+        "shoulder-joint",
+        "kitchen",
+        "smoke",
+        "sausage"
+      ],
+      "tts": "kam...eiss",
+      "correct": [
+        "shoulder-joint"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "petis",
+      "choices": [
+        "shoulder-blade",
+        "bed",
+        "scabbard",
+        "god"
+      ],
+      "tts": "petis",
+      "correct": [
+        "shoulder-blade"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "irme",
+      "choices": [
+        "reed",
+        "valley",
+        "arm",
+        "plough"
+      ],
+      "tts": "irme",
+      "correct": [
+        "arm"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "alkunis",
+      "choices": [
+        "pond",
+        "plough-knife",
+        "elbow",
+        "nape"
+      ],
+      "tts": "alkunis",
+      "correct": [
+        "elbow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "...eltis",
+      "choices": [
+        "forearm",
+        "hemp",
+        "ploughshare",
+        "whetstone"
+      ],
+      "tts": "...eltis",
+      "correct": [
+        "forearm"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kuntis",
+      "choices": [
+        "tuesday",
+        "wheat",
+        "fist",
+        "thigh"
+      ],
+      "tts": "kuntis",
+      "correct": [
+        "fist"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "instiks",
+      "choices": [
+        "thumb",
+        "mouth",
+        "father-in-law",
+        "hay"
+      ],
+      "tts": "instiks",
+      "correct": [
+        "thumb"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pμrstan",
+      "choices": [
+        "moustache",
+        "finger",
+        "corner",
+        "gut"
+      ],
+      "tts": "pμrstan",
+      "correct": [
+        "finger"
+      ],
+      "type": "choose"
+    }
+  ]
+}

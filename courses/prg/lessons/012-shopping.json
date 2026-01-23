@@ -1,0 +1,306 @@
+{
+  "id": "012-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rcde",
+      "choices": [
+        "forearm",
+        "father-in-law",
+        "barn",
+        "furrow"
+      ],
+      "tts": "rcde",
+      "correct": [
+        "furrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lise",
+      "choices": [
+        "saturday",
+        "prick",
+        "garden-bed",
+        "plot"
+      ],
+      "tts": "lise",
+      "correct": [
+        "garden-bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plugis",
+      "choices": [
+        "pond",
+        "corn-cockle",
+        "plough",
+        "door"
+      ],
+      "tts": "plugis",
+      "correct": [
+        "plough"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vaginis",
+      "choices": [
+        "garden-bed",
+        "plough-knife",
+        "friday",
+        "clay"
+      ],
+      "tts": "vaginis",
+      "correct": [
+        "plough-knife"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pcdan",
+      "choices": [
+        "ploughshare",
+        "aunt",
+        "sieve",
+        "chain"
+      ],
+      "tts": "pcdan",
+      "correct": [
+        "ploughshare"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gl'aubtenc",
+      "choices": [
+        "handle",
+        "ploughman",
+        "mouldboard",
+        "horse"
+      ],
+      "tts": "gl'aubtenc",
+      "correct": [
+        "mouldboard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laipte",
+      "choices": [
+        "spoon",
+        "plough-tail",
+        "support",
+        "ravine"
+      ],
+      "tts": "laipte",
+      "correct": [
+        "plough-tail"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "valis",
+      "choices": [
+        "swingletree",
+        "ditch",
+        "arm",
+        "pole"
+      ],
+      "tts": "valis",
+      "correct": [
+        "swingletree"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "akctcs",
+      "choices": [
+        "harrow",
+        "elbow",
+        "acre",
+        "kettle"
+      ],
+      "tts": "akctcs",
+      "correct": [
+        "harrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "scmen",
+      "choices": [
+        "mouth",
+        "seed",
+        "eyeball",
+        "gall"
+      ],
+      "tts": "scmen",
+      "correct": [
+        "seed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rugis",
+      "choices": [
+        "eyeball",
+        "snow",
+        "summer",
+        "rye"
+      ],
+      "tts": "rugis",
+      "correct": [
+        "rye"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gaidis",
+      "choices": [
+        "king",
+        "thursday",
+        "wheat",
+        "meat"
+      ],
+      "tts": "gaidis",
+      "correct": [
+        "wheat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eizis",
+      "choices": [
+        "oat",
+        "barley",
+        "son",
+        "bay"
+      ],
+      "tts": "m...eizis",
+      "correct": [
+        "barley"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vizc",
+      "choices": [
+        "broth",
+        "monday",
+        "oat",
+        "gravel"
+      ],
+      "tts": "vizc",
+      "correct": [
+        "oat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "babe",
+      "choices": [
+        "bean",
+        "mule",
+        "bread",
+        "barrel"
+      ],
+      "tts": "babe",
+      "correct": [
+        "bean"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kekers",
+      "choices": [
+        "scabbard",
+        "meadows",
+        "soil",
+        "pea"
+      ],
+      "tts": "kekers",
+      "correct": [
+        "pea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mekc",
+      "choices": [
+        "poppy",
+        "neck",
+        "axle",
+        "spark"
+      ],
+      "tts": "mekc",
+      "correct": [
+        "poppy"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "prasan",
+      "choices": [
+        "calves",
+        "ambler",
+        "whetstone",
+        "millet"
+      ],
+      "tts": "prasan",
+      "correct": [
+        "millet"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kamate",
+      "choices": [
+        "shoulder-joint",
+        "chimney",
+        "dill",
+        "house"
+      ],
+      "tts": "kamate",
+      "correct": [
+        "dill"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "knapjes",
+      "choices": [
+        "fever",
+        "hemp",
+        "moustache",
+        "lightning"
+      ],
+      "tts": "knapjes",
+      "correct": [
+        "hemp"
+      ],
+      "type": "choose"
+    }
+  ]
+}

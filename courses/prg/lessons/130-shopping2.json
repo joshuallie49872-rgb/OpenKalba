@@ -1,0 +1,306 @@
+{
+  "id": "130-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lauksnes",
+      "choices": [
+        "stomach",
+        "stars",
+        "clay",
+        "stepdaughter"
+      ],
+      "tts": "lauksnes",
+      "correct": [
+        "stars"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunastabis",
+      "choices": [
+        "moustache",
+        "basin",
+        "millstone",
+        "spoon"
+      ],
+      "tts": "malunastabis",
+      "correct": [
+        "millstone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gertis",
+      "choices": [
+        "weathercock",
+        "blow",
+        "meal",
+        "buttocks"
+      ],
+      "tts": "gertis",
+      "correct": [
+        "weathercock"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ebilis",
+      "choices": [
+        "soul",
+        "clover",
+        "lance",
+        "bran"
+      ],
+      "tts": "ebilis",
+      "correct": [
+        "clover"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mclinc",
+      "choices": [
+        "bruise",
+        "prick",
+        "ploughman",
+        "friday"
+      ],
+      "tts": "mclinc",
+      "correct": [
+        "bruise"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ka...ulan",
+      "choices": [
+        "saturday",
+        "god",
+        "bone",
+        "lightning"
+      ],
+      "tts": "ka...ulan",
+      "correct": [
+        "bone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "abares",
+      "choices": [
+        "vetch",
+        "woman",
+        "rafter",
+        "manger"
+      ],
+      "tts": "abares",
+      "correct": [
+        "manger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jur'ai",
+      "choices": [
+        "tinder",
+        "sea",
+        "stomach",
+        "plait"
+      ],
+      "tts": "jur'ai",
+      "correct": [
+        "sea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nesi",
+      "choices": [
+        "ear-wax",
+        "nose",
+        "armour",
+        "meninx"
+      ],
+      "tts": "nesi",
+      "correct": [
+        "nose"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ikr...ei",
+      "choices": [
+        "calves",
+        "vetch",
+        "flame",
+        "shoulder"
+      ],
+      "tts": "ikr...ei",
+      "correct": [
+        "calves"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tcvis",
+      "choices": [
+        "year",
+        "piggery",
+        "uncle",
+        "saddle-maker"
+      ],
+      "tts": "tcvis",
+      "correct": [
+        "uncle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ausins [acc.pl.fem.]",
+      "choices": [
+        "breast",
+        "ears",
+        "poker",
+        "swamp"
+      ],
+      "tts": "ausins [acc.pl.fem.]",
+      "correct": [
+        "ears"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pentiniks",
+      "choices": [
+        "honey",
+        "friday",
+        "table",
+        "dagger"
+      ],
+      "tts": "pentiniks",
+      "correct": [
+        "friday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eldc",
+      "choices": [
+        "granary",
+        "thunder",
+        "manger",
+        "lightning"
+      ],
+      "tts": "m...eldc",
+      "correct": [
+        "lightning"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bruzgis, bruzgis",
+      "choices": [
+        "whip",
+        "navel",
+        "mangle",
+        "grease"
+      ],
+      "tts": "bruzgis, bruzgis",
+      "correct": [
+        "whip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lait'an",
+      "choices": [
+        "flag",
+        "yeast",
+        "lungs",
+        "sausage"
+      ],
+      "tts": "lait'an",
+      "correct": [
+        "sausage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jusc",
+      "choices": [
+        "flint",
+        "crib",
+        "broth",
+        "cartilage"
+      ],
+      "tts": "jusc",
+      "correct": [
+        "broth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laise",
+      "choices": [
+        "ear-wax",
+        "alumina",
+        "army",
+        "spoon"
+      ],
+      "tts": "laise",
+      "correct": [
+        "alumina"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelekis",
+      "choices": [
+        "gable",
+        "drizzle",
+        "thumb",
+        "man"
+      ],
+      "tts": "pelekis",
+      "correct": [
+        "gable"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sp...enksti",
+      "choices": [
+        "thunder",
+        "angel",
+        "spark",
+        "hearth"
+      ],
+      "tts": "sp...enksti",
+      "correct": [
+        "spark"
+      ],
+      "type": "choose"
+    }
+  ]
+}

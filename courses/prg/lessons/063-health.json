@@ -1,0 +1,306 @@
+{
+  "id": "063-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "miltan",
+      "choices": [
+        "eyes",
+        "scabbard",
+        "meal",
+        "poppy"
+      ],
+      "tts": "miltan",
+      "correct": [
+        "meal"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "paiteran",
+      "choices": [
+        "monday",
+        "shed",
+        "pleiades",
+        "bone"
+      ],
+      "tts": "paiteran",
+      "correct": [
+        "pleiades"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "butan",
+      "choices": [
+        "house",
+        "mare",
+        "wheat",
+        "jug"
+      ],
+      "tts": "butan",
+      "correct": [
+        "house"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabis",
+      "choices": [
+        "ears",
+        "moustache",
+        "hub",
+        "cloud"
+      ],
+      "tts": "nabis",
+      "correct": [
+        "hub"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ravis",
+      "choices": [
+        "water",
+        "ditch",
+        "spindle",
+        "plough-knife"
+      ],
+      "tts": "ravis",
+      "correct": [
+        "ditch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skritailc",
+      "choices": [
+        "week",
+        "shield",
+        "meninx",
+        "rim"
+      ],
+      "tts": "skritailc",
+      "correct": [
+        "rim"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zamen acc. sg.",
+      "choices": [
+        "lance",
+        "malt",
+        "soil",
+        "aftermath"
+      ],
+      "tts": "zamen acc. sg.",
+      "correct": [
+        "soil"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lube",
+      "choices": [
+        "mule",
+        "barn",
+        "donkey",
+        "chimney"
+      ],
+      "tts": "lube",
+      "correct": [
+        "barn"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sabatike",
+      "choices": [
+        "earth",
+        "snot",
+        "saturday",
+        "lightning"
+      ],
+      "tts": "sabatike",
+      "correct": [
+        "saturday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "prasan",
+      "choices": [
+        "millet",
+        "nose",
+        "grains",
+        "chin"
+      ],
+      "tts": "prasan",
+      "correct": [
+        "millet"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kalabijan",
+      "choices": [
+        "hub-shaft",
+        "sword",
+        "plough-knife",
+        "jug"
+      ],
+      "tts": "kalabijan",
+      "correct": [
+        "sword"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zwirkstis",
+      "choices": [
+        "frost",
+        "lentil",
+        "millet",
+        "gravel"
+      ],
+      "tts": "zwirkstis",
+      "correct": [
+        "gravel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jakne",
+      "choices": [
+        "harrow",
+        "bone-marrow",
+        "pond",
+        "liver"
+      ],
+      "tts": "jakne",
+      "correct": [
+        "liver"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "z...eidis",
+      "choices": [
+        "wheat",
+        "side",
+        "wall",
+        "hook"
+      ],
+      "tts": "z...eidis",
+      "correct": [
+        "wall"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plauti",
+      "choices": [
+        "lungs",
+        "stepdaughter",
+        "autumn",
+        "horse"
+      ],
+      "tts": "plauti",
+      "correct": [
+        "lungs"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "minsavc",
+      "choices": [
+        "basin",
+        "swamp",
+        "hayloft",
+        "spoon"
+      ],
+      "tts": "minsavc",
+      "correct": [
+        "basin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pikuls",
+      "choices": [
+        "meadows",
+        "axle",
+        "shelf",
+        "hell"
+      ],
+      "tts": "pikuls",
+      "correct": [
+        "hell"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klat...ei",
+      "choices": [
+        "water",
+        "millstone",
+        "burdock",
+        "ploughman"
+      ],
+      "tts": "klat...ei",
+      "correct": [
+        "burdock"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "panu",
+      "choices": [
+        "shed",
+        "flag",
+        "bladder",
+        "fire"
+      ],
+      "tts": "panu",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sp...enksti",
+      "choices": [
+        "bung-hole",
+        "shout",
+        "threshold",
+        "spark"
+      ],
+      "tts": "sp...enksti",
+      "correct": [
+        "spark"
+      ],
+      "type": "choose"
+    }
+  ]
+}

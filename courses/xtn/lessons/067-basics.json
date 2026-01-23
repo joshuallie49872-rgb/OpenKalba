@@ -1,0 +1,306 @@
+{
+  "id": "067-basics",
+  "title": "Basics 67",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kani/jani",
+      "choices": [
+        "desbaratar",
+        "chaparro nomás",
+        "cantaré",
+        "río"
+      ],
+      "tts": "kani/jani",
+      "correct": [
+        "desbaratar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kanta",
+      "choices": [
+        "brincar",
+        "anoche",
+        "morirá",
+        "¡qué lástima!"
+      ],
+      "tts": "kanta",
+      "correct": [
+        "brincar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "naꞌa",
+      "choices": [
+        "recordar",
+        "completivo plural pidieron",
+        "today, ahora",
+        "doblar, quebrar"
+      ],
+      "tts": "naꞌa",
+      "correct": [
+        "recordar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "modo",
+      "choices": [
+        "estará metido yiꞌi",
+        "cerro pelón",
+        "realizado",
+        "chile"
+      ],
+      "tts": "modo",
+      "correct": [
+        "realizado"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "exclusivo",
+      "choices": [
+        "familiar",
+        "ocotal",
+        "porque muchísimo",
+        "culebra adentro milpa"
+      ],
+      "tts": "exclusivo",
+      "correct": [
+        "familiar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "animal",
+      "choices": [
+        "man aquel porque",
+        "irás",
+        "vendió él",
+        "líquido"
+      ],
+      "tts": "animal",
+      "correct": [
+        "líquido"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ñaꞌa",
+      "choices": [
+        "brincar",
+        "suchi",
+        "cenar (kaa eatr’ + xini ‘noche’)",
+        "como"
+      ],
+      "tts": "ñaꞌa",
+      "correct": [
+        "suchi"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "medida",
+      "choices": [
+        "arroba",
+        "énfasis",
+        "camina",
+        "completivo"
+      ],
+      "tts": "medida",
+      "correct": [
+        "arroba"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "litru",
+      "choices": [
+        "maquila",
+        "compraré más",
+        "cárcel",
+        "día"
+      ],
+      "tts": "litru",
+      "correct": [
+        "maquila"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "vurru",
+      "choices": [
+        "cerrar",
+        "hermano de man",
+        "completamente",
+        "poquitito, lo que cabe en la palma de la mano"
+      ],
+      "tts": "vurru",
+      "correct": [
+        "poquitito, lo que cabe en la palma de la mano"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "minu",
+      "choices": [
+        "epazote",
+        "desaparecer",
+        "hueso",
+        "¿quién sabe?"
+      ],
+      "tts": "minu",
+      "correct": [
+        "epazote"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "nama",
+      "choices": [
+        "caro",
+        "jabón",
+        "énfasis",
+        "regresó"
+      ],
+      "tts": "nama",
+      "correct": [
+        "soap"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "janu",
+      "choices": [
+        "get used to",
+        "horno",
+        "face",
+        "complemento"
+      ],
+      "tts": "janu",
+      "correct": [
+        "face"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuaan",
+      "choices": [
+        "comprar",
+        "¡qué lástima!",
+        "today",
+        "casa"
+      ],
+      "tts": "kuaan",
+      "correct": [
+        "buy"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tnaa",
+      "choices": [
+        "put/throw",
+        "completivo emborrachó",
+        "como",
+        "beberá"
+      ],
+      "tts": "tnaa",
+      "correct": [
+        "put/throw"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ixi",
+      "choices": [
+        "completivo hubo",
+        "pálido",
+        "hair, hair",
+        "morirá"
+      ],
+      "tts": "ixi",
+      "correct": [
+        "hair, hair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yiki",
+      "choices": [
+        "río",
+        "énfasis",
+        "hueso",
+        "bendito"
+      ],
+      "tts": "yiki",
+      "correct": [
+        "hueso"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaan",
+      "choices": [
+        "comerán",
+        "río",
+        "get used to",
+        "jugará"
+      ],
+      "tts": "kaan",
+      "correct": [
+        "get used to"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaꞌan",
+      "choices": [
+        "speak",
+        "sí, sí",
+        "castellano",
+        "comprará"
+      ],
+      "tts": "kaꞌan",
+      "correct": [
+        "speak"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "veꞌe",
+      "choices": [
+        "ndikachi san",
+        "chile",
+        "casa",
+        "cantará"
+      ],
+      "tts": "veꞌe",
+      "correct": [
+        "house"
+      ],
+      "type": "choose"
+    }
+  ]
+}

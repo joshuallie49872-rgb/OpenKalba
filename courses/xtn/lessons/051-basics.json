@@ -1,0 +1,306 @@
+{
+  "id": "051-basics",
+  "title": "Basics 51",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndeja",
+      "choices": [
+        "chi",
+        "chi-",
+        "cerrar",
+        "cuánto, cuántos"
+      ],
+      "tts": "ndeja",
+      "correct": [
+        "cuánto, cuántos"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndenu",
+      "choices": [
+        "trabajar",
+        "culebra",
+        "hermano su",
+        "dónde"
+      ],
+      "tts": "ndenu",
+      "correct": [
+        "dónde"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "saꞌa",
+      "choices": [
+        "hiciste",
+        "pueblo aquel",
+        "énfasis él",
+        "oír"
+      ],
+      "tts": "saꞌa",
+      "correct": [
+        "hiciste"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yaꞌa",
+      "choices": [
+        "como",
+        "corre",
+        "cerrar",
+        "pasará usted"
+      ],
+      "tts": "yaꞌa",
+      "correct": [
+        "pasará usted"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kata",
+      "choices": [
+        "cantará",
+        "chile",
+        "carne",
+        "quelite"
+      ],
+      "tts": "kata",
+      "correct": [
+        "cantará"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kiꞌon",
+      "choices": [
+        "color claro ndi- + yaa ‘blanco’",
+        "vámonos-nosotros",
+        "iré",
+        "cabeza"
+      ],
+      "tts": "kiꞌon",
+      "correct": [
+        "vámonos-nosotros"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kasi",
+      "choices": [
+        "hasta",
+        "man",
+        "hermano su",
+        "cerrarás boca"
+      ],
+      "tts": "kasi",
+      "correct": [
+        "cerrarás boca"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuaan",
+      "choices": [
+        "come hijo mi",
+        "comprará",
+        "irá",
+        "completivo plural pidieron"
+      ],
+      "tts": "kuaan",
+      "correct": [
+        "comprará"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "subjuntivo",
+      "choices": [
+        "aquel y",
+        "speak",
+        "así, de aquella manera",
+        "comió"
+      ],
+      "tts": "subjuntivo",
+      "correct": [
+        "aquel y"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "completivo",
+      "choices": [
+        "pájaro",
+        "complemento",
+        "dice",
+        "jabón"
+      ],
+      "tts": "completivo",
+      "correct": [
+        "soap"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ka",
+      "choices": [
+        "corre",
+        "clasificador de árboles y cosas de",
+        "compraré más",
+        "cuerno"
+      ],
+      "tts": "ka",
+      "correct": [
+        "compraré más"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "oo",
+      "choices": [
+        "escribo yo",
+        "come",
+        "completivo hubo",
+        "jabón"
+      ],
+      "tts": "oo",
+      "correct": [
+        "completivo hubo"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jioꞌo",
+      "choices": [
+        "vivirá",
+        "énfasis",
+        "completivo deseó",
+        "culebra adentro milpa"
+      ],
+      "tts": "jioꞌo",
+      "correct": [
+        "completivo deseó"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "taꞌu",
+      "choices": [
+        "favor",
+        "hasta",
+        "sombrero mi",
+        "maquila"
+      ],
+      "tts": "taꞌu",
+      "correct": [
+        "favor"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tee",
+      "choices": [
+        "completivo plural buscaron ellos man violinista",
+        "caliente bravo mucho",
+        "comió nomás",
+        "comen"
+      ],
+      "tts": "tee",
+      "correct": [
+        "completivo plural buscaron ellos man violinista"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tee19",
+      "choices": [
+        "sabe",
+        "escribo yo",
+        "canta ave",
+        "chiukun kuii, "
+      ],
+      "tts": "tee19",
+      "correct": [
+        "chiukun kuii, "
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tee",
+      "choices": [
+        "con",
+        "dice",
+        "completivo plural buscaron ellos man violinista",
+        "speak"
+      ],
+      "tts": "tee",
+      "correct": [
+        "dice"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ka",
+      "choices": [
+        "colgar, tender en un plano",
+        "calabaza",
+        "kachi maa",
+        "varón"
+      ],
+      "tts": "ka",
+      "correct": [
+        "kachi maa"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ka",
+      "choices": [
+        "progresivo-crece",
+        "sacerdote",
+        "completivo plural casaron",
+        "completivo plural pidieron"
+      ],
+      "tts": "ka",
+      "correct": [
+        "completivo plural pidieron"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndendeꞌe",
+      "choices": [
+        "porque muchísimo",
+        "(habitual)",
+        "escribo yo",
+        "completivo hubo"
+      ],
+      "tts": "ndendeꞌe",
+      "correct": [
+        "porque muchísimo"
+      ],
+      "type": "choose"
+    }
+  ]
+}

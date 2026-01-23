@@ -1,0 +1,306 @@
+{
+  "id": "027-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stube",
+      "choices": [
+        "forehead",
+        "room",
+        "smoke",
+        "lance"
+      ],
+      "tts": "stube",
+      "correct": [
+        "room"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ansis",
+      "choices": [
+        "winter",
+        "skin",
+        "hook",
+        "hay"
+      ],
+      "tts": "ansis",
+      "correct": [
+        "hook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rik%is",
+      "choices": [
+        "bed",
+        "bone-marrow",
+        "lord",
+        "flame"
+      ],
+      "tts": "rik%is",
+      "correct": [
+        "lord"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kar'angus",
+      "choices": [
+        "stepdaughter",
+        "meat",
+        "flag",
+        "acre"
+      ],
+      "tts": "kar'angus",
+      "correct": [
+        "flag"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinenikis",
+      "choices": [
+        "ambler",
+        "glass",
+        "dipper",
+        "paunch"
+      ],
+      "tts": "vinenikis",
+      "correct": [
+        "ambler"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "karjis",
+      "choices": [
+        "rafter",
+        "rim",
+        "tree",
+        "army"
+      ],
+      "tts": "karjis",
+      "correct": [
+        "army"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sunis",
+      "choices": [
+        "hair",
+        "dog",
+        "spleen",
+        "box-room"
+      ],
+      "tts": "sunis",
+      "correct": [
+        "dog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gunziks",
+      "choices": [
+        "rim",
+        "moon",
+        "swelling",
+        "forearm"
+      ],
+      "tts": "gunziks",
+      "correct": [
+        "swelling"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vaginis",
+      "choices": [
+        "lentil",
+        "weathercock",
+        "house",
+        "plough-knife"
+      ],
+      "tts": "vaginis",
+      "correct": [
+        "plough-knife"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kraklan",
+      "choices": [
+        "shield",
+        "dough",
+        "brother",
+        "breast"
+      ],
+      "tts": "kraklan",
+      "correct": [
+        "breast"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pauste kate",
+      "choices": [
+        "cat",
+        "shed",
+        "heart",
+        "grandfather"
+      ],
+      "tts": "pauste kate",
+      "correct": [
+        "cat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grawc",
+      "choices": [
+        "grass",
+        "donkey",
+        "rib",
+        "smoke"
+      ],
+      "tts": "grawc",
+      "correct": [
+        "rib"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "visascdis",
+      "choices": [
+        "tuesday",
+        "stable",
+        "house",
+        "side-board"
+      ],
+      "tts": "visascdis",
+      "correct": [
+        "tuesday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plugis",
+      "choices": [
+        "tuesday",
+        "uncle",
+        "blow",
+        "plough"
+      ],
+      "tts": "plugis",
+      "correct": [
+        "plough"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelanc",
+      "choices": [
+        "corpse",
+        "palate",
+        "ashes",
+        "cook"
+      ],
+      "tts": "pelanc",
+      "correct": [
+        "ashes"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eizis",
+      "choices": [
+        "loft",
+        "tinder",
+        "dill",
+        "barley"
+      ],
+      "tts": "m...eizis",
+      "correct": [
+        "barley"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinis",
+      "choices": [
+        "piggery",
+        "summer",
+        "wine",
+        "lake"
+      ],
+      "tts": "vinis",
+      "correct": [
+        "wine"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sp...eine",
+      "choices": [
+        "foam",
+        "autumn",
+        "stepdaughter",
+        "knight"
+      ],
+      "tts": "sp...eine",
+      "correct": [
+        "foam"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gar'an",
+      "choices": [
+        "swelling",
+        "cheek",
+        "tree",
+        "valley"
+      ],
+      "tts": "gar'an",
+      "correct": [
+        "tree"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "digne",
+      "choices": [
+        "hailstones",
+        "thigh",
+        "handle",
+        "cow"
+      ],
+      "tts": "digne",
+      "correct": [
+        "handle"
+      ],
+      "type": "choose"
+    }
+  ]
+}

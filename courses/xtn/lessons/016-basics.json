@@ -1,0 +1,306 @@
+{
+  "id": "016-basics",
+  "title": "Basics 16",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "koso",
+      "choices": [
+        "regará",
+        "terminó",
+        "cerro pelón",
+        "vivirá"
+      ],
+      "tts": "koso",
+      "correct": [
+        "regará"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "koto",
+      "choices": [
+        "cuidará",
+        "hijo mi",
+        "chiukun kuii, ",
+        "maquila"
+      ],
+      "tts": "koto",
+      "correct": [
+        "cuidará"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kute",
+      "choices": [
+        "borreguitos",
+        "con",
+        "descansaré yo",
+        "brotará"
+      ],
+      "tts": "kute",
+      "correct": [
+        "brotará"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "koꞌo",
+      "choices": [
+        "estará metido yiꞌi",
+        "irá",
+        "fuerza",
+        "regará"
+      ],
+      "tts": "koꞌo",
+      "correct": [
+        "estará metido yiꞌi"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jiꞌi",
+      "choices": [
+        "cargar por adelante",
+        "comen",
+        "beberá",
+        "¿quién sabe?"
+      ],
+      "tts": "jiꞌi",
+      "correct": [
+        "beberá"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "koskii",
+      "choices": [
+        "jugará",
+        "quiero",
+        "vámonos-nosotros",
+        "trash"
+      ],
+      "tts": "koskii",
+      "correct": [
+        "jugará"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kusun",
+      "choices": [
+        "empezar",
+        "face",
+        "irás",
+        "dormirá"
+      ],
+      "tts": "kusun",
+      "correct": [
+        "dormirá"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuu",
+      "choices": [
+        "dormirá",
+        "cierra",
+        "morirá",
+        "confesar"
+      ],
+      "tts": "kuu",
+      "correct": [
+        "morirá"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "oo",
+      "choices": [
+        "está",
+        "hijos",
+        "complemento",
+        "cost"
+      ],
+      "tts": "oo",
+      "correct": [
+        "está"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tee",
+      "choices": [
+        "comió",
+        "como",
+        "suchi",
+        "man"
+      ],
+      "tts": "tee",
+      "correct": [
+        "man"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndaꞌu",
+      "choices": [
+        "completivo emborrachó",
+        "bien",
+        "coyote",
+        "énfasis él"
+      ],
+      "tts": "ndaꞌu",
+      "correct": [
+        "énfasis él"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yaꞌu",
+      "choices": [
+        "soda (líquido + sweet)",
+        "mucho, muchos",
+        "caro",
+        "culebra"
+      ],
+      "tts": "yaꞌu",
+      "correct": [
+        "caro"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "luu",
+      "choices": [
+        "bonito plural parecen gatos pintos",
+        "borrego",
+        "cerrará",
+        "entonces dice"
+      ],
+      "tts": "luu",
+      "correct": [
+        "bonito plural parecen gatos pintos"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaꞌnu/jaꞌnu",
+      "choices": [
+        "doblar, quebrar",
+        "entonces dice",
+        "horno",
+        "vivirá"
+      ],
+      "tts": "kaꞌnu/jaꞌnu",
+      "correct": [
+        "doblar, quebrar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndee",
+      "choices": [
+        "ndikachi",
+        "recibir un pago",
+        "get tired",
+        "completivo plural pidieron"
+      ],
+      "tts": "ndee",
+      "correct": [
+        "recibir un pago"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "niꞌi",
+      "choices": [
+        "anoche",
+        "horno",
+        "oír",
+        "hombres"
+      ],
+      "tts": "niꞌi",
+      "correct": [
+        "oír"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuni/jini",
+      "choices": [
+        "arroba",
+        "corre",
+        "saber",
+        "cuello"
+      ],
+      "tts": "kuni/jini",
+      "correct": [
+        "saber"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndajiokuiin",
+      "choices": [
+        "cost",
+        "cabeza árbol",
+        "regresó",
+        "limón"
+      ],
+      "tts": "ndajiokuiin",
+      "correct": [
+        "regresó"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tisaa",
+      "choices": [
+        "regará",
+        "pájaro",
+        "chikueli niños",
+        "completivo hubo"
+      ],
+      "tts": "tisaa",
+      "correct": [
+        "pájaro"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "xtaa",
+      "choices": [
+        "causativo",
+        "eat",
+        "decir ndakaꞌan",
+        "colgar, tender en un plano"
+      ],
+      "tts": "xtaa",
+      "correct": [
+        "decir ndakaꞌan"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "052-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dangus",
+      "choices": [
+        "heaven",
+        "mead",
+        "shoulder-joint",
+        "garden-bed"
+      ],
+      "tts": "dangus",
+      "correct": [
+        "heaven"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "puninan",
+      "choices": [
+        "buttocks",
+        "mother",
+        "heaven",
+        "mountain"
+      ],
+      "tts": "puninan",
+      "correct": [
+        "buttocks"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "parst'an",
+      "choices": [
+        "pig",
+        "seed",
+        "clover",
+        "water"
+      ],
+      "tts": "parst'an",
+      "correct": [
+        "pig"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pirzdlankstan",
+      "choices": [
+        "shutter",
+        "handle",
+        "sister",
+        "room"
+      ],
+      "tts": "pirzdlankstan",
+      "correct": [
+        "shutter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "seste",
+      "choices": [
+        "stove",
+        "moon",
+        "dipper",
+        "bench"
+      ],
+      "tts": "seste",
+      "correct": [
+        "bench"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pasuns",
+      "choices": [
+        "weir",
+        "stepson",
+        "crib",
+        "god"
+      ],
+      "tts": "pasuns",
+      "correct": [
+        "stepson"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klentc",
+      "choices": [
+        "grains",
+        "cow",
+        "heat",
+        "gravel"
+      ],
+      "tts": "klentc",
+      "correct": [
+        "cow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "inkstc",
+      "choices": [
+        "kidney",
+        "lord",
+        "tree",
+        "stable"
+      ],
+      "tts": "inkstc",
+      "correct": [
+        "kidney"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tulawertcs",
+      "choices": [
+        "intestines",
+        "toe",
+        "hell",
+        "poppy"
+      ],
+      "tts": "tulawertcs",
+      "correct": [
+        "intestines"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "akins [acc.pl.fem.]",
+      "choices": [
+        "arm-chair",
+        "scabbard",
+        "eyes",
+        "snot"
+      ],
+      "tts": "akins [acc.pl.fem.]",
+      "correct": [
+        "eyes"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gl'aubtenc",
+      "choices": [
+        "joist",
+        "hoop",
+        "valley",
+        "mouldboard"
+      ],
+      "tts": "gl'aubtenc",
+      "correct": [
+        "mouldboard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "deiwis",
+      "choices": [
+        "god",
+        "brother",
+        "snot",
+        "hailstones"
+      ],
+      "tts": "deiwis",
+      "correct": [
+        "god"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "drugis",
+      "choices": [
+        "aftermath",
+        "reed",
+        "table",
+        "milk"
+      ],
+      "tts": "drugis",
+      "correct": [
+        "reed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "inzuvis",
+      "choices": [
+        "son",
+        "tongue",
+        "brother",
+        "fire"
+      ],
+      "tts": "inzuvis",
+      "correct": [
+        "tongue"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vin'agavus",
+      "choices": [
+        "flake-ashes",
+        "crib",
+        "moustache",
+        "grape"
+      ],
+      "tts": "vin'agavus",
+      "correct": [
+        "grape"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stabini",
+      "choices": [
+        "finger",
+        "stove",
+        "angel",
+        "grab"
+      ],
+      "tts": "stabini",
+      "correct": [
+        "stove"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "liskis, liskis",
+      "choices": [
+        "helmet",
+        "aftermath",
+        "water",
+        "encampment"
+      ],
+      "tts": "liskis, liskis",
+      "correct": [
+        "encampment"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ravis",
+      "choices": [
+        "armour",
+        "drizzle",
+        "ditch",
+        "rib"
+      ],
+      "tts": "ravis",
+      "correct": [
+        "ditch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "snaigis",
+      "choices": [
+        "snow",
+        "swelling",
+        "bean",
+        "clay"
+      ],
+      "tts": "snaigis",
+      "correct": [
+        "snow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "supis",
+      "choices": [
+        "rampart",
+        "hay",
+        "valley",
+        "spark"
+      ],
+      "tts": "supis",
+      "correct": [
+        "rampart"
+      ],
+      "type": "choose"
+    }
+  ]
+}

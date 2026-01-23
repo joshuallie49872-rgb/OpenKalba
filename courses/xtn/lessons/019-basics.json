@@ -1,0 +1,306 @@
+{
+  "id": "019-basics",
+  "title": "Basics 19",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaa",
+      "choices": [
+        "allí",
+        "comeré mucho",
+        "está poco",
+        "aquí"
+      ],
+      "tts": "kaa",
+      "correct": [
+        "comeré mucho"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jita",
+      "choices": [
+        "canta",
+        "cerrarás boca",
+        "recordar",
+        "vendió él"
+      ],
+      "tts": "jita",
+      "correct": [
+        "canta"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "maa",
+      "choices": [
+        "énfasis",
+        "empezar",
+        "get tired",
+        "día"
+      ],
+      "tts": "maa",
+      "correct": [
+        "énfasis"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "oo",
+      "choices": [
+        "están ellas aquí",
+        "énfasis",
+        "cabeza árbol",
+        "comerá"
+      ],
+      "tts": "oo",
+      "correct": [
+        "están ellas aquí"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kiꞌin",
+      "choices": [
+        "iré",
+        "causativo",
+        "color claro ndi- + yaa ‘blanco’",
+        "chico"
+      ],
+      "tts": "kiꞌin",
+      "correct": [
+        "iré"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kao",
+      "choices": [
+        "fueron",
+        "caminar",
+        "comeremos-nosotros",
+        "(habitual)"
+      ],
+      "tts": "kao",
+      "correct": [
+        "comeremos-nosotros"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yaꞌa",
+      "choices": [
+        "fueron",
+        "favor",
+        "comió nomás",
+        "aquí"
+      ],
+      "tts": "yaꞌa",
+      "correct": [
+        "aquí"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndixiuꞌu",
+      "choices": [
+        "color claro ndi- + yaa ‘blanco’",
+        "canta",
+        "chivos",
+        "desaparecer"
+      ],
+      "tts": "ndixiuꞌu",
+      "correct": [
+        "chivos"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "subjuntivo",
+      "choices": [
+        "así",
+        "cada uno",
+        "caminan personas",
+        "chiukun kuii, "
+      ],
+      "tts": "subjuntivo",
+      "correct": [
+        "así"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "deidad",
+      "choices": [
+        "beberá",
+        "destruiré",
+        "put/throw",
+        "familiar"
+      ],
+      "tts": "deidad",
+      "correct": [
+        "destruiré"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ruꞌun,",
+      "choices": [
+        "cerrarás boca",
+        "empezar de nuevo",
+        "cenar (kaa eatr’ + xini ‘noche’)",
+        "chi"
+      ],
+      "tts": "ruꞌun,",
+      "correct": [
+        "chi"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "saa",
+      "choices": [
+        "énfasis",
+        "man",
+        "venderán",
+        "así"
+      ],
+      "tts": "saa",
+      "correct": [
+        "así"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuini",
+      "choices": [
+        "chivo",
+        "irás",
+        "quiero",
+        "jabón"
+      ],
+      "tts": "kuini",
+      "correct": [
+        "quiero"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kiꞌin",
+      "choices": [
+        "cabeza",
+        "carne",
+        "cerrarás boca",
+        "irás"
+      ],
+      "tts": "kiꞌin",
+      "correct": [
+        "irás"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kokuu",
+      "choices": [
+        "futuro-serás",
+        "con",
+        "colgar, tender en un plano",
+        "completivo emborrachó"
+      ],
+      "tts": "kokuu",
+      "correct": [
+        "futuro-serás"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kandija",
+      "choices": [
+        "creen",
+        "chi-",
+        "castellano",
+        "caro"
+      ],
+      "tts": "kandija",
+      "correct": [
+        "creen"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kiꞌinkuei",
+      "choices": [
+        "culebra adentro milpa",
+        "cantará",
+        "irán",
+        "put/throw"
+      ],
+      "tts": "kiꞌinkuei",
+      "correct": [
+        "irán"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yun",
+      "choices": [
+        "realizado",
+        "aquellos",
+        "comerán",
+        "comen"
+      ],
+      "tts": "yun",
+      "correct": [
+        "aquellos"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "vaꞌa",
+      "choices": [
+        "con",
+        "hasta",
+        "bien",
+        "comprar"
+      ],
+      "tts": "vaꞌa",
+      "correct": [
+        "bien"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "completivo",
+      "choices": [
+        "con",
+        "secó",
+        "quiero",
+        "énfasis él"
+      ],
+      "tts": "completivo",
+      "correct": [
+        "secó"
+      ],
+      "type": "choose"
+    }
+  ]
+}

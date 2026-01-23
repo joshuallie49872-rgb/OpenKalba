@@ -1,0 +1,306 @@
+{
+  "id": "087-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bedis",
+      "choices": [
+        "prick",
+        "hip",
+        "grape",
+        "sieve"
+      ],
+      "tts": "bedis",
+      "correct": [
+        "prick"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "perc",
+      "choices": [
+        "steam",
+        "grandfather",
+        "plough-knife",
+        "death"
+      ],
+      "tts": "perc",
+      "correct": [
+        "steam"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "asanis",
+      "choices": [
+        "autumn",
+        "swamp",
+        "nettle",
+        "ear"
+      ],
+      "tts": "asanis",
+      "correct": [
+        "autumn"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "galis",
+      "choices": [
+        "heat",
+        "barley",
+        "death",
+        "meninx"
+      ],
+      "tts": "galis",
+      "correct": [
+        "death"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zcme",
+      "choices": [
+        "spoon",
+        "winter",
+        "breast",
+        "sea"
+      ],
+      "tts": "zcme",
+      "correct": [
+        "winter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mese",
+      "choices": [
+        "calves",
+        "drizzle",
+        "millet",
+        "aunt"
+      ],
+      "tts": "mese",
+      "correct": [
+        "aunt"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "b...erdus",
+      "choices": [
+        "fire",
+        "beard",
+        "shout",
+        "father-in-law"
+      ],
+      "tts": "b...erdus",
+      "correct": [
+        "beard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kamate",
+      "choices": [
+        "hayloft",
+        "dill",
+        "fever",
+        "loins"
+      ],
+      "tts": "kamate",
+      "correct": [
+        "dill"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kukerc",
+      "choices": [
+        "dough",
+        "cloud",
+        "prick",
+        "kitchen"
+      ],
+      "tts": "kukerc",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tctis",
+      "choices": [
+        "soul",
+        "chimney",
+        "oat",
+        "grandfather"
+      ],
+      "tts": "tctis",
+      "correct": [
+        "grandfather"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pμrstan",
+      "choices": [
+        "barrel",
+        "mountain",
+        "finger",
+        "gate"
+      ],
+      "tts": "pμrstan",
+      "correct": [
+        "finger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kalese",
+      "choices": [
+        "winter",
+        "wind",
+        "pancake",
+        "ravine"
+      ],
+      "tts": "kalese",
+      "correct": [
+        "pancake"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sunis",
+      "choices": [
+        "forearm",
+        "dog",
+        "thursday",
+        "vertex"
+      ],
+      "tts": "sunis",
+      "correct": [
+        "dog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krcslan",
+      "choices": [
+        "year",
+        "arm-chair",
+        "rampart",
+        "horse"
+      ],
+      "tts": "krcslan",
+      "correct": [
+        "arm-chair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ikr...ei",
+      "choices": [
+        "ear",
+        "calves",
+        "blood",
+        "stars"
+      ],
+      "tts": "ikr...ei",
+      "correct": [
+        "calves"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lait'an",
+      "choices": [
+        "meninx",
+        "lightning",
+        "bladder",
+        "sausage"
+      ],
+      "tts": "lait'an",
+      "correct": [
+        "sausage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vanse",
+      "choices": [
+        "grandfather",
+        "frost",
+        "hook",
+        "moustache"
+      ],
+      "tts": "vanse",
+      "correct": [
+        "moustache"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunis",
+      "choices": [
+        "stallion",
+        "mill",
+        "rope",
+        "steam"
+      ],
+      "tts": "malunis",
+      "correct": [
+        "mill"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "petc",
+      "choices": [
+        "scabbard",
+        "reed",
+        "shoulder",
+        "knee"
+      ],
+      "tts": "petc",
+      "correct": [
+        "shoulder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "garbis",
+      "choices": [
+        "friday",
+        "forearm",
+        "mountain",
+        "stomach"
+      ],
+      "tts": "garbis",
+      "correct": [
+        "mountain"
+      ],
+      "type": "choose"
+    }
+  ]
+}

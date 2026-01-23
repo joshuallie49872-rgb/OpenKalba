@@ -1,0 +1,306 @@
+{
+  "id": "040-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ketvirtiks",
+      "choices": [
+        "thursday",
+        "pancake",
+        "heaven",
+        "grass"
+      ],
+      "tts": "ketvirtiks",
+      "correct": [
+        "thursday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "paz...ertis",
+      "choices": [
+        "hub",
+        "spleen",
+        "poker",
+        "hub-shaft"
+      ],
+      "tts": "paz...ertis",
+      "correct": [
+        "poker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ikr...ei",
+      "choices": [
+        "window",
+        "chaff",
+        "calves",
+        "cook"
+      ],
+      "tts": "ikr...ei",
+      "correct": [
+        "calves"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plinksnc",
+      "choices": [
+        "chain",
+        "scone",
+        "pea",
+        "saddle-maker"
+      ],
+      "tts": "plinksnc",
+      "correct": [
+        "scone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "aismis",
+      "choices": [
+        "roasting-jack",
+        "kidney",
+        "shutter",
+        "bird"
+      ],
+      "tts": "aismis",
+      "correct": [
+        "roasting-jack"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pakurte",
+      "choices": [
+        "threshold",
+        "hayloft",
+        "wall",
+        "stroke"
+      ],
+      "tts": "pakurte",
+      "correct": [
+        "threshold"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klcnan",
+      "choices": [
+        "navel",
+        "sole",
+        "friday",
+        "granary"
+      ],
+      "tts": "klcnan",
+      "correct": [
+        "granary"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "puninan",
+      "choices": [
+        "stars",
+        "eyes",
+        "dough",
+        "buttocks"
+      ],
+      "tts": "puninan",
+      "correct": [
+        "buttocks"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "alkunis",
+      "choices": [
+        "elbow",
+        "shoulder",
+        "bladder",
+        "kettle"
+      ],
+      "tts": "alkunis",
+      "correct": [
+        "elbow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "drag'es",
+      "choices": [
+        "knuckle",
+        "clover",
+        "yeast",
+        "tongue"
+      ],
+      "tts": "drag'es",
+      "correct": [
+        "yeast"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varzus",
+      "choices": [
+        "windpipe",
+        "lip",
+        "thumb",
+        "heart"
+      ],
+      "tts": "varzus",
+      "correct": [
+        "lip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eizis",
+      "choices": [
+        "cloud",
+        "smoke",
+        "foal",
+        "barley"
+      ],
+      "tts": "m...eizis",
+      "correct": [
+        "barley"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "staldis",
+      "choices": [
+        "baker",
+        "woman",
+        "stable",
+        "grains"
+      ],
+      "tts": "staldis",
+      "correct": [
+        "stable"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "katils",
+      "choices": [
+        "loins",
+        "dipper",
+        "rush",
+        "kettle"
+      ],
+      "tts": "katils",
+      "correct": [
+        "kettle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "metan",
+      "choices": [
+        "spoon",
+        "year",
+        "kindling-wood",
+        "arm"
+      ],
+      "tts": "metan",
+      "correct": [
+        "year"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grebis",
+      "choices": [
+        "gut",
+        "straw",
+        "weir",
+        "father"
+      ],
+      "tts": "grebis",
+      "correct": [
+        "gut"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kakte",
+      "choices": [
+        "sledge",
+        "pea",
+        "smoke",
+        "forehead"
+      ],
+      "tts": "kakte",
+      "correct": [
+        "forehead"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "abares",
+      "choices": [
+        "mule",
+        "week",
+        "chin",
+        "manger"
+      ],
+      "tts": "abares",
+      "correct": [
+        "manger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "abazus",
+      "choices": [
+        "cart",
+        "gable",
+        "nephew",
+        "honey"
+      ],
+      "tts": "abazus",
+      "correct": [
+        "cart"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "padaubis",
+      "choices": [
+        "valley",
+        "breast",
+        "bladder",
+        "lentil"
+      ],
+      "tts": "padaubis",
+      "correct": [
+        "valley"
+      ],
+      "type": "choose"
+    }
+  ]
+}

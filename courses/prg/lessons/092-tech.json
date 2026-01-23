@@ -1,0 +1,306 @@
+{
+  "id": "092-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vctre",
+      "choices": [
+        "wind",
+        "lightning",
+        "pancake",
+        "barrel"
+      ],
+      "tts": "vctre",
+      "correct": [
+        "wind"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "metan",
+      "choices": [
+        "heaven",
+        "wicket-gate",
+        "year",
+        "glass"
+      ],
+      "tts": "metan",
+      "correct": [
+        "year"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sparis",
+      "choices": [
+        "nettle",
+        "rafter",
+        "alumina",
+        "flake-ashes"
+      ],
+      "tts": "sparis",
+      "correct": [
+        "rafter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "abares",
+      "choices": [
+        "sea",
+        "manger",
+        "arm",
+        "heel"
+      ],
+      "tts": "abares",
+      "correct": [
+        "manger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kukerc",
+      "choices": [
+        "bay",
+        "kitchen",
+        "sole",
+        "bird"
+      ],
+      "tts": "kukerc",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "umnudc",
+      "choices": [
+        "bake-house",
+        "side-board",
+        "wine",
+        "nettle"
+      ],
+      "tts": "umnudc",
+      "correct": [
+        "bake-house"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rapan",
+      "choices": [
+        "basin",
+        "besom",
+        "coal",
+        "angel"
+      ],
+      "tts": "rapan",
+      "correct": [
+        "angel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vaikelis",
+      "choices": [
+        "son",
+        "father-in-law",
+        "father",
+        "ploughman"
+      ],
+      "tts": "vaikelis",
+      "correct": [
+        "son"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ausins [acc.pl.fem.]",
+      "choices": [
+        "wind",
+        "cow",
+        "ears",
+        "throat"
+      ],
+      "tts": "ausins [acc.pl.fem.]",
+      "correct": [
+        "ears"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "balgninikis",
+      "choices": [
+        "heaven",
+        "saddle-maker",
+        "rush",
+        "knuckle"
+      ],
+      "tts": "balgninikis",
+      "correct": [
+        "saddle-maker"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kumetis",
+      "choices": [
+        "peasant",
+        "broth",
+        "wine",
+        "threshing-floor"
+      ],
+      "tts": "kumetis",
+      "correct": [
+        "peasant"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "girnavis nom.pl.f.",
+      "choices": [
+        "woman",
+        "bladder",
+        "quern",
+        "fog"
+      ],
+      "tts": "girnavis nom.pl.f.",
+      "correct": [
+        "quern"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kraiss",
+      "choices": [
+        "wheel",
+        "hay",
+        "elbow",
+        "armour"
+      ],
+      "tts": "kraiss",
+      "correct": [
+        "hay"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gremzdc",
+      "choices": [
+        "fist",
+        "river",
+        "cartilage",
+        "blood"
+      ],
+      "tts": "gremzdc",
+      "correct": [
+        "cartilage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laiknan",
+      "choices": [
+        "cheek",
+        "grape",
+        "shutter",
+        "spindle"
+      ],
+      "tts": "laiknan",
+      "correct": [
+        "cheek"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pedalis",
+      "choices": [
+        "horse",
+        "wicket-gate",
+        "pot",
+        "bench"
+      ],
+      "tts": "pedalis",
+      "correct": [
+        "pot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "likutkekers",
+      "choices": [
+        "ashes",
+        "lightning",
+        "meal",
+        "lentil"
+      ],
+      "tts": "likutkekers",
+      "correct": [
+        "lentil"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "netis",
+      "choices": [
+        "lip",
+        "worker",
+        "support",
+        "nettle"
+      ],
+      "tts": "netis",
+      "correct": [
+        "nettle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "staklc",
+      "choices": [
+        "flint",
+        "friday",
+        "support",
+        "thumb"
+      ],
+      "tts": "staklc",
+      "correct": [
+        "support"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lunkis",
+      "choices": [
+        "gravel",
+        "corner",
+        "house",
+        "hub-shaft"
+      ],
+      "tts": "lunkis",
+      "correct": [
+        "corner"
+      ],
+      "type": "choose"
+    }
+  ]
+}

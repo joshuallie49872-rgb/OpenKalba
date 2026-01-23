@@ -1,0 +1,306 @@
+{
+  "id": "033-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varte",
+      "choices": [
+        "dog",
+        "door",
+        "house",
+        "soul"
+      ],
+      "tts": "varte",
+      "correct": [
+        "door"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zamc",
+      "choices": [
+        "maiden",
+        "plough-knife",
+        "thunder",
+        "earth"
+      ],
+      "tts": "zamc",
+      "correct": [
+        "earth"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tctis",
+      "choices": [
+        "grandfather",
+        "water",
+        "skull",
+        "crib"
+      ],
+      "tts": "tctis",
+      "correct": [
+        "grandfather"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "malunastabis",
+      "choices": [
+        "flint",
+        "millstone",
+        "moustache",
+        "sea"
+      ],
+      "tts": "malunastabis",
+      "correct": [
+        "millstone"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gremzdc",
+      "choices": [
+        "sister",
+        "mail",
+        "cartilage",
+        "wicket-gate"
+      ],
+      "tts": "gremzdc",
+      "correct": [
+        "cartilage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "undan",
+      "choices": [
+        "bread",
+        "water",
+        "scabbard",
+        "flitch"
+      ],
+      "tts": "undan",
+      "correct": [
+        "water"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "veliblundis",
+      "choices": [
+        "threshing-floor",
+        "ear",
+        "ashes",
+        "mule"
+      ],
+      "tts": "veliblundis",
+      "correct": [
+        "mule"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "metan",
+      "choices": [
+        "year",
+        "corn-cockle",
+        "poker",
+        "lungs"
+      ],
+      "tts": "metan",
+      "correct": [
+        "year"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kragis",
+      "choices": [
+        "jug",
+        "mow",
+        "scabbard",
+        "fever"
+      ],
+      "tts": "kragis",
+      "correct": [
+        "jug"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabis",
+      "choices": [
+        "foam",
+        "lightning",
+        "bung-hole",
+        "navel"
+      ],
+      "tts": "nabis",
+      "correct": [
+        "navel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "alkunis",
+      "choices": [
+        "spark",
+        "valley",
+        "calves",
+        "elbow"
+      ],
+      "tts": "alkunis",
+      "correct": [
+        "elbow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "merge",
+      "choices": [
+        "paunch",
+        "whip",
+        "maiden",
+        "palate"
+      ],
+      "tts": "merge",
+      "correct": [
+        "maiden"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kirtis",
+      "choices": [
+        "man",
+        "plait",
+        "life",
+        "blow"
+      ],
+      "tts": "kirtis",
+      "correct": [
+        "blow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kupsins",
+      "choices": [
+        "nail",
+        "fog",
+        "moon",
+        "stepson"
+      ],
+      "tts": "kupsins",
+      "correct": [
+        "fog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "garbis",
+      "choices": [
+        "kettle",
+        "stallion",
+        "coal",
+        "mountain"
+      ],
+      "tts": "garbis",
+      "correct": [
+        "mountain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klumpis",
+      "choices": [
+        "stars",
+        "hub",
+        "chair",
+        "alumina"
+      ],
+      "tts": "klumpis",
+      "correct": [
+        "chair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klat...ei",
+      "choices": [
+        "life",
+        "intestines",
+        "oat",
+        "burdock"
+      ],
+      "tts": "klat...ei",
+      "correct": [
+        "burdock"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ratinzis",
+      "choices": [
+        "forehead",
+        "man",
+        "chain",
+        "heel"
+      ],
+      "tts": "ratinzis",
+      "correct": [
+        "chain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krauje",
+      "choices": [
+        "ashes",
+        "saturday",
+        "blood",
+        "acre"
+      ],
+      "tts": "krauje",
+      "correct": [
+        "blood"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strigene",
+      "choices": [
+        "bulb",
+        "bone-marrow",
+        "flag",
+        "vertex"
+      ],
+      "tts": "strigene",
+      "correct": [
+        "bone-marrow"
+      ],
+      "type": "choose"
+    }
+  ]
+}

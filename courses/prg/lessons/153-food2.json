@@ -1,0 +1,306 @@
+{
+  "id": "153-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skaitan",
+      "choices": [
+        "year",
+        "saddle-maker",
+        "earth",
+        "shield"
+      ],
+      "tts": "skaitan",
+      "correct": [
+        "shield"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "visascdis",
+      "choices": [
+        "cart",
+        "kettle",
+        "tuesday",
+        "prick"
+      ],
+      "tts": "visascdis",
+      "correct": [
+        "tuesday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "brukis",
+      "choices": [
+        "hailstones",
+        "forearm",
+        "shout",
+        "stroke"
+      ],
+      "tts": "brukis",
+      "correct": [
+        "stroke"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "trustins",
+      "choices": [
+        "hayloft",
+        "ear-wax",
+        "granary",
+        "drizzle"
+      ],
+      "tts": "trustins",
+      "correct": [
+        "ear-wax"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gaste",
+      "choices": [
+        "wednesday",
+        "ashes",
+        "plot",
+        "barn"
+      ],
+      "tts": "gaste",
+      "correct": [
+        "plot"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pikuls",
+      "choices": [
+        "hell",
+        "prick",
+        "monday",
+        "rampart"
+      ],
+      "tts": "pikuls",
+      "correct": [
+        "hell"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "maldenikis",
+      "choices": [
+        "stepdaughter",
+        "gut",
+        "child",
+        "brother"
+      ],
+      "tts": "maldenikis",
+      "correct": [
+        "child"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelekis",
+      "choices": [
+        "bulb",
+        "wine",
+        "sieve",
+        "gable"
+      ],
+      "tts": "pelekis",
+      "correct": [
+        "gable"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "...eltis",
+      "choices": [
+        "god",
+        "forearm",
+        "soul",
+        "mustard"
+      ],
+      "tts": "...eltis",
+      "correct": [
+        "forearm"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gl'aubtenc",
+      "choices": [
+        "mill",
+        "ploughshare",
+        "mouldboard",
+        "spleen"
+      ],
+      "tts": "gl'aubtenc",
+      "correct": [
+        "mouldboard"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zukis",
+      "choices": [
+        "ploughman",
+        "pig",
+        "gutter",
+        "fish"
+      ],
+      "tts": "zukis",
+      "correct": [
+        "fish"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zwirkstis",
+      "choices": [
+        "gravel",
+        "sister",
+        "seed",
+        "acre"
+      ],
+      "tts": "zwirkstis",
+      "correct": [
+        "gravel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grumins",
+      "choices": [
+        "liver",
+        "thunder",
+        "baker",
+        "fever"
+      ],
+      "tts": "grumins",
+      "correct": [
+        "thunder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "inzuvis",
+      "choices": [
+        "nape",
+        "death",
+        "fist",
+        "tongue"
+      ],
+      "tts": "inzuvis",
+      "correct": [
+        "tongue"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "tevis",
+      "choices": [
+        "father",
+        "weir",
+        "wind",
+        "manger"
+      ],
+      "tts": "tevis",
+      "correct": [
+        "father"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "mekc",
+      "choices": [
+        "harrow",
+        "fish",
+        "poppy",
+        "swingletree"
+      ],
+      "tts": "mekc",
+      "correct": [
+        "poppy"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rapan",
+      "choices": [
+        "angel",
+        "chimney",
+        "gable",
+        "rye"
+      ],
+      "tts": "rapan",
+      "correct": [
+        "angel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rcde",
+      "choices": [
+        "furrow",
+        "weathercock",
+        "hair",
+        "hearth"
+      ],
+      "tts": "rcde",
+      "correct": [
+        "furrow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pintis",
+      "choices": [
+        "tinder",
+        "autumn",
+        "flitch",
+        "mother"
+      ],
+      "tts": "pintis",
+      "correct": [
+        "tinder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bedis",
+      "choices": [
+        "swamp",
+        "woman",
+        "prick",
+        "hoop"
+      ],
+      "tts": "bedis",
+      "correct": [
+        "prick"
+      ],
+      "type": "choose"
+    }
+  ]
+}

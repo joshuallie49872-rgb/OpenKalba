@@ -1,0 +1,306 @@
+{
+  "id": "120-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "saulc",
+      "choices": [
+        "brother",
+        "wound",
+        "sun",
+        "steam"
+      ],
+      "tts": "saulc",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "eizve",
+      "choices": [
+        "knight",
+        "wound",
+        "smoke",
+        "windpipe"
+      ],
+      "tts": "eizve",
+      "correct": [
+        "wound"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "valis",
+      "choices": [
+        "earth",
+        "tuesday",
+        "swingletree",
+        "coal"
+      ],
+      "tts": "valis",
+      "correct": [
+        "swingletree"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pirzdlankstan",
+      "choices": [
+        "sea",
+        "cook",
+        "bladder",
+        "shutter"
+      ],
+      "tts": "pirzdlankstan",
+      "correct": [
+        "shutter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kukerc",
+      "choices": [
+        "dog",
+        "hearth",
+        "neck",
+        "kitchen"
+      ],
+      "tts": "kukerc",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skebelis",
+      "choices": [
+        "plough",
+        "hemp",
+        "clover",
+        "hair"
+      ],
+      "tts": "skebelis",
+      "correct": [
+        "hair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laidis",
+      "choices": [
+        "clay",
+        "lance",
+        "child",
+        "spoon"
+      ],
+      "tts": "laidis",
+      "correct": [
+        "clay"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zukis",
+      "choices": [
+        "fish",
+        "windpipe",
+        "grease",
+        "awn"
+      ],
+      "tts": "zukis",
+      "correct": [
+        "fish"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "riklis",
+      "choices": [
+        "knuckle",
+        "loft",
+        "rye",
+        "nostril"
+      ],
+      "tts": "riklis",
+      "correct": [
+        "loft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vinzus",
+      "choices": [
+        "plough-knife",
+        "pancake",
+        "cook",
+        "neck"
+      ],
+      "tts": "vinzus",
+      "correct": [
+        "neck"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "liskis, liskis",
+      "choices": [
+        "ankle-bone",
+        "encampment",
+        "weathercock",
+        "wednesday"
+      ],
+      "tts": "liskis, liskis",
+      "correct": [
+        "encampment"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gremzdc",
+      "choices": [
+        "skin",
+        "bake-house",
+        "cartilage",
+        "gate"
+      ],
+      "tts": "gremzdc",
+      "correct": [
+        "cartilage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "artejs",
+      "choices": [
+        "granary",
+        "peasant",
+        "grandfather",
+        "ploughman"
+      ],
+      "tts": "artejs",
+      "correct": [
+        "ploughman"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laste",
+      "choices": [
+        "bed",
+        "mustard",
+        "door",
+        "granary"
+      ],
+      "tts": "laste",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lauksnes",
+      "choices": [
+        "stars",
+        "mule",
+        "baker",
+        "piggery"
+      ],
+      "tts": "lauksnes",
+      "correct": [
+        "stars"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "slaunis",
+      "choices": [
+        "malt",
+        "thigh",
+        "liver",
+        "lightning"
+      ],
+      "tts": "slaunis",
+      "correct": [
+        "thigh"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plenis",
+      "choices": [
+        "saddle-maker",
+        "threshing-floor",
+        "wheat",
+        "weir"
+      ],
+      "tts": "plenis",
+      "correct": [
+        "threshing-floor"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "brun'es",
+      "choices": [
+        "jug",
+        "cart",
+        "mail",
+        "ice"
+      ],
+      "tts": "brun'es",
+      "correct": [
+        "mail"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "jur'ai",
+      "choices": [
+        "cheek",
+        "hailstones",
+        "kettle",
+        "sea"
+      ],
+      "tts": "jur'ai",
+      "correct": [
+        "sea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dusi",
+      "choices": [
+        "burdock",
+        "soul",
+        "bake-house",
+        "coal"
+      ],
+      "tts": "dusi",
+      "correct": [
+        "soul"
+      ],
+      "type": "choose"
+    }
+  ]
+}

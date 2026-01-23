@@ -1,0 +1,306 @@
+{
+  "id": "022-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bruzgis, bruzgis",
+      "choices": [
+        "mangle",
+        "grains",
+        "dagger",
+        "whip"
+      ],
+      "tts": "bruzgis, bruzgis",
+      "correct": [
+        "whip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "metc",
+      "choices": [
+        "barn",
+        "bran",
+        "mother",
+        "mill-wheel"
+      ],
+      "tts": "metc",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lauksnes",
+      "choices": [
+        "sole",
+        "fire",
+        "hub-shaft",
+        "stars"
+      ],
+      "tts": "lauksnes",
+      "correct": [
+        "stars"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stakameseris",
+      "choices": [
+        "hoar-frost",
+        "dagger",
+        "clay",
+        "whip"
+      ],
+      "tts": "stakameseris",
+      "correct": [
+        "dagger"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "valti",
+      "choices": [
+        "ear",
+        "kindling-wood",
+        "grease",
+        "corner"
+      ],
+      "tts": "valti",
+      "correct": [
+        "ear"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dagis",
+      "choices": [
+        "rib",
+        "poppy",
+        "summer",
+        "kitchen"
+      ],
+      "tts": "dagis",
+      "correct": [
+        "summer"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lube",
+      "choices": [
+        "barn",
+        "father",
+        "armour",
+        "helmet"
+      ],
+      "tts": "lube",
+      "correct": [
+        "barn"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "m...eldc",
+      "choices": [
+        "bran",
+        "lightning",
+        "stubble",
+        "window"
+      ],
+      "tts": "m...eldc",
+      "correct": [
+        "lightning"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "k'esi",
+      "choices": [
+        "meninx",
+        "sunday",
+        "clover",
+        "goblet"
+      ],
+      "tts": "k'esi",
+      "correct": [
+        "goblet"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "instiks",
+      "choices": [
+        "saturday",
+        "millstone",
+        "thumb",
+        "kitchen"
+      ],
+      "tts": "instiks",
+      "correct": [
+        "thumb"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pipelis",
+      "choices": [
+        "gall",
+        "stubble",
+        "bird",
+        "gravel"
+      ],
+      "tts": "pipelis",
+      "correct": [
+        "bird"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "azaran",
+      "choices": [
+        "lance",
+        "cook",
+        "lake",
+        "bake-house"
+      ],
+      "tts": "azaran",
+      "correct": [
+        "lake"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "asanis",
+      "choices": [
+        "water",
+        "autumn",
+        "chain",
+        "chin"
+      ],
+      "tts": "asanis",
+      "correct": [
+        "autumn"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "petc",
+      "choices": [
+        "pleiades",
+        "shoulder",
+        "skin",
+        "fever"
+      ],
+      "tts": "petc",
+      "correct": [
+        "shoulder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zelis",
+      "choices": [
+        "weir",
+        "foal",
+        "stepmother",
+        "grass"
+      ],
+      "tts": "zelis",
+      "correct": [
+        "grass"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vizc",
+      "choices": [
+        "granary",
+        "burdock",
+        "oat",
+        "cloud"
+      ],
+      "tts": "vizc",
+      "correct": [
+        "oat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varte",
+      "choices": [
+        "son",
+        "thumb",
+        "stars",
+        "door"
+      ],
+      "tts": "varte",
+      "correct": [
+        "door"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klentc",
+      "choices": [
+        "wheat",
+        "loins",
+        "king",
+        "cow"
+      ],
+      "tts": "klentc",
+      "correct": [
+        "cow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nopless",
+      "choices": [
+        "bran",
+        "mangle",
+        "garden-bed",
+        "gate"
+      ],
+      "tts": "nopless",
+      "correct": [
+        "mangle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "valdvike",
+      "choices": [
+        "knight",
+        "monday",
+        "life",
+        "mangle"
+      ],
+      "tts": "valdvike",
+      "correct": [
+        "knight"
+      ],
+      "type": "choose"
+    }
+  ]
+}

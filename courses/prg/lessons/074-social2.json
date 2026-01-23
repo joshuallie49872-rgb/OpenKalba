@@ -1,0 +1,306 @@
+{
+  "id": "074-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "suweinis",
+      "choices": [
+        "gable",
+        "piggery",
+        "lord",
+        "mother"
+      ],
+      "tts": "suweinis",
+      "correct": [
+        "piggery"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sestre",
+      "choices": [
+        "bean",
+        "paunch",
+        "sister",
+        "yeast"
+      ],
+      "tts": "sestre",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "germc",
+      "choices": [
+        "heat",
+        "bulb",
+        "malt",
+        "grab"
+      ],
+      "tts": "germc",
+      "correct": [
+        "heat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krcslan",
+      "choices": [
+        "encampment",
+        "friday",
+        "chair",
+        "arm-chair"
+      ],
+      "tts": "krcslan",
+      "correct": [
+        "arm-chair"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "aubirge",
+      "choices": [
+        "side-board",
+        "ploughman",
+        "cook",
+        "nostril"
+      ],
+      "tts": "aubirge",
+      "correct": [
+        "cook"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sk...erde",
+      "choices": [
+        "wound",
+        "burdock",
+        "mill-wheel",
+        "skin"
+      ],
+      "tts": "sk...erde",
+      "correct": [
+        "skin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varzus",
+      "choices": [
+        "lip",
+        "wednesday",
+        "barn",
+        "ditch"
+      ],
+      "tts": "varzus",
+      "correct": [
+        "lip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vaginis",
+      "choices": [
+        "bruise",
+        "hearth",
+        "plough-knife",
+        "chin"
+      ],
+      "tts": "vaginis",
+      "correct": [
+        "plough-knife"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "plauti",
+      "choices": [
+        "sun",
+        "clay",
+        "god",
+        "lungs"
+      ],
+      "tts": "plauti",
+      "correct": [
+        "lungs"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pakurte",
+      "choices": [
+        "garden-bed",
+        "threshold",
+        "shield",
+        "sole"
+      ],
+      "tts": "pakurte",
+      "correct": [
+        "threshold"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kelan",
+      "choices": [
+        "rain",
+        "gums",
+        "ear-wax",
+        "wheel"
+      ],
+      "tts": "kelan",
+      "correct": [
+        "wheel"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "atelis",
+      "choices": [
+        "aftermath",
+        "moustache",
+        "rye",
+        "gravel"
+      ],
+      "tts": "atelis",
+      "correct": [
+        "aftermath"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kunegis",
+      "choices": [
+        "kidney",
+        "eyebrow",
+        "snot",
+        "king"
+      ],
+      "tts": "kunegis",
+      "correct": [
+        "king"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "riklis",
+      "choices": [
+        "loft",
+        "bone-marrow",
+        "knight",
+        "cloud"
+      ],
+      "tts": "riklis",
+      "correct": [
+        "loft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pauste kate",
+      "choices": [
+        "hip",
+        "cat",
+        "flame",
+        "dog"
+      ],
+      "tts": "pauste kate",
+      "correct": [
+        "cat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sarvis",
+      "choices": [
+        "chaff",
+        "donkey",
+        "armour",
+        "stubble"
+      ],
+      "tts": "sarvis",
+      "correct": [
+        "armour"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zamen acc. sg.",
+      "choices": [
+        "summer",
+        "handle",
+        "soil",
+        "stomach"
+      ],
+      "tts": "zamen acc. sg.",
+      "correct": [
+        "soil"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "wcders",
+      "choices": [
+        "whip",
+        "belly",
+        "summer",
+        "wicket-gate"
+      ],
+      "tts": "wcders",
+      "correct": [
+        "belly"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grawus",
+      "choices": [
+        "father-in-law",
+        "side",
+        "yeast",
+        "furrow"
+      ],
+      "tts": "grawus",
+      "correct": [
+        "side"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strambe",
+      "choices": [
+        "rafter",
+        "stroke",
+        "breast",
+        "stubble"
+      ],
+      "tts": "strambe",
+      "correct": [
+        "stubble"
+      ],
+      "type": "choose"
+    }
+  ]
+}

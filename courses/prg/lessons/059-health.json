@@ -1,0 +1,306 @@
+{
+  "id": "059-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kalabijan",
+      "choices": [
+        "sword",
+        "axle",
+        "kitchen",
+        "mow"
+      ],
+      "tts": "kalabijan",
+      "correct": [
+        "sword"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "grawc",
+      "choices": [
+        "flint",
+        "sea",
+        "death",
+        "rib"
+      ],
+      "tts": "grawc",
+      "correct": [
+        "rib"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "wcders",
+      "choices": [
+        "kettle",
+        "sand",
+        "nephew",
+        "belly"
+      ],
+      "tts": "wcders",
+      "correct": [
+        "belly"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krumstus",
+      "choices": [
+        "knuckle",
+        "clover",
+        "father-in-law",
+        "grass"
+      ],
+      "tts": "krumstus",
+      "correct": [
+        "knuckle"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vakis",
+      "choices": [
+        "plough-knife",
+        "weathercock",
+        "palate",
+        "shout"
+      ],
+      "tts": "vakis",
+      "correct": [
+        "shout"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kirtis",
+      "choices": [
+        "blow",
+        "beard",
+        "hub-shaft",
+        "sole"
+      ],
+      "tts": "kirtis",
+      "correct": [
+        "blow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pintis",
+      "choices": [
+        "shelf",
+        "tinder",
+        "elbow",
+        "pan"
+      ],
+      "tts": "pintis",
+      "correct": [
+        "tinder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "panadclc",
+      "choices": [
+        "monday",
+        "father-in-law",
+        "loins",
+        "whetstone"
+      ],
+      "tts": "panadclc",
+      "correct": [
+        "monday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sunis",
+      "choices": [
+        "dog",
+        "moustache",
+        "threshold",
+        "acre"
+      ],
+      "tts": "sunis",
+      "correct": [
+        "dog"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krauje",
+      "choices": [
+        "blood",
+        "bone",
+        "cart",
+        "plough"
+      ],
+      "tts": "krauje",
+      "correct": [
+        "blood"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sp...enksti",
+      "choices": [
+        "liver",
+        "stable",
+        "jug",
+        "spark"
+      ],
+      "tts": "sp...enksti",
+      "correct": [
+        "spark"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kamaters",
+      "choices": [
+        "water",
+        "godfather",
+        "side-board",
+        "goblet"
+      ],
+      "tts": "kamaters",
+      "correct": [
+        "godfather"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "muzgene",
+      "choices": [
+        "neck",
+        "scabbard",
+        "brain",
+        "mustard"
+      ],
+      "tts": "muzgene",
+      "correct": [
+        "brain"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "apc",
+      "choices": [
+        "kitchen",
+        "pig",
+        "river",
+        "glass"
+      ],
+      "tts": "apc",
+      "correct": [
+        "river"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabete",
+      "choices": [
+        "frost",
+        "hub-shaft",
+        "nipple",
+        "lake"
+      ],
+      "tts": "nabete",
+      "correct": [
+        "hub-shaft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sunavis",
+      "choices": [
+        "death",
+        "king",
+        "nephew",
+        "milk"
+      ],
+      "tts": "sunavis",
+      "correct": [
+        "nephew"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "sestre",
+      "choices": [
+        "shout",
+        "sole",
+        "sister",
+        "skin"
+      ],
+      "tts": "sestre",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kekers",
+      "choices": [
+        "pea",
+        "spark",
+        "crib",
+        "breast"
+      ],
+      "tts": "kekers",
+      "correct": [
+        "pea"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "skaitan",
+      "choices": [
+        "rib",
+        "swelling",
+        "millet",
+        "shield"
+      ],
+      "tts": "skaitan",
+      "correct": [
+        "shield"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "artejs",
+      "choices": [
+        "brother",
+        "ploughman",
+        "soil",
+        "flag"
+      ],
+      "tts": "artejs",
+      "correct": [
+        "ploughman"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "080-basics",
+  "title": "Basics 80",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ki-",
+      "choices": [
+        "quiero",
+        "(forma de kii ‘venir’)",
+        "arroba",
+        "futuro-serás"
+      ],
+      "tts": "ki-",
+      "correct": [
+        "(forma de kii ‘venir’)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "nukiꞌin",
+      "choices": [
+        "progresivo-crece",
+        "castellano",
+        "(forma de noꞌo ‘ir a base’)",
+        "comerán"
+      ],
+      "tts": "nukiꞌin",
+      "correct": [
+        "(forma de noꞌo ‘ir a base’)"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kasun",
+      "choices": [
+        "tía",
+        "muchísimo",
+        "confesar",
+        "cada uno"
+      ],
+      "tts": "kasun",
+      "correct": [
+        "confesar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kasi/jasi",
+      "choices": [
+        "eat",
+        "cerrar",
+        "comió",
+        "vivirá"
+      ],
+      "tts": "kasi/jasi",
+      "correct": [
+        "close"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kune/june",
+      "choices": [
+        "(habitual)",
+        "chile",
+        "doblar, quebrar",
+        "abrir"
+      ],
+      "tts": "kune/june",
+      "correct": [
+        "open"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kaku",
+      "choices": [
+        "con padre mi",
+        "humedad ndoꞌyo",
+        "nacer",
+        "compraré más"
+      ],
+      "tts": "kaku",
+      "correct": [
+        "nacer"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kani/jani",
+      "choices": [
+        "carne",
+        "progresivo-plural-crece hijos",
+        "completivo plural pidieron",
+        "desbaratar"
+      ],
+      "tts": "kani/jani",
+      "correct": [
+        "desbaratar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kanta",
+      "choices": [
+        "brincar",
+        "vámonos-nosotros",
+        "cabeza árbol",
+        "comerá"
+      ],
+      "tts": "kanta",
+      "correct": [
+        "brincar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "naꞌa",
+      "choices": [
+        "aquel y",
+        "today, ahora",
+        "recordar",
+        "seco"
+      ],
+      "tts": "naꞌa",
+      "correct": [
+        "recordar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "modo",
+      "choices": [
+        "hiciste",
+        "dónde",
+        "realizado",
+        "énfasis"
+      ],
+      "tts": "modo",
+      "correct": [
+        "realizado"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "exclusivo",
+      "choices": [
+        "complemento",
+        "aquí",
+        "familiar",
+        "quelite"
+      ],
+      "tts": "exclusivo",
+      "correct": [
+        "familiar"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "animal",
+      "choices": [
+        "líquido",
+        "lavó",
+        "fuerza",
+        "pájaro"
+      ],
+      "tts": "animal",
+      "correct": [
+        "líquido"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ñaꞌa",
+      "choices": [
+        "suchi",
+        "irás",
+        "énfasis",
+        "libro"
+      ],
+      "tts": "ñaꞌa",
+      "correct": [
+        "suchi"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "medida",
+      "choices": [
+        "corre",
+        "speak",
+        "arroba",
+        "jugará"
+      ],
+      "tts": "medida",
+      "correct": [
+        "arroba"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "litru",
+      "choices": [
+        "calabaza",
+        "regresó",
+        "porque muchísimo",
+        "maquila"
+      ],
+      "tts": "litru",
+      "correct": [
+        "maquila"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "vurru",
+      "choices": [
+        "soda",
+        "poquitito, lo que cabe en la palma de la mano",
+        "canta",
+        "hermano su"
+      ],
+      "tts": "vurru",
+      "correct": [
+        "poquitito, lo que cabe en la palma de la mano"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "minu",
+      "choices": [
+        "epazote",
+        "canta más",
+        "bendito",
+        "today"
+      ],
+      "tts": "minu",
+      "correct": [
+        "epazote"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "nama",
+      "choices": [
+        "desbaratar",
+        "man aquel porque",
+        "recibir un pago",
+        "jabón"
+      ],
+      "tts": "nama",
+      "correct": [
+        "soap"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "janu",
+      "choices": [
+        "face",
+        "muchísimo",
+        "soda",
+        "yichi"
+      ],
+      "tts": "janu",
+      "correct": [
+        "face"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuaan",
+      "choices": [
+        "¿quién sabe?",
+        "cerrar",
+        "comprar",
+        "empezar"
+      ],
+      "tts": "kuaan",
+      "correct": [
+        "buy"
+      ],
+      "type": "choose"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "id": "037-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rik%is",
+      "choices": [
+        "maiden",
+        "chin",
+        "moustache",
+        "lord"
+      ],
+      "tts": "rik%is",
+      "correct": [
+        "lord"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "snaigis",
+      "choices": [
+        "ear-wax",
+        "snow",
+        "skin",
+        "arm"
+      ],
+      "tts": "snaigis",
+      "correct": [
+        "snow"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "dusi",
+      "choices": [
+        "soul",
+        "mare",
+        "gravel",
+        "eyeball"
+      ],
+      "tts": "dusi",
+      "correct": [
+        "soul"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "veliblundis",
+      "choices": [
+        "poker",
+        "encampment",
+        "mule",
+        "heaven"
+      ],
+      "tts": "veliblundis",
+      "correct": [
+        "mule"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vakis",
+      "choices": [
+        "heart",
+        "gums",
+        "sand",
+        "shout"
+      ],
+      "tts": "vakis",
+      "correct": [
+        "shout"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varte",
+      "choices": [
+        "shield",
+        "door",
+        "air",
+        "mare"
+      ],
+      "tts": "varte",
+      "correct": [
+        "door"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zcme",
+      "choices": [
+        "spigot",
+        "winter",
+        "angel",
+        "tooth"
+      ],
+      "tts": "zcme",
+      "correct": [
+        "winter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klincs",
+      "choices": [
+        "mangle",
+        "aunt",
+        "bran",
+        "sword"
+      ],
+      "tts": "klincs",
+      "correct": [
+        "bran"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zingsle",
+      "choices": [
+        "dough",
+        "kitchen",
+        "gravel",
+        "weathercock"
+      ],
+      "tts": "zingsle",
+      "correct": [
+        "dough"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "keitare",
+      "choices": [
+        "year",
+        "hailstones",
+        "navel",
+        "stroke"
+      ],
+      "tts": "keitare",
+      "correct": [
+        "hailstones"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "germc",
+      "choices": [
+        "hip",
+        "heat",
+        "gable",
+        "thunder"
+      ],
+      "tts": "germc",
+      "correct": [
+        "heat"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "gene",
+      "choices": [
+        "rafter",
+        "seed",
+        "bruise",
+        "woman"
+      ],
+      "tts": "gene",
+      "correct": [
+        "woman"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "metan",
+      "choices": [
+        "foam",
+        "year",
+        "shout",
+        "nape"
+      ],
+      "tts": "metan",
+      "correct": [
+        "year"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pan'auke",
+      "choices": [
+        "tooth",
+        "pan",
+        "paunch",
+        "hub-shaft"
+      ],
+      "tts": "pan'auke",
+      "correct": [
+        "pan"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "saltan",
+      "choices": [
+        "flitch",
+        "cart",
+        "lord",
+        "water"
+      ],
+      "tts": "saltan",
+      "correct": [
+        "flitch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "stabini",
+      "choices": [
+        "tinder",
+        "moustache",
+        "stove",
+        "brother"
+      ],
+      "tts": "stabini",
+      "correct": [
+        "stove"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "nabete",
+      "choices": [
+        "roof",
+        "hoar-frost",
+        "helmet",
+        "hub-shaft"
+      ],
+      "tts": "nabete",
+      "correct": [
+        "hub-shaft"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "klekste",
+      "choices": [
+        "besom",
+        "nettle",
+        "millet",
+        "rain"
+      ],
+      "tts": "klekste",
+      "correct": [
+        "besom"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "panadclc",
+      "choices": [
+        "monday",
+        "grass",
+        "bulb",
+        "winter"
+      ],
+      "tts": "panadclc",
+      "correct": [
+        "monday"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "krauje",
+      "choices": [
+        "blood",
+        "seed",
+        "tyre",
+        "wind"
+      ],
+      "tts": "krauje",
+      "correct": [
+        "blood"
+      ],
+      "type": "choose"
+    }
+  ]
+}

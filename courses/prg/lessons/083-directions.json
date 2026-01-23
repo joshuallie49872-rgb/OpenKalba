@@ -1,0 +1,306 @@
+{
+  "id": "083-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "strambe",
+      "choices": [
+        "knee",
+        "skin",
+        "stubble",
+        "breast"
+      ],
+      "tts": "strambe",
+      "correct": [
+        "stubble"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "bedis",
+      "choices": [
+        "prick",
+        "broth",
+        "swelling",
+        "winter"
+      ],
+      "tts": "bedis",
+      "correct": [
+        "prick"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "brun'es",
+      "choices": [
+        "father",
+        "mail",
+        "knight",
+        "nipple"
+      ],
+      "tts": "brun'es",
+      "correct": [
+        "mail"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kumetis",
+      "choices": [
+        "house",
+        "peasant",
+        "grains",
+        "sieve"
+      ],
+      "tts": "kumetis",
+      "correct": [
+        "peasant"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "rinde",
+      "choices": [
+        "crib",
+        "swelling",
+        "autumn",
+        "corner"
+      ],
+      "tts": "rinde",
+      "correct": [
+        "crib"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lankste",
+      "choices": [
+        "window",
+        "stroke",
+        "corner",
+        "stove"
+      ],
+      "tts": "lankste",
+      "correct": [
+        "window"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "kerpetis",
+      "choices": [
+        "piggery",
+        "skull",
+        "grass",
+        "stepson"
+      ],
+      "tts": "kerpetis",
+      "correct": [
+        "skull"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zukis",
+      "choices": [
+        "chain",
+        "head",
+        "chair",
+        "fish"
+      ],
+      "tts": "zukis",
+      "correct": [
+        "fish"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "laste",
+      "choices": [
+        "plait",
+        "lake",
+        "heel",
+        "bed"
+      ],
+      "tts": "laste",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "vakis",
+      "choices": [
+        "shout",
+        "thumb",
+        "saddle-maker",
+        "neck"
+      ],
+      "tts": "vakis",
+      "correct": [
+        "shout"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "zamen acc. sg.",
+      "choices": [
+        "soil",
+        "burdock",
+        "side-board",
+        "grape"
+      ],
+      "tts": "zamen acc. sg.",
+      "correct": [
+        "soil"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "varzus",
+      "choices": [
+        "gable",
+        "toe",
+        "son",
+        "lip"
+      ],
+      "tts": "varzus",
+      "correct": [
+        "lip"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelcs",
+      "choices": [
+        "wine",
+        "cheek",
+        "bladder",
+        "breast"
+      ],
+      "tts": "pelcs",
+      "correct": [
+        "bladder"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "ravis",
+      "choices": [
+        "earth",
+        "clay",
+        "ditch",
+        "ice"
+      ],
+      "tts": "ravis",
+      "correct": [
+        "ditch"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "daube",
+      "choices": [
+        "ravine",
+        "saturday",
+        "nettle",
+        "oat"
+      ],
+      "tts": "daube",
+      "correct": [
+        "ravine"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "paiteran",
+      "choices": [
+        "pleiades",
+        "skin",
+        "bird",
+        "knee"
+      ],
+      "tts": "paiteran",
+      "correct": [
+        "pleiades"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pelekis",
+      "choices": [
+        "angel",
+        "gable",
+        "eyes",
+        "poppy"
+      ],
+      "tts": "pelekis",
+      "correct": [
+        "gable"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "lait'an",
+      "choices": [
+        "sausage",
+        "armour",
+        "wind",
+        "plough-tail"
+      ],
+      "tts": "lait'an",
+      "correct": [
+        "sausage"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "pedukrc",
+      "choices": [
+        "ankle-bone",
+        "man",
+        "roof",
+        "stepdaughter"
+      ],
+      "tts": "pedukrc",
+      "correct": [
+        "stepdaughter"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "prg": "auste",
+      "choices": [
+        "mouth",
+        "plough-tail",
+        "loft",
+        "axle"
+      ],
+      "tts": "auste",
+      "correct": [
+        "mouth"
+      ],
+      "type": "choose"
+    }
+  ]
+}

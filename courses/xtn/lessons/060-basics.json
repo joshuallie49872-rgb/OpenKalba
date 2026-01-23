@@ -1,0 +1,306 @@
+{
+  "id": "060-basics",
+  "title": "Basics 60",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "koo",
+      "choices": [
+        "comerán",
+        "culebra",
+        "recordar",
+        "¡qué lástima!"
+      ],
+      "tts": "koo",
+      "correct": [
+        "culebra"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuꞌu",
+      "choices": [
+        "come",
+        "borreguitos",
+        "hermano de man",
+        "hacer caminar, manejar"
+      ],
+      "tts": "kuꞌu",
+      "correct": [
+        "hermano de man"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yikin",
+      "choices": [
+        "soda",
+        "énfasis",
+        "secó",
+        "calabaza"
+      ],
+      "tts": "yikin",
+      "correct": [
+        "calabaza"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndiki",
+      "choices": [
+        "chi",
+        "fue",
+        "canta",
+        "chikin"
+      ],
+      "tts": "ndiki",
+      "correct": [
+        "chikin"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ndikin",
+      "choices": [
+        "color claro ndi- + yaa ‘blanco’",
+        "seco",
+        "cuerno",
+        "hijos"
+      ],
+      "tts": "ndikin",
+      "correct": [
+        "cuerno"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "yoo",
+      "choices": [
+        "caliente bravo mucho",
+        "énfasis",
+        "cierra",
+        "quelite"
+      ],
+      "tts": "yoo",
+      "correct": [
+        "quelite"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "guaje",
+      "choices": [
+        "irá",
+        "cargo",
+        "río",
+        "face"
+      ],
+      "tts": "guaje",
+      "correct": [
+        "río"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "piedra",
+      "choices": [
+        "cargar o poner encima",
+        "cantaré",
+        "humedad ndoꞌyo",
+        "regresó"
+      ],
+      "tts": "piedra",
+      "correct": [
+        "humedad ndoꞌyo"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "agua",
+      "choices": [
+        "empezar de nuevo",
+        "con",
+        "cantará",
+        "cerro pelón"
+      ],
+      "tts": "agua",
+      "correct": [
+        "cerro pelón"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "sesiꞌi",
+      "choices": [
+        "dónde",
+        "hija",
+        "rápidamente",
+        "hombres"
+      ],
+      "tts": "sesiꞌi",
+      "correct": [
+        "hija"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "pollo",
+      "choices": [
+        "chaparro nomás",
+        "xch [ʃtʃ]",
+        "ndikachi",
+        "contar (cuentos)"
+      ],
+      "tts": "pollo",
+      "correct": [
+        "ndikachi"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tindoꞌo",
+      "choices": [
+        "limón",
+        "terminó",
+        "creen",
+        "bastante"
+      ],
+      "tts": "tindoꞌo",
+      "correct": [
+        "limón"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "ñasiꞌi",
+      "choices": [
+        "iré",
+        "chikueli niños",
+        "maquila",
+        "colgar, tender en un plano"
+      ],
+      "tts": "ñasiꞌi",
+      "correct": [
+        "chikueli niños"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tnuyuja",
+      "choices": [
+        "secó",
+        "sombrero mi",
+        "cerrarás boca",
+        "ocotal"
+      ],
+      "tts": "tnuyuja",
+      "correct": [
+        "ocotal"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tevixin",
+      "choices": [
+        "hombres",
+        "seco",
+        "soda",
+        "soda (líquido + sweet)"
+      ],
+      "tts": "tevixin",
+      "correct": [
+        "soda"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "jakuaꞌa",
+      "choices": [
+        "color rojo",
+        "dice",
+        "quince",
+        "caminan personas"
+      ],
+      "tts": "jakuaꞌa",
+      "correct": [
+        "color rojo"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "tikuaa",
+      "choices": [
+        "color claro ndi- + yaa ‘blanco’",
+        "face",
+        "seco",
+        "limón"
+      ],
+      "tts": "tikuaa",
+      "correct": [
+        "limón"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "uꞌun",
+      "choices": [
+        "cinco",
+        "énfasis él",
+        "casa",
+        "brotará"
+      ],
+      "tts": "uꞌun",
+      "correct": [
+        "cinco"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "otro",
+      "choices": [
+        "camina",
+        "chico",
+        "pueblo aquel",
+        "cada uno"
+      ],
+      "tts": "otro",
+      "correct": [
+        "cada uno"
+      ],
+      "type": "choose"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "xtn": "kuaꞌa",
+      "choices": [
+        "cost",
+        "mucho, muchos",
+        "suchi",
+        "caro"
+      ],
+      "tts": "kuaꞌa",
+      "correct": [
+        "mucho, muchos"
+      ],
+      "type": "choose"
+    }
+  ]
+}
