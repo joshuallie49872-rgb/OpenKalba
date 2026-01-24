@@ -1,0 +1,996 @@
+{
+  "id": "027-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "room",
+      "tts": "room",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "choices_de": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_en": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_et": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_fi": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_fr": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_is": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_lt": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_lv": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_mx": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_no": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_pl": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_ru": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_se": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_uk": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "key",
+      "tts": "key",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "choices_de": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_en": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_et": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_fi": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_fr": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_is": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_lt": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_lv": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_mx": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_no": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_pl": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_ru": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_se": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_uk": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bed",
+      "tts": "bed",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "choices_de": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_en": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_et": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_fi": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_fr": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_is": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_lt": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_lv": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_mx": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_no": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_pl": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_ru": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_se": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_uk": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "check-in",
+      "tts": "check-in",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "choices_de": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_en": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_et": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_fi": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_fr": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_is": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_lt": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_lv": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_mx": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_no": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_pl": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_ru": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_se": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_uk": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "overnight",
+      "tts": "overnight",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "choices_de": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_en": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_et": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_fi": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_fr": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_is": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_lt": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_lv": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_mx": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_no": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_pl": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_ru": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_se": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_uk": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "room",
+      "tts": "room",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "choices_de": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_en": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_et": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_fi": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_fr": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_is": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_lt": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_lv": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_mx": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_no": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_pl": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_ru": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_se": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "choices_uk": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "key",
+      "tts": "key",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "choices_de": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_en": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_et": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_fi": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_fr": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_is": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_lt": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_lv": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_mx": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_no": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_pl": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_ru": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_se": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "choices_uk": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bed",
+      "tts": "bed",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "choices_de": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_en": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_et": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_fi": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_fr": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_is": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_lt": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_lv": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_mx": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_no": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_pl": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_ru": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_se": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "choices_uk": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "check-in",
+      "tts": "check-in",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "choices_de": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_en": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_et": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_fi": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_fr": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_is": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_lt": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_lv": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_mx": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_no": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_pl": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_ru": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_se": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "choices_uk": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "overnight",
+      "tts": "overnight",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "choices_de": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_en": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_et": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_fi": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_fr": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_is": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_lt": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_lv": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_mx": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_no": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_pl": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_ru": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_se": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "choices_uk": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    }
+  ]
+}

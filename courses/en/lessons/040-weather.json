@@ -1,0 +1,996 @@
+{
+  "id": "040-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "weather",
+      "tts": "weather",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "choices_de": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_en": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_et": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_fi": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_fr": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_is": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_lt": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_lv": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_mx": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_no": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_pl": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_ru": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_se": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_uk": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "rain",
+      "tts": "rain",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "choices_de": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_en": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_et": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_fi": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_fr": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_is": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_lt": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_lv": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_mx": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_no": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_pl": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_ru": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_se": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_uk": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "sun",
+      "tts": "sun",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "choices_de": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_en": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_et": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_fi": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_fr": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_is": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_lt": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_lv": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_mx": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_no": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_pl": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_ru": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_se": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_uk": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cold",
+      "tts": "cold",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "choices_de": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_en": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_et": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_fi": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_fr": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_is": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_lt": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_lv": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_mx": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_no": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_pl": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_ru": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_se": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_uk": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hot",
+      "tts": "hot",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "choices_de": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_en": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_et": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_fi": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_fr": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_is": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_lt": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_lv": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_mx": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_no": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_pl": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_ru": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_se": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_uk": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "weather",
+      "tts": "weather",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "choices_de": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_en": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_et": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_fi": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_fr": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_is": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_lt": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_lv": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_mx": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_no": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_pl": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_ru": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_se": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "choices_uk": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "rain",
+      "tts": "rain",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "choices_de": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_en": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_et": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_fi": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_fr": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_is": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_lt": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_lv": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_mx": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_no": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_pl": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_ru": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_se": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "choices_uk": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "sun",
+      "tts": "sun",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "choices_de": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_en": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_et": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_fi": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_fr": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_is": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_lt": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_lv": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_mx": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_no": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_pl": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_ru": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_se": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "choices_uk": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cold",
+      "tts": "cold",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "choices_de": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_en": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_et": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_fi": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_fr": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_is": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_lt": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_lv": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_mx": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_no": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_pl": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_ru": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_se": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "choices_uk": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hot",
+      "tts": "hot",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "choices_de": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_en": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_et": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_fi": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_fr": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_is": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_lt": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_lv": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_mx": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_no": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_pl": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_ru": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_se": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "choices_uk": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ]
+    }
+  ]
+}

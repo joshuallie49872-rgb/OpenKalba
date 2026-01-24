@@ -1,0 +1,996 @@
+{
+  "id": "098-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "home",
+      "tts": "home",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "choices_de": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_en": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_et": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_fi": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_fr": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_is": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_lt": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_lv": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_mx": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_no": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_pl": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_ru": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_se": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_uk": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "apartment",
+      "tts": "apartment",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "choices_de": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_en": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_et": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_fi": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_fr": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_is": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_lt": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_lv": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_mx": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_no": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_pl": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_ru": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_se": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_uk": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "kitchen",
+      "tts": "kitchen",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "choices_de": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_en": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_et": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fi": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fr": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_is": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lt": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lv": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_mx": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_no": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_pl": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_ru": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_se": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_uk": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bathroom",
+      "tts": "bathroom",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "choices_de": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_en": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_et": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fi": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fr": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_is": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lt": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lv": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_mx": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_no": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_pl": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_ru": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_se": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_uk": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cleanliness",
+      "tts": "cleanliness",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "choices_de": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_en": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_et": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_fi": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_fr": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_is": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_lt": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_lv": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_mx": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_no": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_pl": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_ru": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_se": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_uk": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "home",
+      "tts": "home",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "choices_de": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_en": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_et": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_fi": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_fr": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_is": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_lt": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_lv": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_mx": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_no": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_pl": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_ru": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_se": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "choices_uk": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "apartment",
+      "tts": "apartment",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "choices_de": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_en": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_et": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_fi": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_fr": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_is": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_lt": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_lv": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_mx": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_no": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_pl": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_ru": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_se": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "choices_uk": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "kitchen",
+      "tts": "kitchen",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "choices_de": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_en": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_et": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fi": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fr": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_is": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lt": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lv": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_mx": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_no": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_pl": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_ru": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_se": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "choices_uk": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bathroom",
+      "tts": "bathroom",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "choices_de": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_en": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_et": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fi": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_fr": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_is": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lt": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_lv": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_mx": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_no": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_pl": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_ru": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_se": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "choices_uk": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cleanliness",
+      "tts": "cleanliness",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "choices_de": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_en": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_et": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_fi": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_fr": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_is": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_lt": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_lv": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_mx": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_no": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_pl": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_ru": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_se": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "choices_uk": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ]
+    }
+  ]
+}

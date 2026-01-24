@@ -1,0 +1,996 @@
+{
+  "id": "078-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "happy",
+      "tts": "happy",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "choices_de": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_en": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_et": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_fi": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_fr": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_is": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_lt": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_lv": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_mx": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_no": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_pl": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_ru": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_se": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_uk": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "sad",
+      "tts": "sad",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "choices_de": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_en": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_et": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_fi": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_fr": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_is": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_lt": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_lv": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_mx": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_no": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_pl": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_ru": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_se": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_uk": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tired",
+      "tts": "tired",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "choices_de": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_en": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_et": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_fi": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_fr": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_is": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_lt": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_lv": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_mx": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_no": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_pl": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_ru": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_se": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_uk": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I am happy",
+      "tts": "I am happy",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "choices_de": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_en": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_et": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_fi": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_fr": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_is": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_lt": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_lv": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_mx": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_no": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_pl": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_ru": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_se": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_uk": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I am afraid",
+      "tts": "I am afraid",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "choices_de": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_en": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_et": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_fi": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_fr": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_is": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_lt": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_lv": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_mx": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_no": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_pl": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_ru": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_se": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_uk": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "happy",
+      "tts": "happy",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "choices_de": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_en": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_et": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_fi": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_fr": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_is": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_lt": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_lv": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_mx": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_no": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_pl": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_ru": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_se": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "choices_uk": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "sad",
+      "tts": "sad",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "choices_de": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_en": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_et": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_fi": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_fr": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_is": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_lt": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_lv": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_mx": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_no": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_pl": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_ru": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_se": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "choices_uk": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tired",
+      "tts": "tired",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "choices_de": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_en": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_et": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_fi": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_fr": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_is": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_lt": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_lv": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_mx": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_no": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_pl": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_ru": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_se": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "choices_uk": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I am happy",
+      "tts": "I am happy",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "choices_de": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_en": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_et": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_fi": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_fr": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_is": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_lt": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_lv": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_mx": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_no": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_pl": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_ru": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_se": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "choices_uk": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I am afraid",
+      "tts": "I am afraid",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "choices_de": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_en": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_et": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_fi": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_fr": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_is": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_lt": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_lv": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_mx": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_no": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_pl": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_ru": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_se": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "choices_uk": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ]
+    }
+  ]
+}

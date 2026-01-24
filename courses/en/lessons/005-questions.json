@@ -1,0 +1,996 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "who",
+      "tts": "who",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "correct": [
+        "who"
+      ],
+      "choices_de": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_en": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_et": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_fi": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_fr": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_is": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_lt": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_lv": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_mx": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_no": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_pl": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_ru": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_se": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "choices_uk": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "what",
+      "tts": "what",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "correct": [
+        "what"
+      ],
+      "choices_de": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_en": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_et": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_fi": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_fr": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_is": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_lt": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_lv": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_mx": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_no": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_pl": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_ru": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_se": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "choices_uk": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "where",
+      "tts": "where",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "correct": [
+        "where"
+      ],
+      "choices_de": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_en": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_et": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_fi": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_fr": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_is": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_lt": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_lv": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_mx": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_no": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_pl": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_ru": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_se": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "choices_uk": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "when",
+      "tts": "when",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "correct": [
+        "when"
+      ],
+      "choices_de": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_en": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_et": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_fi": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_fr": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_is": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_lt": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_lv": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_mx": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_no": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_pl": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_ru": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_se": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "choices_uk": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "why",
+      "tts": "why",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "correct": [
+        "why"
+      ],
+      "choices_de": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_en": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_et": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_fi": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_fr": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_is": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_lt": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_lv": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_mx": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_no": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_pl": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_ru": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_se": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "choices_uk": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "yes",
+      "tts": "yes",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "choices_de": [
+        "ja",
+        "nein",
+        "maybe",
+        "later"
+      ],
+      "choices_en": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "choices_et": [
+        "jah",
+        "ei",
+        "maybe",
+        "later"
+      ],
+      "choices_fi": [
+        "kyllä",
+        "ei",
+        "maybe",
+        "later"
+      ],
+      "choices_fr": [
+        "oui",
+        "non",
+        "maybe",
+        "later"
+      ],
+      "choices_is": [
+        "já",
+        "nei",
+        "maybe",
+        "later"
+      ],
+      "choices_lt": [
+        "taip",
+        "ne",
+        "maybe",
+        "later"
+      ],
+      "choices_lv": [
+        "jā",
+        "nē",
+        "maybe",
+        "later"
+      ],
+      "choices_mx": [
+        "sí",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "choices_no": [
+        "ja",
+        "nei",
+        "maybe",
+        "later"
+      ],
+      "choices_pl": [
+        "tak",
+        "nie",
+        "maybe",
+        "later"
+      ],
+      "choices_ru": [
+        "да",
+        "нет",
+        "maybe",
+        "later"
+      ],
+      "choices_se": [
+        "ja",
+        "nej",
+        "maybe",
+        "later"
+      ],
+      "choices_uk": [
+        "так",
+        "ні",
+        "maybe",
+        "later"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "no",
+      "tts": "no",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "correct": [
+        "no"
+      ],
+      "choices_de": [
+        "nein",
+        "ja",
+        "later",
+        "always"
+      ],
+      "choices_en": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "choices_et": [
+        "ei",
+        "jah",
+        "later",
+        "always"
+      ],
+      "choices_fi": [
+        "ei",
+        "kyllä",
+        "later",
+        "always"
+      ],
+      "choices_fr": [
+        "non",
+        "oui",
+        "later",
+        "always"
+      ],
+      "choices_is": [
+        "nei",
+        "já",
+        "later",
+        "always"
+      ],
+      "choices_lt": [
+        "ne",
+        "taip",
+        "later",
+        "always"
+      ],
+      "choices_lv": [
+        "nē",
+        "jā",
+        "later",
+        "always"
+      ],
+      "choices_mx": [
+        "no",
+        "sí",
+        "later",
+        "always"
+      ],
+      "choices_no": [
+        "nei",
+        "ja",
+        "later",
+        "always"
+      ],
+      "choices_pl": [
+        "nie",
+        "tak",
+        "later",
+        "always"
+      ],
+      "choices_ru": [
+        "нет",
+        "да",
+        "later",
+        "always"
+      ],
+      "choices_se": [
+        "nej",
+        "ja",
+        "later",
+        "always"
+      ],
+      "choices_uk": [
+        "ні",
+        "так",
+        "later",
+        "always"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "okay",
+      "tts": "okay",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "choices_de": [
+        "okay",
+        "schlecht",
+        "nein",
+        "later"
+      ],
+      "choices_en": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "choices_et": [
+        "okay",
+        "halb",
+        "ei",
+        "later"
+      ],
+      "choices_fi": [
+        "okay",
+        "huono",
+        "ei",
+        "later"
+      ],
+      "choices_fr": [
+        "okay",
+        "mauvais",
+        "non",
+        "later"
+      ],
+      "choices_is": [
+        "okay",
+        "slæmur",
+        "nei",
+        "later"
+      ],
+      "choices_lt": [
+        "okay",
+        "blogas",
+        "ne",
+        "later"
+      ],
+      "choices_lv": [
+        "okay",
+        "slikts",
+        "nē",
+        "later"
+      ],
+      "choices_mx": [
+        "okay",
+        "malo",
+        "no",
+        "later"
+      ],
+      "choices_no": [
+        "okay",
+        "dårlig",
+        "nei",
+        "later"
+      ],
+      "choices_pl": [
+        "okay",
+        "zły",
+        "nie",
+        "later"
+      ],
+      "choices_ru": [
+        "okay",
+        "плохой",
+        "нет",
+        "later"
+      ],
+      "choices_se": [
+        "okay",
+        "dålig",
+        "nej",
+        "later"
+      ],
+      "choices_uk": [
+        "okay",
+        "поганий",
+        "ні",
+        "later"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "badly",
+      "tts": "badly",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "choices_de": [
+        "schlecht",
+        "gut",
+        "good",
+        "okay"
+      ],
+      "choices_en": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "choices_et": [
+        "halvasti",
+        "hästi",
+        "good",
+        "okay"
+      ],
+      "choices_fi": [
+        "huonosti",
+        "hyvin",
+        "good",
+        "okay"
+      ],
+      "choices_fr": [
+        "mal",
+        "bien",
+        "good",
+        "okay"
+      ],
+      "choices_is": [
+        "illa",
+        "vel",
+        "good",
+        "okay"
+      ],
+      "choices_lt": [
+        "blogai",
+        "gerai",
+        "good",
+        "okay"
+      ],
+      "choices_lv": [
+        "slikti",
+        "labi",
+        "good",
+        "okay"
+      ],
+      "choices_mx": [
+        "mal",
+        "bien",
+        "good",
+        "okay"
+      ],
+      "choices_no": [
+        "dårlig",
+        "bra",
+        "good",
+        "okay"
+      ],
+      "choices_pl": [
+        "źle",
+        "dobrze",
+        "good",
+        "okay"
+      ],
+      "choices_ru": [
+        "плохо",
+        "хорошо",
+        "good",
+        "okay"
+      ],
+      "choices_se": [
+        "dåligt",
+        "bra",
+        "good",
+        "okay"
+      ],
+      "choices_uk": [
+        "погано",
+        "добре",
+        "good",
+        "okay"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "how",
+      "tts": "how",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "correct": [
+        "how"
+      ],
+      "choices_de": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_en": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_et": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_fi": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_fr": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_is": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_lt": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_lv": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_mx": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_no": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_pl": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_ru": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_se": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "choices_uk": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ]
+    }
+  ]
+}

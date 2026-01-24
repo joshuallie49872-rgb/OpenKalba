@@ -1,0 +1,996 @@
+{
+  "id": "132-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "holiday",
+      "tts": "holiday",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "choices_de": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_en": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_et": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_fi": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_fr": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_is": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_lt": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_lv": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_mx": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_no": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_pl": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_ru": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_se": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_uk": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tradition",
+      "tts": "tradition",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "choices_de": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_en": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_et": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_fi": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_fr": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_is": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_lt": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_lv": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_mx": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_no": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_pl": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_ru": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_se": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_uk": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "custom",
+      "tts": "custom",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "choices_de": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_en": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_et": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_fi": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_fr": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_is": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_lt": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_lv": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_mx": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_no": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_pl": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_ru": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_se": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_uk": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "free time",
+      "tts": "free time",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "choices_de": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_en": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_et": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_fi": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_fr": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_is": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_lt": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_lv": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_mx": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_no": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_pl": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_ru": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_se": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_uk": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "event",
+      "tts": "event",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "choices_de": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_en": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_et": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_fi": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_fr": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_is": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_lt": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_lv": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_mx": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_no": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_pl": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_ru": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_se": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_uk": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "holiday",
+      "tts": "holiday",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "choices_de": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_en": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_et": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_fi": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_fr": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_is": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_lt": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_lv": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_mx": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_no": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_pl": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_ru": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_se": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "choices_uk": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tradition",
+      "tts": "tradition",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "choices_de": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_en": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_et": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_fi": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_fr": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_is": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_lt": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_lv": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_mx": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_no": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_pl": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_ru": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_se": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "choices_uk": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "custom",
+      "tts": "custom",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "choices_de": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_en": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_et": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_fi": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_fr": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_is": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_lt": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_lv": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_mx": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_no": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_pl": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_ru": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_se": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "choices_uk": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "free time",
+      "tts": "free time",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "choices_de": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_en": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_et": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_fi": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_fr": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_is": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_lt": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_lv": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_mx": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_no": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_pl": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_ru": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_se": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "choices_uk": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "event",
+      "tts": "event",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "choices_de": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_en": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_et": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_fi": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_fr": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_is": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_lt": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_lv": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_mx": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_no": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_pl": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_ru": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_se": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "choices_uk": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ]
+    }
+  ]
+}

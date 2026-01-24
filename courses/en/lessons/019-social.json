@@ -1,0 +1,996 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "sorry",
+      "tts": "sorry",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "choices_de": [
+        "entschuldigung",
+        "danke",
+        "hallo",
+        "bye"
+      ],
+      "choices_en": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "choices_et": [
+        "vabandust",
+        "aitäh",
+        "tere",
+        "bye"
+      ],
+      "choices_fi": [
+        "anteeksi",
+        "kiitos",
+        "hei",
+        "bye"
+      ],
+      "choices_fr": [
+        "désolé",
+        "merci",
+        "bonjour",
+        "bye"
+      ],
+      "choices_is": [
+        "fyrirgefðu",
+        "takk",
+        "halló",
+        "bye"
+      ],
+      "choices_lt": [
+        "atsiprašau",
+        "ačiū",
+        "labas",
+        "bye"
+      ],
+      "choices_lv": [
+        "atvainojiet",
+        "paldies",
+        "sveiki",
+        "bye"
+      ],
+      "choices_mx": [
+        "lo siento",
+        "gracias",
+        "hola",
+        "bye"
+      ],
+      "choices_no": [
+        "beklager",
+        "takk",
+        "hei",
+        "bye"
+      ],
+      "choices_pl": [
+        "przepraszam",
+        "dzięki",
+        "cześć",
+        "bye"
+      ],
+      "choices_ru": [
+        "извини",
+        "спасибо",
+        "привет",
+        "bye"
+      ],
+      "choices_se": [
+        "förlåt",
+        "tack",
+        "hej",
+        "bye"
+      ],
+      "choices_uk": [
+        "вибач",
+        "дякую",
+        "привіт",
+        "bye"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "please",
+      "tts": "please",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "choices_de": [
+        "bitte",
+        "entschuldigung",
+        "ja",
+        "nein"
+      ],
+      "choices_en": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "choices_et": [
+        "palun",
+        "vabandust",
+        "jah",
+        "ei"
+      ],
+      "choices_fi": [
+        "ole hyvä",
+        "anteeksi",
+        "kyllä",
+        "ei"
+      ],
+      "choices_fr": [
+        "s’il vous plaît",
+        "désolé",
+        "oui",
+        "non"
+      ],
+      "choices_is": [
+        "vinsamlegast",
+        "fyrirgefðu",
+        "já",
+        "nei"
+      ],
+      "choices_lt": [
+        "prašau",
+        "atsiprašau",
+        "taip",
+        "ne"
+      ],
+      "choices_lv": [
+        "lūdzu",
+        "atvainojiet",
+        "jā",
+        "nē"
+      ],
+      "choices_mx": [
+        "por favor",
+        "lo siento",
+        "sí",
+        "no"
+      ],
+      "choices_no": [
+        "vær så snill",
+        "beklager",
+        "ja",
+        "nei"
+      ],
+      "choices_pl": [
+        "proszę",
+        "przepraszam",
+        "tak",
+        "nie"
+      ],
+      "choices_ru": [
+        "пожалуйста",
+        "извини",
+        "да",
+        "нет"
+      ],
+      "choices_se": [
+        "snälla",
+        "förlåt",
+        "ja",
+        "nej"
+      ],
+      "choices_uk": [
+        "будь ласка",
+        "вибач",
+        "так",
+        "ні"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "thank you",
+      "tts": "thank you",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "choices_de": [
+        "danke",
+        "entschuldigung",
+        "hallo",
+        "bye"
+      ],
+      "choices_en": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "choices_et": [
+        "aitäh",
+        "vabandust",
+        "tere",
+        "bye"
+      ],
+      "choices_fi": [
+        "kiitos",
+        "anteeksi",
+        "hei",
+        "bye"
+      ],
+      "choices_fr": [
+        "merci",
+        "désolé",
+        "bonjour",
+        "bye"
+      ],
+      "choices_is": [
+        "takk",
+        "fyrirgefðu",
+        "halló",
+        "bye"
+      ],
+      "choices_lt": [
+        "ačiū",
+        "atsiprašau",
+        "labas",
+        "bye"
+      ],
+      "choices_lv": [
+        "paldies",
+        "atvainojiet",
+        "sveiki",
+        "bye"
+      ],
+      "choices_mx": [
+        "gracias",
+        "lo siento",
+        "hola",
+        "bye"
+      ],
+      "choices_no": [
+        "takk",
+        "beklager",
+        "hei",
+        "bye"
+      ],
+      "choices_pl": [
+        "dziękuję",
+        "przepraszam",
+        "cześć",
+        "bye"
+      ],
+      "choices_ru": [
+        "спасибо",
+        "извини",
+        "привет",
+        "bye"
+      ],
+      "choices_se": [
+        "tack",
+        "förlåt",
+        "hej",
+        "bye"
+      ],
+      "choices_uk": [
+        "дякую",
+        "вибач",
+        "привіт",
+        "bye"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "nice",
+      "tts": "nice",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "choices_de": [
+        "nice",
+        "schlecht",
+        "late",
+        "slow"
+      ],
+      "choices_en": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "choices_et": [
+        "nice",
+        "halb",
+        "late",
+        "slow"
+      ],
+      "choices_fi": [
+        "nice",
+        "huono",
+        "late",
+        "slow"
+      ],
+      "choices_fr": [
+        "nice",
+        "mauvais",
+        "late",
+        "slow"
+      ],
+      "choices_is": [
+        "nice",
+        "slæmur",
+        "late",
+        "slow"
+      ],
+      "choices_lt": [
+        "nice",
+        "blogas",
+        "late",
+        "slow"
+      ],
+      "choices_lv": [
+        "nice",
+        "slikts",
+        "late",
+        "slow"
+      ],
+      "choices_mx": [
+        "nice",
+        "malo",
+        "late",
+        "slow"
+      ],
+      "choices_no": [
+        "nice",
+        "dårlig",
+        "late",
+        "slow"
+      ],
+      "choices_pl": [
+        "nice",
+        "zły",
+        "late",
+        "slow"
+      ],
+      "choices_ru": [
+        "nice",
+        "плохой",
+        "late",
+        "slow"
+      ],
+      "choices_se": [
+        "nice",
+        "dålig",
+        "late",
+        "slow"
+      ],
+      "choices_uk": [
+        "nice",
+        "поганий",
+        "late",
+        "slow"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "good",
+      "tts": "good",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "choices_de": [
+        "good",
+        "schlecht",
+        "slow",
+        "fast"
+      ],
+      "choices_en": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "choices_et": [
+        "good",
+        "halb",
+        "slow",
+        "fast"
+      ],
+      "choices_fi": [
+        "good",
+        "huono",
+        "slow",
+        "fast"
+      ],
+      "choices_fr": [
+        "good",
+        "mauvais",
+        "slow",
+        "fast"
+      ],
+      "choices_is": [
+        "good",
+        "slæmur",
+        "slow",
+        "fast"
+      ],
+      "choices_lt": [
+        "good",
+        "blogas",
+        "slow",
+        "fast"
+      ],
+      "choices_lv": [
+        "good",
+        "slikts",
+        "slow",
+        "fast"
+      ],
+      "choices_mx": [
+        "good",
+        "malo",
+        "slow",
+        "fast"
+      ],
+      "choices_no": [
+        "good",
+        "dårlig",
+        "slow",
+        "fast"
+      ],
+      "choices_pl": [
+        "good",
+        "zły",
+        "slow",
+        "fast"
+      ],
+      "choices_ru": [
+        "good",
+        "плохой",
+        "slow",
+        "fast"
+      ],
+      "choices_se": [
+        "good",
+        "dålig",
+        "slow",
+        "fast"
+      ],
+      "choices_uk": [
+        "good",
+        "поганий",
+        "slow",
+        "fast"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "sorry",
+      "tts": "sorry",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "choices_de": [
+        "entschuldigung",
+        "danke",
+        "hallo",
+        "bye"
+      ],
+      "choices_en": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "choices_et": [
+        "vabandust",
+        "aitäh",
+        "tere",
+        "bye"
+      ],
+      "choices_fi": [
+        "anteeksi",
+        "kiitos",
+        "hei",
+        "bye"
+      ],
+      "choices_fr": [
+        "désolé",
+        "merci",
+        "bonjour",
+        "bye"
+      ],
+      "choices_is": [
+        "fyrirgefðu",
+        "takk",
+        "halló",
+        "bye"
+      ],
+      "choices_lt": [
+        "atsiprašau",
+        "ačiū",
+        "labas",
+        "bye"
+      ],
+      "choices_lv": [
+        "atvainojiet",
+        "paldies",
+        "sveiki",
+        "bye"
+      ],
+      "choices_mx": [
+        "lo siento",
+        "gracias",
+        "hola",
+        "bye"
+      ],
+      "choices_no": [
+        "beklager",
+        "takk",
+        "hei",
+        "bye"
+      ],
+      "choices_pl": [
+        "przepraszam",
+        "dzięki",
+        "cześć",
+        "bye"
+      ],
+      "choices_ru": [
+        "извини",
+        "спасибо",
+        "привет",
+        "bye"
+      ],
+      "choices_se": [
+        "förlåt",
+        "tack",
+        "hej",
+        "bye"
+      ],
+      "choices_uk": [
+        "вибач",
+        "дякую",
+        "привіт",
+        "bye"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "please",
+      "tts": "please",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "choices_de": [
+        "bitte",
+        "entschuldigung",
+        "ja",
+        "nein"
+      ],
+      "choices_en": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "choices_et": [
+        "palun",
+        "vabandust",
+        "jah",
+        "ei"
+      ],
+      "choices_fi": [
+        "ole hyvä",
+        "anteeksi",
+        "kyllä",
+        "ei"
+      ],
+      "choices_fr": [
+        "s’il vous plaît",
+        "désolé",
+        "oui",
+        "non"
+      ],
+      "choices_is": [
+        "vinsamlegast",
+        "fyrirgefðu",
+        "já",
+        "nei"
+      ],
+      "choices_lt": [
+        "prašau",
+        "atsiprašau",
+        "taip",
+        "ne"
+      ],
+      "choices_lv": [
+        "lūdzu",
+        "atvainojiet",
+        "jā",
+        "nē"
+      ],
+      "choices_mx": [
+        "por favor",
+        "lo siento",
+        "sí",
+        "no"
+      ],
+      "choices_no": [
+        "vær så snill",
+        "beklager",
+        "ja",
+        "nei"
+      ],
+      "choices_pl": [
+        "proszę",
+        "przepraszam",
+        "tak",
+        "nie"
+      ],
+      "choices_ru": [
+        "пожалуйста",
+        "извини",
+        "да",
+        "нет"
+      ],
+      "choices_se": [
+        "snälla",
+        "förlåt",
+        "ja",
+        "nej"
+      ],
+      "choices_uk": [
+        "будь ласка",
+        "вибач",
+        "так",
+        "ні"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "thank you",
+      "tts": "thank you",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "choices_de": [
+        "danke",
+        "entschuldigung",
+        "hallo",
+        "bye"
+      ],
+      "choices_en": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "choices_et": [
+        "aitäh",
+        "vabandust",
+        "tere",
+        "bye"
+      ],
+      "choices_fi": [
+        "kiitos",
+        "anteeksi",
+        "hei",
+        "bye"
+      ],
+      "choices_fr": [
+        "merci",
+        "désolé",
+        "bonjour",
+        "bye"
+      ],
+      "choices_is": [
+        "takk",
+        "fyrirgefðu",
+        "halló",
+        "bye"
+      ],
+      "choices_lt": [
+        "ačiū",
+        "atsiprašau",
+        "labas",
+        "bye"
+      ],
+      "choices_lv": [
+        "paldies",
+        "atvainojiet",
+        "sveiki",
+        "bye"
+      ],
+      "choices_mx": [
+        "gracias",
+        "lo siento",
+        "hola",
+        "bye"
+      ],
+      "choices_no": [
+        "takk",
+        "beklager",
+        "hei",
+        "bye"
+      ],
+      "choices_pl": [
+        "dziękuję",
+        "przepraszam",
+        "cześć",
+        "bye"
+      ],
+      "choices_ru": [
+        "спасибо",
+        "извини",
+        "привет",
+        "bye"
+      ],
+      "choices_se": [
+        "tack",
+        "förlåt",
+        "hej",
+        "bye"
+      ],
+      "choices_uk": [
+        "дякую",
+        "вибач",
+        "привіт",
+        "bye"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "nice",
+      "tts": "nice",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "choices_de": [
+        "nice",
+        "schlecht",
+        "late",
+        "slow"
+      ],
+      "choices_en": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "choices_et": [
+        "nice",
+        "halb",
+        "late",
+        "slow"
+      ],
+      "choices_fi": [
+        "nice",
+        "huono",
+        "late",
+        "slow"
+      ],
+      "choices_fr": [
+        "nice",
+        "mauvais",
+        "late",
+        "slow"
+      ],
+      "choices_is": [
+        "nice",
+        "slæmur",
+        "late",
+        "slow"
+      ],
+      "choices_lt": [
+        "nice",
+        "blogas",
+        "late",
+        "slow"
+      ],
+      "choices_lv": [
+        "nice",
+        "slikts",
+        "late",
+        "slow"
+      ],
+      "choices_mx": [
+        "nice",
+        "malo",
+        "late",
+        "slow"
+      ],
+      "choices_no": [
+        "nice",
+        "dårlig",
+        "late",
+        "slow"
+      ],
+      "choices_pl": [
+        "nice",
+        "zły",
+        "late",
+        "slow"
+      ],
+      "choices_ru": [
+        "nice",
+        "плохой",
+        "late",
+        "slow"
+      ],
+      "choices_se": [
+        "nice",
+        "dålig",
+        "late",
+        "slow"
+      ],
+      "choices_uk": [
+        "nice",
+        "поганий",
+        "late",
+        "slow"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "good",
+      "tts": "good",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "choices_de": [
+        "good",
+        "schlecht",
+        "slow",
+        "fast"
+      ],
+      "choices_en": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "choices_et": [
+        "good",
+        "halb",
+        "slow",
+        "fast"
+      ],
+      "choices_fi": [
+        "good",
+        "huono",
+        "slow",
+        "fast"
+      ],
+      "choices_fr": [
+        "good",
+        "mauvais",
+        "slow",
+        "fast"
+      ],
+      "choices_is": [
+        "good",
+        "slæmur",
+        "slow",
+        "fast"
+      ],
+      "choices_lt": [
+        "good",
+        "blogas",
+        "slow",
+        "fast"
+      ],
+      "choices_lv": [
+        "good",
+        "slikts",
+        "slow",
+        "fast"
+      ],
+      "choices_mx": [
+        "good",
+        "malo",
+        "slow",
+        "fast"
+      ],
+      "choices_no": [
+        "good",
+        "dårlig",
+        "slow",
+        "fast"
+      ],
+      "choices_pl": [
+        "good",
+        "zły",
+        "slow",
+        "fast"
+      ],
+      "choices_ru": [
+        "good",
+        "плохой",
+        "slow",
+        "fast"
+      ],
+      "choices_se": [
+        "good",
+        "dålig",
+        "slow",
+        "fast"
+      ],
+      "choices_uk": [
+        "good",
+        "поганий",
+        "slow",
+        "fast"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "id": "008-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "please",
+      "tts": "please",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "choices_de": [
+        "bitte",
+        "danke",
+        "hallo",
+        "nein"
+      ],
+      "choices_en": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "choices_et": [
+        "palun",
+        "aitäh",
+        "tere",
+        "ei"
+      ],
+      "choices_fi": [
+        "ole hyvä",
+        "kiitos",
+        "hei",
+        "ei"
+      ],
+      "choices_fr": [
+        "s’il vous plaît",
+        "merci",
+        "bonjour",
+        "non"
+      ],
+      "choices_is": [
+        "vinsamlegast",
+        "takk",
+        "halló",
+        "nei"
+      ],
+      "choices_lt": [
+        "prašau",
+        "ačiū",
+        "labas",
+        "ne"
+      ],
+      "choices_lv": [
+        "lūdzu",
+        "paldies",
+        "sveiki",
+        "nē"
+      ],
+      "choices_mx": [
+        "por favor",
+        "gracias",
+        "hola",
+        "no"
+      ],
+      "choices_no": [
+        "vær så snill",
+        "takk",
+        "hei",
+        "nei"
+      ],
+      "choices_pl": [
+        "proszę",
+        "dzięki",
+        "cześć",
+        "nie"
+      ],
+      "choices_ru": [
+        "пожалуйста",
+        "спасибо",
+        "привет",
+        "нет"
+      ],
+      "choices_se": [
+        "snälla",
+        "tack",
+        "hej",
+        "nej"
+      ],
+      "choices_uk": [
+        "будь ласка",
+        "дякую",
+        "привіт",
+        "ні"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "menu",
+      "tts": "menu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "choices_de": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_en": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_et": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_fi": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_fr": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_is": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_lt": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_lv": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_mx": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_no": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_pl": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_ru": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_se": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_uk": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bill",
+      "tts": "bill",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "choices_de": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_en": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_et": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_fi": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_fr": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_is": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_lt": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_lv": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_mx": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_no": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_pl": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_ru": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_se": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_uk": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "table",
+      "tts": "table",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "choices_de": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_en": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_et": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_fi": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_fr": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_is": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_lt": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_lv": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_mx": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_no": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_pl": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_ru": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_se": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_uk": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "coffee",
+      "tts": "coffee",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "choices_de": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_en": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_et": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_fi": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_fr": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_is": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_lt": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_lv": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_mx": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_no": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_pl": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_ru": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_se": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_uk": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "please",
+      "tts": "please",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "choices_de": [
+        "bitte",
+        "danke",
+        "hallo",
+        "nein"
+      ],
+      "choices_en": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "choices_et": [
+        "palun",
+        "aitäh",
+        "tere",
+        "ei"
+      ],
+      "choices_fi": [
+        "ole hyvä",
+        "kiitos",
+        "hei",
+        "ei"
+      ],
+      "choices_fr": [
+        "s’il vous plaît",
+        "merci",
+        "bonjour",
+        "non"
+      ],
+      "choices_is": [
+        "vinsamlegast",
+        "takk",
+        "halló",
+        "nei"
+      ],
+      "choices_lt": [
+        "prašau",
+        "ačiū",
+        "labas",
+        "ne"
+      ],
+      "choices_lv": [
+        "lūdzu",
+        "paldies",
+        "sveiki",
+        "nē"
+      ],
+      "choices_mx": [
+        "por favor",
+        "gracias",
+        "hola",
+        "no"
+      ],
+      "choices_no": [
+        "vær så snill",
+        "takk",
+        "hei",
+        "nei"
+      ],
+      "choices_pl": [
+        "proszę",
+        "dzięki",
+        "cześć",
+        "nie"
+      ],
+      "choices_ru": [
+        "пожалуйста",
+        "спасибо",
+        "привет",
+        "нет"
+      ],
+      "choices_se": [
+        "snälla",
+        "tack",
+        "hej",
+        "nej"
+      ],
+      "choices_uk": [
+        "будь ласка",
+        "дякую",
+        "привіт",
+        "ні"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "menu",
+      "tts": "menu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "choices_de": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_en": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_et": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_fi": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_fr": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_is": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_lt": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_lv": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_mx": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_no": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_pl": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_ru": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_se": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "choices_uk": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bill",
+      "tts": "bill",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "choices_de": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_en": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_et": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_fi": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_fr": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_is": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_lt": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_lv": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_mx": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_no": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_pl": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_ru": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_se": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "choices_uk": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "table",
+      "tts": "table",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "choices_de": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_en": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_et": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_fi": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_fr": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_is": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_lt": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_lv": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_mx": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_no": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_pl": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_ru": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_se": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "choices_uk": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "coffee",
+      "tts": "coffee",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "choices_de": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_en": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_et": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_fi": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_fr": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_is": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_lt": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_lv": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_mx": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_no": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_pl": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_ru": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_se": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "choices_uk": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ]
+    }
+  ]
+}

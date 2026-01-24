@@ -1,0 +1,996 @@
+{
+  "id": "129-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "breakfast",
+      "tts": "breakfast",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "choices_de": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_en": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_et": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_fi": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_fr": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_is": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_lt": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_lv": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_mx": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_no": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_pl": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_ru": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_se": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_uk": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "lunch",
+      "tts": "lunch",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "choices_de": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_en": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_et": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_fi": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_fr": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_is": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_lt": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_lv": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_mx": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_no": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_pl": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_ru": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_se": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_uk": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "dinner",
+      "tts": "dinner",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "choices_de": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_en": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_et": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_fi": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_fr": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_is": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_lt": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_lv": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_mx": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_no": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_pl": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_ru": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_se": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_uk": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tasty",
+      "tts": "tasty",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "choices_de": [
+        "tasty",
+        "schlecht",
+        "cold",
+        "hot"
+      ],
+      "choices_en": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "choices_et": [
+        "tasty",
+        "halb",
+        "cold",
+        "hot"
+      ],
+      "choices_fi": [
+        "tasty",
+        "huono",
+        "cold",
+        "hot"
+      ],
+      "choices_fr": [
+        "tasty",
+        "mauvais",
+        "cold",
+        "hot"
+      ],
+      "choices_is": [
+        "tasty",
+        "slæmur",
+        "cold",
+        "hot"
+      ],
+      "choices_lt": [
+        "tasty",
+        "blogas",
+        "cold",
+        "hot"
+      ],
+      "choices_lv": [
+        "tasty",
+        "slikts",
+        "cold",
+        "hot"
+      ],
+      "choices_mx": [
+        "tasty",
+        "malo",
+        "cold",
+        "hot"
+      ],
+      "choices_no": [
+        "tasty",
+        "dårlig",
+        "cold",
+        "hot"
+      ],
+      "choices_pl": [
+        "tasty",
+        "zły",
+        "cold",
+        "hot"
+      ],
+      "choices_ru": [
+        "tasty",
+        "плохой",
+        "cold",
+        "hot"
+      ],
+      "choices_se": [
+        "tasty",
+        "dålig",
+        "cold",
+        "hot"
+      ],
+      "choices_uk": [
+        "tasty",
+        "поганий",
+        "cold",
+        "hot"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hungry",
+      "tts": "hungry",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "choices_de": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_en": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_et": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_fi": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_fr": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_is": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_lt": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_lv": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_mx": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_no": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_pl": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_ru": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_se": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_uk": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "breakfast",
+      "tts": "breakfast",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "choices_de": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_en": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_et": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_fi": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_fr": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_is": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_lt": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_lv": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_mx": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_no": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_pl": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_ru": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_se": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "choices_uk": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "lunch",
+      "tts": "lunch",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "choices_de": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_en": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_et": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_fi": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_fr": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_is": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_lt": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_lv": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_mx": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_no": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_pl": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_ru": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_se": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "choices_uk": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "dinner",
+      "tts": "dinner",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "choices_de": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_en": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_et": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_fi": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_fr": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_is": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_lt": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_lv": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_mx": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_no": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_pl": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_ru": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_se": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "choices_uk": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tasty",
+      "tts": "tasty",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "choices_de": [
+        "tasty",
+        "schlecht",
+        "cold",
+        "hot"
+      ],
+      "choices_en": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "choices_et": [
+        "tasty",
+        "halb",
+        "cold",
+        "hot"
+      ],
+      "choices_fi": [
+        "tasty",
+        "huono",
+        "cold",
+        "hot"
+      ],
+      "choices_fr": [
+        "tasty",
+        "mauvais",
+        "cold",
+        "hot"
+      ],
+      "choices_is": [
+        "tasty",
+        "slæmur",
+        "cold",
+        "hot"
+      ],
+      "choices_lt": [
+        "tasty",
+        "blogas",
+        "cold",
+        "hot"
+      ],
+      "choices_lv": [
+        "tasty",
+        "slikts",
+        "cold",
+        "hot"
+      ],
+      "choices_mx": [
+        "tasty",
+        "malo",
+        "cold",
+        "hot"
+      ],
+      "choices_no": [
+        "tasty",
+        "dårlig",
+        "cold",
+        "hot"
+      ],
+      "choices_pl": [
+        "tasty",
+        "zły",
+        "cold",
+        "hot"
+      ],
+      "choices_ru": [
+        "tasty",
+        "плохой",
+        "cold",
+        "hot"
+      ],
+      "choices_se": [
+        "tasty",
+        "dålig",
+        "cold",
+        "hot"
+      ],
+      "choices_uk": [
+        "tasty",
+        "поганий",
+        "cold",
+        "hot"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hungry",
+      "tts": "hungry",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "choices_de": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_en": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_et": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_fi": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_fr": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_is": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_lt": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_lv": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_mx": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_no": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_pl": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_ru": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_se": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "choices_uk": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ]
+    }
+  ]
+}

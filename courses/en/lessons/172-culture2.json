@@ -1,0 +1,996 @@
+{
+  "id": "172-culture2",
+  "title": "Culture, Media & Society",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "media",
+      "tts": "media",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "correct": [
+        "media"
+      ],
+      "choices_de": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_en": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_et": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_fi": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_fr": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_is": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_lt": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_lv": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_mx": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_no": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_pl": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_ru": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_se": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_uk": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "society",
+      "tts": "society",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "correct": [
+        "society"
+      ],
+      "choices_de": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_en": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_et": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_fi": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_fr": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_is": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_lt": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_lv": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_mx": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_no": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_pl": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_ru": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_se": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_uk": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "opinions",
+      "tts": "opinions",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "correct": [
+        "opinions"
+      ],
+      "choices_de": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_en": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_et": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_fi": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_fr": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_is": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_lt": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_lv": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_mx": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_no": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_pl": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_ru": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_se": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_uk": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "discussion",
+      "tts": "discussion",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "correct": [
+        "discussion"
+      ],
+      "choices_de": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_en": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_et": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_fi": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_fr": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_is": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_lt": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_lv": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_mx": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_no": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_pl": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_ru": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_se": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_uk": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "culture",
+      "tts": "culture",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "correct": [
+        "culture"
+      ],
+      "choices_de": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_en": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_et": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_fi": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_fr": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_is": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_lt": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_lv": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_mx": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_no": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_pl": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_ru": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_se": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_uk": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "media",
+      "tts": "media",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "correct": [
+        "media"
+      ],
+      "choices_de": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_en": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_et": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_fi": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_fr": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_is": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_lt": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_lv": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_mx": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_no": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_pl": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_ru": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_se": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "choices_uk": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "society",
+      "tts": "society",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "correct": [
+        "society"
+      ],
+      "choices_de": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_en": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_et": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_fi": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_fr": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_is": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_lt": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_lv": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_mx": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_no": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_pl": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_ru": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_se": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "choices_uk": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "opinions",
+      "tts": "opinions",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "correct": [
+        "opinions"
+      ],
+      "choices_de": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_en": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_et": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_fi": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_fr": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_is": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_lt": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_lv": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_mx": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_no": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_pl": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_ru": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_se": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "choices_uk": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "discussion",
+      "tts": "discussion",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "correct": [
+        "discussion"
+      ],
+      "choices_de": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_en": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_et": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_fi": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_fr": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_is": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_lt": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_lv": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_mx": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_no": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_pl": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_ru": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_se": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "choices_uk": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "culture",
+      "tts": "culture",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "correct": [
+        "culture"
+      ],
+      "choices_de": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_en": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_et": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_fi": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_fr": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_is": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_lt": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_lv": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_mx": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_no": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_pl": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_ru": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_se": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "choices_uk": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ]
+    }
+  ]
+}

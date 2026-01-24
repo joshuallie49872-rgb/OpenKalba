@@ -1,0 +1,996 @@
+{
+  "id": "056-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I like",
+      "tts": "I like",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "choices_de": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_en": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_et": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_fi": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_fr": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_is": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_lt": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_lv": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_mx": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_no": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_pl": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_ru": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_se": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_uk": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I don't like",
+      "tts": "I don't like",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "choices_de": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_en": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_et": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_fi": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_fr": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_is": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_lt": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_lv": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_mx": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_no": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_pl": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_ru": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_se": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_uk": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I enjoy",
+      "tts": "I enjoy",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "choices_de": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_en": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_et": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_fi": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_fr": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_is": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_lt": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_lv": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_mx": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_no": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_pl": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_ru": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_se": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_uk": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I don't want",
+      "tts": "I don't want",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "choices_de": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_en": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_et": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_fi": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_fr": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_is": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_lt": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_lv": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_mx": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_no": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_pl": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_ru": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_se": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_uk": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "important",
+      "tts": "important",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "choices_de": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_en": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_et": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_fi": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_fr": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_is": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_lt": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_lv": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_mx": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_no": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_pl": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_ru": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_se": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_uk": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I like",
+      "tts": "I like",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "choices_de": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_en": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_et": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_fi": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_fr": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_is": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_lt": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_lv": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_mx": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_no": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_pl": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_ru": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_se": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "choices_uk": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I don't like",
+      "tts": "I don't like",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "choices_de": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_en": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_et": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_fi": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_fr": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_is": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_lt": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_lv": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_mx": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_no": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_pl": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_ru": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_se": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "choices_uk": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I enjoy",
+      "tts": "I enjoy",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "choices_de": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_en": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_et": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_fi": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_fr": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_is": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_lt": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_lv": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_mx": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_no": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_pl": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_ru": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_se": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "choices_uk": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I don't want",
+      "tts": "I don't want",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "choices_de": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_en": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_et": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_fi": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_fr": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_is": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_lt": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_lv": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_mx": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_no": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_pl": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_ru": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_se": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "choices_uk": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "important",
+      "tts": "important",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "choices_de": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_en": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_et": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_fi": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_fr": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_is": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_lt": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_lv": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_mx": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_no": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_pl": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_ru": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_se": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "choices_uk": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ]
+    }
+  ]
+}

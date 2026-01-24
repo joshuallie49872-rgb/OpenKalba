@@ -1,0 +1,996 @@
+{
+  "id": "013-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "today",
+      "tts": "today",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "choices_de": [
+        "today",
+        "morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_en": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "choices_et": [
+        "today",
+        "homme",
+        "yesterday",
+        "now"
+      ],
+      "choices_fi": [
+        "today",
+        "huomenna",
+        "yesterday",
+        "now"
+      ],
+      "choices_fr": [
+        "today",
+        "demain",
+        "yesterday",
+        "now"
+      ],
+      "choices_is": [
+        "today",
+        "á morgun",
+        "yesterday",
+        "now"
+      ],
+      "choices_lt": [
+        "today",
+        "rytoj",
+        "yesterday",
+        "now"
+      ],
+      "choices_lv": [
+        "today",
+        "rīt",
+        "yesterday",
+        "now"
+      ],
+      "choices_mx": [
+        "today",
+        "mañana",
+        "yesterday",
+        "now"
+      ],
+      "choices_no": [
+        "today",
+        "i morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_pl": [
+        "today",
+        "jutro",
+        "yesterday",
+        "now"
+      ],
+      "choices_ru": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ],
+      "choices_se": [
+        "today",
+        "imorgon",
+        "yesterday",
+        "now"
+      ],
+      "choices_uk": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tomorrow",
+      "tts": "tomorrow",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "choices_de": [
+        "morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_en": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_et": [
+        "homme",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fi": [
+        "huomenna",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fr": [
+        "demain",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_is": [
+        "á morgun",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lt": [
+        "rytoj",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lv": [
+        "rīt",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_mx": [
+        "mañana",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_no": [
+        "i morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_pl": [
+        "jutro",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_ru": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_se": [
+        "imorgon",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_uk": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "yesterday",
+      "tts": "yesterday",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "choices_de": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_en": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_et": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_fi": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_fr": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_is": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_lt": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_lv": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_mx": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_no": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_pl": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_ru": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_se": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_uk": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "now",
+      "tts": "now",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "choices_de": [
+        "now",
+        "later",
+        "today",
+        "morgen"
+      ],
+      "choices_en": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "choices_et": [
+        "now",
+        "later",
+        "today",
+        "homme"
+      ],
+      "choices_fi": [
+        "now",
+        "later",
+        "today",
+        "huomenna"
+      ],
+      "choices_fr": [
+        "now",
+        "later",
+        "today",
+        "demain"
+      ],
+      "choices_is": [
+        "now",
+        "later",
+        "today",
+        "á morgun"
+      ],
+      "choices_lt": [
+        "now",
+        "later",
+        "today",
+        "rytoj"
+      ],
+      "choices_lv": [
+        "now",
+        "later",
+        "today",
+        "rīt"
+      ],
+      "choices_mx": [
+        "now",
+        "later",
+        "today",
+        "mañana"
+      ],
+      "choices_no": [
+        "now",
+        "later",
+        "today",
+        "i morgen"
+      ],
+      "choices_pl": [
+        "now",
+        "later",
+        "today",
+        "jutro"
+      ],
+      "choices_ru": [
+        "now",
+        "later",
+        "today",
+        "завтра"
+      ],
+      "choices_se": [
+        "now",
+        "later",
+        "today",
+        "imorgon"
+      ],
+      "choices_uk": [
+        "now",
+        "later",
+        "today",
+        "завтра"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hour",
+      "tts": "hour",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "choices_de": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_en": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_et": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_fi": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_fr": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_is": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_lt": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_lv": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_mx": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_no": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_pl": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_ru": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_se": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_uk": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "today",
+      "tts": "today",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "choices_de": [
+        "today",
+        "morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_en": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "choices_et": [
+        "today",
+        "homme",
+        "yesterday",
+        "now"
+      ],
+      "choices_fi": [
+        "today",
+        "huomenna",
+        "yesterday",
+        "now"
+      ],
+      "choices_fr": [
+        "today",
+        "demain",
+        "yesterday",
+        "now"
+      ],
+      "choices_is": [
+        "today",
+        "á morgun",
+        "yesterday",
+        "now"
+      ],
+      "choices_lt": [
+        "today",
+        "rytoj",
+        "yesterday",
+        "now"
+      ],
+      "choices_lv": [
+        "today",
+        "rīt",
+        "yesterday",
+        "now"
+      ],
+      "choices_mx": [
+        "today",
+        "mañana",
+        "yesterday",
+        "now"
+      ],
+      "choices_no": [
+        "today",
+        "i morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_pl": [
+        "today",
+        "jutro",
+        "yesterday",
+        "now"
+      ],
+      "choices_ru": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ],
+      "choices_se": [
+        "today",
+        "imorgon",
+        "yesterday",
+        "now"
+      ],
+      "choices_uk": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tomorrow",
+      "tts": "tomorrow",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "choices_de": [
+        "morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_en": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_et": [
+        "homme",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fi": [
+        "huomenna",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fr": [
+        "demain",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_is": [
+        "á morgun",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lt": [
+        "rytoj",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lv": [
+        "rīt",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_mx": [
+        "mañana",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_no": [
+        "i morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_pl": [
+        "jutro",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_ru": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_se": [
+        "imorgon",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_uk": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "yesterday",
+      "tts": "yesterday",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "choices_de": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_en": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_et": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_fi": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_fr": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_is": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_lt": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_lv": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_mx": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_no": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_pl": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_ru": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_se": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "choices_uk": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "now",
+      "tts": "now",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "choices_de": [
+        "now",
+        "later",
+        "today",
+        "morgen"
+      ],
+      "choices_en": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "choices_et": [
+        "now",
+        "later",
+        "today",
+        "homme"
+      ],
+      "choices_fi": [
+        "now",
+        "later",
+        "today",
+        "huomenna"
+      ],
+      "choices_fr": [
+        "now",
+        "later",
+        "today",
+        "demain"
+      ],
+      "choices_is": [
+        "now",
+        "later",
+        "today",
+        "á morgun"
+      ],
+      "choices_lt": [
+        "now",
+        "later",
+        "today",
+        "rytoj"
+      ],
+      "choices_lv": [
+        "now",
+        "later",
+        "today",
+        "rīt"
+      ],
+      "choices_mx": [
+        "now",
+        "later",
+        "today",
+        "mañana"
+      ],
+      "choices_no": [
+        "now",
+        "later",
+        "today",
+        "i morgen"
+      ],
+      "choices_pl": [
+        "now",
+        "later",
+        "today",
+        "jutro"
+      ],
+      "choices_ru": [
+        "now",
+        "later",
+        "today",
+        "завтра"
+      ],
+      "choices_se": [
+        "now",
+        "later",
+        "today",
+        "imorgon"
+      ],
+      "choices_uk": [
+        "now",
+        "later",
+        "today",
+        "завтра"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hour",
+      "tts": "hour",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "choices_de": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_en": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_et": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_fi": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_fr": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_is": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_lt": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_lv": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_mx": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_no": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_pl": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_ru": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_se": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "choices_uk": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ]
+    }
+  ]
+}

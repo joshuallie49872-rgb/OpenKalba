@@ -1,0 +1,1293 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I want",
+      "tts": "I want",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "choices_de": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_en": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_et": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_fi": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_fr": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_is": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_lt": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_lv": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_mx": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_no": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_pl": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_ru": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_se": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "choices_uk": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I have",
+      "tts": "I have",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "choices_de": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_en": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_et": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_fi": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_fr": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_is": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_lt": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_lv": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_mx": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_no": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_pl": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_ru": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_se": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "choices_uk": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I eat",
+      "tts": "I eat",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "choices_de": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_en": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_et": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_fi": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_fr": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_is": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_lt": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_lv": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_mx": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_no": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_pl": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_ru": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_se": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "choices_uk": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I drink",
+      "tts": "I drink",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "choices_de": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_en": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_et": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_fi": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_fr": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_is": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_lt": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_lv": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_mx": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_no": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_pl": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_ru": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_se": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "choices_uk": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "water",
+      "tts": "water",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "choices_de": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_en": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_et": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_fi": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_fr": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_is": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_lt": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_lv": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_mx": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_no": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_pl": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_ru": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_se": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "choices_uk": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "coffee",
+      "tts": "coffee",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "choices_de": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_en": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_et": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_fi": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_fr": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_is": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_lt": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_lv": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_mx": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_no": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_pl": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_ru": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_se": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_uk": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "beer",
+      "tts": "beer",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "choices_de": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_en": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_et": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_fi": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_fr": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_is": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_lt": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_lv": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_mx": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_no": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_pl": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_ru": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_se": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "choices_uk": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bread",
+      "tts": "bread",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "choices_de": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_en": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_et": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_fi": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_fr": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_is": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_lt": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_lv": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_mx": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_no": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_pl": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_ru": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_se": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "choices_uk": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "here",
+      "tts": "here",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "choices_de": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_en": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_et": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_fi": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_fr": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_is": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_lt": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_lv": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_mx": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_no": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_pl": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_ru": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_se": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "choices_uk": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "there",
+      "tts": "there",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "choices_de": [
+        "there",
+        "here",
+        "today",
+        "morgen"
+      ],
+      "choices_en": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "choices_et": [
+        "there",
+        "here",
+        "today",
+        "homme"
+      ],
+      "choices_fi": [
+        "there",
+        "here",
+        "today",
+        "huomenna"
+      ],
+      "choices_fr": [
+        "there",
+        "here",
+        "today",
+        "demain"
+      ],
+      "choices_is": [
+        "there",
+        "here",
+        "today",
+        "á morgun"
+      ],
+      "choices_lt": [
+        "there",
+        "here",
+        "today",
+        "rytoj"
+      ],
+      "choices_lv": [
+        "there",
+        "here",
+        "today",
+        "rīt"
+      ],
+      "choices_mx": [
+        "there",
+        "here",
+        "today",
+        "mañana"
+      ],
+      "choices_no": [
+        "there",
+        "here",
+        "today",
+        "i morgen"
+      ],
+      "choices_pl": [
+        "there",
+        "here",
+        "today",
+        "jutro"
+      ],
+      "choices_ru": [
+        "there",
+        "here",
+        "today",
+        "завтра"
+      ],
+      "choices_se": [
+        "there",
+        "here",
+        "today",
+        "imorgon"
+      ],
+      "choices_uk": [
+        "there",
+        "here",
+        "today",
+        "завтра"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "water please",
+      "tts": "water please",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "choices_de": [
+        "water please",
+        "danke",
+        "I want bread",
+        "no water"
+      ],
+      "choices_en": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "choices_et": [
+        "water please",
+        "aitäh",
+        "I want bread",
+        "no water"
+      ],
+      "choices_fi": [
+        "water please",
+        "kiitos",
+        "I want bread",
+        "no water"
+      ],
+      "choices_fr": [
+        "water please",
+        "merci",
+        "I want bread",
+        "no water"
+      ],
+      "choices_is": [
+        "water please",
+        "takk",
+        "I want bread",
+        "no water"
+      ],
+      "choices_lt": [
+        "water please",
+        "ačiū",
+        "I want bread",
+        "no water"
+      ],
+      "choices_lv": [
+        "water please",
+        "paldies",
+        "I want bread",
+        "no water"
+      ],
+      "choices_mx": [
+        "water please",
+        "gracias",
+        "I want bread",
+        "no water"
+      ],
+      "choices_no": [
+        "water please",
+        "takk",
+        "I want bread",
+        "no water"
+      ],
+      "choices_pl": [
+        "water please",
+        "dziękuję",
+        "I want bread",
+        "no water"
+      ],
+      "choices_ru": [
+        "water please",
+        "спасибо",
+        "I want bread",
+        "no water"
+      ],
+      "choices_se": [
+        "water please",
+        "tack",
+        "I want bread",
+        "no water"
+      ],
+      "choices_uk": [
+        "water please",
+        "дякую",
+        "I want bread",
+        "no water"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I want beer",
+      "tts": "I want beer",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "choices_de": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_en": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_et": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_fi": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_fr": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_is": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_lt": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_lv": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_mx": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_no": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_pl": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_ru": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_se": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "choices_uk": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "okay",
+      "tts": "okay",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "choices_de": [
+        "okay",
+        "schlecht",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_en": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_et": [
+        "okay",
+        "halb",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_fi": [
+        "okay",
+        "huono",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_fr": [
+        "okay",
+        "mauvais",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_is": [
+        "okay",
+        "slæmur",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_lt": [
+        "okay",
+        "blogas",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_lv": [
+        "okay",
+        "slikts",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_mx": [
+        "okay",
+        "malo",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_no": [
+        "okay",
+        "dårlig",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_pl": [
+        "okay",
+        "zły",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_ru": [
+        "okay",
+        "плохой",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_se": [
+        "okay",
+        "dålig",
+        "hungry",
+        "thirsty"
+      ],
+      "choices_uk": [
+        "okay",
+        "поганий",
+        "hungry",
+        "thirsty"
+      ]
+    }
+  ]
+}

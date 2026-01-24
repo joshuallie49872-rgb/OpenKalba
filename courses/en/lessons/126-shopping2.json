@@ -1,0 +1,996 @@
+{
+  "id": "126-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "expensive",
+      "tts": "expensive",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "choices_de": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_en": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_et": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_fi": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_fr": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_is": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_lt": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_lv": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_mx": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_no": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_pl": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_ru": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_se": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_uk": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cheap",
+      "tts": "cheap",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "choices_de": [
+        "cheap",
+        "expensive",
+        "slow",
+        "schlecht"
+      ],
+      "choices_en": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "choices_et": [
+        "cheap",
+        "expensive",
+        "slow",
+        "halb"
+      ],
+      "choices_fi": [
+        "cheap",
+        "expensive",
+        "slow",
+        "huono"
+      ],
+      "choices_fr": [
+        "cheap",
+        "expensive",
+        "slow",
+        "mauvais"
+      ],
+      "choices_is": [
+        "cheap",
+        "expensive",
+        "slow",
+        "slæmur"
+      ],
+      "choices_lt": [
+        "cheap",
+        "expensive",
+        "slow",
+        "blogas"
+      ],
+      "choices_lv": [
+        "cheap",
+        "expensive",
+        "slow",
+        "slikts"
+      ],
+      "choices_mx": [
+        "cheap",
+        "expensive",
+        "slow",
+        "malo"
+      ],
+      "choices_no": [
+        "cheap",
+        "expensive",
+        "slow",
+        "dårlig"
+      ],
+      "choices_pl": [
+        "cheap",
+        "expensive",
+        "slow",
+        "zły"
+      ],
+      "choices_ru": [
+        "cheap",
+        "expensive",
+        "slow",
+        "плохой"
+      ],
+      "choices_se": [
+        "cheap",
+        "expensive",
+        "slow",
+        "dålig"
+      ],
+      "choices_uk": [
+        "cheap",
+        "expensive",
+        "slow",
+        "поганий"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "discount",
+      "tts": "discount",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "choices_de": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_en": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_et": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_fi": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_fr": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_is": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_lt": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_lv": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_mx": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_no": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_pl": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_ru": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_se": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_uk": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cashier",
+      "tts": "cashier",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "choices_de": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_en": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_et": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_fi": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_fr": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_is": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_lt": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_lv": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_mx": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_no": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_pl": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_ru": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_se": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_uk": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "receipt",
+      "tts": "receipt",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "choices_de": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_en": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_et": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_fi": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_fr": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_is": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_lt": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_lv": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_mx": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_no": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_pl": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_ru": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_se": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_uk": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "expensive",
+      "tts": "expensive",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "choices_de": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_en": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_et": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_fi": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_fr": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_is": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_lt": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_lv": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_mx": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_no": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_pl": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_ru": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_se": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "choices_uk": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cheap",
+      "tts": "cheap",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "choices_de": [
+        "cheap",
+        "expensive",
+        "slow",
+        "schlecht"
+      ],
+      "choices_en": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "choices_et": [
+        "cheap",
+        "expensive",
+        "slow",
+        "halb"
+      ],
+      "choices_fi": [
+        "cheap",
+        "expensive",
+        "slow",
+        "huono"
+      ],
+      "choices_fr": [
+        "cheap",
+        "expensive",
+        "slow",
+        "mauvais"
+      ],
+      "choices_is": [
+        "cheap",
+        "expensive",
+        "slow",
+        "slæmur"
+      ],
+      "choices_lt": [
+        "cheap",
+        "expensive",
+        "slow",
+        "blogas"
+      ],
+      "choices_lv": [
+        "cheap",
+        "expensive",
+        "slow",
+        "slikts"
+      ],
+      "choices_mx": [
+        "cheap",
+        "expensive",
+        "slow",
+        "malo"
+      ],
+      "choices_no": [
+        "cheap",
+        "expensive",
+        "slow",
+        "dårlig"
+      ],
+      "choices_pl": [
+        "cheap",
+        "expensive",
+        "slow",
+        "zły"
+      ],
+      "choices_ru": [
+        "cheap",
+        "expensive",
+        "slow",
+        "плохой"
+      ],
+      "choices_se": [
+        "cheap",
+        "expensive",
+        "slow",
+        "dålig"
+      ],
+      "choices_uk": [
+        "cheap",
+        "expensive",
+        "slow",
+        "поганий"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "discount",
+      "tts": "discount",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "choices_de": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_en": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_et": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_fi": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_fr": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_is": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_lt": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_lv": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_mx": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_no": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_pl": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_ru": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_se": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "choices_uk": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cashier",
+      "tts": "cashier",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "choices_de": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_en": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_et": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_fi": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_fr": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_is": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_lt": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_lv": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_mx": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_no": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_pl": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_ru": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_se": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "choices_uk": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "receipt",
+      "tts": "receipt",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "choices_de": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_en": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_et": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_fi": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_fr": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_is": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_lt": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_lv": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_mx": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_no": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_pl": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_ru": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_se": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "choices_uk": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ]
+    }
+  ]
+}

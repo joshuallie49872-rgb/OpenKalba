@@ -1,0 +1,996 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "water",
+      "tts": "water",
+      "choices": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "correct": [
+        "water"
+      ],
+      "choices_de": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_en": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_et": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_fi": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_fr": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_is": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_lt": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_lv": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_mx": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_no": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_pl": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_ru": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_se": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "choices_uk": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "coffee",
+      "tts": "coffee",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "choices_de": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_en": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_et": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_fi": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_fr": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_is": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_lt": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_lv": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_mx": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_no": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_pl": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_ru": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_se": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "choices_uk": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tea",
+      "tts": "tea",
+      "choices": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "correct": [
+        "tea"
+      ],
+      "choices_de": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_en": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_et": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_fi": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_fr": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_is": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_lt": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_lv": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_mx": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_no": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_pl": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_ru": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_se": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "choices_uk": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "beer",
+      "tts": "beer",
+      "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "choices_de": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_en": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_et": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_fi": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_fr": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_is": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_lt": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_lv": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_mx": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_no": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_pl": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_ru": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_se": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "choices_uk": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "wine",
+      "tts": "wine",
+      "choices": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "correct": [
+        "wine"
+      ],
+      "choices_de": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_en": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_et": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_fi": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_fr": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_is": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_lt": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_lv": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_mx": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_no": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_pl": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_ru": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_se": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "choices_uk": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bread",
+      "tts": "bread",
+      "choices": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "choices_de": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_en": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_et": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_fi": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_fr": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_is": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_lt": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_lv": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_mx": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_no": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_pl": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_ru": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_se": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "choices_uk": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cheese",
+      "tts": "cheese",
+      "choices": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "correct": [
+        "cheese"
+      ],
+      "choices_de": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_en": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_et": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_fi": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_fr": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_is": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_lt": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_lv": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_mx": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_no": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_pl": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_ru": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_se": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "choices_uk": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "meat",
+      "tts": "meat",
+      "choices": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "meat"
+      ],
+      "choices_de": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_en": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_et": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_fi": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_fr": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_is": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_lt": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_lv": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_mx": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_no": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_pl": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_ru": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_se": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "choices_uk": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "fish",
+      "tts": "fish",
+      "choices": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "fish"
+      ],
+      "choices_de": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_en": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_et": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_fi": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_fr": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_is": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_lt": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_lv": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_mx": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_no": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_pl": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_ru": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_se": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "choices_uk": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tasty",
+      "tts": "tasty",
+      "choices": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "choices_de": [
+        "tasty",
+        "schlecht",
+        "hot",
+        "cold"
+      ],
+      "choices_en": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "choices_et": [
+        "tasty",
+        "halb",
+        "hot",
+        "cold"
+      ],
+      "choices_fi": [
+        "tasty",
+        "huono",
+        "hot",
+        "cold"
+      ],
+      "choices_fr": [
+        "tasty",
+        "mauvais",
+        "hot",
+        "cold"
+      ],
+      "choices_is": [
+        "tasty",
+        "slæmur",
+        "hot",
+        "cold"
+      ],
+      "choices_lt": [
+        "tasty",
+        "blogas",
+        "hot",
+        "cold"
+      ],
+      "choices_lv": [
+        "tasty",
+        "slikts",
+        "hot",
+        "cold"
+      ],
+      "choices_mx": [
+        "tasty",
+        "malo",
+        "hot",
+        "cold"
+      ],
+      "choices_no": [
+        "tasty",
+        "dårlig",
+        "hot",
+        "cold"
+      ],
+      "choices_pl": [
+        "tasty",
+        "zły",
+        "hot",
+        "cold"
+      ],
+      "choices_ru": [
+        "tasty",
+        "плохой",
+        "hot",
+        "cold"
+      ],
+      "choices_se": [
+        "tasty",
+        "dålig",
+        "hot",
+        "cold"
+      ],
+      "choices_uk": [
+        "tasty",
+        "поганий",
+        "hot",
+        "cold"
+      ]
+    }
+  ]
+}

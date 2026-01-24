@@ -996,10 +996,14 @@ function populateLanguageSelects(cat) {
   const courses = (cat && Array.isArray(cat.courses)) ? cat.courses.slice() : [];
   const courseByCode = new Map(courses.map((c) => [c.code, c]));
 
-  // Ensure English exists as a selectable target (even if not built yet)
+  // Ensure English exists as a selectable target
   if (!courseByCode.has("en")) {
-    courses.unshift({ code: "en", name: "English", ready: false, nativeOverlays: [] });
+    courses.unshift({ code: "en", name: "English", ready: true, nativeOverlays: [] });
     courseByCode.set("en", courses[0]);
+  } else {
+    // English lessons exist — mark ready so it is selectable as a learning language
+    const ce = courseByCode.get("en");
+    if (ce) ce.ready = true;
   }
 
   const allCodes = unique(["en", ...courses.map((c) => c.code)]);
@@ -1405,12 +1409,48 @@ function getTargetText(q) {
 function renderChoices(q) {
   show(DOM.inputWrap, false);
 
-  // canonical for grading (always)
-  const canonical = Array.isArray(q.choices) ? q.choices.slice() : [];
+  // canonical choices (source-of-truth)
+  const canonicalOrig = Array.isArray(q.choices) ? q.choices.slice() : [];
+  const correctOrig = Number.isFinite(q.correctIndex) ? q.correctIndex : -1;
 
   // true native choices only (choices_uk etc) — otherwise []
-  const nativeChoices = getChooseChoicesForNative(q);
-  const hasNativeChoices = nativeChoices.length === canonical.length && nativeChoices.length > 0;
+  const nativeOrig = getChooseChoicesForNative(q);
+  const hasNativeChoices =
+    nativeOrig.length === canonicalOrig.length && nativeOrig.length > 0;
+
+  // Shuffle choices every time we render (prevents "A is always correct")
+  const idxs = canonicalOrig.map((_, i) => i);
+
+  // crypto randomness when available; fallback to Math.random
+  function randInt(max) {
+    try {
+      if (window.crypto && window.crypto.getRandomValues) {
+        const buf = new Uint32Array(1);
+        window.crypto.getRandomValues(buf);
+        return buf[0] % max;
+      }
+    } catch (e) {}
+    return Math.floor(Math.random() * max);
+  }
+
+  for (let i = idxs.length - 1; i > 0; i--) {
+    const j = randInt(i + 1);
+    const tmp = idxs[i];
+    idxs[i] = idxs[j];
+    idxs[j] = tmp;
+  }
+
+  const canonical = idxs.map((i) => canonicalOrig[i]);
+  const nativeChoices = hasNativeChoices ? idxs.map((i) => nativeOrig[i]) : [];
+
+  // Persist shuffled order so grading + "show correct" uses the same order
+  q._choicesShuffled = canonical;
+  q._nativeChoicesShuffled = nativeChoices;
+
+  // Update correctIndex to match shuffled order
+  if (correctOrig >= 0) {
+    q.correctIndex = idxs.indexOf(correctOrig);
+  }
 
   for (let i = 0; i < canonical.length; i++) {
     const b = document.createElement("button");
@@ -1425,12 +1465,14 @@ function renderChoices(q) {
 
     b.onclick = () => {
       if (isAnswered) return;
-      checkAnswer({ userValue: b.dataset.value || "", userIndex: i });
+      const chosenIdx = parseInt(b.dataset.idx || "-1", 10);
+      checkAnswer({ userValue: b.dataset.value || "", userIndex: chosenIdx });
     };
 
     DOM.answers.appendChild(b);
   }
 }
+
 
 /* Fix highlighting (index-safe) */
 function markChoiceButtons({ userValue, wasCorrect }) {
@@ -1629,8 +1671,14 @@ function checkAnswer({ userValue, userIndex }) {
 
     // show correct label in UI language:
     // if we have native choices in-question, use those; otherwise show canonical
-    const canonicalChoices = Array.isArray(q.choices) ? q.choices : [];
-    const nativeChoices = getChooseChoicesForNative(q);
+    const canonicalChoices = Array.isArray(q._choicesShuffled)
+      ? q._choicesShuffled
+      : (Array.isArray(q.choices) ? q.choices : []);
+
+    const nativeChoices = Array.isArray(q._nativeChoicesShuffled)
+      ? q._nativeChoicesShuffled
+      : getChooseChoicesForNative(q);
+
 
     if (correctIndex >= 0 && correctIndex < canonicalChoices.length) {
       if (nativeChoices.length === canonicalChoices.length && nativeChoices.length) {
@@ -2066,21 +2114,30 @@ function renderAchievementsScreen() {
       ? pairs.map(k => {
           const v = Number(xpMap[k] || 0);
           const d = Number(doneMap[k] || 0);
-          return `<div class="achCourseRow">
-            <div class="achCourseName">${escapeHtml(k)}</div>
-            <div class="achCourseMeta">${d} lessons</div>
+          const parts = String(k).split("->");
+          const from = parts[0] || "";
+          const to = parts[1] || "";
+          const aria = `${langName(from)} to ${langName(to)}`;
+          return `<div class="achCourseRow achCourseRow--pair">
+            <div class="achCourseLeft">
+              <div class="achPair" aria-label="${escapeHtml(aria)}">
+                <img class="flagIcon" src="${flagSrc(from)}" alt="" aria-hidden="true" />
+                <span class="achArrow" aria-hidden="true">→</span>
+                <img class="flagIcon" src="${flagSrc(to)}" alt="" aria-hidden="true" />
+              </div>
+            </div>
+            <div class="achCourseMeta">${d} ${d === 1 ? "lesson" : "lessons"}</div>
             <div class="achCourseXp">${v} XP</div>
           </div>`;
         }).join("")
       : `<div class="muted">No XP yet — complete a lesson to start earning.</div>`;
   }
 
-  // Badges (for current pair)
+  // Badges section removed from full Achievements screen (keeps UI clean)
   if (DOM.achBadges2) {
-    const badges = computeBadgesForPair(pairKey, g);
-    DOM.achBadges2.innerHTML = badges.length
-      ? badges.map(b => `<span class="achBadge">${escapeHtml(b)}</span>`).join("")
-      : `<div class="muted">No achievements unlocked yet.</div>`;
+    DOM.achBadges2.innerHTML = "";
+    const sec = DOM.achBadges2.closest ? DOM.achBadges2.closest(".achSection") : null;
+    if (sec) sec.style.display = "none";
   }
 }
 

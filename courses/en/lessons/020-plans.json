@@ -1,0 +1,996 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "today",
+      "tts": "today",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "choices_de": [
+        "today",
+        "morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_en": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "choices_et": [
+        "today",
+        "homme",
+        "yesterday",
+        "now"
+      ],
+      "choices_fi": [
+        "today",
+        "huomenna",
+        "yesterday",
+        "now"
+      ],
+      "choices_fr": [
+        "today",
+        "demain",
+        "yesterday",
+        "now"
+      ],
+      "choices_is": [
+        "today",
+        "á morgun",
+        "yesterday",
+        "now"
+      ],
+      "choices_lt": [
+        "today",
+        "rytoj",
+        "yesterday",
+        "now"
+      ],
+      "choices_lv": [
+        "today",
+        "rīt",
+        "yesterday",
+        "now"
+      ],
+      "choices_mx": [
+        "today",
+        "mañana",
+        "yesterday",
+        "now"
+      ],
+      "choices_no": [
+        "today",
+        "i morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_pl": [
+        "today",
+        "jutro",
+        "yesterday",
+        "now"
+      ],
+      "choices_ru": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ],
+      "choices_se": [
+        "today",
+        "imorgon",
+        "yesterday",
+        "now"
+      ],
+      "choices_uk": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tomorrow",
+      "tts": "tomorrow",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "choices_de": [
+        "morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_en": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_et": [
+        "homme",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fi": [
+        "huomenna",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fr": [
+        "demain",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_is": [
+        "á morgun",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lt": [
+        "rytoj",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lv": [
+        "rīt",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_mx": [
+        "mañana",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_no": [
+        "i morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_pl": [
+        "jutro",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_ru": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_se": [
+        "imorgon",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_uk": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "later",
+      "tts": "later",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "choices_de": [
+        "later",
+        "now",
+        "today",
+        "morgen"
+      ],
+      "choices_en": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "choices_et": [
+        "later",
+        "now",
+        "today",
+        "homme"
+      ],
+      "choices_fi": [
+        "later",
+        "now",
+        "today",
+        "huomenna"
+      ],
+      "choices_fr": [
+        "later",
+        "now",
+        "today",
+        "demain"
+      ],
+      "choices_is": [
+        "later",
+        "now",
+        "today",
+        "á morgun"
+      ],
+      "choices_lt": [
+        "later",
+        "now",
+        "today",
+        "rytoj"
+      ],
+      "choices_lv": [
+        "later",
+        "now",
+        "today",
+        "rīt"
+      ],
+      "choices_mx": [
+        "later",
+        "now",
+        "today",
+        "mañana"
+      ],
+      "choices_no": [
+        "later",
+        "now",
+        "today",
+        "i morgen"
+      ],
+      "choices_pl": [
+        "later",
+        "now",
+        "today",
+        "jutro"
+      ],
+      "choices_ru": [
+        "later",
+        "now",
+        "today",
+        "завтра"
+      ],
+      "choices_se": [
+        "later",
+        "now",
+        "today",
+        "imorgon"
+      ],
+      "choices_uk": [
+        "later",
+        "now",
+        "today",
+        "завтра"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I plan",
+      "tts": "I plan",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "choices_de": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_en": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_et": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_fi": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_fr": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_is": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_lt": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_lv": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_mx": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_no": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_pl": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_ru": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_se": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_uk": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "we will meet",
+      "tts": "we will meet",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "choices_de": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_en": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_et": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_fi": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_fr": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_is": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_lt": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_lv": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_mx": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_no": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_pl": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_ru": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_se": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_uk": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "today",
+      "tts": "today",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "choices_de": [
+        "today",
+        "morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_en": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "choices_et": [
+        "today",
+        "homme",
+        "yesterday",
+        "now"
+      ],
+      "choices_fi": [
+        "today",
+        "huomenna",
+        "yesterday",
+        "now"
+      ],
+      "choices_fr": [
+        "today",
+        "demain",
+        "yesterday",
+        "now"
+      ],
+      "choices_is": [
+        "today",
+        "á morgun",
+        "yesterday",
+        "now"
+      ],
+      "choices_lt": [
+        "today",
+        "rytoj",
+        "yesterday",
+        "now"
+      ],
+      "choices_lv": [
+        "today",
+        "rīt",
+        "yesterday",
+        "now"
+      ],
+      "choices_mx": [
+        "today",
+        "mañana",
+        "yesterday",
+        "now"
+      ],
+      "choices_no": [
+        "today",
+        "i morgen",
+        "yesterday",
+        "now"
+      ],
+      "choices_pl": [
+        "today",
+        "jutro",
+        "yesterday",
+        "now"
+      ],
+      "choices_ru": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ],
+      "choices_se": [
+        "today",
+        "imorgon",
+        "yesterday",
+        "now"
+      ],
+      "choices_uk": [
+        "today",
+        "завтра",
+        "yesterday",
+        "now"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "tomorrow",
+      "tts": "tomorrow",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "choices_de": [
+        "morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_en": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_et": [
+        "homme",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fi": [
+        "huomenna",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_fr": [
+        "demain",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_is": [
+        "á morgun",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lt": [
+        "rytoj",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_lv": [
+        "rīt",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_mx": [
+        "mañana",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_no": [
+        "i morgen",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_pl": [
+        "jutro",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_ru": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_se": [
+        "imorgon",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "choices_uk": [
+        "завтра",
+        "today",
+        "later",
+        "yesterday"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "later",
+      "tts": "later",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "choices_de": [
+        "later",
+        "now",
+        "today",
+        "morgen"
+      ],
+      "choices_en": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "choices_et": [
+        "later",
+        "now",
+        "today",
+        "homme"
+      ],
+      "choices_fi": [
+        "later",
+        "now",
+        "today",
+        "huomenna"
+      ],
+      "choices_fr": [
+        "later",
+        "now",
+        "today",
+        "demain"
+      ],
+      "choices_is": [
+        "later",
+        "now",
+        "today",
+        "á morgun"
+      ],
+      "choices_lt": [
+        "later",
+        "now",
+        "today",
+        "rytoj"
+      ],
+      "choices_lv": [
+        "later",
+        "now",
+        "today",
+        "rīt"
+      ],
+      "choices_mx": [
+        "later",
+        "now",
+        "today",
+        "mañana"
+      ],
+      "choices_no": [
+        "later",
+        "now",
+        "today",
+        "i morgen"
+      ],
+      "choices_pl": [
+        "later",
+        "now",
+        "today",
+        "jutro"
+      ],
+      "choices_ru": [
+        "later",
+        "now",
+        "today",
+        "завтра"
+      ],
+      "choices_se": [
+        "later",
+        "now",
+        "today",
+        "imorgon"
+      ],
+      "choices_uk": [
+        "later",
+        "now",
+        "today",
+        "завтра"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I plan",
+      "tts": "I plan",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "choices_de": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_en": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_et": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_fi": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_fr": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_is": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_lt": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_lv": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_mx": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_no": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_pl": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_ru": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_se": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "choices_uk": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "we will meet",
+      "tts": "we will meet",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "choices_de": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_en": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_et": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_fi": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_fr": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_is": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_lt": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_lv": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_mx": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_no": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_pl": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_ru": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_se": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "choices_uk": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ]
+    }
+  ]
+}

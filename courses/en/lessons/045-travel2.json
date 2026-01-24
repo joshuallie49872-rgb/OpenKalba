@@ -1,0 +1,996 @@
+{
+  "id": "045-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "passport",
+      "tts": "passport",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "choices_de": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_en": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_et": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_fi": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_fr": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_is": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_lt": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_lv": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_mx": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_no": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_pl": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_ru": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_se": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_uk": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "borders",
+      "tts": "borders",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "choices_de": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_en": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_et": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_fi": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_fr": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_is": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_lt": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_lv": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_mx": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_no": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_pl": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_ru": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_se": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_uk": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "to travel",
+      "tts": "to travel",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "choices_de": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_en": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_et": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_fi": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_fr": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_is": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_lt": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_lv": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_mx": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_no": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_pl": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_ru": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_se": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_uk": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "suitcase",
+      "tts": "suitcase",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "choices_de": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_en": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_et": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_fi": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_fr": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_is": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_lt": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_lv": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_mx": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_no": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_pl": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_ru": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_se": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_uk": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "customs",
+      "tts": "customs",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "choices_de": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_en": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_et": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_fi": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_fr": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_is": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_lt": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_lv": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_mx": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_no": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_pl": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_ru": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_se": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_uk": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "passport",
+      "tts": "passport",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "choices_de": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_en": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_et": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_fi": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_fr": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_is": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_lt": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_lv": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_mx": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_no": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_pl": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_ru": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_se": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "choices_uk": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "borders",
+      "tts": "borders",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "choices_de": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_en": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_et": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_fi": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_fr": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_is": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_lt": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_lv": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_mx": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_no": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_pl": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_ru": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_se": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "choices_uk": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "to travel",
+      "tts": "to travel",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "choices_de": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_en": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_et": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_fi": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_fr": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_is": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_lt": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_lv": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_mx": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_no": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_pl": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_ru": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_se": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "choices_uk": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "suitcase",
+      "tts": "suitcase",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "choices_de": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_en": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_et": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_fi": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_fr": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_is": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_lt": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_lv": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_mx": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_no": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_pl": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_ru": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_se": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "choices_uk": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "customs",
+      "tts": "customs",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "choices_de": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_en": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_et": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_fi": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_fr": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_is": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_lt": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_lv": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_mx": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_no": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_pl": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_ru": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_se": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "choices_uk": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ]
+    }
+  ]
+}

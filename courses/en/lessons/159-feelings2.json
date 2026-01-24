@@ -1,0 +1,996 @@
+{
+  "id": "159-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "surprised",
+      "tts": "surprised",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "choices_de": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_en": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_et": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_fi": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_fr": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_is": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_lt": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_lv": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_mx": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_no": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_pl": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_ru": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_se": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_uk": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "angry",
+      "tts": "angry",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "choices_de": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_en": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_et": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_fi": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_fr": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_is": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_lt": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_lv": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_mx": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_no": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_pl": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_ru": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_se": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_uk": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "calm",
+      "tts": "calm",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "choices_de": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_en": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_et": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_fi": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_fr": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_is": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_lt": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_lv": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_mx": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_no": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_pl": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_ru": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_se": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_uk": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "worried",
+      "tts": "worried",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "choices_de": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_en": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_et": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_fi": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_fr": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_is": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_lt": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_lv": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_mx": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_no": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_pl": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_ru": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_se": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_uk": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "satisfied",
+      "tts": "satisfied",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "choices_de": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_en": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_et": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_fi": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_fr": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_is": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_lt": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_lv": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_mx": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_no": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_pl": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_ru": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_se": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_uk": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "surprised",
+      "tts": "surprised",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "choices_de": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_en": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_et": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_fi": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_fr": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_is": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_lt": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_lv": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_mx": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_no": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_pl": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_ru": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_se": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "choices_uk": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "angry",
+      "tts": "angry",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "choices_de": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_en": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_et": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_fi": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_fr": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_is": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_lt": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_lv": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_mx": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_no": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_pl": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_ru": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_se": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "choices_uk": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "calm",
+      "tts": "calm",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "choices_de": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_en": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_et": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_fi": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_fr": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_is": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_lt": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_lv": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_mx": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_no": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_pl": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_ru": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_se": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "choices_uk": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "worried",
+      "tts": "worried",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "choices_de": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_en": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_et": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_fi": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_fr": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_is": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_lt": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_lv": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_mx": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_no": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_pl": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_ru": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_se": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "choices_uk": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "satisfied",
+      "tts": "satisfied",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "choices_de": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_en": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_et": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_fi": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_fr": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_is": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_lt": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_lv": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_mx": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_no": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_pl": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_ru": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_se": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "choices_uk": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ]
+    }
+  ]
+}

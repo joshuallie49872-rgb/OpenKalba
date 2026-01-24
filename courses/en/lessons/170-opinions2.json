@@ -1,0 +1,996 @@
+{
+  "id": "170-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I think",
+      "tts": "I think",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "choices_de": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_en": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_et": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_fi": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_fr": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_is": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_lt": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_lv": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_mx": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_no": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_pl": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_ru": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_se": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_uk": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I agree",
+      "tts": "I agree",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "choices_de": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_en": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_et": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_fi": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_fr": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_is": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_lt": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_lv": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_mx": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_no": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_pl": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_ru": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_se": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_uk": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I disagree",
+      "tts": "I disagree",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "choices_de": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_en": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_et": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_fi": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_fr": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_is": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_lt": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_lv": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_mx": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_no": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_pl": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_ru": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_se": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_uk": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "opinion",
+      "tts": "opinion",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "choices_de": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_en": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_et": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_fi": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_fr": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_is": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_lt": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_lv": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_mx": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_no": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_pl": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_ru": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_se": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_uk": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "argument",
+      "tts": "argument",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "choices_de": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_en": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_et": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_fi": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_fr": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_is": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_lt": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_lv": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_mx": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_no": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_pl": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_ru": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_se": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_uk": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I think",
+      "tts": "I think",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "choices_de": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_en": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_et": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_fi": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_fr": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_is": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_lt": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_lv": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_mx": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_no": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_pl": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_ru": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_se": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "choices_uk": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I agree",
+      "tts": "I agree",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "choices_de": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_en": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_et": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_fi": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_fr": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_is": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_lt": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_lv": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_mx": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_no": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_pl": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_ru": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_se": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "choices_uk": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I disagree",
+      "tts": "I disagree",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "choices_de": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_en": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_et": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_fi": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_fr": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_is": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_lt": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_lv": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_mx": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_no": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_pl": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_ru": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_se": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "choices_uk": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "opinion",
+      "tts": "opinion",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "choices_de": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_en": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_et": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_fi": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_fr": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_is": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_lt": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_lv": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_mx": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_no": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_pl": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_ru": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_se": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "choices_uk": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "argument",
+      "tts": "argument",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "choices_de": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_en": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_et": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_fi": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_fr": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_is": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_lt": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_lv": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_mx": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_no": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_pl": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_ru": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_se": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "choices_uk": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "id": "010-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "shop",
+      "tts": "shop",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "choices_de": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_en": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_et": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_fi": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_fr": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_is": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_lt": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_lv": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_mx": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_no": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_pl": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_ru": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_se": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_uk": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "price",
+      "tts": "price",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "choices_de": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_en": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_et": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_fi": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_fr": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_is": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_lt": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_lv": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_mx": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_no": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_pl": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_ru": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_se": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_uk": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "money",
+      "tts": "money",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "choices_de": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_en": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_et": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_fi": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_fr": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_is": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_lt": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_lv": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_mx": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_no": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_pl": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_ru": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_se": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_uk": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "card",
+      "tts": "card",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "choices_de": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_en": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_et": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_fi": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_fr": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_is": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_lt": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_lv": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_mx": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_no": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_pl": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_ru": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_se": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_uk": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cash",
+      "tts": "cash",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "choices_de": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_en": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_et": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_fi": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_fr": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_is": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_lt": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_lv": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_mx": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_no": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_pl": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_ru": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_se": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_uk": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "shop",
+      "tts": "shop",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "choices_de": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_en": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_et": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_fi": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_fr": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_is": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_lt": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_lv": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_mx": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_no": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_pl": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_ru": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_se": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "choices_uk": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "price",
+      "tts": "price",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "choices_de": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_en": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_et": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_fi": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_fr": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_is": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_lt": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_lv": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_mx": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_no": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_pl": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_ru": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_se": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "choices_uk": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "money",
+      "tts": "money",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "choices_de": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_en": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_et": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_fi": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_fr": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_is": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_lt": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_lv": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_mx": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_no": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_pl": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_ru": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_se": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "choices_uk": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "card",
+      "tts": "card",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "choices_de": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_en": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_et": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_fi": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_fr": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_is": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_lt": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_lv": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_mx": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_no": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_pl": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_ru": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_se": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "choices_uk": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "cash",
+      "tts": "cash",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "choices_de": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_en": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_et": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_fi": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_fr": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_is": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_lt": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_lv": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_mx": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_no": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_pl": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_ru": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_se": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "choices_uk": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ]
+    }
+  ]
+}

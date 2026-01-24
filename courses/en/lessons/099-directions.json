@@ -1,0 +1,996 @@
+{
+  "id": "099-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "left",
+      "tts": "left",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "choices_de": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_en": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_et": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_fi": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_fr": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_is": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_lt": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_lv": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_mx": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_no": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_pl": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_ru": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_se": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_uk": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "right",
+      "tts": "right",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "choices_de": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_en": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_et": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_fi": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_fr": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_is": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_lt": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_lv": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_mx": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_no": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_pl": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_ru": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_se": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_uk": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "straight",
+      "tts": "straight",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "choices_de": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_en": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_et": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_fi": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_fr": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_is": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_lt": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_lv": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_mx": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_no": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_pl": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_ru": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_se": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_uk": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "back",
+      "tts": "back",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "choices_de": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_en": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_et": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_fi": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_fr": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_is": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_lt": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_lv": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_mx": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_no": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_pl": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_ru": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_se": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_uk": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "near",
+      "tts": "near",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "choices_de": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_en": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_et": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_fi": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_fr": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_is": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_lt": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_lv": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_mx": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_no": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_pl": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_ru": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_se": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_uk": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "left",
+      "tts": "left",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "choices_de": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_en": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_et": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_fi": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_fr": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_is": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_lt": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_lv": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_mx": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_no": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_pl": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_ru": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_se": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_uk": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "right",
+      "tts": "right",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "choices_de": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_en": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_et": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_fi": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_fr": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_is": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_lt": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_lv": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_mx": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_no": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_pl": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_ru": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_se": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "choices_uk": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "straight",
+      "tts": "straight",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "choices_de": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_en": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_et": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_fi": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_fr": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_is": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_lt": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_lv": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_mx": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_no": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_pl": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_ru": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_se": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "choices_uk": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "back",
+      "tts": "back",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "choices_de": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_en": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_et": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_fi": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_fr": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_is": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_lt": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_lv": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_mx": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_no": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_pl": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_ru": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_se": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "choices_uk": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "near",
+      "tts": "near",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "choices_de": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_en": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_et": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_fi": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_fr": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_is": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_lt": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_lv": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_mx": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_no": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_pl": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_ru": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_se": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "choices_uk": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ]
+    }
+  ]
+}

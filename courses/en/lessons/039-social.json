@@ -1,0 +1,996 @@
+{
+  "id": "039-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "friend",
+      "tts": "friend",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "choices_de": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_en": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_et": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_fi": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_fr": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_is": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_lt": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_lv": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_mx": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_no": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_pl": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_ru": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_se": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_uk": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "family",
+      "tts": "family",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "choices_de": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_en": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_et": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_fi": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_fr": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_is": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_lt": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_lv": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_mx": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_no": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_pl": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_ru": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_se": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_uk": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "name",
+      "tts": "name",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "choices_de": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_en": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_et": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_fi": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_fr": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_is": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_lt": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_lv": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_mx": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_no": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_pl": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_ru": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_se": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_uk": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "nice",
+      "tts": "nice",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "choices_de": [
+        "nice",
+        "entschuldigung",
+        "danke",
+        "okay"
+      ],
+      "choices_en": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "choices_et": [
+        "nice",
+        "vabandust",
+        "aitäh",
+        "okay"
+      ],
+      "choices_fi": [
+        "nice",
+        "anteeksi",
+        "kiitos",
+        "okay"
+      ],
+      "choices_fr": [
+        "nice",
+        "désolé",
+        "merci",
+        "okay"
+      ],
+      "choices_is": [
+        "nice",
+        "fyrirgefðu",
+        "takk",
+        "okay"
+      ],
+      "choices_lt": [
+        "nice",
+        "atsiprašau",
+        "ačiū",
+        "okay"
+      ],
+      "choices_lv": [
+        "nice",
+        "atvainojiet",
+        "paldies",
+        "okay"
+      ],
+      "choices_mx": [
+        "nice",
+        "lo siento",
+        "gracias",
+        "okay"
+      ],
+      "choices_no": [
+        "nice",
+        "beklager",
+        "takk",
+        "okay"
+      ],
+      "choices_pl": [
+        "nice",
+        "przepraszam",
+        "dzięki",
+        "okay"
+      ],
+      "choices_ru": [
+        "nice",
+        "извини",
+        "спасибо",
+        "okay"
+      ],
+      "choices_se": [
+        "nice",
+        "förlåt",
+        "tack",
+        "okay"
+      ],
+      "choices_uk": [
+        "nice",
+        "вибач",
+        "дякую",
+        "okay"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "to meet",
+      "tts": "to meet",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "choices_de": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_en": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_et": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_fi": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_fr": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_is": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_lt": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_lv": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_mx": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_no": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_pl": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_ru": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_se": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_uk": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "friend",
+      "tts": "friend",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "choices_de": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_en": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_et": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_fi": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_fr": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_is": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_lt": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_lv": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_mx": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_no": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_pl": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_ru": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_se": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "choices_uk": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "family",
+      "tts": "family",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "choices_de": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_en": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_et": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_fi": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_fr": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_is": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_lt": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_lv": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_mx": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_no": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_pl": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_ru": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_se": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "choices_uk": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "name",
+      "tts": "name",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "choices_de": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_en": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_et": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_fi": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_fr": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_is": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_lt": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_lv": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_mx": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_no": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_pl": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_ru": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_se": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "choices_uk": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "nice",
+      "tts": "nice",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "choices_de": [
+        "nice",
+        "entschuldigung",
+        "danke",
+        "okay"
+      ],
+      "choices_en": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "choices_et": [
+        "nice",
+        "vabandust",
+        "aitäh",
+        "okay"
+      ],
+      "choices_fi": [
+        "nice",
+        "anteeksi",
+        "kiitos",
+        "okay"
+      ],
+      "choices_fr": [
+        "nice",
+        "désolé",
+        "merci",
+        "okay"
+      ],
+      "choices_is": [
+        "nice",
+        "fyrirgefðu",
+        "takk",
+        "okay"
+      ],
+      "choices_lt": [
+        "nice",
+        "atsiprašau",
+        "ačiū",
+        "okay"
+      ],
+      "choices_lv": [
+        "nice",
+        "atvainojiet",
+        "paldies",
+        "okay"
+      ],
+      "choices_mx": [
+        "nice",
+        "lo siento",
+        "gracias",
+        "okay"
+      ],
+      "choices_no": [
+        "nice",
+        "beklager",
+        "takk",
+        "okay"
+      ],
+      "choices_pl": [
+        "nice",
+        "przepraszam",
+        "dzięki",
+        "okay"
+      ],
+      "choices_ru": [
+        "nice",
+        "извини",
+        "спасибо",
+        "okay"
+      ],
+      "choices_se": [
+        "nice",
+        "förlåt",
+        "tack",
+        "okay"
+      ],
+      "choices_uk": [
+        "nice",
+        "вибач",
+        "дякую",
+        "okay"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "to meet",
+      "tts": "to meet",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "choices_de": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_en": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_et": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_fi": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_fr": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_is": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_lt": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_lv": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_mx": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_no": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_pl": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_ru": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_se": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "choices_uk": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ]
+    }
+  ]
+}

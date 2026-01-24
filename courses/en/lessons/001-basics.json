@@ -1,0 +1,996 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hello",
+      "tts": "hello",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "choices_de": [
+        "hallo",
+        "danke",
+        "ja",
+        "nein"
+      ],
+      "choices_en": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "choices_et": [
+        "tere",
+        "aitäh",
+        "jah",
+        "ei"
+      ],
+      "choices_fi": [
+        "hei",
+        "kiitos",
+        "kyllä",
+        "ei"
+      ],
+      "choices_fr": [
+        "bonjour",
+        "merci",
+        "oui",
+        "non"
+      ],
+      "choices_is": [
+        "halló",
+        "takk",
+        "já",
+        "nei"
+      ],
+      "choices_lt": [
+        "labas",
+        "ačiū",
+        "taip",
+        "ne"
+      ],
+      "choices_lv": [
+        "sveiki",
+        "paldies",
+        "jā",
+        "nē"
+      ],
+      "choices_mx": [
+        "hola",
+        "gracias",
+        "sí",
+        "no"
+      ],
+      "choices_no": [
+        "hei",
+        "takk",
+        "ja",
+        "nei"
+      ],
+      "choices_pl": [
+        "cześć",
+        "dziękuję",
+        "tak",
+        "nie"
+      ],
+      "choices_ru": [
+        "привет",
+        "спасибо",
+        "да",
+        "нет"
+      ],
+      "choices_se": [
+        "hej",
+        "tack",
+        "ja",
+        "nej"
+      ],
+      "choices_uk": [
+        "привіт",
+        "дякую",
+        "так",
+        "ні"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "thank you",
+      "tts": "thank you",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "choices_de": [
+        "entschuldigung",
+        "danke",
+        "bitte",
+        "hallo"
+      ],
+      "choices_en": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "choices_et": [
+        "vabandust",
+        "aitäh",
+        "palun",
+        "tere"
+      ],
+      "choices_fi": [
+        "anteeksi",
+        "kiitos",
+        "ole hyvä",
+        "hei"
+      ],
+      "choices_fr": [
+        "désolé",
+        "merci",
+        "s’il vous plaît",
+        "bonjour"
+      ],
+      "choices_is": [
+        "fyrirgefðu",
+        "takk",
+        "vinsamlegast",
+        "halló"
+      ],
+      "choices_lt": [
+        "atsiprašau",
+        "ačiū",
+        "prašau",
+        "labas"
+      ],
+      "choices_lv": [
+        "atvainojiet",
+        "paldies",
+        "lūdzu",
+        "sveiki"
+      ],
+      "choices_mx": [
+        "lo siento",
+        "gracias",
+        "por favor",
+        "hola"
+      ],
+      "choices_no": [
+        "beklager",
+        "takk",
+        "vær så snill",
+        "hei"
+      ],
+      "choices_pl": [
+        "przepraszam",
+        "dziękuję",
+        "proszę",
+        "cześć"
+      ],
+      "choices_ru": [
+        "извини",
+        "спасибо",
+        "пожалуйста",
+        "привет"
+      ],
+      "choices_se": [
+        "förlåt",
+        "tack",
+        "snälla",
+        "hej"
+      ],
+      "choices_uk": [
+        "вибач",
+        "дякую",
+        "будь ласка",
+        "привіт"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "yes",
+      "tts": "yes",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "choices_de": [
+        "ja",
+        "nein",
+        "tschüss",
+        "bitte"
+      ],
+      "choices_en": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "choices_et": [
+        "jah",
+        "ei",
+        "head aega",
+        "palun"
+      ],
+      "choices_fi": [
+        "kyllä",
+        "ei",
+        "näkemiin",
+        "ole hyvä"
+      ],
+      "choices_fr": [
+        "oui",
+        "non",
+        "au revoir",
+        "s’il vous plaît"
+      ],
+      "choices_is": [
+        "já",
+        "nei",
+        "bless",
+        "vinsamlegast"
+      ],
+      "choices_lt": [
+        "taip",
+        "ne",
+        "viso gero",
+        "prašau"
+      ],
+      "choices_lv": [
+        "jā",
+        "nē",
+        "uz redzēšanos",
+        "lūdzu"
+      ],
+      "choices_mx": [
+        "sí",
+        "no",
+        "adiós",
+        "por favor"
+      ],
+      "choices_no": [
+        "ja",
+        "nei",
+        "ha det",
+        "vær så snill"
+      ],
+      "choices_pl": [
+        "tak",
+        "nie",
+        "do widzenia",
+        "proszę"
+      ],
+      "choices_ru": [
+        "да",
+        "нет",
+        "пока",
+        "пожалуйста"
+      ],
+      "choices_se": [
+        "ja",
+        "nej",
+        "hej då",
+        "snälla"
+      ],
+      "choices_uk": [
+        "так",
+        "ні",
+        "бувай",
+        "будь ласка"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "no",
+      "tts": "no",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "choices_de": [
+        "ja",
+        "nein",
+        "danke",
+        "hallo"
+      ],
+      "choices_en": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "choices_et": [
+        "jah",
+        "ei",
+        "aitäh",
+        "tere"
+      ],
+      "choices_fi": [
+        "kyllä",
+        "ei",
+        "kiitos",
+        "moi"
+      ],
+      "choices_fr": [
+        "oui",
+        "non",
+        "merci",
+        "salut"
+      ],
+      "choices_is": [
+        "já",
+        "nei",
+        "takk",
+        "hæ"
+      ],
+      "choices_lt": [
+        "taip",
+        "ne",
+        "ačiū",
+        "labas"
+      ],
+      "choices_lv": [
+        "jā",
+        "nē",
+        "paldies",
+        "čau"
+      ],
+      "choices_mx": [
+        "sí",
+        "no",
+        "gracias",
+        "hola"
+      ],
+      "choices_no": [
+        "ja",
+        "nei",
+        "takk",
+        "hei"
+      ],
+      "choices_pl": [
+        "tak",
+        "nie",
+        "dzięki",
+        "cześć"
+      ],
+      "choices_ru": [
+        "да",
+        "нет",
+        "спасибо",
+        "привет"
+      ],
+      "choices_se": [
+        "ja",
+        "nej",
+        "tack",
+        "hej"
+      ],
+      "choices_uk": [
+        "так",
+        "ні",
+        "дякую",
+        "привіт"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "please / you're welcome",
+      "tts": "please / you're welcome",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "choices_de": [
+        "bitte / gern geschehen",
+        "tschüss",
+        "entschuldigung",
+        "hallo"
+      ],
+      "choices_en": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "choices_et": [
+        "palun / pole tänu väärt",
+        "head aega",
+        "vabandust",
+        "tere"
+      ],
+      "choices_fi": [
+        "ole hyvä / ei kestä",
+        "näkemiin",
+        "anteeksi",
+        "hei"
+      ],
+      "choices_fr": [
+        "s’il vous plaît / de rien",
+        "au revoir",
+        "désolé",
+        "bonjour"
+      ],
+      "choices_is": [
+        "vinsamlegast / gjörðu svo vel",
+        "bless",
+        "fyrirgefðu",
+        "halló"
+      ],
+      "choices_lt": [
+        "prašau",
+        "viso gero",
+        "atsiprašau",
+        "labas"
+      ],
+      "choices_lv": [
+        "lūdzu / nav par ko",
+        "uz redzēšanos",
+        "atvainojiet",
+        "sveiki"
+      ],
+      "choices_mx": [
+        "por favor / de nada",
+        "adiós",
+        "lo siento",
+        "hola"
+      ],
+      "choices_no": [
+        "vær så snill / bare hyggelig",
+        "ha det",
+        "beklager",
+        "hei"
+      ],
+      "choices_pl": [
+        "proszę / nie ma za co",
+        "do widzenia",
+        "przepraszam",
+        "cześć"
+      ],
+      "choices_ru": [
+        "пожалуйста / не за что",
+        "пока",
+        "извини",
+        "привет"
+      ],
+      "choices_se": [
+        "snälla / varsågod",
+        "hej då",
+        "förlåt",
+        "hej"
+      ],
+      "choices_uk": [
+        "будь ласка / немає за що",
+        "бувай",
+        "вибач",
+        "привіт"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "excuse me / sorry",
+      "tts": "excuse me / sorry",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "choices_de": [
+        "entschuldigung / sorry",
+        "bitte",
+        "danke",
+        "ja"
+      ],
+      "choices_en": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "choices_et": [
+        "vabandust / vabandust",
+        "palun",
+        "aitäh",
+        "jah"
+      ],
+      "choices_fi": [
+        "anteeksi / pahoittelut",
+        "ole hyvä",
+        "kiitos",
+        "kyllä"
+      ],
+      "choices_fr": [
+        "excusez-moi / désolé",
+        "s’il vous plaît",
+        "merci",
+        "oui"
+      ],
+      "choices_is": [
+        "afsakið / fyrirgefðu",
+        "vinsamlegast",
+        "takk",
+        "já"
+      ],
+      "choices_lt": [
+        "atsiprašau",
+        "prašau",
+        "ačiū",
+        "taip"
+      ],
+      "choices_lv": [
+        "atvainojiet / piedod",
+        "lūdzu",
+        "paldies",
+        "jā"
+      ],
+      "choices_mx": [
+        "disculpa / lo siento",
+        "por favor",
+        "gracias",
+        "sí"
+      ],
+      "choices_no": [
+        "unnskyld / beklager",
+        "vær så snill",
+        "takk",
+        "ja"
+      ],
+      "choices_pl": [
+        "przepraszam / przepraszam",
+        "proszę",
+        "dzięki",
+        "tak"
+      ],
+      "choices_ru": [
+        "извините / извини",
+        "пожалуйста",
+        "спасибо",
+        "да"
+      ],
+      "choices_se": [
+        "ursäkta / förlåt",
+        "snälla",
+        "tack",
+        "ja"
+      ],
+      "choices_uk": [
+        "перепрошую / вибач",
+        "будь ласка",
+        "дякую",
+        "так"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "goodbye",
+      "tts": "goodbye",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "choices_de": [
+        "tschüss",
+        "guten Morgen",
+        "gute Nacht",
+        "bis bald"
+      ],
+      "choices_en": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "choices_et": [
+        "head aega",
+        "tere hommikust",
+        "head ööd",
+        "näeme"
+      ],
+      "choices_fi": [
+        "näkemiin",
+        "hyvää huomenta",
+        "hyvää yötä",
+        "nähdään"
+      ],
+      "choices_fr": [
+        "au revoir",
+        "bonjour",
+        "bonne nuit",
+        "à bientôt"
+      ],
+      "choices_is": [
+        "bless",
+        "góðan dag",
+        "góða nótt",
+        "sjáumst"
+      ],
+      "choices_lt": [
+        "viso gero",
+        "labas rytas",
+        "labanakt",
+        "iki"
+      ],
+      "choices_lv": [
+        "uz redzēšanos",
+        "labrīt",
+        "ar labunakti",
+        "tiekamies"
+      ],
+      "choices_mx": [
+        "adiós",
+        "buenos días",
+        "buenas noches",
+        "nos vemos"
+      ],
+      "choices_no": [
+        "ha det",
+        "god morgen",
+        "god natt",
+        "vi ses"
+      ],
+      "choices_pl": [
+        "do widzenia",
+        "dzień dobry",
+        "dobranoc",
+        "do zobaczenia"
+      ],
+      "choices_ru": [
+        "пока",
+        "доброе утро",
+        "спокойной ночи",
+        "увидимся"
+      ],
+      "choices_se": [
+        "hej då",
+        "god morgon",
+        "god natt",
+        "vi ses"
+      ],
+      "choices_uk": [
+        "бувай",
+        "доброго ранку",
+        "на добраніч",
+        "побачимось"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "see you",
+      "tts": "see you",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "choices_de": [
+        "bis bald",
+        "hallo",
+        "danke",
+        "nein"
+      ],
+      "choices_en": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "choices_et": [
+        "näeme",
+        "tere",
+        "aitäh",
+        "ei"
+      ],
+      "choices_fi": [
+        "nähdään",
+        "hei",
+        "kiitos",
+        "ei"
+      ],
+      "choices_fr": [
+        "à bientôt",
+        "bonjour",
+        "merci",
+        "non"
+      ],
+      "choices_is": [
+        "sjáumst",
+        "halló",
+        "takk",
+        "nei"
+      ],
+      "choices_lt": [
+        "iki",
+        "labas",
+        "ačiū",
+        "ne"
+      ],
+      "choices_lv": [
+        "tiekamies",
+        "sveiki",
+        "paldies",
+        "nē"
+      ],
+      "choices_mx": [
+        "nos vemos",
+        "hola",
+        "gracias",
+        "no"
+      ],
+      "choices_no": [
+        "vi ses",
+        "hei",
+        "takk",
+        "nei"
+      ],
+      "choices_pl": [
+        "do zobaczenia",
+        "cześć",
+        "dzięki",
+        "nie"
+      ],
+      "choices_ru": [
+        "увидимся",
+        "привет",
+        "спасибо",
+        "нет"
+      ],
+      "choices_se": [
+        "vi ses",
+        "hej",
+        "tack",
+        "nej"
+      ],
+      "choices_uk": [
+        "побачимось",
+        "привіт",
+        "дякую",
+        "ні"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "okay / good",
+      "tts": "okay / good",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "choices_de": [
+        "okay / gut",
+        "schlecht",
+        "bitte",
+        "morgen"
+      ],
+      "choices_en": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "choices_et": [
+        "okei / hea",
+        "halb",
+        "palun",
+        "homme"
+      ],
+      "choices_fi": [
+        "ok / hyvä",
+        "huono",
+        "ole hyvä",
+        "huomenna"
+      ],
+      "choices_fr": [
+        "d’accord / bien",
+        "mauvais",
+        "s’il vous plaît",
+        "demain"
+      ],
+      "choices_is": [
+        "allt í lagi / gott",
+        "slæmur",
+        "vinsamlegast",
+        "á morgun"
+      ],
+      "choices_lt": [
+        "gerai",
+        "blogas",
+        "prašau",
+        "rytoj"
+      ],
+      "choices_lv": [
+        "labi / labi",
+        "slikts",
+        "lūdzu",
+        "rīt"
+      ],
+      "choices_mx": [
+        "bien / está bien",
+        "malo",
+        "por favor",
+        "mañana"
+      ],
+      "choices_no": [
+        "ok / bra",
+        "dårlig",
+        "vær så snill",
+        "i morgen"
+      ],
+      "choices_pl": [
+        "okej / dobrze",
+        "zły",
+        "proszę",
+        "jutro"
+      ],
+      "choices_ru": [
+        "хорошо / ладно",
+        "плохой",
+        "пожалуйста",
+        "завтра"
+      ],
+      "choices_se": [
+        "okej / bra",
+        "dålig",
+        "snälla",
+        "imorgon"
+      ],
+      "choices_uk": [
+        "добре / гаразд",
+        "поганий",
+        "будь ласка",
+        "завтра"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "badly",
+      "tts": "badly",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "choices_de": [
+        "schlecht",
+        "gut",
+        "hallo",
+        "danke"
+      ],
+      "choices_en": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "choices_et": [
+        "halvasti",
+        "hästi",
+        "tere",
+        "aitäh"
+      ],
+      "choices_fi": [
+        "huonosti",
+        "hyvin",
+        "hei",
+        "kiitos"
+      ],
+      "choices_fr": [
+        "mal",
+        "bien",
+        "bonjour",
+        "merci"
+      ],
+      "choices_is": [
+        "illa",
+        "vel",
+        "halló",
+        "takk"
+      ],
+      "choices_lt": [
+        "blogai",
+        "gerai",
+        "labas",
+        "ačiū"
+      ],
+      "choices_lv": [
+        "slikti",
+        "labi",
+        "sveiki",
+        "paldies"
+      ],
+      "choices_mx": [
+        "mal",
+        "bien",
+        "hola",
+        "gracias"
+      ],
+      "choices_no": [
+        "dårlig",
+        "bra",
+        "hei",
+        "takk"
+      ],
+      "choices_pl": [
+        "źle",
+        "dobrze",
+        "cześć",
+        "dzięki"
+      ],
+      "choices_ru": [
+        "плохо",
+        "хорошо",
+        "привет",
+        "спасибо"
+      ],
+      "choices_se": [
+        "dåligt",
+        "bra",
+        "hej",
+        "tack"
+      ],
+      "choices_uk": [
+        "погано",
+        "добре",
+        "привіт",
+        "дякую"
+      ]
+    }
+  ]
+}

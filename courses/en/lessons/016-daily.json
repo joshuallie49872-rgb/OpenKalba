@@ -1,0 +1,996 @@
+{
+  "id": "016-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I work",
+      "tts": "I work",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "choices_de": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_en": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_et": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fi": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fr": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_is": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lt": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lv": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_mx": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_no": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_pl": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_ru": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_se": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_uk": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I sleep",
+      "tts": "I sleep",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "choices_de": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_en": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_et": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_fi": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_fr": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_is": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_lt": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_lv": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_mx": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_no": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_pl": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_ru": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_se": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_uk": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I eat",
+      "tts": "I eat",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "choices_de": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_en": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_et": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fi": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fr": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_is": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lt": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lv": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_mx": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_no": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_pl": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_ru": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_se": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_uk": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I go",
+      "tts": "I go",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "choices_de": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_en": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_et": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_fi": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_fr": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_is": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_lt": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_lv": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_mx": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_no": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_pl": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_ru": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_se": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_uk": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I wake up",
+      "tts": "I wake up",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "choices_de": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_en": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_et": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_fi": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_fr": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_is": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_lt": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_lv": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_mx": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_no": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_pl": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_ru": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_se": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_uk": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I work",
+      "tts": "I work",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "choices_de": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_en": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_et": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fi": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fr": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_is": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lt": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lv": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_mx": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_no": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_pl": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_ru": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_se": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "choices_uk": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I sleep",
+      "tts": "I sleep",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "choices_de": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_en": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_et": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_fi": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_fr": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_is": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_lt": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_lv": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_mx": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_no": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_pl": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_ru": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_se": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "choices_uk": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I eat",
+      "tts": "I eat",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "choices_de": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_en": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_et": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fi": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_fr": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_is": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lt": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_lv": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_mx": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_no": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_pl": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_ru": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_se": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "choices_uk": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I go",
+      "tts": "I go",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "choices_de": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_en": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_et": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_fi": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_fr": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_is": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_lt": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_lv": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_mx": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_no": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_pl": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_ru": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_se": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "choices_uk": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "I wake up",
+      "tts": "I wake up",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "choices_de": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_en": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_et": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_fi": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_fr": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_is": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_lt": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_lv": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_mx": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_no": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_pl": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_ru": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_se": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "choices_uk": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "here",
+      "tts": "here",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "correct": [
+        "here"
+      ],
+      "choices_de": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_en": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_et": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_fi": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_fr": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_is": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_lt": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_lv": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_mx": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_no": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_pl": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_ru": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_se": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "choices_uk": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "there",
+      "tts": "there",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "there"
+      ],
+      "choices_de": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_en": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_et": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_fi": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_fr": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_is": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_lt": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_lv": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_mx": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_no": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_pl": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_ru": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_se": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "choices_uk": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "left",
+      "tts": "left",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "choices_de": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_en": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_et": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_fi": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_fr": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_is": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_lt": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_lv": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_mx": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_no": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_pl": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_ru": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_se": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "choices_uk": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "right",
+      "tts": "right",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "correct": [
+        "right"
+      ],
+      "choices_de": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_en": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_et": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_fi": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_fr": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_is": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_lt": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_lv": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_mx": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_no": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_pl": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_ru": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_se": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "choices_uk": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "straight",
+      "tts": "straight",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "choices_de": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_en": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_et": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_fi": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_fr": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_is": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_lt": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_lv": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_mx": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_no": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_pl": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_ru": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_se": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "choices_uk": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "city",
+      "tts": "city",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "correct": [
+        "city"
+      ],
+      "choices_de": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_en": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_et": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_fi": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_fr": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_is": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_lt": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_lv": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_mx": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_no": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_pl": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_ru": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_se": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "choices_uk": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "street",
+      "tts": "street",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "correct": [
+        "street"
+      ],
+      "choices_de": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_en": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_et": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_fi": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_fr": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_is": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_lt": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_lv": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_mx": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_no": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_pl": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_ru": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_se": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "choices_uk": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "station",
+      "tts": "station",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "correct": [
+        "station"
+      ],
+      "choices_de": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_en": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_et": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_fi": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_fr": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_is": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_lt": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_lv": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_mx": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_no": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_pl": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_ru": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_se": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "choices_uk": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "airport",
+      "tts": "airport",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "correct": [
+        "airport"
+      ],
+      "choices_de": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_en": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_et": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_fi": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_fr": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_is": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_lt": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_lv": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_mx": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_no": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_pl": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_ru": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_se": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "choices_uk": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hotel",
+      "tts": "hotel",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "choices_de": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_en": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_et": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_fi": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_fr": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_is": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_lt": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_lv": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_mx": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_no": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_pl": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_ru": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_se": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "choices_uk": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ]
+    }
+  ]
+}

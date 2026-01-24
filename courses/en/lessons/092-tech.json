@@ -1,0 +1,996 @@
+{
+  "id": "092-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "phone",
+      "tts": "phone",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "choices_de": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_en": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_et": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_fi": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_fr": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_is": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_lt": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_lv": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_mx": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_no": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_pl": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_ru": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_se": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_uk": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "computer",
+      "tts": "computer",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "choices_de": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_en": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_et": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_fi": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_fr": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_is": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_lt": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_lv": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_mx": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_no": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_pl": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_ru": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_se": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_uk": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "internet",
+      "tts": "internet",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "choices_de": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_en": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_et": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_fi": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_fr": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_is": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_lt": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_lv": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_mx": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_no": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_pl": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_ru": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_se": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_uk": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "app",
+      "tts": "app",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "choices_de": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_en": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_et": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_fi": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_fr": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_is": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_lt": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_lv": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_mx": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_no": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_pl": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_ru": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_se": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_uk": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "message",
+      "tts": "message",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "choices_de": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_en": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_et": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_fi": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_fr": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_is": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_lt": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_lv": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_mx": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_no": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_pl": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_ru": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_se": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_uk": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "phone",
+      "tts": "phone",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "choices_de": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_en": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_et": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_fi": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_fr": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_is": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_lt": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_lv": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_mx": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_no": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_pl": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_ru": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_se": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "choices_uk": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "computer",
+      "tts": "computer",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "choices_de": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_en": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_et": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_fi": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_fr": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_is": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_lt": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_lv": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_mx": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_no": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_pl": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_ru": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_se": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "choices_uk": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "internet",
+      "tts": "internet",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "choices_de": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_en": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_et": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_fi": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_fr": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_is": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_lt": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_lv": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_mx": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_no": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_pl": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_ru": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_se": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "choices_uk": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "app",
+      "tts": "app",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "choices_de": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_en": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_et": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_fi": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_fr": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_is": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_lt": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_lv": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_mx": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_no": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_pl": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_ru": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_se": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "choices_uk": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "message",
+      "tts": "message",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "choices_de": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_en": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_et": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_fi": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_fr": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_is": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_lt": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_lv": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_mx": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_no": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_pl": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_ru": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_se": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "choices_uk": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ]
+    }
+  ]
+}

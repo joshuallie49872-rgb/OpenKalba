@@ -1,0 +1,996 @@
+{
+  "id": "051-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "pain",
+      "tts": "pain",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "choices_de": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_en": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_et": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_fi": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_fr": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_is": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_lt": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_lv": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_mx": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_no": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_pl": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_ru": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_se": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_uk": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "head",
+      "tts": "head",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "choices_de": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_en": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_et": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_fi": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_fr": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_is": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_lt": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_lv": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_mx": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_no": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_pl": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_ru": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_se": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_uk": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hand",
+      "tts": "hand",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "choices_de": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_en": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_et": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_fi": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_fr": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_is": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_lt": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_lv": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_mx": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_no": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_pl": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_ru": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_se": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_uk": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "leg",
+      "tts": "leg",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "choices_de": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_en": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_et": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_fi": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_fr": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_is": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_lt": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_lv": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_mx": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_no": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_pl": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_ru": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_se": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_uk": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "doctor",
+      "tts": "doctor",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "choices_de": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_en": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_et": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_fi": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_fr": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_is": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_lt": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_lv": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_mx": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_no": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_pl": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_ru": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_se": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_uk": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "pain",
+      "tts": "pain",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "choices_de": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_en": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_et": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_fi": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_fr": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_is": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_lt": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_lv": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_mx": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_no": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_pl": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_ru": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_se": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "choices_uk": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "head",
+      "tts": "head",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "choices_de": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_en": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_et": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_fi": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_fr": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_is": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_lt": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_lv": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_mx": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_no": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_pl": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_ru": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_se": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "choices_uk": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hand",
+      "tts": "hand",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "choices_de": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_en": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_et": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_fi": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_fr": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_is": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_lt": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_lv": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_mx": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_no": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_pl": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_ru": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_se": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "choices_uk": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "leg",
+      "tts": "leg",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "choices_de": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_en": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_et": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_fi": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_fr": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_is": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_lt": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_lv": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_mx": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_no": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_pl": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_ru": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_se": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "choices_uk": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "doctor",
+      "tts": "doctor",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "choices_de": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_en": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_et": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_fi": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_fr": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_is": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_lt": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_lv": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_mx": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_no": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_pl": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_ru": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_se": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "choices_uk": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ]
+    }
+  ]
+}

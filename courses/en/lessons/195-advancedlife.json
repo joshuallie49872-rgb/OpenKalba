@@ -1,0 +1,996 @@
+{
+  "id": "195-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "solution",
+      "tts": "solution",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "choices_de": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_en": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_et": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_fi": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_fr": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_is": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_lt": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_lv": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_mx": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_no": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_pl": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_ru": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_se": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_uk": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "problem",
+      "tts": "problem",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "choices_de": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_en": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_et": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_fi": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_fr": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_is": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_lt": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_lv": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_mx": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_no": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_pl": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_ru": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_se": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_uk": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "choice",
+      "tts": "choice",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "choices_de": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_en": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_et": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_fi": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_fr": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_is": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_lt": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_lv": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_mx": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_no": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_pl": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_ru": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_se": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_uk": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "experience",
+      "tts": "experience",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "choices_de": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_en": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_et": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_fi": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_fr": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_is": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_lt": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_lv": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_mx": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_no": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_pl": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_ru": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_se": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_uk": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "result",
+      "tts": "result",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "choices_de": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_en": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_et": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_fi": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_fr": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_is": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_lt": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_lv": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_mx": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_no": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_pl": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_ru": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_se": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_uk": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "solution",
+      "tts": "solution",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "choices_de": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_en": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_et": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_fi": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_fr": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_is": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_lt": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_lv": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_mx": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_no": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_pl": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_ru": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_se": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "choices_uk": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "problem",
+      "tts": "problem",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "choices_de": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_en": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_et": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_fi": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_fr": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_is": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_lt": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_lv": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_mx": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_no": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_pl": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_ru": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_se": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "choices_uk": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "choice",
+      "tts": "choice",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "choices_de": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_en": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_et": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_fi": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_fr": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_is": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_lt": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_lv": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_mx": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_no": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_pl": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_ru": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_se": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "choices_uk": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "experience",
+      "tts": "experience",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "choices_de": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_en": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_et": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_fi": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_fr": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_is": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_lt": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_lv": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_mx": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_no": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_pl": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_ru": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_se": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "choices_uk": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "result",
+      "tts": "result",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "choices_de": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_en": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_et": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_fi": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_fr": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_is": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_lt": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_lv": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_mx": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_no": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_pl": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_ru": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_se": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "choices_uk": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ]
+    }
+  ]
+}

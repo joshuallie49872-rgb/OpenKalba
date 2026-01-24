@@ -1,0 +1,996 @@
+{
+  "id": "038-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "help",
+      "tts": "help",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "choices_de": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_en": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_et": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_fi": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_fr": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_is": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_lt": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_lv": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_mx": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_no": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_pl": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_ru": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_se": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_uk": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "police",
+      "tts": "police",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "choices_de": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_en": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_et": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_fi": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_fr": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_is": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_lt": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_lv": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_mx": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_no": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_pl": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_ru": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_se": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_uk": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hospital",
+      "tts": "hospital",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "choices_de": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_en": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_et": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_fi": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_fr": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_is": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_lt": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_lv": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_mx": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_no": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_pl": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_ru": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_se": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_uk": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "fire",
+      "tts": "fire",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "choices_de": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_en": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_et": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_fi": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_fr": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_is": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_lt": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_lv": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_mx": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_no": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_pl": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_ru": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_se": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_uk": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "danger",
+      "tts": "danger",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "choices_de": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_en": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_et": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_fi": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_fr": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_is": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_lt": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_lv": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_mx": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_no": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_pl": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_ru": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_se": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_uk": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "help",
+      "tts": "help",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "choices_de": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_en": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_et": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_fi": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_fr": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_is": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_lt": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_lv": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_mx": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_no": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_pl": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_ru": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_se": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "choices_uk": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "police",
+      "tts": "police",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "choices_de": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_en": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_et": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_fi": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_fr": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_is": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_lt": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_lv": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_mx": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_no": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_pl": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_ru": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_se": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "choices_uk": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hospital",
+      "tts": "hospital",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "choices_de": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_en": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_et": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_fi": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_fr": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_is": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_lt": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_lv": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_mx": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_no": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_pl": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_ru": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_se": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "choices_uk": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "fire",
+      "tts": "fire",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "choices_de": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_en": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_et": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_fi": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_fr": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_is": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_lt": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_lv": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_mx": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_no": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_pl": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_ru": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_se": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "choices_uk": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "danger",
+      "tts": "danger",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "choices_de": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_en": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_et": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_fi": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_fr": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_is": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_lt": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_lv": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_mx": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_no": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_pl": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_ru": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_se": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "choices_uk": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ]
+    }
+  ]
+}

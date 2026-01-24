@@ -1,0 +1,1986 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "one",
+      "tts": "one",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "choices_de": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_en": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_et": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_fi": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_fr": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_is": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_lt": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_lv": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_mx": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_no": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_pl": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_ru": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_se": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "choices_uk": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "two",
+      "tts": "two",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "choices_de": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_en": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_et": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_fi": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_fr": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_is": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_lt": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_lv": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_mx": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_no": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_pl": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_ru": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_se": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "choices_uk": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "three",
+      "tts": "three",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "choices_de": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_en": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_et": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_fi": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_fr": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_is": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_lt": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_lv": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_mx": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_no": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_pl": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_ru": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_se": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "choices_uk": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "four",
+      "tts": "four",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "choices_de": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_en": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_et": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_fi": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_fr": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_is": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_lt": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_lv": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_mx": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_no": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_pl": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_ru": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_se": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "choices_uk": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "five",
+      "tts": "five",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "choices_de": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_en": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_et": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_fi": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_fr": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_is": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_lt": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_lv": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_mx": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_no": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_pl": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_ru": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_se": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "choices_uk": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "red",
+      "tts": "red",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "choices_de": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_en": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_et": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_fi": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_fr": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_is": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_lt": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_lv": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_mx": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_no": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_pl": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_ru": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_se": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "choices_uk": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "blue",
+      "tts": "blue",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "choices_de": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_en": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_et": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_fi": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_fr": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_is": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_lt": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_lv": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_mx": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_no": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_pl": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_ru": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_se": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "choices_uk": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "green",
+      "tts": "green",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "choices_de": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_en": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_et": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_fi": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_fr": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_is": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_lt": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_lv": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_mx": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_no": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_pl": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_ru": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_se": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "choices_uk": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "black",
+      "tts": "black",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "choices_de": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_en": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_et": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_fi": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_fr": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_is": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_lt": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_lv": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_mx": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_no": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_pl": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_ru": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_se": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "choices_uk": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "white",
+      "tts": "white",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "choices_de": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_en": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_et": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_fi": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_fr": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_is": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_lt": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_lv": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_mx": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_no": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_pl": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_ru": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_se": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "choices_uk": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "mother",
+      "tts": "mother",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "choices_de": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_en": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_et": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_fi": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_fr": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_is": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_lt": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_lv": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_mx": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_no": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_pl": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_ru": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_se": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "choices_uk": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "father",
+      "tts": "father",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "choices_de": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_en": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_et": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_fi": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_fr": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_is": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_lt": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_lv": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_mx": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_no": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_pl": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_ru": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_se": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "choices_uk": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "brother",
+      "tts": "brother",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "choices_de": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_en": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_et": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_fi": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_fr": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_is": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_lt": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_lv": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_mx": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_no": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_pl": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_ru": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_se": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "choices_uk": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "sister",
+      "tts": "sister",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "choices_de": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_en": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_et": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_fi": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_fr": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_is": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_lt": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_lv": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_mx": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_no": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_pl": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_ru": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_se": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "choices_uk": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "family",
+      "tts": "family",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "choices_de": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_en": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_et": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_fi": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_fr": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_is": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_lt": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_lv": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_mx": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_no": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_pl": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_ru": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_se": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "choices_uk": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "water",
+      "tts": "water",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "choices_de": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_en": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_et": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_fi": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_fr": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_is": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_lt": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_lv": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_mx": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_no": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_pl": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_ru": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_se": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "choices_uk": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "coffee",
+      "tts": "coffee",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "choices_de": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_en": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_et": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_fi": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_fr": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_is": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_lt": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_lv": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_mx": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_no": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_pl": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_ru": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_se": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "choices_uk": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "bread",
+      "tts": "bread",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "choices_de": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_en": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_et": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_fi": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_fr": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_is": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_lt": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_lv": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_mx": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_no": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_pl": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_ru": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_se": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "choices_uk": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "hotel",
+      "tts": "hotel",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "choices_de": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_en": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_et": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_fi": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_fr": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_is": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_lt": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_lv": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_mx": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_no": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_pl": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_ru": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_se": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "choices_uk": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "en": "ticket",
+      "tts": "ticket",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "choices_de": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_en": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_et": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_fi": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_fr": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_is": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_lt": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_lv": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_mx": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_no": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_pl": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_ru": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_se": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "choices_uk": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ]
+    }
+  ]
+}
