@@ -1,0 +1,286 @@
+{
+  "id": "015-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আজ",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আগামীকাল",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গতকাল",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "গতকাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "এখনই",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "এখনই"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঘন্টা",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "ঘন্টা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "bn": "",
+      "correct": [
+        "আজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "bn": "",
+      "correct": [
+        "আগামীকাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "bn": "",
+      "correct": [
+        "গতকাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গতকাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "bn": "",
+      "correct": [
+        "এখনই"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "এখনই"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "bn": "",
+      "correct": [
+        "ঘন্টা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঘন্টা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আজ",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আগামীকাল",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গতকাল",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "গতকাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "এখনই",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "এখনই"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঘন্টা",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "ঘন্টা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "bn": "",
+      "correct": [
+        "আজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "bn": "",
+      "correct": [
+        "আগামীকাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "bn": "",
+      "correct": [
+        "গতকাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গতকাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "bn": "",
+      "correct": [
+        "এখনই"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "এখনই"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "bn": "",
+      "correct": [
+        "ঘন্টা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঘন্টা"
+    }
+  ]
+}

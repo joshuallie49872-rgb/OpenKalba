@@ -1,0 +1,286 @@
+{
+  "id": "090-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Casa",
+      "lt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tts": "Casa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Apartamento",
+      "lt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tts": "Apartamento"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cozinha",
+      "lt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tts": "Cozinha"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "banheiro",
+      "lt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tts": "banheiro"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Limpeza",
+      "lt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tts": "Limpeza"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "home",
+      "pt": "",
+      "correct": [
+        "Casa"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Casa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "apartment",
+      "pt": "",
+      "correct": [
+        "Apartamento"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Apartamento"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "kitchen",
+      "pt": "",
+      "correct": [
+        "Cozinha"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cozinha"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bathroom",
+      "pt": "",
+      "correct": [
+        "banheiro"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "banheiro"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cleanliness",
+      "pt": "",
+      "correct": [
+        "Limpeza"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Limpeza"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Casa",
+      "lt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tts": "Casa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Apartamento",
+      "lt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tts": "Apartamento"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cozinha",
+      "lt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tts": "Cozinha"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "banheiro",
+      "lt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tts": "banheiro"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Limpeza",
+      "lt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tts": "Limpeza"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "home",
+      "pt": "",
+      "correct": [
+        "Casa"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Casa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "apartment",
+      "pt": "",
+      "correct": [
+        "Apartamento"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Apartamento"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "kitchen",
+      "pt": "",
+      "correct": [
+        "Cozinha"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cozinha"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bathroom",
+      "pt": "",
+      "correct": [
+        "banheiro"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "banheiro"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cleanliness",
+      "pt": "",
+      "correct": [
+        "Limpeza"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Limpeza"
+    }
+  ]
+}

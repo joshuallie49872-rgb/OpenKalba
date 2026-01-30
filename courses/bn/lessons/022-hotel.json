@@ -1,0 +1,286 @@
+{
+  "id": "022-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রুম",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "রুম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কী",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "কী"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিছানা",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "বিছানা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রেজিস্ট্রেশন",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "রেজিস্ট্রেশন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাসস্থান",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "বাসস্থান"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "bn": "",
+      "correct": [
+        "রুম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রুম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "bn": "",
+      "correct": [
+        "কী"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কী"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "bn": "",
+      "correct": [
+        "বিছানা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিছানা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "bn": "",
+      "correct": [
+        "রেজিস্ট্রেশন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রেজিস্ট্রেশন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "bn": "",
+      "correct": [
+        "বাসস্থান"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বাসস্থান"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রুম",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "রুম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কী",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "কী"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিছানা",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "বিছানা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রেজিস্ট্রেশন",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "রেজিস্ট্রেশন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাসস্থান",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "বাসস্থান"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "bn": "",
+      "correct": [
+        "রুম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রুম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "bn": "",
+      "correct": [
+        "কী"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কী"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "bn": "",
+      "correct": [
+        "বিছানা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিছানা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "bn": "",
+      "correct": [
+        "রেজিস্ট্রেশন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রেজিস্ট্রেশন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "bn": "",
+      "correct": [
+        "বাসস্থান"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বাসস্থান"
+    }
+  ]
+}

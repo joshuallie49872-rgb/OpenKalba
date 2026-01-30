@@ -1,0 +1,286 @@
+{
+  "id": "120-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ফোন",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "ফোন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কম্পিউটার",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "কম্পিউটার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ইন্টারনেট",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "ইন্টারনেট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "প্রোগ্রাম",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "প্রোগ্রাম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বার্তা",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "বার্তা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "bn": "",
+      "correct": [
+        "ফোন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ফোন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "bn": "",
+      "correct": [
+        "কম্পিউটার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কম্পিউটার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "bn": "",
+      "correct": [
+        "ইন্টারনেট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ইন্টারনেট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "bn": "",
+      "correct": [
+        "প্রোগ্রাম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "প্রোগ্রাম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "bn": "",
+      "correct": [
+        "বার্তা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বার্তা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ফোন",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "ফোন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কম্পিউটার",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "কম্পিউটার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ইন্টারনেট",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "ইন্টারনেট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "প্রোগ্রাম",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "প্রোগ্রাম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বার্তা",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "বার্তা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "bn": "",
+      "correct": [
+        "ফোন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ফোন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "bn": "",
+      "correct": [
+        "কম্পিউটার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কম্পিউটার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "bn": "",
+      "correct": [
+        "ইন্টারনেট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ইন্টারনেট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "bn": "",
+      "correct": [
+        "প্রোগ্রাম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "প্রোগ্রাম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "bn": "",
+      "correct": [
+        "বার্তা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বার্তা"
+    }
+  ]
+}

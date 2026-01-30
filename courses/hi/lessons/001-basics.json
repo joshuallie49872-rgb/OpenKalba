@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "नमस्कार",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "नमस्कार"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "धन्यवाद",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "धन्यवाद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "हाँ",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "हाँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "हाँ",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "हाँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कृपया",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "कृपया"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "क्षमा करें",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "क्षमा करें"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अलविदा",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "अलविदा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सेवा मेरे",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "सेवा मेरे"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अच्छा",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "अच्छा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "ख़राब",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "ख़राब"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "hi": "",
+      "correct": [
+        "नमस्कार"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "नमस्कार"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "hi": "",
+      "correct": [
+        "धन्यवाद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "धन्यवाद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "hi": "",
+      "correct": [
+        "हाँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "हाँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "hi": "",
+      "correct": [
+        "हाँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "हाँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "hi": "",
+      "correct": [
+        "कृपया"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कृपया"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "hi": "",
+      "correct": [
+        "क्षमा करें"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "क्षमा करें"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "hi": "",
+      "correct": [
+        "अलविदा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अलविदा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "hi": "",
+      "correct": [
+        "सेवा मेरे"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सेवा मेरे"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "hi": "",
+      "correct": [
+        "अच्छा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अच्छा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "hi": "",
+      "correct": [
+        "ख़राब"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "ख़राब"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "037-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Quarto",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "Quarto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Chave",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "Chave"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cama",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "Cama"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Registro",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "Registro"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Acomodação",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "Acomodação"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "pt": "",
+      "correct": [
+        "Quarto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Quarto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "pt": "",
+      "correct": [
+        "Chave"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Chave"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "pt": "",
+      "correct": [
+        "Cama"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cama"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "pt": "",
+      "correct": [
+        "Registro"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Registro"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "pt": "",
+      "correct": [
+        "Acomodação"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Acomodação"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Quarto",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "Quarto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Chave",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "Chave"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cama",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "Cama"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Registro",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "Registro"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Acomodação",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "Acomodação"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "pt": "",
+      "correct": [
+        "Quarto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Quarto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "pt": "",
+      "correct": [
+        "Chave"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Chave"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "pt": "",
+      "correct": [
+        "Cama"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cama"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "pt": "",
+      "correct": [
+        "Registro"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Registro"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "pt": "",
+      "correct": [
+        "Acomodação"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Acomodação"
+    }
+  ]
+}

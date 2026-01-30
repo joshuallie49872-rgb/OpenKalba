@@ -1,0 +1,286 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আজ",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আগামীকাল",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পরে",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "পরে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি পরিকল্পনা করছি",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "আমি পরিকল্পনা করছি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দেখা হবে",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "দেখা হবে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "bn": "",
+      "correct": [
+        "আজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "bn": "",
+      "correct": [
+        "আগামীকাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "bn": "",
+      "correct": [
+        "পরে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পরে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "bn": "",
+      "correct": [
+        "আমি পরিকল্পনা করছি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি পরিকল্পনা করছি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "bn": "",
+      "correct": [
+        "দেখা হবে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দেখা হবে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আজ",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আগামীকাল",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পরে",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "পরে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি পরিকল্পনা করছি",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "আমি পরিকল্পনা করছি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দেখা হবে",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "দেখা হবে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "bn": "",
+      "correct": [
+        "আজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "bn": "",
+      "correct": [
+        "আগামীকাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আগামীকাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "bn": "",
+      "correct": [
+        "পরে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পরে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "bn": "",
+      "correct": [
+        "আমি পরিকল্পনা করছি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি পরিকল্পনা করছি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "bn": "",
+      "correct": [
+        "দেখা হবে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দেখা হবে"
+    }
+  ]
+}

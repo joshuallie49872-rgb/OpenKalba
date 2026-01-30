@@ -1,0 +1,286 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কি",
+      "lt": "",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "tts": "কি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কি",
+      "lt": "",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "tts": "কি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কোথায়",
+      "lt": "",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "tts": "কোথায়"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কখন",
+      "lt": "",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "tts": "কখন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কেন",
+      "lt": "",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "tts": "কেন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "who",
+      "bn": "",
+      "correct": [
+        "কি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "what",
+      "bn": "",
+      "correct": [
+        "কি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "where",
+      "bn": "",
+      "correct": [
+        "কোথায়"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কোথায়"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "when",
+      "bn": "",
+      "correct": [
+        "কখন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কখন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "why",
+      "bn": "",
+      "correct": [
+        "কেন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কেন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হ্যাঁ",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "হ্যাঁ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হ্যাঁ",
+      "lt": "",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "হ্যাঁ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "bn": "",
+      "correct": [
+        "হ্যাঁ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "হ্যাঁ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "bn": "",
+      "correct": [
+        "হ্যাঁ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "হ্যাঁ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ভালো",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "ভালো"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "bn": "",
+      "correct": [
+        "ভালো"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ভালো"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "খারাপ",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "খারাপ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "bn": "",
+      "correct": [
+        "খারাপ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "খারাপ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কিভাবে",
+      "lt": "",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "tts": "কিভাবে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "how",
+      "bn": "",
+      "correct": [
+        "কিভাবে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কিভাবে"
+    }
+  ]
+}

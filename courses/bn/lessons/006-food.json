@@ -1,0 +1,286 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "জল",
+      "lt": "",
+      "choices": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "জল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কফি",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "কফি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "চা",
+      "lt": "",
+      "choices": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "correct": [
+        "tea"
+      ],
+      "type": "choose",
+      "tts": "চা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিয়ার",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "বিয়ার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ওয়াইন",
+      "lt": "",
+      "choices": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "correct": [
+        "wine"
+      ],
+      "type": "choose",
+      "tts": "ওয়াইন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "water",
+      "bn": "",
+      "correct": [
+        "জল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "জল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "bn": "",
+      "correct": [
+        "কফি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কফি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tea",
+      "bn": "",
+      "correct": [
+        "চা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "চা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beer",
+      "bn": "",
+      "correct": [
+        "বিয়ার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিয়ার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "wine",
+      "bn": "",
+      "correct": [
+        "ওয়াইন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ওয়াইন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রুটি",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "রুটি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পনির",
+      "lt": "",
+      "choices": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "correct": [
+        "cheese"
+      ],
+      "type": "choose",
+      "tts": "পনির"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মাংস",
+      "lt": "",
+      "choices": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "meat"
+      ],
+      "type": "choose",
+      "tts": "মাংস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মাছ",
+      "lt": "",
+      "choices": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "fish"
+      ],
+      "type": "choose",
+      "tts": "মাছ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bread",
+      "bn": "",
+      "correct": [
+        "রুটি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রুটি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheese",
+      "bn": "",
+      "correct": [
+        "পনির"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পনির"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meat",
+      "bn": "",
+      "correct": [
+        "মাংস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মাংস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fish",
+      "bn": "",
+      "correct": [
+        "মাছ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মাছ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "স্বাদ",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "স্বাদ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "bn": "",
+      "correct": [
+        "স্বাদ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "স্বাদ"
+    }
+  ]
+}

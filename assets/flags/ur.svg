@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <!-- green rounded field -->
+  <path fill="#01411C" d="M32 5H4C1.791 5 0 6.791 0 9v18c0 2.209 1.791 4 4 4h28c2.209 0 4-1.791 4-4V9c0-2.209-1.791-4-4-4z"></path>
+  <!-- white hoist stripe (with left rounding) -->
+  <path fill="#FFFFFF" d="M4 5C1.791 5 0 6.791 0 9v18c0 2.209 1.791 4 4 4h6V5H4z"></path>
+
+  <!-- crescent + star (simplified) -->
+  <circle cx="22" cy="18" r="5.2" fill="#FFFFFF"></circle>
+  <circle cx="23.4" cy="18" r="4.6" fill="#01411C"></circle>
+  <polygon fill="#FFFFFF" points="25.8,14.6 26.7,16.8 29.1,16.9 27.2,18.3 27.9,20.6 25.8,19.3 23.8,20.6 24.5,18.3 22.6,16.9 25.0,16.8"></polygon>
+</svg>

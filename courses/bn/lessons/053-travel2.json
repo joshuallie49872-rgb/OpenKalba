@@ -1,0 +1,286 @@
+{
+  "id": "053-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পাসপোর্ট",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "পাসপোর্ট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দেয়াল",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "দেয়াল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ভ্রমণ",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "ভ্রমণ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "স্যুটকেস",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "স্যুটকেস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কাস্টমস",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "কাস্টমস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "bn": "",
+      "correct": [
+        "পাসপোর্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পাসপোর্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "bn": "",
+      "correct": [
+        "প্রাচীর"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "প্রাচীর"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "bn": "",
+      "correct": [
+        "ভ্রমণ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ভ্রমণ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "bn": "",
+      "correct": [
+        "স্যুটকেস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "স্যুটকেস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "bn": "",
+      "correct": [
+        "কাস্টমস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কাস্টমস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পাসপোর্ট",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "পাসপোর্ট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দেয়াল",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "দেয়াল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ভ্রমণ",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "ভ্রমণ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "স্যুটকেস",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "স্যুটকেস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কাস্টমস",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "কাস্টমস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "bn": "",
+      "correct": [
+        "পাসপোর্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পাসপোর্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "bn": "",
+      "correct": [
+        "প্রাচীর"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "প্রাচীর"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "bn": "",
+      "correct": [
+        "ভ্রমণ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ভ্রমণ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "bn": "",
+      "correct": [
+        "স্যুটকেস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "স্যুটকেস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "bn": "",
+      "correct": [
+        "কাস্টমস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কাস্টমস"
+    }
+  ]
+}

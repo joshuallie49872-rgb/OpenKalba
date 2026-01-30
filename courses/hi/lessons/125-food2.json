@@ -1,0 +1,286 @@
+{
+  "id": "125-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कलेवा",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "कलेवा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दोपहर का भोजन",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "दोपहर का भोजन"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "रात का खाना",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "रात का खाना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "स्वाद",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "स्वाद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "भूखा",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "भूखा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "hi": "",
+      "correct": [
+        "कलेवा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कलेवा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "hi": "",
+      "correct": [
+        "दोपहर का भोजन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दोपहर का भोजन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "hi": "",
+      "correct": [
+        "रात का खाना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "रात का खाना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "hi": "",
+      "correct": [
+        "स्वाद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "स्वाद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "hi": "",
+      "correct": [
+        "भूखा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "भूखा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कलेवा",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "कलेवा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दोपहर का भोजन",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "दोपहर का भोजन"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "रात का खाना",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "रात का खाना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "स्वाद",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "स्वाद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "भूखा",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "भूखा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "hi": "",
+      "correct": [
+        "कलेवा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कलेवा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "hi": "",
+      "correct": [
+        "दोपहर का भोजन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दोपहर का भोजन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "hi": "",
+      "correct": [
+        "रात का खाना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "रात का खाना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "hi": "",
+      "correct": [
+        "स्वाद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "स्वाद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "hi": "",
+      "correct": [
+        "भूखा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "भूखा"
+    }
+  ]
+}

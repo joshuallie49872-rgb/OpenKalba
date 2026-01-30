@@ -1,0 +1,286 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کیا",
+      "lt": "",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "tts": "کیا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کیا",
+      "lt": "",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "tts": "کیا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جہاں",
+      "lt": "",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "tts": "جہاں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جب",
+      "lt": "",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "tts": "جب"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کیوں",
+      "lt": "",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "tts": "کیوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "who",
+      "ur": "",
+      "correct": [
+        "کیا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کیا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "what",
+      "ur": "",
+      "correct": [
+        "کیا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کیا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "where",
+      "ur": "",
+      "correct": [
+        "جہاں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جہاں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "when",
+      "ur": "",
+      "correct": [
+        "جب"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "why",
+      "ur": "",
+      "correct": [
+        "کیوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کیوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جی ہاں",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جی ہاں",
+      "lt": "",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "ur": "",
+      "correct": [
+        "جی ہاں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "ur": "",
+      "correct": [
+        "جی ہاں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اچھا",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "اچھا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "ur": "",
+      "correct": [
+        "اچھا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اچھا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "برا",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "برا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "ur": "",
+      "correct": [
+        "برا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "برا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کيسے",
+      "lt": "",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "tts": "کيسے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "how",
+      "ur": "",
+      "correct": [
+        "کيسے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کيسے"
+    }
+  ]
+}

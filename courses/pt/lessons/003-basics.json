@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu quero",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "Eu quero"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu já",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "Eu já"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Coma",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "Coma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "beba",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "beba"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Água",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "Água"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "Café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cerveja",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "Cerveja"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Pão",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "Pão"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I want water",
+      "pt": "",
+      "correct": [
+        "Quero água"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Quero água"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I want coffee",
+      "pt": "",
+      "correct": [
+        "Quero café"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Quero café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Aqui",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "Aqui"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Dez",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "Dez"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "here water",
+      "pt": "",
+      "correct": [
+        "Esta é a água"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Esta é a água"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "there coffee",
+      "pt": "",
+      "correct": [
+        "Tem café"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Tem café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Por favor, regue",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "Por favor, regue"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Quero uma cerveja",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "Quero uma cerveja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I drink vandenį",
+      "pt": "",
+      "correct": [
+        "Eu bebo água"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu bebo água"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat bread",
+      "pt": "",
+      "correct": [
+        "Eu como pão"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu como pão"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Bom",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "Bom"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "pt": "",
+      "correct": [
+        "Bom"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Bom"
+    }
+  ]
+}

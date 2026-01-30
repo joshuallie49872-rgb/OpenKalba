@@ -1,0 +1,286 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Desculpa",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "Desculpa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Por favor",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "Por favor"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Obrigado",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "Obrigado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Legal",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Bom",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "Bom"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sorry",
+      "pt": "",
+      "correct": [
+        "Desculpa"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Desculpa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "pt": "",
+      "correct": [
+        "Por favor"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Por favor"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "pt": "",
+      "correct": [
+        "Obrigado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Obrigado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "pt": "",
+      "correct": [
+        "Legal"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "good",
+      "pt": "",
+      "correct": [
+        "Bom"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Bom"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Desculpa",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "Desculpa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Por favor",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "Por favor"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Obrigado",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "Obrigado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Legal",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Bom",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "Bom"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sorry",
+      "pt": "",
+      "correct": [
+        "Desculpa"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Desculpa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "pt": "",
+      "correct": [
+        "Por favor"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Por favor"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "pt": "",
+      "correct": [
+        "Obrigado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Obrigado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "pt": "",
+      "correct": [
+        "Legal"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "good",
+      "pt": "",
+      "correct": [
+        "Bom"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Bom"
+    }
+  ]
+}

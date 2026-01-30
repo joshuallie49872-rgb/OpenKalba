@@ -1,0 +1,286 @@
+{
+  "id": "039-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বন্ধু",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "বন্ধু"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পরিবার",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "পরিবার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "নাম",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "নাম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "চমৎকার",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "চমৎকার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দেখা করো",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "দেখা করো"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "bn": "",
+      "correct": [
+        "বন্ধু"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বন্ধু"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "bn": "",
+      "correct": [
+        "পরিবার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পরিবার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "bn": "",
+      "correct": [
+        "নাম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "নাম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "bn": "",
+      "correct": [
+        "চমৎকার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "চমৎকার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "bn": "",
+      "correct": [
+        "দেখা করো"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দেখা করো"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বন্ধু",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "বন্ধু"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পরিবার",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "পরিবার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "নাম",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "নাম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "চমৎকার",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "চমৎকার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দেখা করো",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "দেখা করো"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "bn": "",
+      "correct": [
+        "বন্ধু"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বন্ধু"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "bn": "",
+      "correct": [
+        "পরিবার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পরিবার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "bn": "",
+      "correct": [
+        "নাম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "নাম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "bn": "",
+      "correct": [
+        "চমৎকার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "চমৎকার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "bn": "",
+      "correct": [
+        "দেখা করো"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দেখা করো"
+    }
+  ]
+}

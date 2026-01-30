@@ -1,0 +1,286 @@
+{
+  "id": "130-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "महंगा",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "महंगा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सस्ता",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "सस्ता"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "छूट",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "छूट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "रोकड़िया",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "रोकड़िया"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "जाँच",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "जाँच"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "hi": "",
+      "correct": [
+        "महंगा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "महंगा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "hi": "",
+      "correct": [
+        "सस्ता"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सस्ता"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "hi": "",
+      "correct": [
+        "छूट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "छूट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "hi": "",
+      "correct": [
+        "रोकड़िया"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "रोकड़िया"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "hi": "",
+      "correct": [
+        "जाँच"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "जाँच"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "महंगा",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "महंगा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सस्ता",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "सस्ता"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "छूट",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "छूट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "रोकड़िया",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "रोकड़िया"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "जाँच",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "जाँच"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "hi": "",
+      "correct": [
+        "महंगा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "महंगा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "hi": "",
+      "correct": [
+        "सस्ता"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सस्ता"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "hi": "",
+      "correct": [
+        "छूट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "छूट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "hi": "",
+      "correct": [
+        "रोकड़िया"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "रोकड़िया"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "hi": "",
+      "correct": [
+        "जाँच"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "जाँच"
+    }
+  ]
+}

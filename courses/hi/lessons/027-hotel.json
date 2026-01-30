@@ -1,0 +1,286 @@
+{
+  "id": "027-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कमरा",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "कमरा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अत्‍यंत महत्वपूर्ण",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "अत्‍यंत महत्वपूर्ण"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बिस्तर",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "बिस्तर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पंजीकरण",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "पंजीकरण"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आवास",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "आवास"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "hi": "",
+      "correct": [
+        "कमरा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कमरा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "hi": "",
+      "correct": [
+        "अत्‍यंत महत्वपूर्ण"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अत्‍यंत महत्वपूर्ण"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "hi": "",
+      "correct": [
+        "बिस्तर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बिस्तर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "hi": "",
+      "correct": [
+        "पंजीकरण"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पंजीकरण"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "hi": "",
+      "correct": [
+        "आवास"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आवास"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कमरा",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "कमरा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अत्‍यंत महत्वपूर्ण",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "अत्‍यंत महत्वपूर्ण"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बिस्तर",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "बिस्तर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पंजीकरण",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "पंजीकरण"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आवास",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "आवास"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "hi": "",
+      "correct": [
+        "कमरा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कमरा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "hi": "",
+      "correct": [
+        "अत्‍यंत महत्वपूर्ण"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अत्‍यंत महत्वपूर्ण"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "hi": "",
+      "correct": [
+        "बिस्तर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बिस्तर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "hi": "",
+      "correct": [
+        "पंजीकरण"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पंजीकरण"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "hi": "",
+      "correct": [
+        "आवास"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आवास"
+    }
+  ]
+}

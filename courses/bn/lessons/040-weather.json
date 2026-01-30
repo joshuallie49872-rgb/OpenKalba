@@ -1,0 +1,286 @@
+{
+  "id": "040-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আবহাওয়া",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "আবহাওয়া"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বৃষ্টি",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "বৃষ্টি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সূর্য",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "সূর্য"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঠান্ডা",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "ঠান্ডা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গরম",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "গরম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "weather",
+      "bn": "",
+      "correct": [
+        "আবহাওয়া"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আবহাওয়া"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "rain",
+      "bn": "",
+      "correct": [
+        "বৃষ্টি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বৃষ্টি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sun",
+      "bn": "",
+      "correct": [
+        "সূর্য"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সূর্য"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cold",
+      "bn": "",
+      "correct": [
+        "ঠান্ডা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঠান্ডা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hot",
+      "bn": "",
+      "correct": [
+        "গরম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গরম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আবহাওয়া",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "আবহাওয়া"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বৃষ্টি",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "বৃষ্টি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সূর্য",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "সূর্য"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঠান্ডা",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "ঠান্ডা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গরম",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "গরম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "weather",
+      "bn": "",
+      "correct": [
+        "আবহাওয়া"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আবহাওয়া"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "rain",
+      "bn": "",
+      "correct": [
+        "বৃষ্টি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বৃষ্টি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sun",
+      "bn": "",
+      "correct": [
+        "সূর্য"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সূর্য"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cold",
+      "bn": "",
+      "correct": [
+        "ঠান্ডা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঠান্ডা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hot",
+      "bn": "",
+      "correct": [
+        "গরম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গরম"
+    }
+  ]
+}

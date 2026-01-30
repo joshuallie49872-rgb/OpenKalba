@@ -1,0 +1,286 @@
+{
+  "id": "122-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مہنگا",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "مہنگا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سستا",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "سستا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رعایت",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "رعایت"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کیشئر",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "کیشئر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "چیک",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "چیک"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "ur": "",
+      "correct": [
+        "مہنگا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مہنگا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "ur": "",
+      "correct": [
+        "سستا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سستا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "ur": "",
+      "correct": [
+        "رعایت"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رعایت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "ur": "",
+      "correct": [
+        "کیشئر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کیشئر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "ur": "",
+      "correct": [
+        "چیک"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "چیک"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مہنگا",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "مہنگا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سستا",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "سستا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رعایت",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "رعایت"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کیشئر",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "کیشئر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "چیک",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "چیک"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "ur": "",
+      "correct": [
+        "مہنگا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مہنگا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "ur": "",
+      "correct": [
+        "سستا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سستا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "ur": "",
+      "correct": [
+        "رعایت"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رعایت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "ur": "",
+      "correct": [
+        "کیشئر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کیشئر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "ur": "",
+      "correct": [
+        "چیک"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "چیک"
+    }
+  ]
+}

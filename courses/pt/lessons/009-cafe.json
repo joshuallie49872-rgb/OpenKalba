@@ -1,0 +1,286 @@
+{
+  "id": "009-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Por favor",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "Por favor"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cardápio",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "Cardápio"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Conta",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "Conta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Tabela",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "Tabela"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "Café"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "menu",
+      "pt": "",
+      "correct": [
+        "Cardápio"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cardápio"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bill",
+      "pt": "",
+      "correct": [
+        "Conta"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Conta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "table",
+      "pt": "",
+      "correct": [
+        "Tabela"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Tabela"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "pt": "",
+      "correct": [
+        "Café"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Café"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "pt": "",
+      "correct": [
+        "Por favor"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Por favor"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Por favor",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "Por favor"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cardápio",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "Cardápio"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Conta",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "Conta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Tabela",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "Tabela"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "Café"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "menu",
+      "pt": "",
+      "correct": [
+        "Cardápio"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cardápio"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bill",
+      "pt": "",
+      "correct": [
+        "Conta"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Conta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "table",
+      "pt": "",
+      "correct": [
+        "Tabela"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Tabela"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "pt": "",
+      "correct": [
+        "Café"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Café"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "pt": "",
+      "correct": [
+        "Por favor"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Por favor"
+    }
+  ]
+}

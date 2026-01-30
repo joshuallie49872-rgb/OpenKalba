@@ -1,0 +1,286 @@
+{
+  "id": "017-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu trabalho",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "Eu trabalho"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Sono",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "Sono"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Coma",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "Coma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Vai",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "Vai"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu me levanto",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "Eu me levanto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "pt": "",
+      "correct": [
+        "Eu trabalho"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu trabalho"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "pt": "",
+      "correct": [
+        "Sono"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Sono"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "pt": "",
+      "correct": [
+        "Coma"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Coma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "pt": "",
+      "correct": [
+        "Vai"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Vai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "pt": "",
+      "correct": [
+        "Eu me levanto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu me levanto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu trabalho",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "Eu trabalho"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Sono",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "Sono"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Coma",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "Coma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Vai",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "Vai"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu me levanto",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "Eu me levanto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "pt": "",
+      "correct": [
+        "Eu trabalho"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu trabalho"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "pt": "",
+      "correct": [
+        "Sono"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Sono"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "pt": "",
+      "correct": [
+        "Coma"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Coma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "pt": "",
+      "correct": [
+        "Vai"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Vai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "pt": "",
+      "correct": [
+        "Eu me levanto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu me levanto"
+    }
+  ]
+}

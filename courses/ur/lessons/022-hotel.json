@@ -1,0 +1,286 @@
+{
+  "id": "022-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کمرہ",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "کمرہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کلیدی",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "کلیدی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بستر",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "بستر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رجسٹریشن",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "رجسٹریشن"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رہائش",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "رہائش"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "ur": "",
+      "correct": [
+        "کمرہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کمرہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "ur": "",
+      "correct": [
+        "کلیدی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کلیدی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "ur": "",
+      "correct": [
+        "بستر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بستر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "ur": "",
+      "correct": [
+        "رجسٹریشن"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رجسٹریشن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "ur": "",
+      "correct": [
+        "رہائش"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رہائش"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کمرہ",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "کمرہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کلیدی",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "کلیدی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بستر",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "بستر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رجسٹریشن",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "رجسٹریشن"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رہائش",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "رہائش"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "ur": "",
+      "correct": [
+        "کمرہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کمرہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "ur": "",
+      "correct": [
+        "کلیدی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کلیدی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "ur": "",
+      "correct": [
+        "بستر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بستر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "ur": "",
+      "correct": [
+        "رجسٹریشن"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رجسٹریشن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "ur": "",
+      "correct": [
+        "رہائش"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رہائش"
+    }
+  ]
+}

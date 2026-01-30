@@ -1,0 +1,286 @@
+{
+  "id": "198-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मेरा विचार है",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "मेरा विचार है"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं सहमत हूँ",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "मैं सहमत हूँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं असहमत हूं",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "मैं असहमत हूं"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "राय",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "राय"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "युक्ति",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "युक्ति"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "hi": "",
+      "correct": [
+        "मेरा विचार है"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मेरा विचार है"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "hi": "",
+      "correct": [
+        "मैं सहमत हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं सहमत हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "hi": "",
+      "correct": [
+        "मैं असहमत हूं"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं असहमत हूं"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "hi": "",
+      "correct": [
+        "राय"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "राय"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "hi": "",
+      "correct": [
+        "युक्ति"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "युक्ति"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मेरा विचार है",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "मेरा विचार है"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं सहमत हूँ",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "मैं सहमत हूँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं असहमत हूं",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "मैं असहमत हूं"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "राय",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "राय"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "युक्ति",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "युक्ति"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "hi": "",
+      "correct": [
+        "मेरा विचार है"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मेरा विचार है"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "hi": "",
+      "correct": [
+        "मैं सहमत हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं सहमत हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "hi": "",
+      "correct": [
+        "मैं असहमत हूं"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं असहमत हूं"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "hi": "",
+      "correct": [
+        "राय"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "राय"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "hi": "",
+      "correct": [
+        "युक्ति"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "युक्ति"
+    }
+  ]
+}

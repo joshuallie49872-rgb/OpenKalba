@@ -1,0 +1,286 @@
+{
+  "id": "015-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "آج",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کل",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کل",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اب",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "اب"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "گھنٹہ",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "گھنٹہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ur": "",
+      "correct": [
+        "آج"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ur": "",
+      "correct": [
+        "کل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "ur": "",
+      "correct": [
+        "کل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "ur": "",
+      "correct": [
+        "اب"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "ur": "",
+      "correct": [
+        "گھنٹہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "گھنٹہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "آج",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کل",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کل",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اب",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "اب"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "گھنٹہ",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "گھنٹہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ur": "",
+      "correct": [
+        "آج"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ur": "",
+      "correct": [
+        "کل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "ur": "",
+      "correct": [
+        "کل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "ur": "",
+      "correct": [
+        "اب"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "ur": "",
+      "correct": [
+        "گھنٹہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "گھنٹہ"
+    }
+  ]
+}

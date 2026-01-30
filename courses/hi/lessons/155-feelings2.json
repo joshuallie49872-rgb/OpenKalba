@@ -1,0 +1,286 @@
+{
+  "id": "155-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आश्चर्यचकित",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "आश्चर्यचकित"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "नाराज़",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "नाराज़"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "शांति",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "शांति"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "चिंतित",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "चिंतित"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "संतुष्‍ट",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "संतुष्‍ट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "hi": "",
+      "correct": [
+        "आश्चर्यचकित"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आश्चर्यचकित"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "hi": "",
+      "correct": [
+        "नाराज़"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "नाराज़"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "hi": "",
+      "correct": [
+        "शांति"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "शांति"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "hi": "",
+      "correct": [
+        "चिंतित"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "चिंतित"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "hi": "",
+      "correct": [
+        "संतुष्‍ट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "संतुष्‍ट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आश्चर्यचकित",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "आश्चर्यचकित"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "नाराज़",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "नाराज़"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "शांति",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "शांति"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "चिंतित",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "चिंतित"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "संतुष्‍ट",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "संतुष्‍ट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "hi": "",
+      "correct": [
+        "आश्चर्यचकित"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आश्चर्यचकित"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "hi": "",
+      "correct": [
+        "नाराज़"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "नाराज़"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "hi": "",
+      "correct": [
+        "शांति"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "शांति"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "hi": "",
+      "correct": [
+        "चिंतित"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "चिंतित"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "hi": "",
+      "correct": [
+        "संतुष्‍ट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "संतुष्‍ट"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "147-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "حیران",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "حیران"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "غصے میں",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "غصے میں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پرسکون",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "پرسکون"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "فکر مند",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "فکر مند"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مطمئن",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "مطمئن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "ur": "",
+      "correct": [
+        "حیران"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "حیران"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "ur": "",
+      "correct": [
+        "غصے میں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "غصے میں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "ur": "",
+      "correct": [
+        "پرسکون"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پرسکون"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "ur": "",
+      "correct": [
+        "فکر مند"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "فکر مند"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "ur": "",
+      "correct": [
+        "مطمئن"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مطمئن"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "حیران",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "حیران"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "غصے میں",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "غصے میں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پرسکون",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "پرسکون"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "فکر مند",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "فکر مند"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مطمئن",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "مطمئن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "ur": "",
+      "correct": [
+        "حیران"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "حیران"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "ur": "",
+      "correct": [
+        "غصے میں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "غصے میں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "ur": "",
+      "correct": [
+        "پرسکون"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پرسکون"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "ur": "",
+      "correct": [
+        "فکر مند"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "فکر مند"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "ur": "",
+      "correct": [
+        "مطمئن"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مطمئن"
+    }
+  ]
+}

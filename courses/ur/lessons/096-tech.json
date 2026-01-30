@@ -1,0 +1,286 @@
+{
+  "id": "096-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "فون",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "فون"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کمپیوٹر",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "کمپیوٹر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "انٹرنیٹ",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "انٹرنیٹ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پروگرام",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "پروگرام"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پیغام",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "پیغام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "ur": "",
+      "correct": [
+        "فون"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "فون"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "ur": "",
+      "correct": [
+        "کمپیوٹر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کمپیوٹر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "ur": "",
+      "correct": [
+        "انٹرنیٹ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "انٹرنیٹ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "ur": "",
+      "correct": [
+        "پروگرام"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پروگرام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "ur": "",
+      "correct": [
+        "پیغام"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پیغام"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "فون",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "فون"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کمپیوٹر",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "کمپیوٹر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "انٹرنیٹ",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "انٹرنیٹ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پروگرام",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "پروگرام"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پیغام",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "پیغام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "ur": "",
+      "correct": [
+        "فون"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "فون"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "ur": "",
+      "correct": [
+        "کمپیوٹر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کمپیوٹر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "ur": "",
+      "correct": [
+        "انٹرنیٹ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "انٹرنیٹ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "ur": "",
+      "correct": [
+        "پروگرام"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پروگرام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "ur": "",
+      "correct": [
+        "پیغام"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پیغام"
+    }
+  ]
+}

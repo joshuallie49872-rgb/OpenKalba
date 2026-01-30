@@ -1,0 +1,286 @@
+{
+  "id": "138-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Caro",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "Caro"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "barato",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "barato"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Desconto",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "Desconto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Caixa",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "Caixa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "confere",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "confere"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "pt": "",
+      "correct": [
+        "Caro"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Caro"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "pt": "",
+      "correct": [
+        "barato"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "barato"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "pt": "",
+      "correct": [
+        "Desconto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Desconto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "pt": "",
+      "correct": [
+        "Caixa"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Caixa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "pt": "",
+      "correct": [
+        "confere"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "confere"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Caro",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "Caro"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "barato",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "barato"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Desconto",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "Desconto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Caixa",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "Caixa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "confere",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "confere"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "pt": "",
+      "correct": [
+        "Caro"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Caro"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "pt": "",
+      "correct": [
+        "barato"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "barato"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "pt": "",
+      "correct": [
+        "Desconto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Desconto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "pt": "",
+      "correct": [
+        "Caixa"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Caixa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "pt": "",
+      "correct": [
+        "confere"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "confere"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "039-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Amigo",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "Amigo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Família",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "Família"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Nome",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "Nome"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Legal",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Conheça",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "Conheça"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "pt": "",
+      "correct": [
+        "Amigo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Amigo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "pt": "",
+      "correct": [
+        "Família"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Família"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "pt": "",
+      "correct": [
+        "Nome"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Nome"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "pt": "",
+      "correct": [
+        "Legal"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "pt": "",
+      "correct": [
+        "Conheça"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Conheça"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Amigo",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "Amigo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Família",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "Família"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Nome",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "Nome"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Legal",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Conheça",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "Conheça"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "pt": "",
+      "correct": [
+        "Amigo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Amigo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "pt": "",
+      "correct": [
+        "Família"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Família"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "pt": "",
+      "correct": [
+        "Nome"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Nome"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "pt": "",
+      "correct": [
+        "Legal"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Legal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "pt": "",
+      "correct": [
+        "Conheça"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Conheça"
+    }
+  ]
+}

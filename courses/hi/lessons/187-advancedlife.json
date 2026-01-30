@@ -1,0 +1,286 @@
+{
+  "id": "187-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "विलयन",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "विलयन"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "समस्या",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "समस्या"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "संग्रह",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "संग्रह"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अनुभव",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "अनुभव"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परिणाम",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "परिणाम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "hi": "",
+      "correct": [
+        "विलयन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "विलयन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "hi": "",
+      "correct": [
+        "समस्या"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "समस्या"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "hi": "",
+      "correct": [
+        "संग्रह"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "संग्रह"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "hi": "",
+      "correct": [
+        "अनुभव"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अनुभव"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "hi": "",
+      "correct": [
+        "परिणाम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परिणाम"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "विलयन",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "विलयन"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "समस्या",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "समस्या"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "संग्रह",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "संग्रह"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अनुभव",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "अनुभव"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परिणाम",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "परिणाम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "hi": "",
+      "correct": [
+        "विलयन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "विलयन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "hi": "",
+      "correct": [
+        "समस्या"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "समस्या"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "hi": "",
+      "correct": [
+        "संग्रह"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "संग्रह"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "hi": "",
+      "correct": [
+        "अनुभव"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अनुभव"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "hi": "",
+      "correct": [
+        "परिणाम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परिणाम"
+    }
+  ]
+}

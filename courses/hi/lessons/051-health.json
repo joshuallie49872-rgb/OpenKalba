@@ -1,0 +1,286 @@
+{
+  "id": "051-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दर्द",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "दर्द"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "एक सिर",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "एक सिर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "हाथ",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "हाथ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पैर",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "पैर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मिलावट करना",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "मिलावट करना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "pain",
+      "hi": "",
+      "correct": [
+        "दर्द"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दर्द"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "head",
+      "hi": "",
+      "correct": [
+        "एक सिर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "एक सिर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hand",
+      "hi": "",
+      "correct": [
+        "हाथ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "हाथ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "leg",
+      "hi": "",
+      "correct": [
+        "पैर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पैर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "doctor",
+      "hi": "",
+      "correct": [
+        "मिलावट करना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मिलावट करना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दर्द",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "दर्द"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "एक सिर",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "एक सिर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "हाथ",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "हाथ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पैर",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "पैर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मिलावट करना",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "मिलावट करना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "pain",
+      "hi": "",
+      "correct": [
+        "दर्द"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दर्द"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "head",
+      "hi": "",
+      "correct": [
+        "एक सिर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "एक सिर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hand",
+      "hi": "",
+      "correct": [
+        "हाथ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "हाथ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "leg",
+      "hi": "",
+      "correct": [
+        "पैर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पैर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "doctor",
+      "hi": "",
+      "correct": [
+        "मिलावट करना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मिलावट करना"
+    }
+  ]
+}

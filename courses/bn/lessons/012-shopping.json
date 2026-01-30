@@ -1,0 +1,286 @@
+{
+  "id": "012-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দোকান",
+      "lt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tts": "দোকান"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দাম",
+      "lt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tts": "দাম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "টাকা",
+      "lt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tts": "টাকা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কার্ড",
+      "lt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tts": "কার্ড"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "নগদ টাকা",
+      "lt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tts": "নগদ টাকা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "shop",
+      "bn": "",
+      "correct": [
+        "দোকান"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দোকান"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "price",
+      "bn": "",
+      "correct": [
+        "দাম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দাম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "money",
+      "bn": "",
+      "correct": [
+        "টাকা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "টাকা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "card",
+      "bn": "",
+      "correct": [
+        "কার্ড"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কার্ড"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cash",
+      "bn": "",
+      "correct": [
+        "নগদ টাকা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "নগদ টাকা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দোকান",
+      "lt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tts": "দোকান"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দাম",
+      "lt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tts": "দাম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "টাকা",
+      "lt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tts": "টাকা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কার্ড",
+      "lt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tts": "কার্ড"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "নগদ টাকা",
+      "lt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tts": "নগদ টাকা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "shop",
+      "bn": "",
+      "correct": [
+        "দোকান"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দোকান"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "price",
+      "bn": "",
+      "correct": [
+        "দাম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দাম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "money",
+      "bn": "",
+      "correct": [
+        "টাকা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "টাকা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "card",
+      "bn": "",
+      "correct": [
+        "কার্ড"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কার্ড"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cash",
+      "bn": "",
+      "correct": [
+        "নগদ টাকা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "নগদ টাকা"
+    }
+  ]
+}

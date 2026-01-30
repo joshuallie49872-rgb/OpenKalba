@@ -1,0 +1,286 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "এখানে",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "এখানে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দশ",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "দশ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাঁদিকে",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "বাঁদিকে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ডানদিকে",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "ডানদিকে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সোজা",
+      "lt": "",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "সোজা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "শহর",
+      "lt": "",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "tts": "শহর"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রাস্তা",
+      "lt": "",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "tts": "রাস্তা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "স্টেশন",
+      "lt": "",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "tts": "স্টেশন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিমানবন্দর",
+      "lt": "",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "tts": "বিমানবন্দর"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হোটেল",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "হোটেল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "here",
+      "bn": "",
+      "correct": [
+        "এখানে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "এখানে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "there",
+      "bn": "",
+      "correct": [
+        "দশ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দশ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "bn": "",
+      "correct": [
+        "বাঁদিকে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বাঁদিকে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "bn": "",
+      "correct": [
+        "ডানদিকে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ডানদিকে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "bn": "",
+      "correct": [
+        "সোজা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সোজা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "city",
+      "bn": "",
+      "correct": [
+        "শহর"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "শহর"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "street",
+      "bn": "",
+      "correct": [
+        "রাস্তা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রাস্তা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hotel",
+      "bn": "",
+      "correct": [
+        "হোটেল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "হোটেল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "station",
+      "bn": "",
+      "correct": [
+        "স্টেশন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "স্টেশন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "airport",
+      "bn": "",
+      "correct": [
+        "বিমানবন্দর"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিমানবন্দর"
+    }
+  ]
+}

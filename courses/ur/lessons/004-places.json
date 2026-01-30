@@ -1,0 +1,286 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "یہ لو",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "یہ لو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دس",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "دس"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بائیں",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "بائیں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دائیں",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "دائیں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سیدھا",
+      "lt": "",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "سیدھا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "شہر",
+      "lt": "",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "tts": "شہر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اسٹریٹ",
+      "lt": "",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "tts": "اسٹریٹ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اسٹیشن",
+      "lt": "",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "tts": "اسٹیشن"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ہوائی اڈہ",
+      "lt": "",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "tts": "ہوائی اڈہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ہوٹل",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "ہوٹل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "here",
+      "ur": "",
+      "correct": [
+        "یہ لو"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "یہ لو"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "there",
+      "ur": "",
+      "correct": [
+        "دس"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "ur": "",
+      "correct": [
+        "بائیں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بائیں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "ur": "",
+      "correct": [
+        "دائیں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دائیں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "ur": "",
+      "correct": [
+        "سیدھا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سیدھا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "city",
+      "ur": "",
+      "correct": [
+        "شہر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "شہر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "street",
+      "ur": "",
+      "correct": [
+        "اسٹریٹ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اسٹریٹ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hotel",
+      "ur": "",
+      "correct": [
+        "ہوٹل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ہوٹل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "station",
+      "ur": "",
+      "correct": [
+        "اسٹیشن"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اسٹیشن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "airport",
+      "ur": "",
+      "correct": [
+        "ہوائی اڈہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ہوائی اڈہ"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "023-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ajuda",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "Ajuda"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Polícia",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "Polícia"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hospital",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "Hospital"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Fogo",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "Fogo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Perigo",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "Perigo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "pt": "",
+      "correct": [
+        "Ajuda"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ajuda"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "pt": "",
+      "correct": [
+        "Polícia"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Polícia"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "pt": "",
+      "correct": [
+        "Hospital"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hospital"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "pt": "",
+      "correct": [
+        "Fogo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Fogo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "pt": "",
+      "correct": [
+        "Perigo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Perigo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ajuda",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "Ajuda"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Polícia",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "Polícia"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hospital",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "Hospital"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Fogo",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "Fogo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Perigo",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "Perigo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "pt": "",
+      "correct": [
+        "Ajuda"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ajuda"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "pt": "",
+      "correct": [
+        "Polícia"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Polícia"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "pt": "",
+      "correct": [
+        "Hospital"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hospital"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "pt": "",
+      "correct": [
+        "Fogo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Fogo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "pt": "",
+      "correct": [
+        "Perigo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Perigo"
+    }
+  ]
+}

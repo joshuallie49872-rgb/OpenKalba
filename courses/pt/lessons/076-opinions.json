@@ -1,0 +1,286 @@
+{
+  "id": "076-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu gosto disso",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "Eu gosto disso"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Não gosta",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "Não gosta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu gosto",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "Eu gosto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu não quero",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "Eu não quero"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Importante",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "Importante"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "pt": "",
+      "correct": [
+        "Eu gosto disso"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu gosto disso"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "pt": "",
+      "correct": [
+        "Não gosta"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Não gosta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "pt": "",
+      "correct": [
+        "Eu gosto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu gosto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "pt": "",
+      "correct": [
+        "Eu não quero"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu não quero"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "pt": "",
+      "correct": [
+        "Importante"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Importante"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu gosto disso",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "Eu gosto disso"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Não gosta",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "Não gosta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu gosto",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "Eu gosto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu não quero",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "Eu não quero"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Importante",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "Importante"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "pt": "",
+      "correct": [
+        "Eu gosto disso"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu gosto disso"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "pt": "",
+      "correct": [
+        "Não gosta"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Não gosta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "pt": "",
+      "correct": [
+        "Eu gosto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu gosto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "pt": "",
+      "correct": [
+        "Eu não quero"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu não quero"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "pt": "",
+      "correct": [
+        "Importante"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Importante"
+    }
+  ]
+}

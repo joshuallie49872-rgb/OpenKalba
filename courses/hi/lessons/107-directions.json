@@ -1,0 +1,286 @@
+{
+  "id": "107-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बाएँ",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "बाएँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दाएँ",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "दाएँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सीधे",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "सीधे"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "शर्त लगाना",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "शर्त लगाना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कला",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "कला"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "hi": "",
+      "correct": [
+        "बाएँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बाएँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "hi": "",
+      "correct": [
+        "दाएँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दाएँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "hi": "",
+      "correct": [
+        "सीधे"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सीधे"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "hi": "",
+      "correct": [
+        "शर्त लगाना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "शर्त लगाना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "hi": "",
+      "correct": [
+        "कला"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कला"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बाएँ",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "बाएँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दाएँ",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "दाएँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सीधे",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "सीधे"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "शर्त लगाना",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "शर्त लगाना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कला",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "कला"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "hi": "",
+      "correct": [
+        "बाएँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बाएँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "hi": "",
+      "correct": [
+        "दाएँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दाएँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "hi": "",
+      "correct": [
+        "सीधे"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सीधे"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "hi": "",
+      "correct": [
+        "शर्त लगाना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "शर्त लगाना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "hi": "",
+      "correct": [
+        "कला"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कला"
+    }
+  ]
+}

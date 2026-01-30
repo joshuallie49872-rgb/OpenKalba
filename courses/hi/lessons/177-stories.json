@@ -1,0 +1,286 @@
+{
+  "id": "177-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "इतिहास",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "इतिहास"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कहानी",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "कहानी"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "घर",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "समाप्त",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "समाप्त"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "हुआ",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "हुआ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "story",
+      "hi": "",
+      "correct": [
+        "इतिहास"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "इतिहास"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "narrative",
+      "hi": "",
+      "correct": [
+        "कहानी"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कहानी"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beginning",
+      "hi": "",
+      "correct": [
+        "घर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ending",
+      "hi": "",
+      "correct": [
+        "समाप्त"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "समाप्त"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happened",
+      "hi": "",
+      "correct": [
+        "हुआ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "हुआ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "इतिहास",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "इतिहास"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कहानी",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "कहानी"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "घर",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "समाप्त",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "समाप्त"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "हुआ",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "हुआ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "story",
+      "hi": "",
+      "correct": [
+        "इतिहास"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "इतिहास"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "narrative",
+      "hi": "",
+      "correct": [
+        "कहानी"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कहानी"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beginning",
+      "hi": "",
+      "correct": [
+        "घर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ending",
+      "hi": "",
+      "correct": [
+        "समाप्त"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "समाप्त"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happened",
+      "hi": "",
+      "correct": [
+        "हुआ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "हुआ"
+    }
+  ]
+}

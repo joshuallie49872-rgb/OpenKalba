@@ -1,0 +1,286 @@
+{
+  "id": "153-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ناشتہ",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "ناشتہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دوپہر کا کھانا",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "دوپہر کا کھانا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کھانا",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "کھانا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ذائقہ",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "ذائقہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بھوک لگی ہے",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "بھوک لگی ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "ur": "",
+      "correct": [
+        "ناشتہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ناشتہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "ur": "",
+      "correct": [
+        "دوپہر کا کھانا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دوپہر کا کھانا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "ur": "",
+      "correct": [
+        "کھانا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کھانا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "ur": "",
+      "correct": [
+        "ذائقہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ذائقہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "ur": "",
+      "correct": [
+        "بھوک لگی ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بھوک لگی ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ناشتہ",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "ناشتہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دوپہر کا کھانا",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "دوپہر کا کھانا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کھانا",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "کھانا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ذائقہ",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "ذائقہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بھوک لگی ہے",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "بھوک لگی ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "ur": "",
+      "correct": [
+        "ناشتہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ناشتہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "ur": "",
+      "correct": [
+        "دوپہر کا کھانا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دوپہر کا کھانا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "ur": "",
+      "correct": [
+        "کھانا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کھانا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "ur": "",
+      "correct": [
+        "ذائقہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ذائقہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "ur": "",
+      "correct": [
+        "بھوک لگی ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بھوک لگی ہے"
+    }
+  ]
+}

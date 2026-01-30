@@ -1,0 +1,286 @@
+{
+  "id": "127-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিস্মিত",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "বিস্মিত"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রেগে যাওয়া",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "রেগে যাওয়া"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "শান্ত হও",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "শান্ত হও"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "উদ্বিগ্ন",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "উদ্বিগ্ন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সন্তুষ্ট",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "সন্তুষ্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "bn": "",
+      "correct": [
+        "বিস্মিত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিস্মিত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "bn": "",
+      "correct": [
+        "রেগে যাওয়া"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রেগে যাওয়া"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "bn": "",
+      "correct": [
+        "শান্ত হও"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "শান্ত হও"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "bn": "",
+      "correct": [
+        "উদ্বিগ্ন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "উদ্বিগ্ন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "bn": "",
+      "correct": [
+        "সন্তুষ্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সন্তুষ্ট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিস্মিত",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "বিস্মিত"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রেগে যাওয়া",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "রেগে যাওয়া"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "শান্ত হও",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "শান্ত হও"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "উদ্বিগ্ন",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "উদ্বিগ্ন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সন্তুষ্ট",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "সন্তুষ্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "bn": "",
+      "correct": [
+        "বিস্মিত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিস্মিত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "bn": "",
+      "correct": [
+        "রেগে যাওয়া"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রেগে যাওয়া"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "bn": "",
+      "correct": [
+        "শান্ত হও"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "শান্ত হও"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "bn": "",
+      "correct": [
+        "উদ্বিগ্ন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "উদ্বিগ্ন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "bn": "",
+      "correct": [
+        "সন্তুষ্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সন্তুষ্ট"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "016-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं काम करता हूँ",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "मैं काम करता हूँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "नींद",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "नींद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "खाना",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "खाना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कोशिश",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "कोशिश"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं उठता हूँ",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "मैं उठता हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "hi": "",
+      "correct": [
+        "मैं काम करता हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं काम करता हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "hi": "",
+      "correct": [
+        "नींद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "नींद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "hi": "",
+      "correct": [
+        "खाना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "खाना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "hi": "",
+      "correct": [
+        "कोशिश"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कोशिश"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "hi": "",
+      "correct": [
+        "मैं उठता हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं उठता हूँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं काम करता हूँ",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "मैं काम करता हूँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "नींद",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "नींद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "खाना",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "खाना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कोशिश",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "कोशिश"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं उठता हूँ",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "मैं उठता हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "hi": "",
+      "correct": [
+        "मैं काम करता हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं काम करता हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "hi": "",
+      "correct": [
+        "नींद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "नींद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "hi": "",
+      "correct": [
+        "खाना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "खाना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "hi": "",
+      "correct": [
+        "कोशिश"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कोशिश"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "hi": "",
+      "correct": [
+        "मैं उठता हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं उठता हूँ"
+    }
+  ]
+}

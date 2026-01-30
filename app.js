@@ -244,6 +244,73 @@ function loadLangSettings() {
   }
 }
 
+/* -----------------------------
+   UI localization (native UI text)
+----------------------------- */
+let UI_STRINGS = {};
+
+// ✅ Built-in UI fallbacks (in case i18n/ui.json or overlays are missing keys)
+// Keep keys aligned with app.js usages.
+const UI_FALLBACKS_EN = {
+  back: "Back",
+  hear_it: "Hear it",
+  hear_it_slow: "Hear it (Slow)",
+  course_map: "Course Map",
+  home: "Home",
+  restart_lesson: "Restart",
+  account: "Account",
+  start: "Start",
+  continue: "Continue",
+  check: "Check",
+  next: "Next",
+
+  // prompts / misc
+  pick_correct_meaning: "Pick the correct meaning",
+  translate_to: "Translate to {lang}",
+  question: "Question",
+
+  // feedback / helper
+  show: "Show",
+  hide: "Hide",
+  nice: "Nice!",
+  streak: "Streak",
+  correct: "Correct!",
+  not_quite: "Not quite.",
+  answer: "Answer:",
+  oops: "Oops…",
+  lesson_complete: "Lesson complete!",
+
+  // done screen
+  complete_title: "Lesson complete!",
+  complete_body_next: "Next up:",
+  complete_body_done: "You finished the course!",
+  achievements: "Achievements",
+};
+
+function uiKeyNormalize(key) {
+  // "Nice!" -> "nice", "Not quite." -> "not_quite", "Show" -> "show"
+  return String(key || "")
+    .trim()
+    .toLowerCase()
+    .replace(/[“”"]/g, "")
+    .replace(/[’']/g, "")
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+}
+
+
+async function loadUiStrings() {
+  try {
+    const res = await fetch("i18n/ui.json");
+    if (!res.ok) { UI_STRINGS = {}; return; }
+    const j = await res.json();
+    UI_STRINGS = (j && typeof j === "object") ? j : {};
+  } catch {
+    UI_STRINGS = {};
+  }
+}
+
+
 function saveLangSettings(nativeLangArg, learnLangArg) {
   const safeNative = nativeLangArg || "en";
   const safeLearn = learnLangArg || "lt";
@@ -266,13 +333,17 @@ let ltAudioMapSlow = null; // { slug: "audio/<lang>/<file>" } (optional)
 let audioPlayer = null;  // HTMLAudioElement
 
 function slugifyLt(s) {
-  return String(s || "")
+  const str = String(s || "")
     .trim()
     .toLowerCase()
-    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^a-z0-9]+/g, "_")
+    .normalize("NFKC");
+
+  // Keep letters/numbers from ANY language (Urdu/Hindi/Bengali/etc)
+  return str
+    .replace(/[^\p{L}\p{N}]+/gu, "_")
     .replace(/^_+|_+$/g, "");
 }
+
 
 async function loadLtAudioManifest(url) {
   try {
@@ -449,25 +520,76 @@ async function loadOverlay(nativeLangArg, learnLangArg) {
     const res = await fetch(url);
     if (!res.ok) return overlay;
     const j = await res.json();
-    overlay = {
-      ui: (j && typeof j.ui === "object" && j.ui) ? j.ui : {},
-      gloss: (j && typeof j.gloss === "object" && j.gloss) ? j.gloss : {},
-    };
+    const uiObj = (j && typeof j.ui === "object" && j.ui) ? j.ui : {};
+    const glossObj = (j && typeof j.gloss === "object" && j.gloss) ? j.gloss : {};
+
+    // Normalize gloss keys to lowercase+trim so lookups are consistent.
+    // Prefer the first non-empty value when collisions occur (e.g., "Hi" vs "hi").
+    const glossNorm = {};
+    for (const [k0, v] of Object.entries(glossObj)) {
+      const k = String(k0 || "").trim().toLowerCase();
+      if (!k) continue;
+      const vv = (typeof v === "string") ? v : String(v ?? "");
+      if (!Object.prototype.hasOwnProperty.call(glossNorm, k) || String(glossNorm[k] || "").trim() === "") {
+        glossNorm[k] = vv;
+      }
+    }
+
+    overlay = { ui: uiObj, gloss: glossNorm };
     return overlay;
   } catch {
     return overlay;
   }
 }
 
-function uiT(s) {
-  const k = String(s || "");
-  return (overlay?.ui && overlay.ui[k]) ? overlay.ui[k] : k;
+
+function uiT(key) {
+  const raw = String(key || "");
+  const k = raw;                 // exact
+  const nk = uiKeyNormalize(raw); // normalized
+
+  // 1) overlay-specific UI (per course/native)
+  if (overlay?.ui) {
+    if (Object.prototype.hasOwnProperty.call(overlay.ui, k)) return overlay.ui[k];
+    if (nk && Object.prototype.hasOwnProperty.call(overlay.ui, nk)) return overlay.ui[nk];
+  }
+
+  // 2) global UI strings file (i18n/ui.json)
+  const lang = nativeLang || "en";
+  if (UI_STRINGS?.[lang]) {
+    if (Object.prototype.hasOwnProperty.call(UI_STRINGS[lang], k)) return UI_STRINGS[lang][k];
+    if (nk && Object.prototype.hasOwnProperty.call(UI_STRINGS[lang], nk)) return UI_STRINGS[lang][nk];
+  }
+  if (UI_STRINGS?.en) {
+    if (Object.prototype.hasOwnProperty.call(UI_STRINGS.en, k)) return UI_STRINGS.en[k];
+    if (nk && Object.prototype.hasOwnProperty.call(UI_STRINGS.en, nk)) return UI_STRINGS.en[nk];
+  }
+
+  // 3) built-in fallback (keeps UI readable even when keys are missing)
+  if (Object.prototype.hasOwnProperty.call(UI_FALLBACKS_EN, k)) return UI_FALLBACKS_EN[k];
+  if (nk && Object.prototype.hasOwnProperty.call(UI_FALLBACKS_EN, nk)) return UI_FALLBACKS_EN[nk];
+
+  // 4) fallback = show the key (debug-friendly)
+  return k;
 }
+
+
 
 /* gloss keys are lowercase in your JSON */
 function glossT(s) {
-  const key = String(s || "").trim().toLowerCase();
-  return (overlay?.gloss && overlay.gloss[key]) ? overlay.gloss[key] : String(s || "");
+  const raw = String(s || "").trim();
+  const key = raw.toLowerCase();
+
+  // Support both normalized (lowercased) gloss keys and legacy/mixed-case keys.
+  if (overlay?.gloss) {
+    if (Object.prototype.hasOwnProperty.call(overlay.gloss, key) && String(overlay.gloss[key] || "").trim() !== "") {
+      return overlay.gloss[key];
+    }
+    if (Object.prototype.hasOwnProperty.call(overlay.gloss, raw) && String(overlay.gloss[raw] || "").trim() !== "") {
+      return overlay.gloss[raw];
+    }
+  }
+  return raw;
 }
 
 function applyUiOverlays() {
@@ -485,13 +607,13 @@ function setBtnLabel(btn, text) {
   else btn.textContent = text;
 }
 
-/* Apply overlay UI to fixed buttons/labels (so Spanish shows on buttons too) */
 function applyStaticUiText() {
   // Controls
   if (DOM.controls.prevBtn) setBtnLabel(DOM.controls.prevBtn, uiT("back"));
   if (DOM.controls.speakBtn) setBtnLabel(DOM.controls.speakBtn, uiT("hear_it"));
   if (DOM.controls.speakSlowBtn) setBtnLabel(DOM.controls.speakSlowBtn, uiT("hear_it_slow"));
   if (DOM.controls.mapBtn) setBtnLabel(DOM.controls.mapBtn, uiT("course_map"));
+  if (DOM.controls.homeBtn) setBtnLabel(DOM.controls.homeBtn, uiT("home"));   // ✅ ADD THIS
   if (DOM.controls.resetBtn) setBtnLabel(DOM.controls.resetBtn, uiT("restart_lesson"));
   if (DOM.controls.accountBtnLabel) DOM.controls.accountBtnLabel.textContent = uiT("account");
 
@@ -786,10 +908,10 @@ function applyHelperVisibility(hidden) {
 
   // Label (desktop)
   if (DOM.controls.helperToggleText) {
-    DOM.controls.helperToggleText.textContent = hidden ? uiT("Show") : uiT("Hide");
+    DOM.controls.helperToggleText.textContent = hidden ? uiT("show") : uiT("hide");
   }
   if (DOM.helperToggleText) {
-    DOM.helperToggleText.textContent = hidden ? uiT("Show") : uiT("Hide");
+    DOM.helperToggleText.textContent = hidden ? uiT("show") : uiT("hide");
   }
 }
 
@@ -1121,7 +1243,7 @@ function normalizeLessonToQuestions(data) {
             ? choicesBase[idx]
             : (it.answer || it.correctAnswer || "");
 
-        const promptBase = safeStr(it.prompt) || "Pick the correct meaning";
+        const promptBase = safeStr(it.prompt) || uiT("Pick the correct meaning");
         const promptNative = safeStr(pickOverlay(it, "prompt", nativeLang, ""));
 
         const targetKey = getTargetKey();
@@ -1178,7 +1300,7 @@ function normalizeLessonToQuestions(data) {
           lt: safeStr(it.lt || ""),
 
           correct: correctList.filter(Boolean),
-          placeholder: "Type your answer…",
+          placeholder: uiT("Type your answer…"),
 
           tts: it.tts || (targetText ? { lang: `${targetKey}-${targetKey.toUpperCase()}`, text: targetText } : ""),
         });
@@ -1538,16 +1660,25 @@ function renderQuestion() {
     show(DOM.lessonHeader, true);
 
     const type = currentQuestion.type || "";
-    const promptText = uiT(getPromptForNative(currentQuestion));
 
-    let promptTextFixed = promptText;
+    // IMPORTANT: getPromptForNative() returns real text, NOT a ui key
+    let sub = safeStr(getPromptForNative(currentQuestion)).trim();
+
+    // If missing, use translated UI fallbacks
+    if (!sub) {
+      sub = (type === "choose")
+        ? uiT("pick_correct_meaning")
+        : (type === "translate")
+          ? uiT("translate_to").replace("{lang}", langName(learnLang))
+          : uiT("question");
+    }
+
+    // Force translate prompt to always be localized
     if (type === "translate") {
-      promptTextFixed = `Translate to ${langName(learnLang)}`;
+      sub = uiT("translate_to").replace("{lang}", langName(learnLang));
     }
 
     let main = "";
-    let sub = promptTextFixed;
-
     if (type === "choose") {
       main = getTargetText(currentQuestion);
     } else if (type === "translate") {
@@ -1584,6 +1715,7 @@ function renderQuestion() {
   setControlsForQuestion(false);
 }
 
+
 function renderTextInput(q) {
   // show language-specific special characters (typing help)
   const chars = getCharSetForLang(learnLang);
@@ -1614,7 +1746,7 @@ function renderTextInput(q) {
 
   if (DOM.input) {
     DOM.input.value = "";
-    DOM.input.placeholder = q.placeholder || uiT("Type your answer…");
+    DOM.input.placeholder = q.placeholder || uiT("type_your_answer");
     DOM.input.oninput = () => {
       if (!isAnswered) setMikas("thinking");
     };
@@ -1938,6 +2070,79 @@ function renderMap() {
     Math.round(W * 0.65),
   ];
 
+    /* -----------------------------------------
+     Course Map Topic Visuals (decorative)
+     Fixed 14-block placement (Lessons 1–42)
+     Desktop: alternate sides
+     Mobile: always centered under the button group
+     ----------------------------------------- */
+  (function injectMapTopicVisuals(){
+    try{
+      const isMobile = (W <= 560);
+
+      const blocks = [
+        { start: 1,  end: 3,  src: "assets/coursemapicons/questionsanswer.png",  side: "right" },
+        { start: 4,  end: 6,  src: "assets/coursemapicons/fooddrink.png",        side: "left"  },
+        { start: 7,  end: 9,  src: "assets/coursemapicons/shoppingandmoney.png", side: "right" },
+        { start: 10, end: 12, src: "assets/coursemapicons/placesdirections.png", side: "left"  },
+        { start: 13, end: 15, src: "assets/coursemapicons/orderingatacafe.png",  side: "right" },
+        { start: 16, end: 18, src: "assets/coursemapicons/timeanddates.png",     side: "left"  },
+        { start: 19, end: 21, src: "assets/coursemapicons/dailyroutine.png",     side: "right" },
+        { start: 22, end: 24, src: "assets/coursemapicons/futureplans.png",      side: "left"  },
+        { start: 25, end: 27, src: "assets/coursemapicons/opinions.png",         side: "right" },
+        { start: 28, end: 30, src: "assets/coursemapicons/weather.png",          side: "left"  },
+        { start: 31, end: 33, src: "assets/coursemapicons/socialtalk.png",       side: "right" },
+        { start: 34, end: 36, src: "assets/coursemapicons/technology.png",       side: "left"  },
+        { start: 37, end: 39, src: "assets/coursemapicons/mediasociety.png",     side: "right" },
+        { start: 40, end: 42, src: "assets/coursemapicons/culture.png",          side: "left"  },
+      ];
+
+      // Push visuals down more on narrow screens so they never overlap the header/buttons.
+      const narrowBoost =
+        (W <= 420) ? 190 :
+        (W <= 520) ? 150 :
+        (W <= 640) ? 110 :
+                     80;
+
+      const SAFE_TOP = topPad + narrowBoost;
+
+      // Place visuals under the block (not on top of nodes/labels).
+      const yOffset =
+        (W <= 420) ? 64 :
+        (W <= 520) ? 54 :
+                     42;
+
+      blocks.forEach((b)=>{
+        // Anchor is the middle lesson in the block (convert to 0-based index).
+        const midLesson = Math.round((b.start + b.end) / 2);
+        const idx = Math.max(0, Math.min(lessonCount - 1, midLesson - 1));
+
+        let y = (topPad + idx * stepY) + yOffset;
+        y = Math.max(SAFE_TOP, Math.min(y, H - 220));
+
+        const div = document.createElement("div");
+
+        if(isMobile){
+          div.className = "mapTopicVisual mobile";
+        }else{
+          div.className = "mapTopicVisual " + b.side;
+        }
+
+        div.style.top = y + "px";
+
+        const img = document.createElement("img");
+        img.src = b.src;
+        img.alt = "";
+        img.setAttribute("aria-hidden","true");
+
+        div.appendChild(img);
+        nodesEl.appendChild(div);
+      });
+    }catch(e){
+      /* visuals are non-critical */
+    }
+  })();
+
   const maxUnlocked = unlockIndex();
 
   // Paths
@@ -2214,7 +2419,11 @@ function speakTarget(text, slow = false) {
       no: "nb-NO",
       de: "de-DE",
       mx: "es-ES",
-      en: "en-US"
+      en: "en-US",
+      hi: "hi-IN",
+      bn: "bn-IN",
+      pt: "pt-PT",
+      ur: "ur-PK",
     };
 
     u.lang = langMap[learnLang] || "en-US";
@@ -2398,7 +2607,9 @@ function wireEvents() {
 
       applyStaticUiText();
 
-      progress = loadProgress();
+      
+      applyHelperVisibility(getHelperHiddenPref());
+progress = loadProgress();
   if (!progress || typeof progress !== "object") progress = { completedLessonIds: [], best: {}, xpTotal: 0 };
   if (!Array.isArray(progress.completedLessonIds)) progress.completedLessonIds = [];
   if (!progress.best || typeof progress.best !== "object") progress.best = {};
@@ -2447,7 +2658,9 @@ function wireEvents() {
 
       applyStaticUiText();
 
-      setHomeCopy();
+      
+      applyHelperVisibility(getHelperHiddenPref());
+setHomeCopy();
 
       // Do NOT auto-navigate to Course Map just because the user changed a dropdown.
       if (currentScreen === "map") renderMap();
@@ -2476,6 +2689,9 @@ async function init() {
     nativeLang = saved.nativeLang || "en";
     learnLang = saved.learnLang || "lt";
 
+    // 🔤 load UI translations FIRST (depends on nativeLang)
+    await loadUiStrings();
+
     catalog = await loadCatalog();
     populateLanguageSelects(catalog);
 
@@ -2487,6 +2703,7 @@ async function init() {
     await loadOverlay(nativeLang, learnLang);
     applyUiOverlays();
 
+    // 🧠 re-apply static UI text using uiT()
     applyStaticUiText();
 
     progress = loadProgress();

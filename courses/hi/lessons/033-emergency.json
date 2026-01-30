@@ -1,0 +1,286 @@
+{
+  "id": "033-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मदद",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "मदद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पुलिस",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "पुलिस"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "चिकित्‍सालय",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "चिकित्‍सालय"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अग्‍नि",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "अग्‍नि"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "खतरा",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "खतरा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "hi": "",
+      "correct": [
+        "मदद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मदद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "hi": "",
+      "correct": [
+        "पुलिस"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पुलिस"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "hi": "",
+      "correct": [
+        "चिकित्‍सालय"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "चिकित्‍सालय"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "hi": "",
+      "correct": [
+        "अग्‍नि"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अग्‍नि"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "hi": "",
+      "correct": [
+        "खतरा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "खतरा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मदद",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "मदद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पुलिस",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "पुलिस"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "चिकित्‍सालय",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "चिकित्‍सालय"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अग्‍नि",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "अग्‍नि"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "खतरा",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "खतरा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "hi": "",
+      "correct": [
+        "मदद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मदद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "hi": "",
+      "correct": [
+        "पुलिस"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पुलिस"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "hi": "",
+      "correct": [
+        "चिकित्‍सालय"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "चिकित्‍सालय"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "hi": "",
+      "correct": [
+        "अग्‍नि"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अग्‍नि"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "hi": "",
+      "correct": [
+        "खतरा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "खतरा"
+    }
+  ]
+}

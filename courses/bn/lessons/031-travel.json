@@ -1,0 +1,286 @@
+{
+  "id": "031-travel",
+  "title": "Travel & Transport",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাস",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "বাস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ট্রেন",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "ট্রেন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "টিকিট",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "টিকিট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ট্যাক্সি",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "ট্যাক্সি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ভ্রমণ",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "ভ্রমণ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bus",
+      "bn": "",
+      "correct": [
+        "বাস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বাস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "train",
+      "bn": "",
+      "correct": [
+        "ট্রেন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ট্রেন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ticket",
+      "bn": "",
+      "correct": [
+        "টিকিট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "টিকিট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "taxi",
+      "bn": "",
+      "correct": [
+        "ট্যাক্সি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ট্যাক্সি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "trip",
+      "bn": "",
+      "correct": [
+        "ভ্রমণ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ভ্রমণ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাস",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "বাস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ট্রেন",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "ট্রেন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "টিকিট",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "টিকিট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ট্যাক্সি",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "ট্যাক্সি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ভ্রমণ",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "ভ্রমণ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bus",
+      "bn": "",
+      "correct": [
+        "বাস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বাস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "train",
+      "bn": "",
+      "correct": [
+        "ট্রেন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ট্রেন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ticket",
+      "bn": "",
+      "correct": [
+        "টিকিট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "টিকিট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "taxi",
+      "bn": "",
+      "correct": [
+        "ট্যাক্সি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ট্যাক্সি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "trip",
+      "bn": "",
+      "correct": [
+        "ভ্রমণ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ভ্রমণ"
+    }
+  ]
+}

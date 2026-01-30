@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <!-- middle band -->
+  <path fill="#FFFFFF" d="M0 14h36v8H0z"></path>
+  <!-- top band with rounded corners -->
+  <path fill="#FF9933" d="M32 5H4C1.791 5 0 6.791 0 9v5h36V9c0-2.209-1.791-4-4-4z"></path>
+  <!-- bottom band with rounded corners -->
+  <path fill="#138808" d="M4 31h28c2.209 0 4-1.791 4-4v-5H0v5c0 2.209 1.791 4 4 4z"></path>
+
+  <!-- Ashoka Chakra -->
+  <circle cx="18" cy="18" r="3.6" fill="none" stroke="#000080" stroke-width="0.8"></circle>
+  <circle cx="18" cy="18" r="0.55" fill="#000080"></circle>
+  <g stroke="#000080" stroke-width="0.45" stroke-linecap="round">
+    <!-- 24 spokes (12 lines = 24 spokes) -->
+    <line x1="18" y1="14.4" x2="18" y2="21.6"></line>
+    <line x1="14.4" y1="18" x2="21.6" y2="18"></line>
+    <line x1="15.46" y1="15.46" x2="20.54" y2="20.54"></line>
+    <line x1="15.46" y1="20.54" x2="20.54" y2="15.46"></line>
+
+    <line x1="18" y1="14.4" x2="19.8" y2="21.1"></line>
+    <line x1="18" y1="14.4" x2="16.2" y2="21.1"></line>
+    <line x1="18" y1="21.6" x2="19.8" y2="14.9"></line>
+    <line x1="18" y1="21.6" x2="16.2" y2="14.9"></line>
+
+    <line x1="14.4" y1="18" x2="21.1" y2="16.2"></line>
+    <line x1="14.4" y1="18" x2="21.1" y2="19.8"></line>
+    <line x1="21.6" y1="18" x2="14.9" y2="16.2"></line>
+    <line x1="21.6" y1="18" x2="14.9" y2="19.8"></line>
+  </g>
+</svg>

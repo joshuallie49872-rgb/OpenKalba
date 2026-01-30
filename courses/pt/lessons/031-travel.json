@@ -1,0 +1,286 @@
+{
+  "id": "031-travel",
+  "title": "Travel & Transport",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ônibus",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "Ônibus"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Trem",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "Trem"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ingresso",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "Ingresso"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Táxi",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "Táxi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Viagens",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "Viagens"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bus",
+      "pt": "",
+      "correct": [
+        "Ônibus"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ônibus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "train",
+      "pt": "",
+      "correct": [
+        "Trem"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Trem"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ticket",
+      "pt": "",
+      "correct": [
+        "Ingresso"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ingresso"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "taxi",
+      "pt": "",
+      "correct": [
+        "Táxi"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Táxi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "trip",
+      "pt": "",
+      "correct": [
+        "Viagens"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Viagens"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ônibus",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "Ônibus"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Trem",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "Trem"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ingresso",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "Ingresso"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Táxi",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "Táxi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Viagens",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "Viagens"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bus",
+      "pt": "",
+      "correct": [
+        "Ônibus"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ônibus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "train",
+      "pt": "",
+      "correct": [
+        "Trem"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Trem"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ticket",
+      "pt": "",
+      "correct": [
+        "Ingresso"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ingresso"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "taxi",
+      "pt": "",
+      "correct": [
+        "Táxi"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Táxi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "trip",
+      "pt": "",
+      "correct": [
+        "Viagens"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Viagens"
+    }
+  ]
+}

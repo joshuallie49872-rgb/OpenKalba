@@ -1,0 +1,286 @@
+{
+  "id": "077-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पासपोर्ट",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "पासपोर्ट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दीवारों",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "दीवारों"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "यात्रा",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "यात्रा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सूटकेस",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "सूटकेस"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "प्रथा",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "प्रथा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "hi": "",
+      "correct": [
+        "पासपोर्ट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पासपोर्ट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "hi": "",
+      "correct": [
+        "दीवार"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दीवार"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "hi": "",
+      "correct": [
+        "यात्रा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "यात्रा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "hi": "",
+      "correct": [
+        "सूटकेस"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सूटकेस"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "hi": "",
+      "correct": [
+        "प्रथा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "प्रथा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पासपोर्ट",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "पासपोर्ट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दीवारों",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "दीवारों"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "यात्रा",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "यात्रा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सूटकेस",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "सूटकेस"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "प्रथा",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "प्रथा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "hi": "",
+      "correct": [
+        "पासपोर्ट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पासपोर्ट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "hi": "",
+      "correct": [
+        "दीवार"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दीवार"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "hi": "",
+      "correct": [
+        "यात्रा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "यात्रा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "hi": "",
+      "correct": [
+        "सूटकेस"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सूटकेस"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "hi": "",
+      "correct": [
+        "प्रथा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "प्रथा"
+    }
+  ]
+}

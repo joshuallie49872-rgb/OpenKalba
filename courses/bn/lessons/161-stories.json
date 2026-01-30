@@ -1,0 +1,286 @@
+{
+  "id": "161-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ইতিহাস",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "ইতিহাস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গল্প",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "গল্প"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হোম",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "হোম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "শেষ",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "শেষ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঘটেছে",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "ঘটেছে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "story",
+      "bn": "",
+      "correct": [
+        "ইতিহাস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ইতিহাস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "narrative",
+      "bn": "",
+      "correct": [
+        "গল্প"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গল্প"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beginning",
+      "bn": "",
+      "correct": [
+        "হোম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "হোম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ending",
+      "bn": "",
+      "correct": [
+        "শেষ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "শেষ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happened",
+      "bn": "",
+      "correct": [
+        "ঘটেছে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঘটেছে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ইতিহাস",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "ইতিহাস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গল্প",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "গল্প"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হোম",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "হোম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "শেষ",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "শেষ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঘটেছে",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "ঘটেছে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "story",
+      "bn": "",
+      "correct": [
+        "ইতিহাস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ইতিহাস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "narrative",
+      "bn": "",
+      "correct": [
+        "গল্প"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গল্প"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beginning",
+      "bn": "",
+      "correct": [
+        "হোম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "হোম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ending",
+      "bn": "",
+      "correct": [
+        "শেষ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "শেষ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happened",
+      "bn": "",
+      "correct": [
+        "ঘটেছে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঘটেছে"
+    }
+  ]
+}

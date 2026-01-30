@@ -1,0 +1,286 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आज",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "भविष्‍य",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बाद में",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "बाद में"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं योजना बना रहा हूँ",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "मैं योजना बना रहा हूँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "फिर मिलेंगे",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "फिर मिलेंगे"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "hi": "",
+      "correct": [
+        "आज"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "hi": "",
+      "correct": [
+        "भविष्‍य"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "hi": "",
+      "correct": [
+        "बाद में"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बाद में"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "hi": "",
+      "correct": [
+        "मैं योजना बना रहा हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं योजना बना रहा हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "hi": "",
+      "correct": [
+        "फिर मिलेंगे"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "फिर मिलेंगे"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आज",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "भविष्‍य",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बाद में",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "बाद में"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मैं योजना बना रहा हूँ",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "मैं योजना बना रहा हूँ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "फिर मिलेंगे",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "फिर मिलेंगे"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "hi": "",
+      "correct": [
+        "आज"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "hi": "",
+      "correct": [
+        "भविष्‍य"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "hi": "",
+      "correct": [
+        "बाद में"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बाद में"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "hi": "",
+      "correct": [
+        "मैं योजना बना रहा हूँ"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मैं योजना बना रहा हूँ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "hi": "",
+      "correct": [
+        "फिर मिलेंगे"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "फिर मिलेंगे"
+    }
+  ]
+}

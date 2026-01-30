@@ -1,0 +1,286 @@
+{
+  "id": "134-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ব্যয়বহুল",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "ব্যয়বহুল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সস্তা",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "সস্তা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ছাড়",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "ছাড়"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ক্যাশিয়ার",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "ক্যাশিয়ার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "চেক করুন",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "চেক করুন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "bn": "",
+      "correct": [
+        "ব্যয়বহুল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ব্যয়বহুল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "bn": "",
+      "correct": [
+        "সস্তা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সস্তা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "bn": "",
+      "correct": [
+        "ছাড়"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ছাড়"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "bn": "",
+      "correct": [
+        "ক্যাশিয়ার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ক্যাশিয়ার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "bn": "",
+      "correct": [
+        "চেক করুন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "চেক করুন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ব্যয়বহুল",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "ব্যয়বহুল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সস্তা",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "সস্তা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ছাড়",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "ছাড়"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ক্যাশিয়ার",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "ক্যাশিয়ার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "চেক করুন",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "চেক করুন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "bn": "",
+      "correct": [
+        "ব্যয়বহুল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ব্যয়বহুল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "bn": "",
+      "correct": [
+        "সস্তা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সস্তা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "bn": "",
+      "correct": [
+        "ছাড়"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ছাড়"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "bn": "",
+      "correct": [
+        "ক্যাশিয়ার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ক্যাশিয়ার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "bn": "",
+      "correct": [
+        "চেক করুন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "চেক করুন"
+    }
+  ]
+}

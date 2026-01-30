@@ -1,0 +1,286 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "آج",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کل",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بعد میں",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "بعد میں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "میں منصوبہ بنا رہا ہوں",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "میں منصوبہ بنا رہا ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "خدا حافظ",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "خدا حافظ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ur": "",
+      "correct": [
+        "آج"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ur": "",
+      "correct": [
+        "کل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "ur": "",
+      "correct": [
+        "بعد میں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بعد میں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "ur": "",
+      "correct": [
+        "میں منصوبہ بنا رہا ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں منصوبہ بنا رہا ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "ur": "",
+      "correct": [
+        "خدا حافظ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "خدا حافظ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "آج",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کل",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بعد میں",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "بعد میں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "میں منصوبہ بنا رہا ہوں",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "میں منصوبہ بنا رہا ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "خدا حافظ",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "خدا حافظ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ur": "",
+      "correct": [
+        "آج"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "آج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ur": "",
+      "correct": [
+        "کل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "ur": "",
+      "correct": [
+        "بعد میں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بعد میں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "ur": "",
+      "correct": [
+        "میں منصوبہ بنا رہا ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں منصوبہ بنا رہا ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "ur": "",
+      "correct": [
+        "خدا حافظ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "خدا حافظ"
+    }
+  ]
+}

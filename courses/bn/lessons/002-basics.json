@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "এক",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "এক"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কালো দিক",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "কালো দিক"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "তিন",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "তিন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "চার",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "চার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পাঁচ",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "পাঁচ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "লাল",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "লাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "নীল",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "নীল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সবুজ",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "সবুজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কালো",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "কালো"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সাদা",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "সাদা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মা",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "মা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাবা",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "বাবা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ভাই",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "ভাই"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বোন",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "বোন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পরিবার",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "পরিবার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "জল",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "জল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কফি",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "কফি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রুটি",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "রুটি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হোটেল",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "হোটেল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "টিকিট",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "টিকিট"
+    }
+  ]
+}

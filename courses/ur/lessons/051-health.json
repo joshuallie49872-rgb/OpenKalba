@@ -1,0 +1,286 @@
+{
+  "id": "051-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "درد",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "درد"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ایک سر",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "ایک سر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ہاتھ",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "ہاتھ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ٹانگ",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "ٹانگ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ڈاکٹر",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "ڈاکٹر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "pain",
+      "ur": "",
+      "correct": [
+        "درد"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "درد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "head",
+      "ur": "",
+      "correct": [
+        "ایک سر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ایک سر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hand",
+      "ur": "",
+      "correct": [
+        "ہاتھ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ہاتھ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "leg",
+      "ur": "",
+      "correct": [
+        "ٹانگ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ٹانگ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "doctor",
+      "ur": "",
+      "correct": [
+        "ڈاکٹر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ڈاکٹر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "درد",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "درد"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ایک سر",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "ایک سر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ہاتھ",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "ہاتھ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ٹانگ",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "ٹانگ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ڈاکٹر",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "ڈاکٹر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "pain",
+      "ur": "",
+      "correct": [
+        "درد"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "درد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "head",
+      "ur": "",
+      "correct": [
+        "ایک سر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ایک سر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hand",
+      "ur": "",
+      "correct": [
+        "ہاتھ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ہاتھ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "leg",
+      "ur": "",
+      "correct": [
+        "ٹانگ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ٹانگ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "doctor",
+      "ur": "",
+      "correct": [
+        "ڈاکٹر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ڈاکٹر"
+    }
+  ]
+}

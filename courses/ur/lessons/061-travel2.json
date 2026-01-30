@@ -1,0 +1,286 @@
+{
+  "id": "061-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پاسپورٹ",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "پاسپورٹ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دیواریں",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "دیواریں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سفر",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "سفر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سوٹ کیس",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "سوٹ کیس"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رسم و رواج",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "رسم و رواج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "ur": "",
+      "correct": [
+        "پاسپورٹ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پاسپورٹ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "ur": "",
+      "correct": [
+        "دیوار"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دیوار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "ur": "",
+      "correct": [
+        "سفر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سفر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "ur": "",
+      "correct": [
+        "سوٹ کیس"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سوٹ کیس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "ur": "",
+      "correct": [
+        "رسم و رواج"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رسم و رواج"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پاسپورٹ",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "پاسپورٹ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دیواریں",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "دیواریں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سفر",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "سفر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سوٹ کیس",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "سوٹ کیس"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رسم و رواج",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "رسم و رواج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "ur": "",
+      "correct": [
+        "پاسپورٹ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "پاسپورٹ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "ur": "",
+      "correct": [
+        "دیوار"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دیوار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "ur": "",
+      "correct": [
+        "سفر"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سفر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "ur": "",
+      "correct": [
+        "سوٹ کیس"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سوٹ کیس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "ur": "",
+      "correct": [
+        "رسم و رواج"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رسم و رواج"
+    }
+  ]
+}

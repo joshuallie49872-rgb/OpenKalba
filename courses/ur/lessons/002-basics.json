@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ایک",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "ایک"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بلیک سائیڈ",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "بلیک سائیڈ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "تین",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "تین"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "چار",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "چار"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پانچ",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "پانچ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سرخ",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "سرخ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "نیلا",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "نیلا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سبز",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "سبز"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کالا",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "کالا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سفيد",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "سفيد"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ماں",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "ماں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ابو",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "ابو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بھائی",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "بھائی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بہن",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "بہن"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "خاندان",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "خاندان"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پانی",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "پانی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کافی",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "کافی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "روٹی",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "روٹی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ہوٹل",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "ہوٹل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ٹکٹ",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "ٹکٹ"
+    }
+  ]
+}

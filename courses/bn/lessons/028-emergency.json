@@ -1,0 +1,286 @@
+{
+  "id": "028-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সাহায্য",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "সাহায্য"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পুলিশ",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "পুলিশ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হাসপাতাল",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "হাসপাতাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আগুন",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "আগুন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিপদ",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "বিপদ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "bn": "",
+      "correct": [
+        "সাহায্য"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সাহায্য"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "bn": "",
+      "correct": [
+        "পুলিশ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পুলিশ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "bn": "",
+      "correct": [
+        "হাসপাতাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "হাসপাতাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "bn": "",
+      "correct": [
+        "আগুন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আগুন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "bn": "",
+      "correct": [
+        "বিপদ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিপদ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সাহায্য",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "সাহায্য"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পুলিশ",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "পুলিশ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "হাসপাতাল",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "হাসপাতাল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আগুন",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "আগুন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বিপদ",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "বিপদ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "bn": "",
+      "correct": [
+        "সাহায্য"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সাহায্য"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "bn": "",
+      "correct": [
+        "পুলিশ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পুলিশ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "bn": "",
+      "correct": [
+        "হাসপাতাল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "হাসপাতাল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "bn": "",
+      "correct": [
+        "আগুন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আগুন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "bn": "",
+      "correct": [
+        "বিপদ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বিপদ"
+    }
+  ]
+}

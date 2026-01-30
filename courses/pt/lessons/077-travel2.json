@@ -1,0 +1,286 @@
+{
+  "id": "077-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Passaporte",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "Passaporte"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Muralhas",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "Muralhas"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Viagens",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "Viagens"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Mala",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "Mala"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Costumes",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "Costumes"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "pt": "",
+      "correct": [
+        "Passaporte"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Passaporte"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "pt": "",
+      "correct": [
+        "Muralha"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Muralha"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "pt": "",
+      "correct": [
+        "Viagens"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Viagens"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "pt": "",
+      "correct": [
+        "Mala"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Mala"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "pt": "",
+      "correct": [
+        "Costumes"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Costumes"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Passaporte",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "Passaporte"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Muralhas",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "Muralhas"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Viagens",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "Viagens"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Mala",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "Mala"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Costumes",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "Costumes"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "pt": "",
+      "correct": [
+        "Passaporte"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Passaporte"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "pt": "",
+      "correct": [
+        "Muralha"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Muralha"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "pt": "",
+      "correct": [
+        "Viagens"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Viagens"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "pt": "",
+      "correct": [
+        "Mala"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Mala"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "pt": "",
+      "correct": [
+        "Costumes"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Costumes"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "095-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Esquerda",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "Esquerda"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Certo",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "Certo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Direto",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "Direto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Voltar",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "Voltar"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Artes",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "Artes"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "pt": "",
+      "correct": [
+        "Esquerda"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Esquerda"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "pt": "",
+      "correct": [
+        "Certo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Certo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "pt": "",
+      "correct": [
+        "Direto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Direto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "pt": "",
+      "correct": [
+        "Voltar"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Voltar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "pt": "",
+      "correct": [
+        "Artes"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Artes"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Esquerda",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "Esquerda"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Certo",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "Certo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Direto",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "Direto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Voltar",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "Voltar"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Artes",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "Artes"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "pt": "",
+      "correct": [
+        "Esquerda"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Esquerda"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "pt": "",
+      "correct": [
+        "Certo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Certo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "pt": "",
+      "correct": [
+        "Direto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Direto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "pt": "",
+      "correct": [
+        "Voltar"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Voltar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "pt": "",
+      "correct": [
+        "Artes"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Artes"
+    }
+  ]
+}

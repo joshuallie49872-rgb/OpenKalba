@@ -1,0 +1,286 @@
+{
+  "id": "149-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সকালের নাস্তা",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "সকালের নাস্তা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মধ্যাহ্নভোজ",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "মধ্যাহ্নভোজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রাতের খাবার",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "রাতের খাবার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "স্বাদ",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "স্বাদ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ক্ষুধার্ত",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "ক্ষুধার্ত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "bn": "",
+      "correct": [
+        "সকালের নাস্তা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সকালের নাস্তা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "bn": "",
+      "correct": [
+        "মধ্যাহ্নভোজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মধ্যাহ্নভোজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "bn": "",
+      "correct": [
+        "রাতের খাবার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রাতের খাবার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "bn": "",
+      "correct": [
+        "স্বাদ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "স্বাদ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "bn": "",
+      "correct": [
+        "ক্ষুধার্ত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ক্ষুধার্ত"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সকালের নাস্তা",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "সকালের নাস্তা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মধ্যাহ্নভোজ",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "মধ্যাহ্নভোজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "রাতের খাবার",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "রাতের খাবার"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "স্বাদ",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "স্বাদ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ক্ষুধার্ত",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "ক্ষুধার্ত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "bn": "",
+      "correct": [
+        "সকালের নাস্তা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সকালের নাস্তা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "bn": "",
+      "correct": [
+        "মধ্যাহ্নভোজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মধ্যাহ্নভোজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "bn": "",
+      "correct": [
+        "রাতের খাবার"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "রাতের খাবার"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "bn": "",
+      "correct": [
+        "স্বাদ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "স্বাদ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "bn": "",
+      "correct": [
+        "ক্ষুধার্ত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ক্ষুধার্ত"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "017-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি কাজ করি",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "আমি কাজ করি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঘুম",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "ঘুম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "খাও",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "খাও"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "যাও",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "যাও"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি উঠে পড়ো",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "আমি উঠে পড়ো"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "bn": "",
+      "correct": [
+        "আমি কাজ করি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি কাজ করি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "bn": "",
+      "correct": [
+        "ঘুম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঘুম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "bn": "",
+      "correct": [
+        "খাও"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "খাও"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "bn": "",
+      "correct": [
+        "যাও"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "যাও"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "bn": "",
+      "correct": [
+        "আমি উঠে পড়ো"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি উঠে পড়ো"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি কাজ করি",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "আমি কাজ করি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঘুম",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "ঘুম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "খাও",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "খাও"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "যাও",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "যাও"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি উঠে পড়ো",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "আমি উঠে পড়ো"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "bn": "",
+      "correct": [
+        "আমি কাজ করি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি কাজ করি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "bn": "",
+      "correct": [
+        "ঘুম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঘুম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "bn": "",
+      "correct": [
+        "খাও"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "খাও"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "bn": "",
+      "correct": [
+        "যাও"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "যাও"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "bn": "",
+      "correct": [
+        "আমি উঠে পড়ো"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি উঠে পড়ো"
+    }
+  ]
+}

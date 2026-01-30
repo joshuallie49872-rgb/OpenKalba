@@ -1,0 +1,286 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Aqui",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "Aqui"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Dez",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "Dez"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Esquerda",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "Esquerda"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Certo",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "Certo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Direto",
+      "lt": "",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "Direto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cidade",
+      "lt": "",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "tts": "Cidade"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Rua",
+      "lt": "",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "tts": "Rua"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Estação",
+      "lt": "",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "tts": "Estação"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Aeroporto",
+      "lt": "",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "tts": "Aeroporto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hotel",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "Hotel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "here",
+      "pt": "",
+      "correct": [
+        "Aqui"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Aqui"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "there",
+      "pt": "",
+      "correct": [
+        "Dez"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Dez"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "pt": "",
+      "correct": [
+        "Esquerda"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Esquerda"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "pt": "",
+      "correct": [
+        "Certo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Certo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "pt": "",
+      "correct": [
+        "Direto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Direto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "city",
+      "pt": "",
+      "correct": [
+        "Cidade"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cidade"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "street",
+      "pt": "",
+      "correct": [
+        "Rua"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Rua"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hotel",
+      "pt": "",
+      "correct": [
+        "Hotel"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hotel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "station",
+      "pt": "",
+      "correct": [
+        "Estação"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Estação"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "airport",
+      "pt": "",
+      "correct": [
+        "Aeroporto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Aeroporto"
+    }
+  ]
+}

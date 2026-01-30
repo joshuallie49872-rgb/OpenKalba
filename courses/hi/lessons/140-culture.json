@@ -1,0 +1,286 @@
+{
+  "id": "140-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "समारोह",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "समारोह"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दस्‍तूर",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "दस्‍तूर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परम्परा",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "परम्परा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "फ़ुरसत",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "फ़ुरसत"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आयोजन",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "आयोजन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "hi": "",
+      "correct": [
+        "समारोह"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "समारोह"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "hi": "",
+      "correct": [
+        "दस्‍तूर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दस्‍तूर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "hi": "",
+      "correct": [
+        "परम्परा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परम्परा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "hi": "",
+      "correct": [
+        "फ़ुरसत"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "फ़ुरसत"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "hi": "",
+      "correct": [
+        "आयोजन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आयोजन"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "समारोह",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "समारोह"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "दस्‍तूर",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "दस्‍तूर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परम्परा",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "परम्परा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "फ़ुरसत",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "फ़ुरसत"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आयोजन",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "आयोजन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "hi": "",
+      "correct": [
+        "समारोह"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "समारोह"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "hi": "",
+      "correct": [
+        "दस्‍तूर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "दस्‍तूर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "hi": "",
+      "correct": [
+        "परम्परा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परम्परा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "hi": "",
+      "correct": [
+        "फ़ुरसत"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "फ़ुरसत"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "hi": "",
+      "correct": [
+        "आयोजन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आयोजन"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "109-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Obra",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "Obra"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Escritório",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "Escritório"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Reunião",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "Reunião"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "E-mail",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "E-mail"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Projeto",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "Projeto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "pt": "",
+      "correct": [
+        "Obra"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Obra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "pt": "",
+      "correct": [
+        "Escritório"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Escritório"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "pt": "",
+      "correct": [
+        "Reunião"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Reunião"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "pt": "",
+      "correct": [
+        "E-mail"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "E-mail"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "pt": "",
+      "correct": [
+        "Projeto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Projeto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Obra",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "Obra"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Escritório",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "Escritório"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Reunião",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "Reunião"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "E-mail",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "E-mail"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Projeto",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "Projeto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "pt": "",
+      "correct": [
+        "Obra"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Obra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "pt": "",
+      "correct": [
+        "Escritório"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Escritório"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "pt": "",
+      "correct": [
+        "Reunião"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Reunião"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "pt": "",
+      "correct": [
+        "E-mail"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "E-mail"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "pt": "",
+      "correct": [
+        "Projeto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Projeto"
+    }
+  ]
+}

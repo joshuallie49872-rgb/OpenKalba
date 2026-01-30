@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ميں چاہتی ہوں",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "ميں چاہتی ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "میرے پاس ہے",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "میرے پاس ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کھاؤ",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "کھاؤ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پیو",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "پیو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "پانی",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "پانی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کافی",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "کافی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بیئر",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "بیئر"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "روٹی",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "روٹی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I want water",
+      "ur": "",
+      "correct": [
+        "مجھے پانی چاہیے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے پانی چاہیے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I want coffee",
+      "ur": "",
+      "correct": [
+        "مجھے کافی چاہیے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے کافی چاہیے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "یہ لو",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "یہ لو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دس",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "دس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "here water",
+      "ur": "",
+      "correct": [
+        "یہ پانی ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "یہ پانی ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "there coffee",
+      "ur": "",
+      "correct": [
+        "کافی ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کافی ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "براہ کرم پانی دیں۔",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "براہ کرم پانی دیں۔"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے ایک بیئر چاہیے",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "مجھے ایک بیئر چاہیے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I drink vandenį",
+      "ur": "",
+      "correct": [
+        "میں پانی پیتا ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں پانی پیتا ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat bread",
+      "ur": "",
+      "correct": [
+        "میں روٹی کھاتا ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں روٹی کھاتا ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اچھا",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "اچھا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "ur": "",
+      "correct": [
+        "اچھا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اچھا"
+    }
+  ]
+}

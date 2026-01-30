@@ -1,0 +1,286 @@
+{
+  "id": "081-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কাজ",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "কাজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অফিস",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "অফিস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মিটিং",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "মিটিং"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ই-মেইল",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "ই-মেইল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "প্রজেক্ট",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "প্রজেক্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "bn": "",
+      "correct": [
+        "কাজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কাজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "bn": "",
+      "correct": [
+        "অফিস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অফিস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "bn": "",
+      "correct": [
+        "মিটিং"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মিটিং"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "bn": "",
+      "correct": [
+        "ই-মেইল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ই-মেইল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "bn": "",
+      "correct": [
+        "প্রজেক্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "প্রজেক্ট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কাজ",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "কাজ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অফিস",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "অফিস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মিটিং",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "মিটিং"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ই-মেইল",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "ই-মেইল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "প্রজেক্ট",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "প্রজেক্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "bn": "",
+      "correct": [
+        "কাজ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কাজ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "bn": "",
+      "correct": [
+        "অফিস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অফিস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "bn": "",
+      "correct": [
+        "মিটিং"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মিটিং"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "bn": "",
+      "correct": [
+        "ই-মেইল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ই-মেইল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "bn": "",
+      "correct": [
+        "প্রজেক্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "প্রজেক্ট"
+    }
+  ]
+}

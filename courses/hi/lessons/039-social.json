@@ -1,0 +1,286 @@
+{
+  "id": "039-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मित्र",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "मित्र"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परिवार",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "परिवार"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "नाम",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "नाम"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सुंदर",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पूरा करना",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "पूरा करना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "hi": "",
+      "correct": [
+        "मित्र"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मित्र"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "hi": "",
+      "correct": [
+        "परिवार"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परिवार"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "hi": "",
+      "correct": [
+        "नाम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "नाम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "hi": "",
+      "correct": [
+        "सुंदर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "hi": "",
+      "correct": [
+        "पूरा करना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पूरा करना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "मित्र",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "मित्र"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परिवार",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "परिवार"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "नाम",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "नाम"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सुंदर",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "पूरा करना",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "पूरा करना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "hi": "",
+      "correct": [
+        "मित्र"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "मित्र"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "hi": "",
+      "correct": [
+        "परिवार"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परिवार"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "hi": "",
+      "correct": [
+        "नाम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "नाम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "hi": "",
+      "correct": [
+        "सुंदर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "hi": "",
+      "correct": [
+        "पूरा करना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "पूरा करना"
+    }
+  ]
+}

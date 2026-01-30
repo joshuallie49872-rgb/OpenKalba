@@ -1,0 +1,286 @@
+{
+  "id": "096-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "फ़ोन",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "फ़ोन"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कंप्‍यूटर",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "कंप्‍यूटर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "इंटरनेट",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "इंटरनेट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कार्यक्रम",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "कार्यक्रम"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "संदेश",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "संदेश"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "hi": "",
+      "correct": [
+        "फ़ोन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "फ़ोन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "hi": "",
+      "correct": [
+        "कंप्‍यूटर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कंप्‍यूटर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "hi": "",
+      "correct": [
+        "इंटरनेट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "इंटरनेट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "hi": "",
+      "correct": [
+        "कार्यक्रम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कार्यक्रम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "hi": "",
+      "correct": [
+        "संदेश"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "संदेश"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "फ़ोन",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "फ़ोन"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कंप्‍यूटर",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "कंप्‍यूटर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "इंटरनेट",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "इंटरनेट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कार्यक्रम",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "कार्यक्रम"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "संदेश",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "संदेश"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "hi": "",
+      "correct": [
+        "फ़ोन"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "फ़ोन"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "hi": "",
+      "correct": [
+        "कंप्‍यूटर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कंप्‍यूटर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "hi": "",
+      "correct": [
+        "इंटरनेट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "इंटरनेट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "hi": "",
+      "correct": [
+        "कार्यक्रम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कार्यक्रम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "hi": "",
+      "correct": [
+        "संदेश"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "संदेश"
+    }
+  ]
+}

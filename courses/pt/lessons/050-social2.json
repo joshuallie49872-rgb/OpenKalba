@@ -1,0 +1,286 @@
+{
+  "id": "050-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "feliz",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "feliz"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "triste",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "triste"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "cansado",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "cansado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Fico feliz",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "Fico feliz"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Tenho medo",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "Tenho medo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "pt": "",
+      "correct": [
+        "feliz"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "feliz"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "pt": "",
+      "correct": [
+        "triste"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "triste"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "pt": "",
+      "correct": [
+        "cansado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "cansado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "pt": "",
+      "correct": [
+        "Fico feliz"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Fico feliz"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "pt": "",
+      "correct": [
+        "Tenho medo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Tenho medo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "feliz",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "feliz"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "triste",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "triste"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "cansado",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "cansado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Fico feliz",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "Fico feliz"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Tenho medo",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "Tenho medo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "pt": "",
+      "correct": [
+        "feliz"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "feliz"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "pt": "",
+      "correct": [
+        "triste"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "triste"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "pt": "",
+      "correct": [
+        "cansado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "cansado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "pt": "",
+      "correct": [
+        "Fico feliz"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Fico feliz"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "pt": "",
+      "correct": [
+        "Tenho medo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Tenho medo"
+    }
+  ]
+}

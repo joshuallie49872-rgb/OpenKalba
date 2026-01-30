@@ -1,0 +1,286 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hoje",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Amanhã",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Posteriormente",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "Posteriormente"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Estou planejando",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "Estou planejando"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Até mais",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "Até mais"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "pt": "",
+      "correct": [
+        "Hoje"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "pt": "",
+      "correct": [
+        "Amanhã"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "pt": "",
+      "correct": [
+        "Posteriormente"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Posteriormente"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "pt": "",
+      "correct": [
+        "Estou planejando"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Estou planejando"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "pt": "",
+      "correct": [
+        "Até mais"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Até mais"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hoje",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Amanhã",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Posteriormente",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "Posteriormente"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Estou planejando",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "Estou planejando"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Até mais",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "Até mais"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "pt": "",
+      "correct": [
+        "Hoje"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "pt": "",
+      "correct": [
+        "Amanhã"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "pt": "",
+      "correct": [
+        "Posteriormente"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Posteriormente"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "pt": "",
+      "correct": [
+        "Estou planejando"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Estou planejando"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "pt": "",
+      "correct": [
+        "Até mais"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Até mais"
+    }
+  ]
+}

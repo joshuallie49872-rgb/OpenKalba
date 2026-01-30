@@ -1,0 +1,286 @@
+{
+  "id": "162-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমার মনে হয়",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "আমার মনে হয়"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি রাজী",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "আমি রাজী"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি একমত নই",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "আমি একমত নই"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মতামত",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "মতামত"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "যুক্তি",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "যুক্তি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "bn": "",
+      "correct": [
+        "আমার মনে হয়"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমার মনে হয়"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "bn": "",
+      "correct": [
+        "আমি রাজী"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি রাজী"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "bn": "",
+      "correct": [
+        "আমি একমত নই"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি একমত নই"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "bn": "",
+      "correct": [
+        "মতামত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মতামত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "bn": "",
+      "correct": [
+        "যুক্তি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "যুক্তি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমার মনে হয়",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "আমার মনে হয়"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি রাজী",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "আমি রাজী"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি একমত নই",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "আমি একমত নই"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "মতামত",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "মতামত"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "যুক্তি",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "যুক্তি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "bn": "",
+      "correct": [
+        "আমার মনে হয়"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমার মনে হয়"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "bn": "",
+      "correct": [
+        "আমি রাজী"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি রাজী"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "bn": "",
+      "correct": [
+        "আমি একমত নই"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি একমত নই"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "bn": "",
+      "correct": [
+        "মতামত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "মতামত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "bn": "",
+      "correct": [
+        "যুক্তি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "যুক্তি"
+    }
+  ]
+}

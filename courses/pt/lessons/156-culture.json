@@ -1,0 +1,286 @@
+{
+  "id": "156-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Celebração",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "Celebração"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Tradição",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "Tradição"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Costume",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "Costume"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Lazer",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "Lazer"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Evento",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "Evento"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "pt": "",
+      "correct": [
+        "Celebração"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Celebração"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "pt": "",
+      "correct": [
+        "Tradição"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Tradição"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "pt": "",
+      "correct": [
+        "Costume"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Costume"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "pt": "",
+      "correct": [
+        "Lazer"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Lazer"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "pt": "",
+      "correct": [
+        "Evento"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Evento"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Celebração",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "Celebração"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Tradição",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "Tradição"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Costume",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "Costume"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Lazer",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "Lazer"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Evento",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "Evento"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "pt": "",
+      "correct": [
+        "Celebração"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Celebração"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "pt": "",
+      "correct": [
+        "Tradição"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Tradição"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "pt": "",
+      "correct": [
+        "Costume"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Costume"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "pt": "",
+      "correct": [
+        "Lazer"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Lazer"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "pt": "",
+      "correct": [
+        "Evento"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Evento"
+    }
+  ]
+}

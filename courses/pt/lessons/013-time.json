@@ -1,0 +1,286 @@
+{
+  "id": "013-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hoje",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Amanhã",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ontem",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "Ontem"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Agora",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "Agora"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hora",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "Hora"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "pt": "",
+      "correct": [
+        "Hoje"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "pt": "",
+      "correct": [
+        "Amanhã"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "pt": "",
+      "correct": [
+        "Ontem"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ontem"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "pt": "",
+      "correct": [
+        "Agora"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Agora"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "pt": "",
+      "correct": [
+        "Hora"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hora"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hoje",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Amanhã",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Ontem",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "Ontem"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Agora",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "Agora"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Hora",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "Hora"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "pt": "",
+      "correct": [
+        "Hoje"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hoje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "pt": "",
+      "correct": [
+        "Amanhã"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Amanhã"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "pt": "",
+      "correct": [
+        "Ontem"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Ontem"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "pt": "",
+      "correct": [
+        "Agora"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Agora"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "pt": "",
+      "correct": [
+        "Hora"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Hora"
+    }
+  ]
+}

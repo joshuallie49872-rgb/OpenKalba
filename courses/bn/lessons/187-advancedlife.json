@@ -1,0 +1,286 @@
+{
+  "id": "187-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সমাধান",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "সমাধান"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সমস্যা",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "সমস্যা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "নির্বাচন",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "নির্বাচন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অভিজ্ঞতা",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "অভিজ্ঞতা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ফলাফল",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "ফলাফল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "bn": "",
+      "correct": [
+        "সমাধান"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সমাধান"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "bn": "",
+      "correct": [
+        "সমস্যা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সমস্যা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "bn": "",
+      "correct": [
+        "নির্বাচন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "নির্বাচন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "bn": "",
+      "correct": [
+        "অভিজ্ঞতা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অভিজ্ঞতা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "bn": "",
+      "correct": [
+        "ফলাফল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ফলাফল"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সমাধান",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "সমাধান"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সমস্যা",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "সমস্যা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "নির্বাচন",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "নির্বাচন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অভিজ্ঞতা",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "অভিজ্ঞতা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ফলাফল",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "ফলাফল"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "bn": "",
+      "correct": [
+        "সমাধান"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সমাধান"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "bn": "",
+      "correct": [
+        "সমস্যা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সমস্যা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "bn": "",
+      "correct": [
+        "নির্বাচন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "নির্বাচন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "bn": "",
+      "correct": [
+        "অভিজ্ঞতা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অভিজ্ঞতা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "bn": "",
+      "correct": [
+        "ফলাফল"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ফলাফল"
+    }
+  ]
+}

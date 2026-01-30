@@ -1,0 +1,286 @@
+{
+  "id": "014-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आज",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "भविष्‍य",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बीता हुआ कल",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "बीता हुआ कल"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अब",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "अब"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "घंटा",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "घंटा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "hi": "",
+      "correct": [
+        "आज"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "hi": "",
+      "correct": [
+        "भविष्‍य"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "hi": "",
+      "correct": [
+        "बीता हुआ कल"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बीता हुआ कल"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "hi": "",
+      "correct": [
+        "अब"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अब"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "hi": "",
+      "correct": [
+        "घंटा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "घंटा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "आज",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "भविष्‍य",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बीता हुआ कल",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "बीता हुआ कल"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अब",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "अब"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "घंटा",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "घंटा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "hi": "",
+      "correct": [
+        "आज"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "आज"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "hi": "",
+      "correct": [
+        "भविष्‍य"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "भविष्‍य"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "hi": "",
+      "correct": [
+        "बीता हुआ कल"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बीता हुआ कल"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "hi": "",
+      "correct": [
+        "अब"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अब"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "hi": "",
+      "correct": [
+        "घंटा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "घंटा"
+    }
+  ]
+}

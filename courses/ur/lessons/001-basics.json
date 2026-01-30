@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ہیلو",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "ہیلو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "شکریہ",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "شکریہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جی ہاں",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جی ہاں",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "برائے مہربانی",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "برائے مہربانی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "معذرت",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "معذرت"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "خدا حافظ",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "خدا حافظ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "تو",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "تو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اچھا",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "اچھا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "برا",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "برا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "ur": "",
+      "correct": [
+        "ہیلو"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ہیلو"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "ur": "",
+      "correct": [
+        "شکریہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "شکریہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "ur": "",
+      "correct": [
+        "جی ہاں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "ur": "",
+      "correct": [
+        "جی ہاں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جی ہاں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "ur": "",
+      "correct": [
+        "برائے مہربانی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "برائے مہربانی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "ur": "",
+      "correct": [
+        "معذرت"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "معذرت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "ur": "",
+      "correct": [
+        "خدا حافظ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "خدا حافظ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "ur": "",
+      "correct": [
+        "تو"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "تو"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "ur": "",
+      "correct": [
+        "اچھا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اچھا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "ur": "",
+      "correct": [
+        "برا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "برا"
+    }
+  ]
+}

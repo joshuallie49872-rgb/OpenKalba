@@ -1,0 +1,286 @@
+{
+  "id": "123-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "surpreso",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "surpreso"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "irritado",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "irritado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "calma",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "calma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Preocupado",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "Preocupado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "satisfeito",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "satisfeito"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "pt": "",
+      "correct": [
+        "surpreso"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "surpreso"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "pt": "",
+      "correct": [
+        "irritado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "irritado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "pt": "",
+      "correct": [
+        "calma"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "calma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "pt": "",
+      "correct": [
+        "Preocupado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Preocupado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "pt": "",
+      "correct": [
+        "satisfeito"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "satisfeito"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "surpreso",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "surpreso"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "irritado",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "irritado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "calma",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "calma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Preocupado",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "Preocupado"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "satisfeito",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "satisfeito"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "pt": "",
+      "correct": [
+        "surpreso"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "surpreso"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "pt": "",
+      "correct": [
+        "irritado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "irritado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "pt": "",
+      "correct": [
+        "calma"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "calma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "pt": "",
+      "correct": [
+        "Preocupado"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Preocupado"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "pt": "",
+      "correct": [
+        "satisfeito"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "satisfeito"
+    }
+  ]
+}

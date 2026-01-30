@@ -1,0 +1,286 @@
+{
+  "id": "054-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "خوش",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "خوش"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اداس",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "اداس"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "تھکا ہوا ہوں",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "تھکا ہوا ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے خوشی ہے",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "مجھے خوشی ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے ڈر ہے",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "مجھے ڈر ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "ur": "",
+      "correct": [
+        "خوش"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "خوش"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "ur": "",
+      "correct": [
+        "اداس"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اداس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "ur": "",
+      "correct": [
+        "تھکا ہوا ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "تھکا ہوا ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "ur": "",
+      "correct": [
+        "مجھے خوشی ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے خوشی ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "ur": "",
+      "correct": [
+        "مجھے ڈر ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے ڈر ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "خوش",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "خوش"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اداس",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "اداس"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "تھکا ہوا ہوں",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "تھکا ہوا ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے خوشی ہے",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "مجھے خوشی ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے ڈر ہے",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "مجھے ڈر ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "ur": "",
+      "correct": [
+        "خوش"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "خوش"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "ur": "",
+      "correct": [
+        "اداس"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اداس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "ur": "",
+      "correct": [
+        "تھکا ہوا ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "تھکا ہوا ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "ur": "",
+      "correct": [
+        "مجھے خوشی ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے خوشی ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "ur": "",
+      "correct": [
+        "مجھے ڈر ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے ڈر ہے"
+    }
+  ]
+}

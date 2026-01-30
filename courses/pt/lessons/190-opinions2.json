@@ -1,0 +1,286 @@
+{
+  "id": "190-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu acho",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "Eu acho"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Concordo",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "Concordo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Discordo",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "Discordo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Opinião",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "Opinião"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Argumento",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "Argumento"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "pt": "",
+      "correct": [
+        "Eu acho"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu acho"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "pt": "",
+      "correct": [
+        "Concordo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Concordo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "pt": "",
+      "correct": [
+        "Discordo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Discordo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "pt": "",
+      "correct": [
+        "Opinião"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Opinião"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "pt": "",
+      "correct": [
+        "Argumento"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Argumento"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Eu acho",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "Eu acho"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Concordo",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "Concordo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Discordo",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "Discordo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Opinião",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "Opinião"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Argumento",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "Argumento"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "pt": "",
+      "correct": [
+        "Eu acho"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Eu acho"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "pt": "",
+      "correct": [
+        "Concordo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Concordo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "pt": "",
+      "correct": [
+        "Discordo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Discordo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "pt": "",
+      "correct": [
+        "Opinião"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Opinião"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "pt": "",
+      "correct": [
+        "Argumento"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Argumento"
+    }
+  ]
+}

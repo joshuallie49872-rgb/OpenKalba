@@ -1,0 +1,286 @@
+{
+  "id": "050-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "খুশি",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "খুশি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দুঃখজনক",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "দুঃখজনক"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ক্লান্ত",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "ক্লান্ত"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি খুশি",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "আমি খুশি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি আশংকা করছি",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "আমি আশংকা করছি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "bn": "",
+      "correct": [
+        "খুশি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "খুশি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "bn": "",
+      "correct": [
+        "দুঃখজনক"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দুঃখজনক"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "bn": "",
+      "correct": [
+        "ক্লান্ত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ক্লান্ত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "bn": "",
+      "correct": [
+        "আমি খুশি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি খুশি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "bn": "",
+      "correct": [
+        "আমি আশংকা করছি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি আশংকা করছি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "খুশি",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "খুশি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "দুঃখজনক",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "দুঃখজনক"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ক্লান্ত",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "ক্লান্ত"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি খুশি",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "আমি খুশি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি আশংকা করছি",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "আমি আশংকা করছি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "bn": "",
+      "correct": [
+        "খুশি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "খুশি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "bn": "",
+      "correct": [
+        "দুঃখজনক"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "দুঃখজনক"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "bn": "",
+      "correct": [
+        "ক্লান্ত"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ক্লান্ত"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "bn": "",
+      "correct": [
+        "আমি খুশি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি খুশি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "bn": "",
+      "correct": [
+        "আমি আশংকা করছি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি আশংকা করছি"
+    }
+  ]
+}

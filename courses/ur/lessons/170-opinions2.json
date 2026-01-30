@@ -1,0 +1,286 @@
+{
+  "id": "170-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ميرے خيال سے",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "ميرے خيال سے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ميں مانتی ہوں",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "ميں مانتی ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "میں متفق نہیں ہوں",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "میں متفق نہیں ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رائے",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "رائے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دلیل",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "دلیل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "ur": "",
+      "correct": [
+        "ميرے خيال سے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ميرے خيال سے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "ur": "",
+      "correct": [
+        "ميں مانتی ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ميں مانتی ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "ur": "",
+      "correct": [
+        "میں متفق نہیں ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں متفق نہیں ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "ur": "",
+      "correct": [
+        "رائے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رائے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "ur": "",
+      "correct": [
+        "دلیل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دلیل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ميرے خيال سے",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "ميرے خيال سے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ميں مانتی ہوں",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "ميں مانتی ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "میں متفق نہیں ہوں",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "میں متفق نہیں ہوں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "رائے",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "رائے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دلیل",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "دلیل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "ur": "",
+      "correct": [
+        "ميرے خيال سے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ميرے خيال سے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "ur": "",
+      "correct": [
+        "ميں مانتی ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ميں مانتی ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "ur": "",
+      "correct": [
+        "میں متفق نہیں ہوں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں متفق نہیں ہوں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "ur": "",
+      "correct": [
+        "رائے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "رائے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "ur": "",
+      "correct": [
+        "دلیل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دلیل"
+    }
+  ]
+}

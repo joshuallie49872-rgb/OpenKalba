@@ -1,0 +1,286 @@
+{
+  "id": "179-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "حل",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "حل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مسئلہ",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "مسئلہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "انتخاب",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "انتخاب"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "تجربہ",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "تجربہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "نتیجہ",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "نتیجہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "ur": "",
+      "correct": [
+        "حل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "حل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "ur": "",
+      "correct": [
+        "مسئلہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مسئلہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "ur": "",
+      "correct": [
+        "انتخاب"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "انتخاب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "ur": "",
+      "correct": [
+        "تجربہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "تجربہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "ur": "",
+      "correct": [
+        "نتیجہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "نتیجہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "حل",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "حل"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مسئلہ",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "مسئلہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "انتخاب",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "انتخاب"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "تجربہ",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "تجربہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "نتیجہ",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "نتیجہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "ur": "",
+      "correct": [
+        "حل"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "حل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "ur": "",
+      "correct": [
+        "مسئلہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مسئلہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "ur": "",
+      "correct": [
+        "انتخاب"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "انتخاب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "ur": "",
+      "correct": [
+        "تجربہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "تجربہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "ur": "",
+      "correct": [
+        "نتیجہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "نتیجہ"
+    }
+  ]
+}

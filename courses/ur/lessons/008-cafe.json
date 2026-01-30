@@ -1,0 +1,286 @@
+{
+  "id": "008-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "برائے مہربانی",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "برائے مہربانی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مینو",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "مینو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اکاؤنٹ",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "اکاؤنٹ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جدول",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "جدول"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کافی",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "کافی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "menu",
+      "ur": "",
+      "correct": [
+        "مینو"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مینو"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bill",
+      "ur": "",
+      "correct": [
+        "اکاؤنٹ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اکاؤنٹ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "table",
+      "ur": "",
+      "correct": [
+        "جدول"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جدول"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "ur": "",
+      "correct": [
+        "کافی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کافی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "ur": "",
+      "correct": [
+        "برائے مہربانی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "برائے مہربانی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "برائے مہربانی",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "برائے مہربانی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مینو",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "مینو"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اکاؤنٹ",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "اکاؤنٹ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "جدول",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "جدول"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "کافی",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "کافی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "menu",
+      "ur": "",
+      "correct": [
+        "مینو"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مینو"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bill",
+      "ur": "",
+      "correct": [
+        "اکاؤنٹ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اکاؤنٹ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "table",
+      "ur": "",
+      "correct": [
+        "جدول"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "جدول"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "ur": "",
+      "correct": [
+        "کافی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "کافی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "ur": "",
+      "correct": [
+        "برائے مہربانی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "برائے مہربانی"
+    }
+  ]
+}

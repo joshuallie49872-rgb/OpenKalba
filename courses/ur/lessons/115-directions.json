@@ -1,0 +1,286 @@
+{
+  "id": "115-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بائیں",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "بائیں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دائیں",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "دائیں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سیدھا",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "سیدھا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "واپس",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "واپس"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "فنون",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "فنون"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "ur": "",
+      "correct": [
+        "بائیں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بائیں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "ur": "",
+      "correct": [
+        "دائیں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دائیں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "ur": "",
+      "correct": [
+        "سیدھا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سیدھا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "ur": "",
+      "correct": [
+        "واپس"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "واپس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "ur": "",
+      "correct": [
+        "فنون"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "فنون"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "بائیں",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "بائیں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "دائیں",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "دائیں"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "سیدھا",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "سیدھا"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "واپس",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "واپس"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "فنون",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "فنون"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "ur": "",
+      "correct": [
+        "بائیں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "بائیں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "ur": "",
+      "correct": [
+        "دائیں"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "دائیں"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "ur": "",
+      "correct": [
+        "سیدھا"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "سیدھا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "ur": "",
+      "correct": [
+        "واپس"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "واپس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "ur": "",
+      "correct": [
+        "فنون"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "فنون"
+    }
+  ]
+}

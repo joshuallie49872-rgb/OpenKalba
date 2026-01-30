@@ -1,0 +1,286 @@
+{
+  "id": "110-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "घर",
+      "lt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अपार्टमेंट",
+      "lt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tts": "अपार्टमेंट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "रसोई-घर",
+      "lt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tts": "रसोई-घर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "शौचालय",
+      "lt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tts": "शौचालय"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सफ़ाई",
+      "lt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tts": "सफ़ाई"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "home",
+      "hi": "",
+      "correct": [
+        "घर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "apartment",
+      "hi": "",
+      "correct": [
+        "अपार्टमेंट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अपार्टमेंट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "kitchen",
+      "hi": "",
+      "correct": [
+        "रसोई-घर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "रसोई-घर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bathroom",
+      "hi": "",
+      "correct": [
+        "शौचालय"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "शौचालय"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cleanliness",
+      "hi": "",
+      "correct": [
+        "सफ़ाई"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सफ़ाई"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "घर",
+      "lt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अपार्टमेंट",
+      "lt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tts": "अपार्टमेंट"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "रसोई-घर",
+      "lt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tts": "रसोई-घर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "शौचालय",
+      "lt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tts": "शौचालय"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सफ़ाई",
+      "lt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tts": "सफ़ाई"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "home",
+      "hi": "",
+      "correct": [
+        "घर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "घर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "apartment",
+      "hi": "",
+      "correct": [
+        "अपार्टमेंट"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अपार्टमेंट"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "kitchen",
+      "hi": "",
+      "correct": [
+        "रसोई-घर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "रसोई-घर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bathroom",
+      "hi": "",
+      "correct": [
+        "शौचालय"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "शौचालय"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cleanliness",
+      "hi": "",
+      "correct": [
+        "सफ़ाई"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सफ़ाई"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "052-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے پسند ہے",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ناپسندیدہ",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "ناپسندیدہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے پسند ہے",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "میں نہیں چاہتی",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "میں نہیں چاہتی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اہم",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "اہم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "ur": "",
+      "correct": [
+        "مجھے پسند ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "ur": "",
+      "correct": [
+        "ناپسندیدہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ناپسندیدہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "ur": "",
+      "correct": [
+        "مجھے پسند ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "ur": "",
+      "correct": [
+        "میں نہیں چاہتی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں نہیں چاہتی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "ur": "",
+      "correct": [
+        "اہم"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اہم"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے پسند ہے",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "ناپسندیدہ",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "ناپسندیدہ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "مجھے پسند ہے",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "میں نہیں چاہتی",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "میں نہیں چاہتی"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "ur": "اہم",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "اہم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "ur": "",
+      "correct": [
+        "مجھے پسند ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "ur": "",
+      "correct": [
+        "ناپسندیدہ"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "ناپسندیدہ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "ur": "",
+      "correct": [
+        "مجھے پسند ہے"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "مجھے پسند ہے"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "ur": "",
+      "correct": [
+        "میں نہیں چاہتی"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "میں نہیں چاہتی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "ur": "",
+      "correct": [
+        "اہم"
+      ],
+      "placeholder": "Type UR…",
+      "tts": "اہم"
+    }
+  ]
+}

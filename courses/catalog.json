@@ -6,273 +6,147 @@
       "name": "Lithuanian",
       "ready": true,
       "hasAudio": true,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "mx",
       "name": "Spanish",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "pl",
       "name": "Polish",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "ru",
       "name": "Russian",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "et",
       "name": "Estonian",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "lv",
       "name": "Latvian",
       "ready": true,
       "hasAudio": true,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "uk",
       "name": "Ukrainian",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "is",
       "name": "Icelandic",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "fr",
       "name": "French",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "fi",
       "name": "Finnish",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "se",
       "name": "Swedish",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "no",
       "name": "Norwegian",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     },
     {
       "code": "de",
       "name": "German",
       "ready": true,
-      "hasAudio": false,
-      "nativeOverlays": [
-        "en",
-        "mx",
-        "pl",
-        "ru",
-        "et",
-        "lv",
-        "uk",
-        "is",
-        "fr",
-        "fi",
-        "se",
-        "no",
-        "de"
-      ]
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "zh",
+      "name": "Chinese (Mandarin)",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "ready": true,
+      "hasAudio": true,
+      "nativeOverlays": ["en","mx","pl","ru","et","lv","uk","is","fr","fi","se","no","de","so","ga","cy"]
     }
   ]
 }

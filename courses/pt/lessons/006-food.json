@@ -1,0 +1,286 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Água",
+      "lt": "",
+      "choices": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "Água"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Café",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "Café"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Chá",
+      "lt": "",
+      "choices": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "correct": [
+        "tea"
+      ],
+      "type": "choose",
+      "tts": "Chá"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Cerveja",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "Cerveja"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Vinho",
+      "lt": "",
+      "choices": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "correct": [
+        "wine"
+      ],
+      "type": "choose",
+      "tts": "Vinho"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "water",
+      "pt": "",
+      "correct": [
+        "Água"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Água"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "pt": "",
+      "correct": [
+        "Café"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Café"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tea",
+      "pt": "",
+      "correct": [
+        "Chá"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Chá"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beer",
+      "pt": "",
+      "correct": [
+        "Cerveja"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Cerveja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "wine",
+      "pt": "",
+      "correct": [
+        "Vinho"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Vinho"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Pão",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "Pão"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "queijo",
+      "lt": "",
+      "choices": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "correct": [
+        "cheese"
+      ],
+      "type": "choose",
+      "tts": "queijo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Carne",
+      "lt": "",
+      "choices": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "meat"
+      ],
+      "type": "choose",
+      "tts": "Carne"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Peixes",
+      "lt": "",
+      "choices": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "fish"
+      ],
+      "type": "choose",
+      "tts": "Peixes"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bread",
+      "pt": "",
+      "correct": [
+        "Pão"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Pão"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheese",
+      "pt": "",
+      "correct": [
+        "queijo"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "queijo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meat",
+      "pt": "",
+      "correct": [
+        "Carne"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Carne"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fish",
+      "pt": "",
+      "correct": [
+        "Peixes"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Peixes"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Sabor",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "Sabor"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "pt": "",
+      "correct": [
+        "Sabor"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Sabor"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <!-- base: red rounded field -->
+  <path fill="#D80027" d="M32 5H4C1.791 5 0 6.791 0 9v18c0 2.209 1.791 4 4 4h28c2.209 0 4-1.791 4-4V9c0-2.209-1.791-4-4-4z"></path>
+  <!-- green hoist (approx 2/5 width) -->
+  <path fill="#006600" d="M4 5C1.791 5 0 6.791 0 9v18c0 2.209 1.791 4 4 4h10V5H4z"></path>
+
+  <!-- simplified armillary/small shield marker -->
+  <circle cx="14" cy="18" r="3.6" fill="#FFCC00"></circle>
+  <circle cx="14" cy="18" r="2.6" fill="#FFFFFF"></circle>
+  <rect x="12.9" y="16.5" width="2.2" height="3" rx="0.6" fill="#0052B4"></rect>
+</svg>

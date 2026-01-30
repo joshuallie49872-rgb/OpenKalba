@@ -1,0 +1,286 @@
+{
+  "id": "153-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Café da manhã",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "Café da manhã"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Almoço",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "Almoço"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Jantar",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "Jantar"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Sabor",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "Sabor"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "faminto",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "faminto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "pt": "",
+      "correct": [
+        "Café da manhã"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Café da manhã"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "pt": "",
+      "correct": [
+        "Almoço"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Almoço"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "pt": "",
+      "correct": [
+        "Jantar"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Jantar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "pt": "",
+      "correct": [
+        "Sabor"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Sabor"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "pt": "",
+      "correct": [
+        "faminto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "faminto"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Café da manhã",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "Café da manhã"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Almoço",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "Almoço"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Jantar",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "Jantar"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "Sabor",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "Sabor"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "pt": "faminto",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "faminto"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "pt": "",
+      "correct": [
+        "Café da manhã"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Café da manhã"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "pt": "",
+      "correct": [
+        "Almoço"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Almoço"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "pt": "",
+      "correct": [
+        "Jantar"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Jantar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "pt": "",
+      "correct": [
+        "Sabor"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "Sabor"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "pt": "",
+      "correct": [
+        "faminto"
+      ],
+      "placeholder": "Type PT…",
+      "tts": "faminto"
+    }
+  ]
+}

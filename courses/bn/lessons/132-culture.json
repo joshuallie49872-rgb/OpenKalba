@@ -1,0 +1,286 @@
+{
+  "id": "132-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "উদযাপন",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "উদযাপন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঐতিহ্য",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "ঐতিহ্য"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কাস্টম",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "কাস্টম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অবসর",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "অবসর"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ইভেন্ট",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "ইভেন্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "bn": "",
+      "correct": [
+        "উদযাপন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "উদযাপন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "bn": "",
+      "correct": [
+        "ঐতিহ্য"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঐতিহ্য"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "bn": "",
+      "correct": [
+        "কাস্টম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কাস্টম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "bn": "",
+      "correct": [
+        "অবসর"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অবসর"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "bn": "",
+      "correct": [
+        "ইভেন্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ইভেন্ট"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "উদযাপন",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "উদযাপন"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ঐতিহ্য",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "ঐতিহ্য"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "কাস্টম",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "কাস্টম"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অবসর",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "অবসর"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ইভেন্ট",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "ইভেন্ট"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "bn": "",
+      "correct": [
+        "উদযাপন"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "উদযাপন"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "bn": "",
+      "correct": [
+        "ঐতিহ্য"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ঐতিহ্য"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "bn": "",
+      "correct": [
+        "কাস্টম"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "কাস্টম"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "bn": "",
+      "correct": [
+        "অবসর"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অবসর"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "bn": "",
+      "correct": [
+        "ইভেন্ট"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ইভেন্ট"
+    }
+  ]
+}

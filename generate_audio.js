@@ -13,14 +13,23 @@
  *  - courses/<lang>/audio/manifest_slow.json   (slug -> "audio/<lang>/<file>__slow.mp3")
  *
  * Usage:
- *  node generate_audio.js --lang et
- *  node generate_audio.js --lang et --voice et-EE-AnuNeural
+ *  node generate_audio.js --lang hi --delay 1200 --retries 6
+ *  node generate_audio.js --lang bn --delay 1200 --retries 6
+ *  node generate_audio.js --lang ur --delay 800  --retries 4
+ *  node generate_audio.js --lang pt --delay 800  --retries 4
+ *
+ * Options:
+ *  --voice <VoiceName>      override voice
+ *  --delay <ms>             delay between successful synth calls (default 800)
+ *  --retries <n>            retries per file on non-quota errors (default 4)
+ *  --force                  overwrite existing mp3s (normal+slow)
+ *  --no-slow                skip generating slow mp3s
  *
  * Notes:
  *  - Uses Azure Speech SDK neural voices.
- *  - Skips any MP3 that already exists.
- *  - Manifest keys are Unicode-safe (Cyrillic/accents OK) and match app.js slugifyLt().
+ *  - Manifest keys are Unicode-safe and must match app.js slugifyLt().
  *  - Filenames are ASCII-safe + hashed (stable, URL-safe).
+ *  - On "Quota Exceeded" errors, the script aborts immediately.
  */
 
 "use strict";
@@ -53,15 +62,21 @@ function getArg(name, fallback = null) {
   if (!v || v.startsWith("--")) return fallback;
   return v;
 }
+function hasFlag(name) {
+  return process.argv.includes(`--${name}`);
+}
 
 const lang = (getArg("lang", "") || "").trim().toLowerCase();
 if (!lang) die("Usage: node generate_audio.js --lang <lt|lv|et|ru|pl|uk|is|...>");
 
 const voiceOverride = (getArg("voice", "") || "").trim();
+const delayMs = Math.max(0, parseInt(getArg("delay", "800"), 10) || 0);
+const retries = Math.max(0, parseInt(getArg("retries", "4"), 10) || 0);
+const force = hasFlag("force");
+const noSlow = hasFlag("no-slow");
 
 // ---------------------------
 // Voice defaults per language
-// (change anytime)
 // ---------------------------
 const DEFAULT_VOICE = {
   lt: "lt-LT-LeonasNeural",
@@ -70,7 +85,7 @@ const DEFAULT_VOICE = {
   ru: "ru-RU-DmitryNeural",
   pl: "pl-PL-MarekNeural",
   uk: "uk-UA-PolinaNeural",
-  is: "is-IS-GudrunNeural",   // if not available in your region, override with --voice
+  is: "is-IS-GudrunNeural",
   fi: "fi-FI-HarriNeural",
   fr: "fr-FR-DeniseNeural",
   de: "de-DE-KatjaNeural",
@@ -78,6 +93,13 @@ const DEFAULT_VOICE = {
   se: "sv-SE-SofieNeural",
   mx: "es-ES-ElviraNeural",
   en: "en-US-JennyNeural",
+  zh: "zh-CN-XiaoxiaoNeural",
+
+  // ✅ new ones
+  hi: "hi-IN-MadhurNeural",
+  bn: "bn-IN-BashkarNeural",
+  pt: "pt-PT-DuarteNeural",
+  ur: "ur-PK-AsadNeural",
 };
 
 const voiceName = (voiceOverride || DEFAULT_VOICE[lang] || "").trim();
@@ -97,7 +119,11 @@ const OUT_MANIFEST_SLOW_PATH = path.join(process.cwd(), "courses", lang, "audio"
 // Helpers
 // ---------------------------
 
-// Unicode-safe key for manifests (works for Cyrillic, accents, etc.)
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
+}
+
+// Unicode-safe key for manifests (works for all scripts)
 // MUST MATCH app.js slugifyLt() (Unicode-safe) for lookups to work.
 function slugifyKey(s) {
   return String(s || "")
@@ -108,7 +134,7 @@ function slugifyKey(s) {
     .replace(/^_+|_+$/g, "");
 }
 
-// ASCII-safe filename fragment (avoid Cyrillic/Unicode in filenames/URLs)
+// ASCII-safe filename fragment (avoid Unicode in filenames/URLs)
 function slugifyFile(s) {
   const out = String(s || "")
     .trim()
@@ -117,7 +143,6 @@ function slugifyFile(s) {
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/[^a-z0-9]+/g, "_")
     .replace(/^_+|_+$/g, "");
-
   return out || "tts";
 }
 
@@ -163,6 +188,28 @@ function escapeXml(s) {
     .replace(/'/g, "&apos;");
 }
 
+function isQuotaExceededMessage(msg) {
+  const m = String(msg || "").toLowerCase();
+  return (
+    m.includes("quota exceeded") ||
+    m.includes("quotaexceeded") ||
+    m.includes("exceeded quota") ||
+    m.includes("insufficient quota")
+  );
+}
+
+function deleteIfTinyMp3(fp) {
+  try {
+    const st = fs.statSync(fp);
+    // MP3s should be > ~500 bytes; tiny ones are usually corrupt/empty
+    if (!st.size || st.size < 500) {
+      try { fs.unlinkSync(fp); } catch {}
+      return true;
+    }
+  } catch {}
+  return false;
+}
+
 function synthesizeMp3(text, outPath, voice) {
   return new Promise((resolve, reject) => {
     const speechConfig = speechsdk.SpeechConfig.fromSubscription(KEY, REGION);
@@ -177,21 +224,32 @@ function synthesizeMp3(text, outPath, voice) {
       text,
       (result) => {
         synthesizer.close();
-        if (result.reason === speechsdk.ResultReason.SynthesizingAudioCompleted) return resolve();
-        return reject(new Error(result.errorDetails || "TTS failed"));
+
+        if (result.reason === speechsdk.ResultReason.SynthesizingAudioCompleted) {
+          // guard: delete corrupt tiny files
+          deleteIfTinyMp3(outPath);
+          return resolve();
+        }
+
+        const msg = result.errorDetails || "TTS failed";
+        // guard: delete corrupt tiny files if created
+        deleteIfTinyMp3(outPath);
+
+        return reject(Object.assign(new Error(msg), { _quota: isQuotaExceededMessage(msg) }));
       },
       (err) => {
         synthesizer.close();
-        reject(err);
+        // guard: delete corrupt tiny files if created
+        deleteIfTinyMp3(outPath);
+
+        const msg = (err && err.message) ? err.message : String(err || "TTS failed");
+        reject(Object.assign(new Error(msg), { _quota: isQuotaExceededMessage(msg) }));
       }
     );
   });
 }
 
 function buildSlowSsml(text, voice, langTag) {
-  // Azure SSML:
-  // NOTE: rate="50%" means 50% faster (not what we want).
-  // Use a multiplier: 0.5 = half speed.
   return (
     `<?xml version="1.0" encoding="utf-8"?>\n` +
     `<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="${langTag}">` +
@@ -214,15 +272,49 @@ function synthesizeMp3Ssml(ssml, outPath, voice) {
       ssml,
       (result) => {
         synthesizer.close();
-        if (result.reason === speechsdk.ResultReason.SynthesizingAudioCompleted) return resolve();
-        return reject(new Error(result.errorDetails || "TTS SSML failed"));
+
+        if (result.reason === speechsdk.ResultReason.SynthesizingAudioCompleted) {
+          deleteIfTinyMp3(outPath);
+          return resolve();
+        }
+
+        const msg = result.errorDetails || "TTS SSML failed";
+        deleteIfTinyMp3(outPath);
+
+        return reject(Object.assign(new Error(msg), { _quota: isQuotaExceededMessage(msg) }));
       },
       (err) => {
         synthesizer.close();
-        reject(err);
+        deleteIfTinyMp3(outPath);
+
+        const msg = (err && err.message) ? err.message : String(err || "TTS SSML failed");
+        reject(Object.assign(new Error(msg), { _quota: isQuotaExceededMessage(msg) }));
       }
     );
   });
+}
+
+async function withRetries(fn, { label }) {
+  let attempt = 0;
+  while (true) {
+    try {
+      return await fn();
+    } catch (e) {
+      const msg = e && e.message ? e.message : String(e);
+      if (e && e._quota) {
+        // abort immediately on quota exceeded
+        throw Object.assign(new Error(`Quota Exceeded (abort): ${msg}`), { _quota: true });
+      }
+
+      attempt += 1;
+      if (attempt > retries) throw e;
+
+      // gentle backoff
+      const backoff = Math.min(15000, delayMs + attempt * 600);
+      console.error(`  ⚠️ retry ${attempt}/${retries} for ${label} after ${backoff}ms`);
+      await sleep(backoff);
+    }
+  }
 }
 
 // ---------------------------
@@ -279,9 +371,9 @@ function synthesizeMp3Ssml(ssml, outPath, voice) {
   console.log(`Found ${all.length} unique TTS lines for "${lang}".`);
   console.log(`Voice: ${voiceName}`);
   console.log(`Region: ${REGION}`);
+  console.log(`Delay: ${delayMs}ms | Retries: ${retries} | Force: ${force} | Slow: ${!noSlow}`);
 
   // manifest: slug -> relUrl
-  // IMPORTANT: app.js should look up by slug (recommended).
   const manifestMap = {};
   const manifestMapSlow = {};
 
@@ -299,32 +391,48 @@ function synthesizeMp3Ssml(ssml, outPath, voice) {
     const normalExists = fs.existsSync(outPath);
     const slowExists = fs.existsSync(outPathSlow);
 
-    if (normalExists && slowExists) {
-      console.log(`[${i + 1}/${all.length}] exists, skip: ${item.fileName} (+ slow)`);
+    if (!force && normalExists && (noSlow || slowExists)) {
+      console.log(`[${i + 1}/${all.length}] exists, skip: ${item.fileName}${noSlow ? "" : " (+ slow)"}`);
       continue;
     }
 
     const label = item.text.length > 60 ? item.text.slice(0, 60) + "…" : item.text;
     console.log(`[${i + 1}/${all.length}] synth: ${label}`);
 
+    if (force && normalExists) {
+      try { fs.unlinkSync(outPath); } catch {}
+    }
+    if (force && slowExists) {
+      try { fs.unlinkSync(outPathSlow); } catch {}
+    }
+
     try {
-      if (!normalExists) {
-        await synthesizeMp3(item.text, outPath, voiceName);
-      }
+      await withRetries(
+        () => synthesizeMp3(item.text, outPath, voiceName),
+        { label: `normal "${label}"` }
+      );
+      if (delayMs) await sleep(delayMs);
     } catch (e) {
+      if (e && e._quota) throw e;
       console.error(`  ❌ normal failed: "${item.text}"`);
       console.error(`  ${e && e.message ? e.message : e}`);
     }
 
-    try {
-      if (!slowExists) {
+    if (!noSlow) {
+      try {
         const xmlLang = (voiceName.split("-").slice(0, 2).join("-") || "en-US");
         const ssml = buildSlowSsml(item.text, voiceName, xmlLang);
-        await synthesizeMp3Ssml(ssml, outPathSlow, voiceName);
+
+        await withRetries(
+          () => synthesizeMp3Ssml(ssml, outPathSlow, voiceName),
+          { label: `slow "${label}"` }
+        );
+        if (delayMs) await sleep(delayMs);
+      } catch (e) {
+        if (e && e._quota) throw e;
+        console.error(`  ❌ slow failed: "${item.text}"`);
+        console.error(`  ${e && e.message ? e.message : e}`);
       }
-    } catch (e) {
-      console.error(`  ❌ slow failed: "${item.text}"`);
-      console.error(`  ${e && e.message ? e.message : e}`);
     }
   }
 
@@ -336,6 +444,7 @@ function synthesizeMp3Ssml(ssml, outPath, voice) {
   console.log(`Manifest: ${path.join("courses", lang, "audio", "manifest.json")}`);
   console.log(`Manifest (slow): ${path.join("courses", lang, "audio", "manifest_slow.json")}`);
 })().catch((e) => {
-  console.error(e);
+  const msg = e && e.message ? e.message : String(e);
+  console.error(msg);
   process.exit(1);
 });

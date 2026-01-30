@@ -1,0 +1,286 @@
+{
+  "id": "109-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "काम",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "काम"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "ऑफिस",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "ऑफिस"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बैठक",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "बैठक"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "ई-मेल",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "ई-मेल"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परियोजना",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "परियोजना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "hi": "",
+      "correct": [
+        "काम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "काम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "hi": "",
+      "correct": [
+        "ऑफिस"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "ऑफिस"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "hi": "",
+      "correct": [
+        "बैठक"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बैठक"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "hi": "",
+      "correct": [
+        "ई-मेल"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "ई-मेल"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "hi": "",
+      "correct": [
+        "परियोजना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परियोजना"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "काम",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "काम"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "ऑफिस",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "ऑफिस"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "बैठक",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "बैठक"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "ई-मेल",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "ई-मेल"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "परियोजना",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "परियोजना"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "hi": "",
+      "correct": [
+        "काम"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "काम"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "hi": "",
+      "correct": [
+        "ऑफिस"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "ऑफिस"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "hi": "",
+      "correct": [
+        "बैठक"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "बैठक"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "hi": "",
+      "correct": [
+        "ई-मेल"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "ई-मेल"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "hi": "",
+      "correct": [
+        "परियोजना"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "परियोजना"
+    }
+  ]
+}

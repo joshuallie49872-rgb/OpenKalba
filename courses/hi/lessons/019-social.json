@@ -1,0 +1,286 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "क्षमा करें",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "क्षमा करें"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कृपया",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "कृपया"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "धन्यवाद",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "धन्यवाद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सुंदर",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अच्छा",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "अच्छा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sorry",
+      "hi": "",
+      "correct": [
+        "क्षमा करें"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "क्षमा करें"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "hi": "",
+      "correct": [
+        "कृपया"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कृपया"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "hi": "",
+      "correct": [
+        "धन्यवाद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "धन्यवाद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "hi": "",
+      "correct": [
+        "सुंदर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "good",
+      "hi": "",
+      "correct": [
+        "अच्छा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अच्छा"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "क्षमा करें",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "क्षमा करें"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "कृपया",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "कृपया"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "धन्यवाद",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "धन्यवाद"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "सुंदर",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "hi": "अच्छा",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "अच्छा"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sorry",
+      "hi": "",
+      "correct": [
+        "क्षमा करें"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "क्षमा करें"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "hi": "",
+      "correct": [
+        "कृपया"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "कृपया"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "hi": "",
+      "correct": [
+        "धन्यवाद"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "धन्यवाद"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "hi": "",
+      "correct": [
+        "सुंदर"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "सुंदर"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "good",
+      "hi": "",
+      "correct": [
+        "अच्छा"
+      ],
+      "placeholder": "Type HI…",
+      "tts": "अच्छा"
+    }
+  ]
+}

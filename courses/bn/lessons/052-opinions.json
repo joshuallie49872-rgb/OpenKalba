@@ -1,0 +1,286 @@
+{
+  "id": "052-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি এটা পছন্দ করি",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "আমি এটা পছন্দ করি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অপছন্দ",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "অপছন্দ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি পছন্দ করি",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "আমি পছন্দ করি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি চাই না",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "আমি চাই না"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গুরুত্বপূর্ণ",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "গুরুত্বপূর্ণ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "bn": "",
+      "correct": [
+        "আমি এটা পছন্দ করি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি এটা পছন্দ করি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "bn": "",
+      "correct": [
+        "অপছন্দ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অপছন্দ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "bn": "",
+      "correct": [
+        "আমি পছন্দ করি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি পছন্দ করি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "bn": "",
+      "correct": [
+        "আমি চাই না"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি চাই না"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "bn": "",
+      "correct": [
+        "গুরুত্বপূর্ণ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গুরুত্বপূর্ণ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি এটা পছন্দ করি",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "আমি এটা পছন্দ করি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "অপছন্দ",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "অপছন্দ"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি পছন্দ করি",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "আমি পছন্দ করি"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আমি চাই না",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "আমি চাই না"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "গুরুত্বপূর্ণ",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "গুরুত্বপূর্ণ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "bn": "",
+      "correct": [
+        "আমি এটা পছন্দ করি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি এটা পছন্দ করি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "bn": "",
+      "correct": [
+        "অপছন্দ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "অপছন্দ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "bn": "",
+      "correct": [
+        "আমি পছন্দ করি"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি পছন্দ করি"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "bn": "",
+      "correct": [
+        "আমি চাই না"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আমি চাই না"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "bn": "",
+      "correct": [
+        "গুরুত্বপূর্ণ"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "গুরুত্বপূর্ণ"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "103-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাঁদিকে",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "বাঁদিকে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ডানদিকে",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "ডানদিকে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সোজা",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "সোজা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পিছনে",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "পিছনে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আর্টস",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "আর্টস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "bn": "",
+      "correct": [
+        "বাঁদিকে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বাঁদিকে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "bn": "",
+      "correct": [
+        "ডানদিকে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ডানদিকে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "bn": "",
+      "correct": [
+        "সোজা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সোজা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "bn": "",
+      "correct": [
+        "পিছনে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পিছনে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "bn": "",
+      "correct": [
+        "আর্টস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আর্টস"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "বাঁদিকে",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "বাঁদিকে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "ডানদিকে",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "ডানদিকে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "সোজা",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "সোজা"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "পিছনে",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "পিছনে"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "bn": "আর্টস",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "আর্টস"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "bn": "",
+      "correct": [
+        "বাঁদিকে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "বাঁদিকে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "bn": "",
+      "correct": [
+        "ডানদিকে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "ডানদিকে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "bn": "",
+      "correct": [
+        "সোজা"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "সোজা"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "bn": "",
+      "correct": [
+        "পিছনে"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "পিছনে"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "bn": "",
+      "correct": [
+        "আর্টস"
+      ],
+      "placeholder": "Type BN…",
+      "tts": "আর্টস"
+    }
+  ]
+}
