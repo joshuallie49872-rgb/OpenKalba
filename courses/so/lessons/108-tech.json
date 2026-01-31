@@ -1,0 +1,226 @@
+{
+  "id": "108-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "Telefoonka",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "so": "Telefoonka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "Kombiyuutar",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "so": "Kombiyuutar"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "Internet",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "so": "Internet"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "App-ka",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "so": "App-ka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "Fariin",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "so": "Fariin"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Telefoon",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kombiyuutar",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Internet",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Barnaamijka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Fariin",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "Telefoonka",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "so": "Telefoonka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "Kombiyuutar",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "so": "Kombiyuutar"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "Internet",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "so": "Internet"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "App-ka",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "so": "App-ka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "Fariin",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "so": "Fariin"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Telefoon",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kombiyuutar",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Internet",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Barnaamijka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Fariin",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

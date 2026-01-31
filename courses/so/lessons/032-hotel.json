@@ -1,0 +1,226 @@
+{
+  "id": "032-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "Qolka",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "so": "Qolka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Furaha",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "so": "Furaha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "sariirta",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "so": "sariirta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Check-in",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "so": "Check-in"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "habeenkii",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "so": "habeenkii"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qolka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Furaha",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sariirta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Diiwaangelinta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Hoyga",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "Qolka",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "so": "Qolka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Furaha",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "so": "Furaha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "sariirta",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "so": "sariirta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Check-in",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "so": "Check-in"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "habeenkii",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "so": "habeenkii"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qolka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Furaha",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sariirta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Diiwaangelinta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Hoyga",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

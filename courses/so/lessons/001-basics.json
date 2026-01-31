@@ -1,0 +1,276 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "tts": "Haye",
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "so": "Haye"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "tts": "Waad mahadsantahay",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "so": "Waad mahadsantahay"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "tts": "haa",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "so": "haa"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "tts": "Maya",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "so": "Maya"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "tts": "fadlan / waad ku mahadsan tahay",
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "so": "fadlan / waad ku mahadsan tahay"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "tts": "Iga raali noqo / Waan ka xumahay",
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "so": "Iga raali noqo / Waan ka xumahay"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "tts": "Nabad gelyo",
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "so": "Nabad gelyo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "tts": "Aan is aragno",
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "so": "Aan is aragno"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "tts": "Haye / Wanaagsan",
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "so": "Haye / Wanaagsan"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "tts": "Si xun",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "so": "Si xun"
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Haye",
+      "correct": [
+        "Haye"
+      ],
+      "en": "hello",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Waad mahadsantahay",
+      "correct": [
+        "Waad mahadsantahay"
+      ],
+      "en": "thank you",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "haa",
+      "correct": [
+        "haa"
+      ],
+      "en": "yes",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Maya",
+      "correct": [
+        "Maya"
+      ],
+      "en": "no",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "fadlan / waad ku mahadsan tahay",
+      "correct": [
+        "fadlan / waad ku mahadsan tahay"
+      ],
+      "en": "please / you're welcome",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Iga raali noqo / Waan ka xumahay",
+      "correct": [
+        "Iga raali noqo / Waan ka xumahay"
+      ],
+      "en": "excuse me / sorry",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Nabad gelyo",
+      "correct": [
+        "Nabad gelyo"
+      ],
+      "en": "goodbye",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Aan is aragno",
+      "correct": [
+        "Aan is aragno"
+      ],
+      "en": "see you",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Haye / Wanaagsan",
+      "correct": [
+        "Haye / Wanaagsan"
+      ],
+      "en": "okay / good",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    },
+    {
+      "prompt": "Translate to Somali",
+      "choices": [],
+      "tts": "Si xun",
+      "correct": [
+        "Si xun"
+      ],
+      "en": "badly",
+      "type": "translate",
+      "placeholder": "Type Somali…",
+      "so": ""
+    }
+  ]
+}

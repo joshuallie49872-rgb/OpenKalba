@@ -1,0 +1,226 @@
+{
+  "id": "009-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "Min fadlik",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "so": "Min fadlik"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "Menu",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "so": "Menu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "Bill",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "so": "Bill"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "Jadwal",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "so": "Jadwal"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "Kafeega",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "so": "Kafeega"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Menu",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "xisaab",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Jadwal",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kafeega",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Min fadlik",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "Min fadlik",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "so": "Min fadlik"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "Menu",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "so": "Menu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "Bill",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "so": "Bill"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "Jadwal",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "so": "Jadwal"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "Kafeega",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "so": "Kafeega"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Menu",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "xisaab",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Jadwal",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kafeega",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Min fadlik",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

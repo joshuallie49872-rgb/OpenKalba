@@ -1,0 +1,226 @@
+{
+  "id": "079-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "Xanuun",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "so": "Xanuun"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "madaxa",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "so": "madaxa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "Gacanta",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "so": "Gacanta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "lugta",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "so": "lugta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "Dhakhtar",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "so": "Dhakhtar"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Xanuun",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Madax",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Gacanta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "lugta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dhakhtar",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "Xanuun",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "so": "Xanuun"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "madaxa",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "so": "madaxa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "Gacanta",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "so": "Gacanta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "lugta",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "so": "lugta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "Dhakhtar",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "so": "Dhakhtar"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Xanuun",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Madax",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Gacanta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "lugta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dhakhtar",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

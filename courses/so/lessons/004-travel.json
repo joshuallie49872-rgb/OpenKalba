@@ -1,0 +1,226 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "Halkan",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "so": "Halkan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "Halkaas",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "so": "Halkaas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "Bidix",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "so": "Bidix"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "Sax",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "so": "Sax"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "Toos",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "so": "Toos"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "Magaalo",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "so": "Magaalo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "Waddo",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "so": "Waddo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "Saldhigga",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "so": "Saldhigga"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "Garoonka diyaaradaha",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "so": "Garoonka diyaaradaha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "Hoteel",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "so": "Hoteel"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Halkan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Toban",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Bidix",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sax",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Toos",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Magaalo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waddo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Hoteel",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Saldhigga",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Garoonka Diyaaradaha",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

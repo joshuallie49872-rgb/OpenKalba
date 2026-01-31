@@ -1,0 +1,226 @@
+{
+  "id": "197-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "Sheekada",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "so": "Sheekada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "Sheekada",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "so": "Sheekada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "Bilowga",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "so": "Bilowga"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "Dhammaad",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "so": "Dhammaad"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "dhacay",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "so": "dhacay"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Taariikhda",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sheekada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Guriga",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dhammaad",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "dhacay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "Sheekada",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "so": "Sheekada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "Sheekada",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "so": "Sheekada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "Bilowga",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "so": "Bilowga"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "Dhammaad",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "so": "Dhammaad"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "dhacay",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "so": "dhacay"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Taariikhda",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sheekada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Guriga",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dhammaad",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "dhacay",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

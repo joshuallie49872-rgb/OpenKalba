@@ -1,0 +1,226 @@
+{
+  "id": "039-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "saaxiib",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "so": "saaxiib"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "Qoyska",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "so": "Qoyska"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "Magaca",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "so": "Magaca"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "Wanaagsan",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "so": "Wanaagsan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "in la kulmo",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "so": "in la kulmo"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Saaxiib",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qoyska",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Magaca",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Wanaagsan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "La kulan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "saaxiib",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "so": "saaxiib"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "Qoyska",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "so": "Qoyska"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "Magaca",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "so": "Magaca"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "Wanaagsan",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "so": "Wanaagsan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "in la kulmo",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "so": "in la kulmo"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Saaxiib",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qoyska",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Magaca",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Wanaagsan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "La kulan",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

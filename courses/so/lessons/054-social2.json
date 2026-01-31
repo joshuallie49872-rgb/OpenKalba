@@ -1,0 +1,226 @@
+{
+  "id": "054-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "Farxad",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "so": "Farxad"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "murugo",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "so": "murugo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "daalan",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "so": "daalan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "Anigu waan faraxsanahay",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "so": "Anigu waan faraxsanahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "Waan baqayaa",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "so": "Waan baqayaa"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Farxad",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "murugo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "daalan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan kufaraxsanahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan cabsan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "Farxad",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "so": "Farxad"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "murugo",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "so": "murugo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "daalan",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "so": "daalan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "Anigu waan faraxsanahay",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "so": "Anigu waan faraxsanahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "Waan baqayaa",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "so": "Waan baqayaa"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Farxad",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "murugo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "daalan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan kufaraxsanahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan cabsan",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

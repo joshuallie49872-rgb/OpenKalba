@@ -1,0 +1,21 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "type": "choose",
+      "prompt": "Pick the correct meaning",
+      "so": "maya",
+      "tts": "maya",
+      "choices": [
+        "no",
+        "yes",
+        "hello",
+        "thank you"
+      ],
+      "correct": [
+        "no"
+      ]
+    }
+  ]
+}

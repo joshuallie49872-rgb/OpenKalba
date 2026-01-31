@@ -1,0 +1,226 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "tts": "yaa",
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "so": "yaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "tts": "maxay tahay",
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "so": "maxay tahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "tts": "halkaas",
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "so": "halkaas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "tts": "goorma",
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "so": "goorma"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "tts": "Sababta",
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "so": "Sababta"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "maxay tahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "maxay tahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "halkaas",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Goorma",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sababta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "tts": "haa",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "so": "haa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "tts": "Maya",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "so": "Maya"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Haa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Haa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "tts": "Haye",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "so": "Haye"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Wanaagsan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "tts": "Si xun",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "so": "Si xun"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "xun",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "tts": "SIDEE",
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "so": "SIDEE"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sida loo",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

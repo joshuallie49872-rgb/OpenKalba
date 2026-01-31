@@ -1,0 +1,226 @@
+{
+  "id": "012-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "Dukaanka",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "so": "Dukaanka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "Qiimaha",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "so": "Qiimaha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "Lacag",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "so": "Lacag"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "kaarka",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "so": "kaarka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "Lacag caddaan ah",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "so": "Lacag caddaan ah"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dukaameyso",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qiimaha",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Lacag",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kaarka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Lacag caddaan ah",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "Dukaanka",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "so": "Dukaanka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "Qiimaha",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "so": "Qiimaha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "Lacag",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "so": "Lacag"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "kaarka",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "so": "kaarka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "Lacag caddaan ah",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "so": "Lacag caddaan ah"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dukaameyso",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qiimaha",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Lacag",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kaarka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Lacag caddaan ah",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

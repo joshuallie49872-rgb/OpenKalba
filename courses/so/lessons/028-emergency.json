@@ -1,0 +1,226 @@
+{
+  "id": "028-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "Caawi",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "so": "Caawi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "Booliis",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "so": "Booliis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "Isbitaalka",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "so": "Isbitaalka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Dab",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "so": "Dab"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "Khatarta",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "so": "Khatarta"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Caawi",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Booliska",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Isbitaalka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dab",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Khatarta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "Caawi",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "so": "Caawi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "Booliis",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "so": "Booliis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "Isbitaalka",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "so": "Isbitaalka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Dab",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "so": "Dab"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "Khatarta",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "so": "Khatarta"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Caawi",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Booliska",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Isbitaalka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dab",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Khatarta",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

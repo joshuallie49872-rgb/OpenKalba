@@ -1,0 +1,226 @@
+{
+  "id": "064-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Waan jeclahay",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "so": "Waan jeclahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Ma jecli",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "so": "Ma jecli"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Waan ku raaxaystaa",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "so": "Waan ku raaxaystaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "Ma doonayo",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "so": "Ma doonayo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "Muhiim",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "so": "Muhiim"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan ka helay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "ma jeclayn",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan jeclahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ma rabo inaa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Muhiim",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Waan jeclahay",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "so": "Waan jeclahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Ma jecli",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "so": "Ma jecli"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Waan ku raaxaystaa",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "so": "Waan ku raaxaystaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "Ma doonayo",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "so": "Ma doonayo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "Muhiim",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "so": "Muhiim"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan ka helay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "ma jeclayn",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan jeclahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ma rabo inaa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Muhiim",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

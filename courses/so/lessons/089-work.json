@@ -1,0 +1,226 @@
+{
+  "id": "089-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "Shaqo",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "so": "Shaqo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "Xafiiska",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "so": "Xafiiska"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "Kulanka",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "so": "Kulanka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "Email",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "so": "Email"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "Mashruuc",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "so": "Mashruuc"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Shaqo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Xafiiska",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kulanka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "E-mail",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Mashruuc",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "Shaqo",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "so": "Shaqo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "Xafiiska",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "so": "Xafiiska"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "Kulanka",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "so": "Kulanka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "Email",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "so": "Email"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "Mashruuc",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "so": "Mashruuc"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Shaqo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Xafiiska",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kulanka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "E-mail",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Mashruuc",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

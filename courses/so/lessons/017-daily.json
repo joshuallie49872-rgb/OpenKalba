@@ -1,0 +1,226 @@
+{
+  "id": "017-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Waan shaqeeyaa",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "so": "Waan shaqeeyaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Waan seexdaa",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "so": "Waan seexdaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Waan cunaa",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "so": "Waan cunaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Anigu waan tagayaa",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "so": "Anigu waan tagayaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Waan toosaa",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "so": "Waan toosaa"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan shaqeeyaa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "hurdo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cun",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tag",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan kacaa.",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Waan shaqeeyaa",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "so": "Waan shaqeeyaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Waan seexdaa",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "so": "Waan seexdaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Waan cunaa",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "so": "Waan cunaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Anigu waan tagayaa",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "so": "Anigu waan tagayaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Waan toosaa",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "so": "Waan toosaa"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan shaqeeyaa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "hurdo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cun",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tag",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan kacaa.",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

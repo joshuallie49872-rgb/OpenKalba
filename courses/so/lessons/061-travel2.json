@@ -1,0 +1,226 @@
+{
+  "id": "061-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "baasaboorka",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "so": "baasaboorka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "Xuduudaha",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "so": "Xuduudaha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "in la safro",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "so": "in la safro"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "boorsada",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "so": "boorsada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "Caadooyinka",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "so": "Caadooyinka"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Baasaboorka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Derbiga",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Safar",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "boorsada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Caadooyinka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "baasaboorka",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "so": "baasaboorka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "Xuduudaha",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "so": "Xuduudaha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "in la safro",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "so": "in la safro"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "boorsada",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "so": "boorsada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "Caadooyinka",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "so": "Caadooyinka"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Baasaboorka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Derbiga",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Safar",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "boorsada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Caadooyinka",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

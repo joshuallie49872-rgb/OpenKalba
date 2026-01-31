@@ -1,0 +1,226 @@
+{
+  "id": "094-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "Guri",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "so": "Guri"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "Guri",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "so": "Guri"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "Jikada",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "so": "Jikada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "musqusha",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "so": "musqusha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "Nadiifnimo",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "so": "Nadiifnimo"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Guri",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Guri",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Jikada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "musqusha",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Nadiifnimo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "Guri",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "so": "Guri"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "Guri",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "so": "Guri"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "Jikada",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "so": "Jikada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "musqusha",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "so": "musqusha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "Nadiifnimo",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "so": "Nadiifnimo"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Guri",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Guri",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Jikada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "musqusha",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Nadiifnimo",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "Maanta",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "so": "Maanta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "Berri",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "so": "Berri"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "Markii dambe",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "so": "Markii dambe"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Waxaan qorsheynayaa",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "so": "Waxaan qorsheynayaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "waan kulmi doonaa",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "so": "waan kulmi doonaa"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Maanta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Berri",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Markii dambe",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waxaan qorsheynayaa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Aan is aragno",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "Maanta",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "so": "Maanta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "Berri",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "so": "Berri"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "Markii dambe",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "so": "Markii dambe"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Waxaan qorsheynayaa",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "so": "Waxaan qorsheynayaa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "waan kulmi doonaa",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "so": "waan kulmi doonaa"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Maanta",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Berri",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Markii dambe",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waxaan qorsheynayaa",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Aan is aragno",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

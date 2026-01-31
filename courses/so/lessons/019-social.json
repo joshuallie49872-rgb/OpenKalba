@@ -1,0 +1,226 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Waan ka xumahay",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "so": "Waan ka xumahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Min fadlik",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "so": "Min fadlik"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Waad mahadsantahay",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "so": "Waad mahadsantahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "Wanaagsan",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "so": "Wanaagsan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "Wanaagsan",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "so": "Wanaagsan"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan ka xumahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Min fadlik",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waad mahadsantahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Wanaagsan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Wanaagsan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Waan ka xumahay",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "so": "Waan ka xumahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Min fadlik",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "so": "Min fadlik"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Waad mahadsantahay",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "so": "Waad mahadsantahay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "Wanaagsan",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "so": "Wanaagsan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "Wanaagsan",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "so": "Wanaagsan"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan ka xumahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Min fadlik",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waad mahadsantahay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Wanaagsan",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Wanaagsan",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

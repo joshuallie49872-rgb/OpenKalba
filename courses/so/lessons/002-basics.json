@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "hal",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "so": "hal"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "laba",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "so": "laba"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "saddex",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "so": "saddex"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "afar",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "so": "afar"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "shan",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "so": "shan"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "casaan",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "so": "casaan"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "Buluug",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "so": "Buluug"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "Cagaar",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "so": "Cagaar"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "madow",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "so": "madow"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "Cadaan",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "so": "Cadaan"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "Hooyo",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "so": "Hooyo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "Aabe",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "so": "Aabe"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "walaal",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "so": "walaal"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "walaasheed",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "so": "walaasheed"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "Qoyska",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "so": "Qoyska"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "Biyo",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "so": "Biyo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "Kafeega",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "so": "Kafeega"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "rooti",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "so": "rooti"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "Hoteel",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "so": "Hoteel"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "tigidhka",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "so": "tigidhka"
+    }
+  ]
+}

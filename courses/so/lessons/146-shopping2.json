@@ -1,0 +1,226 @@
+{
+  "id": "146-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "Qaali",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "so": "Qaali"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "jaban",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "so": "jaban"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "Qiimo dhimis",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "so": "Qiimo dhimis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "Qofka Lacagta Bixinta",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "so": "Qofka Lacagta Bixinta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "Rasiidka",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "so": "Rasiidka"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qaali",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "jaban",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qiimo dhimis",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cashier",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "hubi",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "Qaali",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "so": "Qaali"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "jaban",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "so": "jaban"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "Qiimo dhimis",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "so": "Qiimo dhimis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "Qofka Lacagta Bixinta",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "so": "Qofka Lacagta Bixinta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "Rasiidka",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "so": "Rasiidka"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qaali",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "jaban",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qiimo dhimis",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cashier",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "hubi",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "tts": "Biyo",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "so": "Biyo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "tts": "Kafeega",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "so": "Kafeega"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "tts": "Shaah",
+      "correct": [
+        "tea"
+      ],
+      "type": "choose",
+      "so": "Shaah"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "tts": "Biir",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "so": "Biir"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "tts": "Khamriga",
+      "correct": [
+        "wine"
+      ],
+      "type": "choose",
+      "so": "Khamriga"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Biyo",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kafeega",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Shaah",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Biir",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Khamri",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "tts": "rooti",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "so": "rooti"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "tts": "Jiis",
+      "correct": [
+        "cheese"
+      ],
+      "type": "choose",
+      "so": "Jiis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "tts": "Hilibka",
+      "correct": [
+        "meat"
+      ],
+      "type": "choose",
+      "so": "Hilibka"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "tts": "Kalluun",
+      "correct": [
+        "fish"
+      ],
+      "type": "choose",
+      "so": "Kalluun"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rooti",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Jiis",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Hilibka",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kalluun",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "tts": "Macaan",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "so": "Macaan"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dhadhanka",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

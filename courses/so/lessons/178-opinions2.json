@@ -1,0 +1,226 @@
+{
+  "id": "178-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "Waxaan u maleen",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "so": "Waxaan u maleen"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "Waan kugu raacay",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "so": "Waan kugu raacay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "Kuguma raacsani",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "so": "Kuguma raacsani"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "Ra'yi",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "so": "Ra'yi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "Dood",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "so": "Dood"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waxaan u maleen",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan kugu raacay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kuguma raacsani",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ra'yi",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dood",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "Waxaan u maleen",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "so": "Waxaan u maleen"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "Waan kugu raacay",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "so": "Waan kugu raacay"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "Kuguma raacsani",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "so": "Kuguma raacsani"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "Ra'yi",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "so": "Ra'yi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "Dood",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "so": "Dood"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waxaan u maleen",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Waan kugu raacay",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kuguma raacsani",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ra'yi",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dood",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}

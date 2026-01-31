@@ -1,0 +1,226 @@
+{
+  "id": "035-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "Cimilada",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "so": "Cimilada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "Roob",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "so": "Roob"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "Qorraxda",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "so": "Qorraxda"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "qabow",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "so": "qabow"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "kulul",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "so": "kulul"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cimilada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Roob",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qorrax",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "qabow",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kulul",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "Cimilada",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "so": "Cimilada"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "Roob",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "so": "Roob"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "Qorraxda",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "so": "Qorraxda"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "qabow",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "so": "qabow"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "kulul",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "so": "kulul"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cimilada",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Roob",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Qorrax",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "qabow",
+      "type": "unknown",
+      "so": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Kulul",
+      "type": "unknown",
+      "so": ""
+    }
+  ]
+}
