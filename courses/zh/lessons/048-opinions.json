@@ -1,0 +1,236 @@
+{
+  "id": "048-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "我喜欢",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "我喜欢"
+    },
+    {
+      "prompt": "",
+      "zh": "不喜欢的事项",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "不喜欢的事项"
+    },
+    {
+      "prompt": "",
+      "zh": "我喜欢",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "我喜欢"
+    },
+    {
+      "prompt": "",
+      "zh": "我不想",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "我不想"
+    },
+    {
+      "prompt": "",
+      "zh": "重要",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "重要"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我喜欢",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "不喜欢的事项",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我喜欢",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我不想",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "重要",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "我喜欢",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "我喜欢"
+    },
+    {
+      "prompt": "",
+      "zh": "不喜欢的事项",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "不喜欢的事项"
+    },
+    {
+      "prompt": "",
+      "zh": "我喜欢",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "我喜欢"
+    },
+    {
+      "prompt": "",
+      "zh": "我不想",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "我不想"
+    },
+    {
+      "prompt": "",
+      "zh": "重要",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "重要"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我喜欢",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "不喜欢的事项",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我喜欢",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我不想",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "重要",
+      "type": "unknown"
+    }
+  ]
+}

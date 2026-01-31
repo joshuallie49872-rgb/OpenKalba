@@ -1,0 +1,226 @@
+{
+  "id": "053-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pas",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "ga": "pas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "teorainneacha",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "ga": "teorainneacha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "chun taisteal",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "ga": "chun taisteal"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "Suitcase",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "ga": "Suitcase"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "custaim",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "ga": "custaim"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "balla",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Taisteal",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Suitcase",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Custaim",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pas",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "ga": "pas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "teorainneacha",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "ga": "teorainneacha"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "chun taisteal",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "ga": "chun taisteal"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "Suitcase",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "ga": "Suitcase"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "custaim",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "ga": "custaim"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "balla",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Taisteal",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Suitcase",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Custaim",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

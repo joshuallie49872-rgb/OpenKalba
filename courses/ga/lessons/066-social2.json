@@ -1,0 +1,226 @@
+{
+  "id": "066-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "sona sásta",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ga": "sona sásta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "brónach",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ga": "brónach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "tuirseach",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ga": "tuirseach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "Tá mé sásta",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ga": "Tá mé sásta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "Tá eagla orm",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ga": "Tá eagla orm"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "sona sásta",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "brónach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "tuirseach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá mé sásta",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá eagla orm",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "sona sásta",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ga": "sona sásta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "brónach",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ga": "brónach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "tuirseach",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ga": "tuirseach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "Tá mé sásta",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ga": "Tá mé sásta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "Tá eagla orm",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ga": "Tá eagla orm"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "sona sásta",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "brónach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "tuirseach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá mé sásta",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá eagla orm",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

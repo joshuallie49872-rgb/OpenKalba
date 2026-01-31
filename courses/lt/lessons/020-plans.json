@@ -3,7 +3,7 @@
   "title": "Plans & Simple Future",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šiandien",
       "choices": [
         "today",
@@ -15,10 +15,11 @@
       "correct": [
         "today"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "rytoj",
       "choices": [
         "tomorrow",
@@ -30,10 +31,11 @@
       "correct": [
         "tomorrow"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vėliau",
       "choices": [
         "later",
@@ -45,10 +47,11 @@
       "correct": [
         "later"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "planuoju",
       "choices": [
         "I plan",
@@ -60,10 +63,11 @@
       "correct": [
         "I plan"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susitiksime",
       "choices": [
         "we will meet",
@@ -75,45 +79,81 @@
       "correct": [
         "we will meet"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šiandien",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šiandien"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "rytoj",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "rytoj"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vėliau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vėliau"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "planuoju",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "planuoju"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susitiksime",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susitiksime"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šiandien",
       "choices": [
         "today",
@@ -125,10 +165,11 @@
       "correct": [
         "today"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "rytoj",
       "choices": [
         "tomorrow",
@@ -140,10 +181,11 @@
       "correct": [
         "tomorrow"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vėliau",
       "choices": [
         "later",
@@ -155,10 +197,11 @@
       "correct": [
         "later"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "planuoju",
       "choices": [
         "I plan",
@@ -170,10 +213,11 @@
       "correct": [
         "I plan"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susitiksime",
       "choices": [
         "we will meet",
@@ -185,42 +229,78 @@
       "correct": [
         "we will meet"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šiandien",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šiandien"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "rytoj",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "rytoj"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vėliau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vėliau"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "planuoju",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "planuoju"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susitiksime",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susitiksime"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

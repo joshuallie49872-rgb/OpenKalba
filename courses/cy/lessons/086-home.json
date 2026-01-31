@@ -1,0 +1,226 @@
+{
+  "id": "086-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "Hafan",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "cy": "Hafan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "fflat",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "cy": "fflat"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "gegin",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "cy": "gegin"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "ystafell ymolchi",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "cy": "ystafell ymolchi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "glendid",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "cy": "glendid"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Hafan",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Fflat",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cegin",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "ystafell ymolchi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "glendid",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "Hafan",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "cy": "Hafan"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "fflat",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "cy": "fflat"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "gegin",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "cy": "gegin"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "ystafell ymolchi",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "cy": "ystafell ymolchi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "glendid",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "cy": "glendid"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Hafan",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Fflat",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cegin",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "ystafell ymolchi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "glendid",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

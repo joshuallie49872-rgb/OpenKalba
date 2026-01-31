@@ -3,7 +3,7 @@
   "title": "Emergencies & Help",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pagalba",
       "choices": [
         "help",
@@ -15,10 +15,11 @@
       "correct": [
         "help"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "policija",
       "choices": [
         "police",
@@ -30,10 +31,11 @@
       "correct": [
         "police"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ligoninė",
       "choices": [
         "hospital",
@@ -45,10 +47,11 @@
       "correct": [
         "hospital"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "gaisras",
       "choices": [
         "fire",
@@ -60,10 +63,11 @@
       "correct": [
         "fire"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pavojus",
       "choices": [
         "danger",
@@ -75,45 +79,81 @@
       "correct": [
         "danger"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pagalba",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pagalba"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "policija",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "policija"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ligoninė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ligoninė"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "gaisras",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "gaisras"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pavojus",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pavojus"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pagalba",
       "choices": [
         "help",
@@ -125,10 +165,11 @@
       "correct": [
         "help"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "policija",
       "choices": [
         "police",
@@ -140,10 +181,11 @@
       "correct": [
         "police"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ligoninė",
       "choices": [
         "hospital",
@@ -155,10 +197,11 @@
       "correct": [
         "hospital"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "gaisras",
       "choices": [
         "fire",
@@ -170,10 +213,11 @@
       "correct": [
         "fire"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pavojus",
       "choices": [
         "danger",
@@ -185,42 +229,78 @@
       "correct": [
         "danger"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pagalba",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pagalba"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "policija",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "policija"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ligoninė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ligoninė"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "gaisras",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "gaisras"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pavojus",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pavojus"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

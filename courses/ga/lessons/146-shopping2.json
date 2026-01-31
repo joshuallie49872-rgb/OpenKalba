@@ -1,0 +1,226 @@
+{
+  "id": "146-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "daor",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ga": "daor"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "saor",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ga": "saor"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "lascaine",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ga": "lascaine"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "airgeadóir",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ga": "airgeadóir"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "admháil",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ga": "admháil"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Daor",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "saor",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Lascaine",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Airgeadóir",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "seiceáil",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "daor",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ga": "daor"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "saor",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ga": "saor"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "lascaine",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ga": "lascaine"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "airgeadóir",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ga": "airgeadóir"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "admháil",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ga": "admháil"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Daor",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "saor",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Lascaine",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Airgeadóir",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "seiceáil",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

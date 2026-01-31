@@ -3,7 +3,7 @@
   "title": "Daily Routine",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "dirbu",
       "choices": [
         "I work",
@@ -15,10 +15,11 @@
       "correct": [
         "I work"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "miegu",
       "choices": [
         "I sleep",
@@ -30,10 +31,11 @@
       "correct": [
         "I sleep"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "valgau",
       "choices": [
         "I eat",
@@ -45,10 +47,11 @@
       "correct": [
         "I eat"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "einu",
       "choices": [
         "I go",
@@ -60,10 +63,11 @@
       "correct": [
         "I go"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "keliuosi",
       "choices": [
         "I wake up",
@@ -75,45 +79,81 @@
       "correct": [
         "I wake up"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "dirbu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "dirbu"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "miegu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "miegu"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "valgau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "valgau"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "einu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "einu"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "keliuosi",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "keliuosi"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "dirbu",
       "choices": [
         "I work",
@@ -125,10 +165,11 @@
       "correct": [
         "I work"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "miegu",
       "choices": [
         "I sleep",
@@ -140,10 +181,11 @@
       "correct": [
         "I sleep"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "valgau",
       "choices": [
         "I eat",
@@ -155,10 +197,11 @@
       "correct": [
         "I eat"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "einu",
       "choices": [
         "I go",
@@ -170,10 +213,11 @@
       "correct": [
         "I go"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "keliuosi",
       "choices": [
         "I wake up",
@@ -185,42 +229,78 @@
       "correct": [
         "I wake up"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "dirbu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "dirbu"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "miegu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "miegu"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "valgau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "valgau"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "einu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "einu"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "keliuosi",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "keliuosi"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

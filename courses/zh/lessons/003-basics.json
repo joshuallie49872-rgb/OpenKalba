@@ -1,0 +1,298 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "我想",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "我想"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "我有",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "我有"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "吃吧",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "吃吧"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "喝",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "喝"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "水",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "水"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "咖啡",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "咖啡"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "啤酒",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "啤酒"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "面包",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "面包"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "zh": "",
+      "correct": [
+        "我要水"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "我要水"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "zh": "",
+      "correct": [
+        "我想喝咖啡"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "我想喝咖啡"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "给你",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "给你"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "十",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "十"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "zh": "",
+      "correct": [
+        "这是水"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "这是水"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "zh": "",
+      "correct": [
+        "有咖啡"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "有咖啡"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "请浇水",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "请浇水"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "我想喝啤酒",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "我想喝啤酒"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "zh": "",
+      "correct": [
+        "我喝水"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "我喝水"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "",
+      "zh": "",
+      "correct": [
+        "我吃面包"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "我吃面包"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "很好",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "很好"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "zh": "",
+      "correct": [
+        "很好"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "很好"
+    }
+  ]
+}

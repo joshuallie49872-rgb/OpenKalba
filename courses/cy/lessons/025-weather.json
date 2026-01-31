@@ -1,0 +1,226 @@
+{
+  "id": "025-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "tywydd",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "cy": "tywydd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "glaw",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "cy": "glaw"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "Haul",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "cy": "Haul"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "oer",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "cy": "oer"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "poeth",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "cy": "poeth"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tywydd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Glaw",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Haul",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "oer",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Poeth",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "tywydd",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "cy": "tywydd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "glaw",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "cy": "glaw"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "Haul",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "cy": "Haul"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "oer",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "cy": "oer"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "poeth",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "cy": "poeth"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tywydd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Glaw",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Haul",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "oer",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Poeth",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "title": "Food & Dining (Expanded)",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pusryčiai",
       "choices": [
         "breakfast",
@@ -15,10 +15,11 @@
       "correct": [
         "breakfast"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pietūs",
       "choices": [
         "lunch",
@@ -30,10 +31,11 @@
       "correct": [
         "lunch"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vakarienė",
       "choices": [
         "dinner",
@@ -45,10 +47,11 @@
       "correct": [
         "dinner"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "skanu",
       "choices": [
         "tasty",
@@ -60,10 +63,11 @@
       "correct": [
         "tasty"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "alkanas",
       "choices": [
         "hungry",
@@ -75,45 +79,81 @@
       "correct": [
         "hungry"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pusryčiai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pusryčiai"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pietūs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pietūs"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vakarienė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vakarienė"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "skanu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "skanu"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "alkanas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "alkanas"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pusryčiai",
       "choices": [
         "breakfast",
@@ -125,10 +165,11 @@
       "correct": [
         "breakfast"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pietūs",
       "choices": [
         "lunch",
@@ -140,10 +181,11 @@
       "correct": [
         "lunch"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vakarienė",
       "choices": [
         "dinner",
@@ -155,10 +197,11 @@
       "correct": [
         "dinner"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "skanu",
       "choices": [
         "tasty",
@@ -170,10 +213,11 @@
       "correct": [
         "tasty"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "alkanas",
       "choices": [
         "hungry",
@@ -185,42 +229,78 @@
       "correct": [
         "hungry"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pusryčiai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pusryčiai"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pietūs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pietūs"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vakarienė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vakarienė"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "skanu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "skanu"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "alkanas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "alkanas"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "id": "037-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "ystafell:",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "cy": "ystafell:"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Allwedd",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "cy": "Allwedd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "gwely",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "cy": "gwely"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Check-in",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "cy": "Check-in"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "dros nos",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "cy": "dros nos"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ystafell:",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Allwedd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Gwely",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cofrestru",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Llety",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "ystafell:",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "cy": "ystafell:"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Allwedd",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "cy": "Allwedd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "gwely",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "cy": "gwely"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Check-in",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "cy": "Check-in"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "dros nos",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "cy": "dros nos"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ystafell:",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Allwedd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Gwely",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cofrestru",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Llety",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

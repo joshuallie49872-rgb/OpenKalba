@@ -3,7 +3,7 @@
   "title": "Feelings & Reactions",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nustebęs",
       "choices": [
         "surprised",
@@ -15,10 +15,11 @@
       "correct": [
         "surprised"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "piktas",
       "choices": [
         "angry",
@@ -30,10 +31,11 @@
       "correct": [
         "angry"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ramus",
       "choices": [
         "calm",
@@ -45,10 +47,11 @@
       "correct": [
         "calm"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susirūpinęs",
       "choices": [
         "worried",
@@ -60,10 +63,11 @@
       "correct": [
         "worried"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "patenkintas",
       "choices": [
         "satisfied",
@@ -75,45 +79,81 @@
       "correct": [
         "satisfied"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nustebęs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nustebęs"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "piktas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "piktas"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ramus",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ramus"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susirūpinęs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susirūpinęs"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "patenkintas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "patenkintas"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nustebęs",
       "choices": [
         "surprised",
@@ -125,10 +165,11 @@
       "correct": [
         "surprised"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "piktas",
       "choices": [
         "angry",
@@ -140,10 +181,11 @@
       "correct": [
         "angry"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ramus",
       "choices": [
         "calm",
@@ -155,10 +197,11 @@
       "correct": [
         "calm"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susirūpinęs",
       "choices": [
         "worried",
@@ -170,10 +213,11 @@
       "correct": [
         "worried"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "patenkintas",
       "choices": [
         "satisfied",
@@ -185,42 +229,78 @@
       "correct": [
         "satisfied"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nustebęs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nustebęs"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "piktas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "piktas"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ramus",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ramus"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susirūpinęs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susirūpinęs"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "patenkintas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "patenkintas"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

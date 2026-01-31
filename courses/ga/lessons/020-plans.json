@@ -1,0 +1,226 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "inniu",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "ga": "inniu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "amárach",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "ga": "amárach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "níos déanaí",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "ga": "níos déanaí"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Tá sé i gceist agam",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "ga": "Tá sé i gceist agam"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "Buailfimid le chéile",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "ga": "Buailfimid le chéile"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "inniu",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Amárach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "níos déanaí",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá mé ag pleanáil",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Slán",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "inniu",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "ga": "inniu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "amárach",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "ga": "amárach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "níos déanaí",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "ga": "níos déanaí"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Tá sé i gceist agam",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "ga": "Tá sé i gceist agam"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "Buailfimid le chéile",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "ga": "Buailfimid le chéile"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "inniu",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Amárach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "níos déanaí",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá mé ag pleanáil",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Slán",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

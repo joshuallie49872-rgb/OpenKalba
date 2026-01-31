@@ -1,0 +1,226 @@
+{
+  "id": "010-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "siop",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "cy": "siop"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "pris",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "cy": "pris"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "Arian",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "cy": "Arian"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "cerdyn",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "cy": "cerdyn"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "arian parod",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "cy": "arian parod"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Siop",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pris",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Arian",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cerdyn",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "arian parod",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "siop",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "cy": "siop"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "pris",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "cy": "pris"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "Arian",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "cy": "Arian"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "cerdyn",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "cy": "cerdyn"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "arian parod",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "cy": "arian parod"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Siop",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pris",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Arian",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cerdyn",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "arian parod",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

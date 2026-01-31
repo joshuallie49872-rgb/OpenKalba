@@ -1,0 +1,285 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "Rydw i eisiau",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "cy": "Rydw i eisiau"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "Mae gen i",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "cy": "Mae gen i"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "Rwy'n bwyta",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n bwyta"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "Rwy'n yfed",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n yfed"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "Dŵr",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "cy": "Dŵr"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "coffi",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "cy": "coffi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "cwrw",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "cy": "cwrw"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "bara",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "cy": "bara"
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Rydw i eisiau dŵr",
+      "correct": [
+        "Rydw i eisiau dŵr"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Rydw i eisiau coffi",
+      "correct": [
+        "Rydw i eisiau coffi"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "yma",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "cy": "yma"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "yno",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "cy": "yno"
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Dyma'r dŵr",
+      "correct": [
+        "Dyma'r dŵr"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Mae coffi",
+      "correct": [
+        "Mae coffi"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "dŵr os gwelwch yn dda",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "cy": "dŵr os gwelwch yn dda"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "Rydw i eisiau cwrw",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "cy": "Rydw i eisiau cwrw"
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Rwy'n yfed dŵr",
+      "correct": [
+        "Rwy'n yfed dŵr"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Rwy'n bwyta bara",
+      "correct": [
+        "Rwy'n bwyta bara"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "Ocê",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "cy": "Ocê"
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Ocê",
+      "correct": [
+        "Ocê"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    }
+  ]
+}

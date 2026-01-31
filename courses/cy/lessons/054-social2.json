@@ -1,0 +1,226 @@
+{
+  "id": "054-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "hapus",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "cy": "hapus"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "trist",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "cy": "trist"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "wedi blino",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "cy": "wedi blino"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "Dwi'n hapus",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "cy": "Dwi'n hapus"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "Mae gen i ofn",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "cy": "Mae gen i ofn"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "hapus",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "trist",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "wedi blino",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n falch",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n ofni",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "hapus",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "cy": "hapus"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "trist",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "cy": "trist"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "wedi blino",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "cy": "wedi blino"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "Dwi'n hapus",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "cy": "Dwi'n hapus"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "Mae gen i ofn",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "cy": "Mae gen i ofn"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "hapus",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "trist",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "wedi blino",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n falch",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n ofni",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

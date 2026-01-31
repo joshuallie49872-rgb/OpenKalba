@@ -3,7 +3,7 @@
   "title": "Hotel & Stay",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kambarys",
       "choices": [
         "room",
@@ -15,10 +15,11 @@
       "correct": [
         "room"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "raktas",
       "choices": [
         "key",
@@ -30,10 +31,11 @@
       "correct": [
         "key"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "lova",
       "choices": [
         "bed",
@@ -45,10 +47,11 @@
       "correct": [
         "bed"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "registracija",
       "choices": [
         "check-in",
@@ -60,10 +63,11 @@
       "correct": [
         "check-in"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nakvynė",
       "choices": [
         "overnight",
@@ -75,45 +79,81 @@
       "correct": [
         "overnight"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kambarys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kambarys"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "raktas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "raktas"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "lova",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "lova"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "registracija",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "registracija"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nakvynė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nakvynė"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kambarys",
       "choices": [
         "room",
@@ -125,10 +165,11 @@
       "correct": [
         "room"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "raktas",
       "choices": [
         "key",
@@ -140,10 +181,11 @@
       "correct": [
         "key"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "lova",
       "choices": [
         "bed",
@@ -155,10 +197,11 @@
       "correct": [
         "bed"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "registracija",
       "choices": [
         "check-in",
@@ -170,10 +213,11 @@
       "correct": [
         "check-in"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nakvynė",
       "choices": [
         "overnight",
@@ -185,42 +229,78 @@
       "correct": [
         "overnight"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kambarys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kambarys"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "raktas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "raktas"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "lova",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "lova"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "registracija",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "registracija"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nakvynė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nakvynė"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

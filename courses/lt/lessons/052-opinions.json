@@ -3,7 +3,7 @@
   "title": "Opinions & Preferences",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "man patinka",
       "choices": [
         "I like",
@@ -15,10 +15,11 @@
       "correct": [
         "I like"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nepatinka",
       "choices": [
         "I don't like",
@@ -30,10 +31,11 @@
       "correct": [
         "I don't like"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "mėgstu",
       "choices": [
         "I enjoy",
@@ -45,10 +47,11 @@
       "correct": [
         "I enjoy"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nenoriu",
       "choices": [
         "I don't want",
@@ -60,10 +63,11 @@
       "correct": [
         "I don't want"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "svarbu",
       "choices": [
         "important",
@@ -75,45 +79,81 @@
       "correct": [
         "important"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "man patinka",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "man patinka"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nepatinka",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nepatinka"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "mėgstu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "mėgstu"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nenoriu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nenoriu"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "svarbu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "svarbu"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "man patinka",
       "choices": [
         "I like",
@@ -125,10 +165,11 @@
       "correct": [
         "I like"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nepatinka",
       "choices": [
         "I don't like",
@@ -140,10 +181,11 @@
       "correct": [
         "I don't like"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "mėgstu",
       "choices": [
         "I enjoy",
@@ -155,10 +197,11 @@
       "correct": [
         "I enjoy"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nenoriu",
       "choices": [
         "I don't want",
@@ -170,10 +213,11 @@
       "correct": [
         "I don't want"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "svarbu",
       "choices": [
         "important",
@@ -185,42 +229,78 @@
       "correct": [
         "important"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "man patinka",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "man patinka"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nepatinka",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nepatinka"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "mėgstu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "mėgstu"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nenoriu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nenoriu"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "svarbu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "svarbu"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

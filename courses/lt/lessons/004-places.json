@@ -1,0 +1,306 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "čia",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "ten",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "ten",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "kairė",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "dešinė",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "dešinė",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "tiesiai",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "miestas",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "miestas",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "gatvė",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "stotis",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "oro uostas",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "viešbutis",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "prompt_zh": "选对的意思"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "čia",
+      "type": "translate",
+      "correct": [
+        "čia"
+      ],
+      "en": "here",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ten",
+      "type": "translate",
+      "correct": [
+        "ten"
+      ],
+      "en": "there",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kairė",
+      "type": "translate",
+      "correct": [
+        "kairė"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dešinė",
+      "type": "translate",
+      "correct": [
+        "dešinė"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tiesiai",
+      "type": "translate",
+      "correct": [
+        "tiesiai"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "miestas",
+      "type": "translate",
+      "correct": [
+        "miestas"
+      ],
+      "en": "city",
+      "placeholder": "Type Lithuanian…",
+      "zh": "city",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gatvė",
+      "type": "translate",
+      "correct": [
+        "gatvė"
+      ],
+      "en": "street",
+      "placeholder": "Type Lithuanian…",
+      "zh": "street",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "viešbutis",
+      "type": "translate",
+      "correct": [
+        "viešbutis"
+      ],
+      "en": "hotel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hotel",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "stotis",
+      "type": "translate",
+      "correct": [
+        "stotis"
+      ],
+      "en": "station",
+      "placeholder": "Type Lithuanian…",
+      "zh": "station",
+      "prompt_zh": "翻译成立陶宛语"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "oro uostas",
+      "type": "translate",
+      "correct": [
+        "oro uostas"
+      ],
+      "en": "airport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "airport",
+      "prompt_zh": "翻译成立陶宛语"
+    }
+  ]
+}

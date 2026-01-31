@@ -1,0 +1,226 @@
+{
+  "id": "187-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "ateb",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "cy": "ateb"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "problem",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "cy": "problem"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "dewis",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "cy": "dewis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "Profiad",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "cy": "Profiad"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "canlyniad",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "cy": "canlyniad"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ateb",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Problem",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dewis",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Profiad",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Canlyniad",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "ateb",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "cy": "ateb"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "problem",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "cy": "problem"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "dewis",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "cy": "dewis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "Profiad",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "cy": "Profiad"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "canlyniad",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "cy": "canlyniad"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ateb",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Problem",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dewis",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Profiad",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Canlyniad",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

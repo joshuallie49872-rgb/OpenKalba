@@ -1,0 +1,236 @@
+{
+  "id": "050-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "开心",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "开心"
+    },
+    {
+      "prompt": "",
+      "zh": "真让人难过",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "真让人难过"
+    },
+    {
+      "prompt": "",
+      "zh": "疲惫",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "疲惫"
+    },
+    {
+      "prompt": "",
+      "zh": "我很高兴",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "我很高兴"
+    },
+    {
+      "prompt": "",
+      "zh": "我害怕",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "我害怕"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "开心",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "真让人难过",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "疲惫",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我很高兴",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我害怕",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "开心",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "开心"
+    },
+    {
+      "prompt": "",
+      "zh": "真让人难过",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "真让人难过"
+    },
+    {
+      "prompt": "",
+      "zh": "疲惫",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "疲惫"
+    },
+    {
+      "prompt": "",
+      "zh": "我很高兴",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "我很高兴"
+    },
+    {
+      "prompt": "",
+      "zh": "我害怕",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "我害怕"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "开心",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "真让人难过",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "疲惫",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我很高兴",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我害怕",
+      "type": "unknown"
+    }
+  ]
+}

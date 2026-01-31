@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "Un",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "cy": "Un"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "Dau",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "cy": "Dau"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "Tri",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "cy": "Tri"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "Pedwar",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "cy": "Pedwar"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "Pump",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "cy": "Pump"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "coch",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "cy": "coch"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "glas",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "cy": "glas"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "gwyrdd",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "cy": "gwyrdd"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "du",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "cy": "du"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "Gwyn",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "cy": "Gwyn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "mam",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "cy": "mam"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "tad",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "cy": "tad"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "brawd",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "cy": "brawd"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "chwaer",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "cy": "chwaer"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "teulu",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "cy": "teulu"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "Dŵr",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "cy": "Dŵr"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "coffi",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "cy": "coffi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "bara",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "cy": "bara"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "gwesty",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "cy": "gwesty"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "tocyn",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "cy": "tocyn"
+    }
+  ]
+}

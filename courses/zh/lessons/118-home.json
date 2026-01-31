@@ -1,0 +1,236 @@
+{
+  "id": "118-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "首页",
+      "lt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tts": "首页"
+    },
+    {
+      "prompt": "",
+      "zh": "公寓",
+      "lt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tts": "公寓"
+    },
+    {
+      "prompt": "",
+      "zh": "厨房",
+      "lt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tts": "厨房"
+    },
+    {
+      "prompt": "",
+      "zh": "浴室",
+      "lt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tts": "浴室"
+    },
+    {
+      "prompt": "",
+      "zh": "清洁度",
+      "lt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tts": "清洁度"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "首页",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "公寓",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "厨房",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "浴室",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "清洁度",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "首页",
+      "lt": "",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tts": "首页"
+    },
+    {
+      "prompt": "",
+      "zh": "公寓",
+      "lt": "",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tts": "公寓"
+    },
+    {
+      "prompt": "",
+      "zh": "厨房",
+      "lt": "",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tts": "厨房"
+    },
+    {
+      "prompt": "",
+      "zh": "浴室",
+      "lt": "",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tts": "浴室"
+    },
+    {
+      "prompt": "",
+      "zh": "清洁度",
+      "lt": "",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tts": "清洁度"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "首页",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "公寓",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "厨房",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "浴室",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "清洁度",
+      "type": "unknown"
+    }
+  ]
+}

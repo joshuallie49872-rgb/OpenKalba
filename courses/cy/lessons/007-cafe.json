@@ -1,0 +1,226 @@
+{
+  "id": "007-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "Os gweli di'n dda",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "cy": "Os gweli di'n dda"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "dewislen",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "cy": "dewislen"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "bil",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "cy": "bil"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "tabl",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "cy": "tabl"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "coffi",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "cy": "coffi"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dewislen",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cyfrif",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tabl",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Coffi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Os gweli di'n dda",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "Os gweli di'n dda",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "cy": "Os gweli di'n dda"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "dewislen",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "cy": "dewislen"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "bil",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "cy": "bil"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "tabl",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "cy": "tabl"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "coffi",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "cy": "coffi"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dewislen",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cyfrif",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tabl",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Coffi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Os gweli di'n dda",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

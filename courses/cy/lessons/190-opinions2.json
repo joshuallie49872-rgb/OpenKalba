@@ -1,0 +1,226 @@
+{
+  "id": "190-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "Dwi'n meddwl",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "cy": "Dwi'n meddwl"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "Rwy'n cytuno",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n cytuno"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "Rwy'n anghytuno",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n anghytuno"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "barn",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "cy": "barn"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "ymresymiad",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "cy": "ymresymiad"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dwi'n meddwl",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n cytuno",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n anghytuno",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Barn",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ymresymiad",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "Dwi'n meddwl",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "cy": "Dwi'n meddwl"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "Rwy'n cytuno",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n cytuno"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "Rwy'n anghytuno",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n anghytuno"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "barn",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "cy": "barn"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "ymresymiad",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "cy": "ymresymiad"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dwi'n meddwl",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n cytuno",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n anghytuno",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Barn",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ymresymiad",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "104-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "电话",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "电话"
+    },
+    {
+      "prompt": "",
+      "zh": "计算机",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "计算机"
+    },
+    {
+      "prompt": "",
+      "zh": "互联网",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "互联网"
+    },
+    {
+      "prompt": "",
+      "zh": "项目",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "项目"
+    },
+    {
+      "prompt": "",
+      "zh": "消息",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "消息"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "电话",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "计算机",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "互联网",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "项目",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "消息",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "电话",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "电话"
+    },
+    {
+      "prompt": "",
+      "zh": "计算机",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "计算机"
+    },
+    {
+      "prompt": "",
+      "zh": "互联网",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "互联网"
+    },
+    {
+      "prompt": "",
+      "zh": "项目",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "项目"
+    },
+    {
+      "prompt": "",
+      "zh": "消息",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "消息"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "电话",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "计算机",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "互联网",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "项目",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "消息",
+      "type": "unknown"
+    }
+  ]
+}

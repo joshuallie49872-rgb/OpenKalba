@@ -1,0 +1,236 @@
+{
+  "id": "027-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "房间",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "房间"
+    },
+    {
+      "prompt": "",
+      "zh": "说明",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "说明"
+    },
+    {
+      "prompt": "",
+      "zh": "床",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "床"
+    },
+    {
+      "prompt": "",
+      "zh": "注册",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "注册"
+    },
+    {
+      "prompt": "",
+      "zh": "住宿",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "住宿"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "房间",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "说明",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "床",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "注册",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "住宿",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "房间",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "房间"
+    },
+    {
+      "prompt": "",
+      "zh": "说明",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "说明"
+    },
+    {
+      "prompt": "",
+      "zh": "床",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "床"
+    },
+    {
+      "prompt": "",
+      "zh": "注册",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "注册"
+    },
+    {
+      "prompt": "",
+      "zh": "住宿",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "住宿"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "房间",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "说明",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "床",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "注册",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "住宿",
+      "type": "unknown"
+    }
+  ]
+}

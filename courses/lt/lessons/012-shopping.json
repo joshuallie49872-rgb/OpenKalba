@@ -3,7 +3,7 @@
   "title": "Shopping & Money",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "parduotuvė",
       "choices": [
         "shop",
@@ -15,10 +15,11 @@
       "correct": [
         "shop"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kaina",
       "choices": [
         "price",
@@ -30,10 +31,11 @@
       "correct": [
         "price"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pinigai",
       "choices": [
         "money",
@@ -45,10 +47,11 @@
       "correct": [
         "money"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kortelė",
       "choices": [
         "card",
@@ -60,10 +63,11 @@
       "correct": [
         "card"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "grynais",
       "choices": [
         "cash",
@@ -75,45 +79,81 @@
       "correct": [
         "cash"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "parduotuvė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "parduotuvė"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kaina",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kaina"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pinigai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pinigai"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kortelė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kortelė"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "grynais",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "grynais"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "parduotuvė",
       "choices": [
         "shop",
@@ -125,10 +165,11 @@
       "correct": [
         "shop"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kaina",
       "choices": [
         "price",
@@ -140,10 +181,11 @@
       "correct": [
         "price"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pinigai",
       "choices": [
         "money",
@@ -155,10 +197,11 @@
       "correct": [
         "money"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kortelė",
       "choices": [
         "card",
@@ -170,10 +213,11 @@
       "correct": [
         "card"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "grynais",
       "choices": [
         "cash",
@@ -185,42 +229,78 @@
       "correct": [
         "cash"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "parduotuvė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "parduotuvė"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kaina",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kaina"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pinigai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pinigai"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kortelė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kortelė"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "grynais",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "grynais"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

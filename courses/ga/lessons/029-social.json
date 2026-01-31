@@ -1,0 +1,226 @@
+{
+  "id": "029-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "cara",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "ga": "cara"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "teaghlach",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ga": "teaghlach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "Ainm",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "ga": "Ainm"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "deas",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ga": "deas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "chun bualadh le chéile",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "ga": "chun bualadh le chéile"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cara",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Teaghlach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ainm",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "deas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Téigh in aithne",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "cara",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "ga": "cara"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "teaghlach",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ga": "teaghlach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "Ainm",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "ga": "Ainm"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "deas",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ga": "deas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "chun bualadh le chéile",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "ga": "chun bualadh le chéile"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cara",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Teaghlach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ainm",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "deas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Téigh in aithne",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

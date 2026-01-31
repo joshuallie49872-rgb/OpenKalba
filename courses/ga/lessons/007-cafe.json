@@ -1,0 +1,226 @@
+{
+  "id": "007-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "Más é do thoil é",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ga": "Más é do thoil é"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "roghchlár",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "ga": "roghchlár"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "Bille",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "ga": "Bille"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "tábla",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "ga": "tábla"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "caife",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ga": "caife"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Roghchlár",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cuntas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tábla",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Caife",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Más é do thoil é",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "Más é do thoil é",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ga": "Más é do thoil é"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "roghchlár",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "ga": "roghchlár"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "Bille",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "ga": "Bille"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "tábla",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "ga": "tábla"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "caife",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ga": "caife"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Roghchlár",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cuntas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tábla",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Caife",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Más é do thoil é",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

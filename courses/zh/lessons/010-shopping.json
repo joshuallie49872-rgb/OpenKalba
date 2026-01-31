@@ -1,0 +1,236 @@
+{
+  "id": "010-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "商店",
+      "lt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tts": "商店"
+    },
+    {
+      "prompt": "",
+      "zh": "价格",
+      "lt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tts": "价格"
+    },
+    {
+      "prompt": "",
+      "zh": "金钱",
+      "lt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tts": "金钱"
+    },
+    {
+      "prompt": "",
+      "zh": "卡牌",
+      "lt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tts": "卡牌"
+    },
+    {
+      "prompt": "",
+      "zh": "现金",
+      "lt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tts": "现金"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "商店",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "价格",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "金钱",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "卡牌",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "现金",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "商店",
+      "lt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tts": "商店"
+    },
+    {
+      "prompt": "",
+      "zh": "价格",
+      "lt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tts": "价格"
+    },
+    {
+      "prompt": "",
+      "zh": "金钱",
+      "lt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tts": "金钱"
+    },
+    {
+      "prompt": "",
+      "zh": "卡牌",
+      "lt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tts": "卡牌"
+    },
+    {
+      "prompt": "",
+      "zh": "现金",
+      "lt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tts": "现金"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "商店",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "价格",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "金钱",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "卡牌",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "现金",
+      "type": "unknown"
+    }
+  ]
+}

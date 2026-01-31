@@ -1,0 +1,286 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "你好",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "你好"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "谢谢",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "谢谢"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "是的",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "是的"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "是的",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "是的"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "请",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "请"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "抱歉",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "抱歉"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "再见",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "再见"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "自",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "自"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "很好",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "很好"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "糟糕",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "糟糕"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "zh": "",
+      "correct": [
+        "你好"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "你好"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "zh": "",
+      "correct": [
+        "谢谢"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "谢谢"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "zh": "",
+      "correct": [
+        "是的"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "是的"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "zh": "",
+      "correct": [
+        "是的"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "是的"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "zh": "",
+      "correct": [
+        "请"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "请"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "zh": "",
+      "correct": [
+        "抱歉"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "抱歉"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "zh": "",
+      "correct": [
+        "再见"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "再见"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "zh": "",
+      "correct": [
+        "自"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "自"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "zh": "",
+      "correct": [
+        "很好"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "很好"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "zh": "",
+      "correct": [
+        "糟糕"
+      ],
+      "placeholder": "Type ZH…",
+      "tts": "糟糕"
+    }
+  ]
+}

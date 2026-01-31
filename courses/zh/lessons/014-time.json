@@ -1,0 +1,236 @@
+{
+  "id": "014-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "今天",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "今天"
+    },
+    {
+      "prompt": "",
+      "zh": "明天",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "明天"
+    },
+    {
+      "prompt": "",
+      "zh": "昨天",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "昨天"
+    },
+    {
+      "prompt": "",
+      "zh": "现在",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "现在"
+    },
+    {
+      "prompt": "",
+      "zh": "小时",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "小时"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "今天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "明天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "昨天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "现在",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "小时",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "今天",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "今天"
+    },
+    {
+      "prompt": "",
+      "zh": "明天",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "明天"
+    },
+    {
+      "prompt": "",
+      "zh": "昨天",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "昨天"
+    },
+    {
+      "prompt": "",
+      "zh": "现在",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "现在"
+    },
+    {
+      "prompt": "",
+      "zh": "小时",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "小时"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "今天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "明天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "昨天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "现在",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "小时",
+      "type": "unknown"
+    }
+  ]
+}

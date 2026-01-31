@@ -1,0 +1,236 @@
+{
+  "id": "021-travel",
+  "title": "Travel & Transport",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "公交",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "公交"
+    },
+    {
+      "prompt": "",
+      "zh": "列车",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "列车"
+    },
+    {
+      "prompt": "",
+      "zh": "车票",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "车票"
+    },
+    {
+      "prompt": "",
+      "zh": "出租车",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "出租车"
+    },
+    {
+      "prompt": "",
+      "zh": "交通",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "交通"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "公交",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "列车",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "车票",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "出租车",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "交通",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "公交",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "公交"
+    },
+    {
+      "prompt": "",
+      "zh": "列车",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "列车"
+    },
+    {
+      "prompt": "",
+      "zh": "车票",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "车票"
+    },
+    {
+      "prompt": "",
+      "zh": "出租车",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "出租车"
+    },
+    {
+      "prompt": "",
+      "zh": "交通",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "交通"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "公交",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "列车",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "车票",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "出租车",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "交通",
+      "type": "unknown"
+    }
+  ]
+}

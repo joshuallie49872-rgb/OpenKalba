@@ -1,0 +1,226 @@
+{
+  "id": "120-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "Ffôn",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "cy": "Ffôn"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "cyfrifiadur",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "cy": "cyfrifiadur"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "Rhyngrwyd",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "cy": "Rhyngrwyd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "ap",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "cy": "ap"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "Negeseuon",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "cy": "Negeseuon"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ffôn",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cyfrifiadur",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rhyngrwyd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rhaglen",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Negeseuon",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "Ffôn",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "cy": "Ffôn"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "cyfrifiadur",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "cy": "cyfrifiadur"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "Rhyngrwyd",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "cy": "Rhyngrwyd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "ap",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "cy": "ap"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "Negeseuon",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "cy": "Negeseuon"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ffôn",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cyfrifiadur",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rhyngrwyd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rhaglen",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Negeseuon",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

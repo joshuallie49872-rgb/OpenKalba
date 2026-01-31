@@ -1,0 +1,276 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "tts": "Helo",
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "cy": "Helo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "tts": "Diolch",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "cy": "Diolch"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "tts": "Ydw",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "cy": "Ydw"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "tts": "Na",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "cy": "Na"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "tts": "os gwelwch yn dda / mae croeso i chi",
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "cy": "os gwelwch yn dda / mae croeso i chi"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "tts": "esgusodwch fi / mae'n ddrwg gennyf",
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "cy": "esgusodwch fi / mae'n ddrwg gennyf"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "tts": "Hwyl",
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "cy": "Hwyl"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "tts": "Gweld ti",
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "cy": "Gweld ti"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "tts": "Iawn / Da",
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "cy": "Iawn / Da"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "tts": "yn ddrwg",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "cy": "yn ddrwg"
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Helo",
+      "correct": [
+        "Helo"
+      ],
+      "en": "hello",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Diolch",
+      "correct": [
+        "Diolch"
+      ],
+      "en": "thank you",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Ydw",
+      "correct": [
+        "Ydw"
+      ],
+      "en": "yes",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Na",
+      "correct": [
+        "Na"
+      ],
+      "en": "no",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "os gwelwch yn dda / mae croeso i chi",
+      "correct": [
+        "os gwelwch yn dda / mae croeso i chi"
+      ],
+      "en": "please / you're welcome",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "esgusodwch fi / mae'n ddrwg gennyf",
+      "correct": [
+        "esgusodwch fi / mae'n ddrwg gennyf"
+      ],
+      "en": "excuse me / sorry",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Hwyl",
+      "correct": [
+        "Hwyl"
+      ],
+      "en": "goodbye",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Gweld ti",
+      "correct": [
+        "Gweld ti"
+      ],
+      "en": "see you",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "Iawn / Da",
+      "correct": [
+        "Iawn / Da"
+      ],
+      "en": "okay / good",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    },
+    {
+      "prompt": "Translate to Welsh",
+      "choices": [],
+      "tts": "yn ddrwg",
+      "correct": [
+        "yn ddrwg"
+      ],
+      "en": "badly",
+      "type": "translate",
+      "placeholder": "Type Welsh…",
+      "cy": ""
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "一",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "一"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "黑面",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "黑面"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "三",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "三"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "四",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "四"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "五",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "五"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "红色",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "红色"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "蓝色",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "蓝色"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "绿色",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "绿色"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "黑色",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "黑色"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "白色",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "白色"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "妈妈",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "妈妈"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "爸爸",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "爸爸"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "哥哥",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "哥哥"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "姐姐",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "姐姐"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "家庭",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "家庭"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "水",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "水"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "咖啡",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "咖啡"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "面包",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "面包"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "酒店",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "酒店"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "zh": "车票",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "车票"
+    }
+  ]
+}

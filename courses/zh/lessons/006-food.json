@@ -1,0 +1,236 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "水",
+      "lt": "",
+      "choices": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "水"
+    },
+    {
+      "prompt": "",
+      "zh": "咖啡",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "咖啡"
+    },
+    {
+      "prompt": "",
+      "zh": "茶",
+      "lt": "",
+      "choices": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "correct": [
+        "tea"
+      ],
+      "type": "choose",
+      "tts": "茶"
+    },
+    {
+      "prompt": "",
+      "zh": "啤酒",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "啤酒"
+    },
+    {
+      "prompt": "",
+      "zh": "葡萄酒",
+      "lt": "",
+      "choices": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "correct": [
+        "wine"
+      ],
+      "type": "choose",
+      "tts": "葡萄酒"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "水",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "咖啡",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "茶",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "啤酒",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "葡萄酒",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "面包",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "面包"
+    },
+    {
+      "prompt": "",
+      "zh": "奶酪",
+      "lt": "",
+      "choices": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "correct": [
+        "cheese"
+      ],
+      "type": "choose",
+      "tts": "奶酪"
+    },
+    {
+      "prompt": "",
+      "zh": "肉类",
+      "lt": "",
+      "choices": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "meat"
+      ],
+      "type": "choose",
+      "tts": "肉类"
+    },
+    {
+      "prompt": "",
+      "zh": "鱼类",
+      "lt": "",
+      "choices": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "fish"
+      ],
+      "type": "choose",
+      "tts": "鱼类"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "面包",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "奶酪",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "肉类",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "鱼类",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "味道",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "味道"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "味道",
+      "type": "unknown"
+    }
+  ]
+}

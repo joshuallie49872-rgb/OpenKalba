@@ -1,0 +1,236 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "今天",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "今天"
+    },
+    {
+      "prompt": "",
+      "zh": "明天",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "明天"
+    },
+    {
+      "prompt": "",
+      "zh": "后来",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "后来"
+    },
+    {
+      "prompt": "",
+      "zh": "我在筹划",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "我在筹划"
+    },
+    {
+      "prompt": "",
+      "zh": "再见",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "再见"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "今天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "明天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "后来",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我在筹划",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "再见",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "今天",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "今天"
+    },
+    {
+      "prompt": "",
+      "zh": "明天",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "明天"
+    },
+    {
+      "prompt": "",
+      "zh": "后来",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "后来"
+    },
+    {
+      "prompt": "",
+      "zh": "我在筹划",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "我在筹划"
+    },
+    {
+      "prompt": "",
+      "zh": "再见",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "再见"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "今天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "明天",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "后来",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我在筹划",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "再见",
+      "type": "unknown"
+    }
+  ]
+}

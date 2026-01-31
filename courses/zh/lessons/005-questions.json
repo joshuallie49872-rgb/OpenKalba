@@ -1,0 +1,236 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "什么",
+      "lt": "",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "tts": "什么"
+    },
+    {
+      "prompt": "",
+      "zh": "什么",
+      "lt": "",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "tts": "什么"
+    },
+    {
+      "prompt": "",
+      "zh": "其中",
+      "lt": "",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "tts": "其中"
+    },
+    {
+      "prompt": "",
+      "zh": "当",
+      "lt": "",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "tts": "当"
+    },
+    {
+      "prompt": "",
+      "zh": "为什么",
+      "lt": "",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "tts": "为什么"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "什么",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "什么",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "其中",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "当",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "为什么",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "是的",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "是的"
+    },
+    {
+      "prompt": "",
+      "zh": "是的",
+      "lt": "",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "是的"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "是的",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "是的",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "很好",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "很好"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "很好",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "糟糕",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "糟糕"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "糟糕",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "如何",
+      "lt": "",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "tts": "如何"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "如何",
+      "type": "unknown"
+    }
+  ]
+}

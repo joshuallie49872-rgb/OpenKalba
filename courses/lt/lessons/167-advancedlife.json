@@ -3,7 +3,7 @@
   "title": "Advanced Daily Life",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sprendimas",
       "choices": [
         "solution",
@@ -15,10 +15,11 @@
       "correct": [
         "solution"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "problema",
       "choices": [
         "problem",
@@ -30,10 +31,11 @@
       "correct": [
         "problem"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pasirinkimas",
       "choices": [
         "choice",
@@ -45,10 +47,11 @@
       "correct": [
         "choice"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "patirtis",
       "choices": [
         "experience",
@@ -60,10 +63,11 @@
       "correct": [
         "experience"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "rezultatas",
       "choices": [
         "result",
@@ -75,45 +79,81 @@
       "correct": [
         "result"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "sprendimas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "sprendimas"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "problema",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "problema"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pasirinkimas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pasirinkimas"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "patirtis",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "patirtis"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "rezultatas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "rezultatas"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sprendimas",
       "choices": [
         "solution",
@@ -125,10 +165,11 @@
       "correct": [
         "solution"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "problema",
       "choices": [
         "problem",
@@ -140,10 +181,11 @@
       "correct": [
         "problem"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pasirinkimas",
       "choices": [
         "choice",
@@ -155,10 +197,11 @@
       "correct": [
         "choice"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "patirtis",
       "choices": [
         "experience",
@@ -170,10 +213,11 @@
       "correct": [
         "experience"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "rezultatas",
       "choices": [
         "result",
@@ -185,42 +229,78 @@
       "correct": [
         "result"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "sprendimas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "sprendimas"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "problema",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "problema"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pasirinkimas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pasirinkimas"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "patirtis",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "patirtis"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "rezultatas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "rezultatas"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

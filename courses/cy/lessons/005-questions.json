@@ -1,0 +1,226 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "tts": "pwy",
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "cy": "pwy"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "tts": "Beth",
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "cy": "Beth"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "tts": "lle",
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "cy": "lle"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "tts": "pryd",
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "cy": "pryd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "tts": "Pam",
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "cy": "Pam"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Beth",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Beth",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "lle",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pryd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pam",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "tts": "Ydw",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "cy": "Ydw"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "tts": "Na",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "cy": "Na"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ydw",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ydw",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "tts": "Ocê",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "cy": "Ocê"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "da",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "tts": "yn ddrwg",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "cy": "yn ddrwg"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "gwael",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "tts": "sut",
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "cy": "sut"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sut i",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

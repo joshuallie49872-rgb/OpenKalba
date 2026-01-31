@@ -1,0 +1,236 @@
+{
+  "id": "028-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "帮助",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "帮助"
+    },
+    {
+      "prompt": "",
+      "zh": "警察",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "警察"
+    },
+    {
+      "prompt": "",
+      "zh": "医院",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "医院"
+    },
+    {
+      "prompt": "",
+      "zh": "火灾",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "火灾"
+    },
+    {
+      "prompt": "",
+      "zh": "危险",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "危险"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "帮助",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "警察",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "医院",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "火灾",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "危险",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "帮助",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "帮助"
+    },
+    {
+      "prompt": "",
+      "zh": "警察",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "警察"
+    },
+    {
+      "prompt": "",
+      "zh": "医院",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "医院"
+    },
+    {
+      "prompt": "",
+      "zh": "火灾",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "火灾"
+    },
+    {
+      "prompt": "",
+      "zh": "危险",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "危险"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "帮助",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "警察",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "医院",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "火灾",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "危险",
+      "type": "unknown"
+    }
+  ]
+}

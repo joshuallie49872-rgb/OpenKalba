@@ -1,0 +1,236 @@
+{
+  "id": "069-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "护照",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "护照"
+    },
+    {
+      "prompt": "",
+      "zh": "城墙",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "城墙"
+    },
+    {
+      "prompt": "",
+      "zh": "交通",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "交通"
+    },
+    {
+      "prompt": "",
+      "zh": "手提箱",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "手提箱"
+    },
+    {
+      "prompt": "",
+      "zh": "习俗",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "习俗"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "护照",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "墙",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "交通",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "手提箱",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "习俗",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "护照",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "护照"
+    },
+    {
+      "prompt": "",
+      "zh": "城墙",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "城墙"
+    },
+    {
+      "prompt": "",
+      "zh": "交通",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "交通"
+    },
+    {
+      "prompt": "",
+      "zh": "手提箱",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "手提箱"
+    },
+    {
+      "prompt": "",
+      "zh": "习俗",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "习俗"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "护照",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "墙",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "交通",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "手提箱",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "习俗",
+      "type": "unknown"
+    }
+  ]
+}

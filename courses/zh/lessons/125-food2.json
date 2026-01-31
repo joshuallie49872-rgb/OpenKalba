@@ -1,0 +1,236 @@
+{
+  "id": "125-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "早餐",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "早餐"
+    },
+    {
+      "prompt": "",
+      "zh": "午餐",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "午餐"
+    },
+    {
+      "prompt": "",
+      "zh": "晚餐",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "晚餐"
+    },
+    {
+      "prompt": "",
+      "zh": "味道",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "味道"
+    },
+    {
+      "prompt": "",
+      "zh": "饿了",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "饿了"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "早餐",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "午餐",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "晚餐",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "味道",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "饿了",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "早餐",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "早餐"
+    },
+    {
+      "prompt": "",
+      "zh": "午餐",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "午餐"
+    },
+    {
+      "prompt": "",
+      "zh": "晚餐",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "晚餐"
+    },
+    {
+      "prompt": "",
+      "zh": "味道",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "味道"
+    },
+    {
+      "prompt": "",
+      "zh": "饿了",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "饿了"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "早餐",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "午餐",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "晚餐",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "味道",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "饿了",
+      "type": "unknown"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "抱歉",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "抱歉"
+    },
+    {
+      "prompt": "",
+      "zh": "请",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "请"
+    },
+    {
+      "prompt": "",
+      "zh": "谢谢",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "谢谢"
+    },
+    {
+      "prompt": "",
+      "zh": "不错",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "不错"
+    },
+    {
+      "prompt": "",
+      "zh": "很好",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "很好"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "抱歉",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "请",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "谢谢",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "不错",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "很好",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "抱歉",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "抱歉"
+    },
+    {
+      "prompt": "",
+      "zh": "请",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "请"
+    },
+    {
+      "prompt": "",
+      "zh": "谢谢",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "谢谢"
+    },
+    {
+      "prompt": "",
+      "zh": "不错",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "不错"
+    },
+    {
+      "prompt": "",
+      "zh": "很好",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "很好"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "抱歉",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "请",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "谢谢",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "不错",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "很好",
+      "type": "unknown"
+    }
+  ]
+}

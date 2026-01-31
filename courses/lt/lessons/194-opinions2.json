@@ -3,7 +3,7 @@
   "title": "Opinions & Discussion",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "manau",
       "choices": [
         "I think",
@@ -15,10 +15,11 @@
       "correct": [
         "I think"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sutinku",
       "choices": [
         "I agree",
@@ -30,10 +31,11 @@
       "correct": [
         "I agree"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nesutinku",
       "choices": [
         "I disagree",
@@ -45,10 +47,11 @@
       "correct": [
         "I disagree"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nuomonė",
       "choices": [
         "opinion",
@@ -60,10 +63,11 @@
       "correct": [
         "opinion"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "argumentas",
       "choices": [
         "argument",
@@ -75,45 +79,81 @@
       "correct": [
         "argument"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "manau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "manau"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "sutinku",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "sutinku"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nesutinku",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nesutinku"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nuomonė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nuomonė"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "argumentas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "argumentas"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "manau",
       "choices": [
         "I think",
@@ -125,10 +165,11 @@
       "correct": [
         "I think"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sutinku",
       "choices": [
         "I agree",
@@ -140,10 +181,11 @@
       "correct": [
         "I agree"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nesutinku",
       "choices": [
         "I disagree",
@@ -155,10 +197,11 @@
       "correct": [
         "I disagree"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nuomonė",
       "choices": [
         "opinion",
@@ -170,10 +213,11 @@
       "correct": [
         "opinion"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "argumentas",
       "choices": [
         "argument",
@@ -185,42 +229,78 @@
       "correct": [
         "argument"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "manau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "manau"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "sutinku",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "sutinku"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nesutinku",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nesutinku"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nuomonė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nuomonė"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "argumentas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "argumentas"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

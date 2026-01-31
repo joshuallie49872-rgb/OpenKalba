@@ -1,0 +1,226 @@
+{
+  "id": "038-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "cabhair",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "ga": "cabhair"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "póilíní",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "ga": "póilíní"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "ospidéal",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "ga": "ospidéal"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Dóiteáin",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "ga": "Dóiteáin"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "Contúirt",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "ga": "Contúirt"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cabhair",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Póilíní",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ospidéal",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dóiteáin",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Contúirt",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "cabhair",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "ga": "cabhair"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "póilíní",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "ga": "póilíní"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "ospidéal",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "ga": "ospidéal"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Dóiteáin",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "ga": "Dóiteáin"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "Contúirt",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "ga": "Contúirt"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cabhair",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Póilíní",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ospidéal",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dóiteáin",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Contúirt",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

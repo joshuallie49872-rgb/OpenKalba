@@ -3,7 +3,7 @@
   "title": "Home & Household",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "namai",
       "choices": [
         "home",
@@ -15,10 +15,11 @@
       "correct": [
         "home"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "butas",
       "choices": [
         "apartment",
@@ -30,10 +31,11 @@
       "correct": [
         "apartment"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "virtuvė",
       "choices": [
         "kitchen",
@@ -45,10 +47,11 @@
       "correct": [
         "kitchen"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vonios kambarys",
       "choices": [
         "bathroom",
@@ -60,10 +63,11 @@
       "correct": [
         "bathroom"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "švara",
       "choices": [
         "cleanliness",
@@ -75,45 +79,81 @@
       "correct": [
         "cleanliness"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "namai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "namai"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "butas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "butas"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "virtuvė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "virtuvė"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vonios kambarys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vonios kambarys"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "švara",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "švara"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "namai",
       "choices": [
         "home",
@@ -125,10 +165,11 @@
       "correct": [
         "home"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "butas",
       "choices": [
         "apartment",
@@ -140,10 +181,11 @@
       "correct": [
         "apartment"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "virtuvė",
       "choices": [
         "kitchen",
@@ -155,10 +197,11 @@
       "correct": [
         "kitchen"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vonios kambarys",
       "choices": [
         "bathroom",
@@ -170,10 +213,11 @@
       "correct": [
         "bathroom"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "švara",
       "choices": [
         "cleanliness",
@@ -185,42 +229,78 @@
       "correct": [
         "cleanliness"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "namai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "namai"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "butas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "butas"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "virtuvė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "virtuvė"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vonios kambarys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vonios kambarys"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "švara",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "švara"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

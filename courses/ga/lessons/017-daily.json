@@ -1,0 +1,226 @@
+{
+  "id": "017-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Oibrím",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ga": "Oibrím"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Codlaím",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ga": "Codlaím"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Itheann mé",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ga": "Itheann mé"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Téim",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ga": "Téim"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Dúisím",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ga": "Dúisím"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Oibrím",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "codladh",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ithe",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Téigh",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Éirím suas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Oibrím",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ga": "Oibrím"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Codlaím",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ga": "Codlaím"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Itheann mé",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ga": "Itheann mé"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Téim",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ga": "Téim"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Dúisím",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ga": "Dúisím"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Oibrím",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "codladh",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ithe",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Téigh",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Éirím suas",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

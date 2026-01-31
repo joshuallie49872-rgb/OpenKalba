@@ -15,7 +15,8 @@
       "correct": [
         "hello"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -30,7 +31,8 @@
       "correct": [
         "thank you"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -45,7 +47,8 @@
       "correct": [
         "yes"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -60,7 +63,8 @@
       "correct": [
         "no"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -75,7 +79,8 @@
       "correct": [
         "please / you're welcome"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -90,7 +95,8 @@
       "correct": [
         "excuse me / sorry"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -105,7 +111,8 @@
       "correct": [
         "goodbye"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -120,7 +127,8 @@
       "correct": [
         "see you"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -135,7 +143,8 @@
       "correct": [
         "okay / good"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Pick the correct meaning",
@@ -150,7 +159,8 @@
       "correct": [
         "badly"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -162,7 +172,9 @@
       ],
       "en": "hello",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "你好",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -174,7 +186,9 @@
       ],
       "en": "thank you",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -186,7 +200,9 @@
       ],
       "en": "yes",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "是的",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -198,7 +214,9 @@
       ],
       "en": "no",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -210,7 +228,9 @@
       ],
       "en": "please / you're welcome",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "拜托 / 不客气",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -222,7 +242,9 @@
       ],
       "en": "excuse me / sorry",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "打扰一下 / 抱歉",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -234,7 +256,9 @@
       ],
       "en": "goodbye",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -246,7 +270,9 @@
       ],
       "en": "see you",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -258,7 +284,9 @@
       ],
       "en": "okay / good",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的/很好",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -270,7 +298,9 @@
       ],
       "en": "badly",
       "type": "translate",
-      "placeholder": "Type Lithuanian…"
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

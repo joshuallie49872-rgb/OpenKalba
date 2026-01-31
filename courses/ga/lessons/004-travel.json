@@ -1,0 +1,226 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "anseo",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ga": "anseo"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "ann",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ga": "ann"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "ar chlé",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ga": "ar chlé"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "ar dheis",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ga": "ar dheis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "díreach",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ga": "díreach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "cathair",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "ga": "cathair"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "sráid",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "ga": "sráid"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "stáisiún",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "ga": "stáisiún"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "aerfort",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "ga": "aerfort"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "Óstán",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "ga": "Óstán"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "anseo",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "deich",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ar chlé",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "ar dheis",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "díreach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cathair",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Sráid",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Óstán",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Stáisiún",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Aerfort",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

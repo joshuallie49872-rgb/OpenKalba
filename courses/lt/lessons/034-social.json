@@ -3,7 +3,7 @@
   "title": "Social & Small Talk",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "draugas",
       "choices": [
         "friend",
@@ -15,10 +15,11 @@
       "correct": [
         "friend"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šeima",
       "choices": [
         "family",
@@ -30,10 +31,11 @@
       "correct": [
         "family"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vardas",
       "choices": [
         "name",
@@ -45,10 +47,11 @@
       "correct": [
         "name"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "malonu",
       "choices": [
         "nice",
@@ -60,10 +63,11 @@
       "correct": [
         "nice"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susitikti",
       "choices": [
         "to meet",
@@ -75,45 +79,81 @@
       "correct": [
         "to meet"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "draugas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "draugas"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šeima",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šeima"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vardas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vardas"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "malonu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "malonu"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susitikti",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susitikti"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "draugas",
       "choices": [
         "friend",
@@ -125,10 +165,11 @@
       "correct": [
         "friend"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šeima",
       "choices": [
         "family",
@@ -140,10 +181,11 @@
       "correct": [
         "family"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vardas",
       "choices": [
         "name",
@@ -155,10 +197,11 @@
       "correct": [
         "name"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "malonu",
       "choices": [
         "nice",
@@ -170,10 +213,11 @@
       "correct": [
         "nice"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susitikti",
       "choices": [
         "to meet",
@@ -185,42 +229,78 @@
       "correct": [
         "to meet"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "draugas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "draugas"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šeima",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šeima"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vardas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vardas"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "malonu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "malonu"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susitikti",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susitikti"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

@@ -1,0 +1,226 @@
+{
+  "id": "069-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pasbort",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "cy": "pasbort"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "ffiniau",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "cy": "ffiniau"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "teithio",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "cy": "teithio"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "cês",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "cy": "cês"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "tollau",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "cy": "tollau"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pasbort",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "wal",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Teithio",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cês",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tollau",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pasbort",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "cy": "pasbort"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "ffiniau",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "cy": "ffiniau"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "teithio",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "cy": "teithio"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "cês",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "cy": "cês"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "tollau",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "cy": "tollau"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pasbort",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "wal",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Teithio",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cês",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tollau",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

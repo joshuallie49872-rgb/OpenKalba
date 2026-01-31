@@ -1,0 +1,236 @@
+{
+  "id": "009-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "请",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "请"
+    },
+    {
+      "prompt": "",
+      "zh": "菜单",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "菜单"
+    },
+    {
+      "prompt": "",
+      "zh": "账号",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "账号"
+    },
+    {
+      "prompt": "",
+      "zh": "表格",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "表格"
+    },
+    {
+      "prompt": "",
+      "zh": "咖啡",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "咖啡"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "菜单",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "账号",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "表格",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "咖啡",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "请",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "请",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "请"
+    },
+    {
+      "prompt": "",
+      "zh": "菜单",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "菜单"
+    },
+    {
+      "prompt": "",
+      "zh": "账号",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "账号"
+    },
+    {
+      "prompt": "",
+      "zh": "表格",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "表格"
+    },
+    {
+      "prompt": "",
+      "zh": "咖啡",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "咖啡"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "菜单",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "账号",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "表格",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "咖啡",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "请",
+      "type": "unknown"
+    }
+  ]
+}

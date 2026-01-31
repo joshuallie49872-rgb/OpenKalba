@@ -3,7 +3,7 @@
   "title": "Health & Body",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "skausmas",
       "choices": [
         "pain",
@@ -15,10 +15,11 @@
       "correct": [
         "pain"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "galva",
       "choices": [
         "head",
@@ -30,10 +31,11 @@
       "correct": [
         "head"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ranką",
       "choices": [
         "hand",
@@ -45,10 +47,11 @@
       "correct": [
         "hand"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "koja",
       "choices": [
         "leg",
@@ -60,10 +63,11 @@
       "correct": [
         "leg"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "gydytojas",
       "choices": [
         "doctor",
@@ -75,45 +79,81 @@
       "correct": [
         "doctor"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "skausmas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "skausmas"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "galva",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "galva"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ranka",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ranka"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "prompt_zh": "翻译成立陶宛语",
+      "en": "hand",
+      "zh": "hand"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "koja",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "koja"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "gydytojas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "gydytojas"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "skausmas",
       "choices": [
         "pain",
@@ -125,10 +165,11 @@
       "correct": [
         "pain"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "galva",
       "choices": [
         "head",
@@ -140,10 +181,11 @@
       "correct": [
         "head"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ranką",
       "choices": [
         "hand",
@@ -155,10 +197,11 @@
       "correct": [
         "hand"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "koja",
       "choices": [
         "leg",
@@ -170,10 +213,11 @@
       "correct": [
         "leg"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "gydytojas",
       "choices": [
         "doctor",
@@ -185,42 +229,78 @@
       "correct": [
         "doctor"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "skausmas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "skausmas"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "galva",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "galva"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ranka",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ranka"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "prompt_zh": "翻译成立陶宛语",
+      "en": "hand",
+      "zh": "hand"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "koja",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "koja"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "gydytojas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "gydytojas"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

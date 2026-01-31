@@ -3,7 +3,7 @@
   "title": "Food & Drinks",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vanduo",
       "choices": [
         "water",
@@ -15,10 +15,11 @@
       "correct": [
         "water"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kava",
       "choices": [
         "coffee",
@@ -30,10 +31,11 @@
       "correct": [
         "coffee"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "arbata",
       "choices": [
         "tea",
@@ -45,10 +47,11 @@
       "correct": [
         "tea"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "alus",
       "choices": [
         "beer",
@@ -60,10 +63,11 @@
       "correct": [
         "beer"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "vynas",
       "choices": [
         "wine",
@@ -75,45 +79,81 @@
       "correct": [
         "wine"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vanduo",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vanduo"
+      ],
+      "en": "water",
+      "placeholder": "Type Lithuanian…",
+      "zh": "水",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kava",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kava"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "arbata",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "arbata"
+      ],
+      "en": "tea",
+      "placeholder": "Type Lithuanian…",
+      "zh": "茶",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "alus",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "alus"
+      ],
+      "en": "beer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "啤酒",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "vynas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "vynas"
+      ],
+      "en": "wine",
+      "placeholder": "Type Lithuanian…",
+      "zh": "葡萄酒",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "duona",
       "choices": [
         "bread",
@@ -125,10 +165,11 @@
       "correct": [
         "bread"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sūris",
       "choices": [
         "cheese",
@@ -140,10 +181,11 @@
       "correct": [
         "cheese"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "mėsa",
       "choices": [
         "meat",
@@ -155,10 +197,11 @@
       "correct": [
         "meat"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "žuvis",
       "choices": [
         "fish",
@@ -170,38 +213,67 @@
       "correct": [
         "fish"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "duona",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "duona"
+      ],
+      "en": "bread",
+      "placeholder": "Type Lithuanian…",
+      "zh": "面包",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "sūris",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "sūris"
+      ],
+      "en": "cheese",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheese",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "mėsa",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "mėsa"
+      ],
+      "en": "meat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meat",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "žuvis",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "žuvis"
+      ],
+      "en": "fish",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fish",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "skanu",
       "choices": [
         "tasty",
@@ -213,14 +285,22 @@
       "correct": [
         "tasty"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "skanu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "skanu"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

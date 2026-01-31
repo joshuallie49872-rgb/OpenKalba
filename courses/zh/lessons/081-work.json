@@ -1,0 +1,236 @@
+{
+  "id": "081-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "工作",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "工作"
+    },
+    {
+      "prompt": "",
+      "zh": "办公室",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "办公室"
+    },
+    {
+      "prompt": "",
+      "zh": "会议",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "会议"
+    },
+    {
+      "prompt": "",
+      "zh": "电子邮件",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "电子邮件"
+    },
+    {
+      "prompt": "",
+      "zh": "项目",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "项目"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "工作",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "办公室",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "会议",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "电子邮件",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "项目",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "工作",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "工作"
+    },
+    {
+      "prompt": "",
+      "zh": "办公室",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "办公室"
+    },
+    {
+      "prompt": "",
+      "zh": "会议",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "会议"
+    },
+    {
+      "prompt": "",
+      "zh": "电子邮件",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "电子邮件"
+    },
+    {
+      "prompt": "",
+      "zh": "项目",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "项目"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "工作",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "办公室",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "会议",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "电子邮件",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "项目",
+      "type": "unknown"
+    }
+  ]
+}

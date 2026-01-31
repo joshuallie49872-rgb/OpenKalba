@@ -3,7 +3,7 @@
   "title": "Weather & Plans",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "oras",
       "choices": [
         "weather",
@@ -15,10 +15,11 @@
       "correct": [
         "weather"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "lietus",
       "choices": [
         "rain",
@@ -30,10 +31,11 @@
       "correct": [
         "rain"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "saulė",
       "choices": [
         "sun",
@@ -45,10 +47,11 @@
       "correct": [
         "sun"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šalta",
       "choices": [
         "cold",
@@ -60,10 +63,11 @@
       "correct": [
         "cold"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "karšta",
       "choices": [
         "hot",
@@ -75,45 +79,81 @@
       "correct": [
         "hot"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "oras",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "oras"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "lietus",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "lietus"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "saulė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "saulė"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šalta",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šalta"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "karšta",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "karšta"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "oras",
       "choices": [
         "weather",
@@ -125,10 +165,11 @@
       "correct": [
         "weather"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "lietus",
       "choices": [
         "rain",
@@ -140,10 +181,11 @@
       "correct": [
         "rain"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "saulė",
       "choices": [
         "sun",
@@ -155,10 +197,11 @@
       "correct": [
         "sun"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šalta",
       "choices": [
         "cold",
@@ -170,10 +213,11 @@
       "correct": [
         "cold"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "karšta",
       "choices": [
         "hot",
@@ -185,42 +229,78 @@
       "correct": [
         "hot"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "oras",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "oras"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "lietus",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "lietus"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "saulė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "saulė"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šalta",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šalta"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "karšta",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "karšta"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

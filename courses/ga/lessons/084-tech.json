@@ -1,0 +1,226 @@
+{
+  "id": "084-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "fón",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "ga": "fón"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "ríomhaire",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "ga": "ríomhaire"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "Idirlíon",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "ga": "Idirlíon"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "aip",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "ga": "aip"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "Teachtaireacht",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "ga": "Teachtaireacht"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Fón",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ríomhaire",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Idirlíon",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Clár",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Teachtaireacht",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "fón",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "ga": "fón"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "ríomhaire",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "ga": "ríomhaire"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "Idirlíon",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "ga": "Idirlíon"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "aip",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "ga": "aip"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "Teachtaireacht",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "ga": "Teachtaireacht"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Fón",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ríomhaire",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Idirlíon",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Clár",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Teachtaireacht",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

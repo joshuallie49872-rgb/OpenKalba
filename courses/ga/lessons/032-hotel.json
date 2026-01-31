@@ -1,0 +1,226 @@
+{
+  "id": "032-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "seomra",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ga": "seomra"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Eochair",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ga": "Eochair"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "leaba",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ga": "leaba"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Seiceáil isteach",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ga": "Seiceáil isteach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "thar oíche",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ga": "thar oíche"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Seomra",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Eochair",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Leaba",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Clárú",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cóiríocht",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "seomra",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ga": "seomra"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Eochair",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ga": "Eochair"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "leaba",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ga": "leaba"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Seiceáil isteach",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ga": "Seiceáil isteach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "thar oíche",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ga": "thar oíche"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Seomra",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Eochair",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Leaba",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Clárú",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cóiríocht",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

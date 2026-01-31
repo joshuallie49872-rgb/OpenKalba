@@ -3,7 +3,7 @@
   "title": "Shopping & Services",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "brangu",
       "choices": [
         "expensive",
@@ -15,10 +15,11 @@
       "correct": [
         "expensive"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pigu",
       "choices": [
         "cheap",
@@ -30,10 +31,11 @@
       "correct": [
         "cheap"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nuolaida",
       "choices": [
         "discount",
@@ -45,10 +47,11 @@
       "correct": [
         "discount"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kasininkas",
       "choices": [
         "cashier",
@@ -60,10 +63,11 @@
       "correct": [
         "cashier"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "čekis",
       "choices": [
         "receipt",
@@ -75,45 +79,81 @@
       "correct": [
         "receipt"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "brangu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "brangu"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pigu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pigu"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nuolaida",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nuolaida"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kasininkas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kasininkas"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "čekis",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "čekis"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "brangu",
       "choices": [
         "expensive",
@@ -125,10 +165,11 @@
       "correct": [
         "expensive"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pigu",
       "choices": [
         "cheap",
@@ -140,10 +181,11 @@
       "correct": [
         "cheap"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "nuolaida",
       "choices": [
         "discount",
@@ -155,10 +197,11 @@
       "correct": [
         "discount"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kasininkas",
       "choices": [
         "cashier",
@@ -170,10 +213,11 @@
       "correct": [
         "cashier"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "čekis",
       "choices": [
         "receipt",
@@ -185,42 +229,78 @@
       "correct": [
         "receipt"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "brangu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "brangu"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pigu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pigu"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "nuolaida",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "nuolaida"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kasininkas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kasininkas"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "čekis",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "čekis"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

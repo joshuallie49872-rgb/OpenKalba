@@ -1,0 +1,226 @@
+{
+  "id": "025-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "aimsir",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "ga": "aimsir"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "báisteach",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "ga": "báisteach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "grian",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "ga": "grian"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "fuar",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "ga": "fuar"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "te",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "ga": "te"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Aimsir",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Báistí",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Grian",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "fuar",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Te",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "aimsir",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "ga": "aimsir"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "báisteach",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "ga": "báisteach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "grian",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "ga": "grian"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "fuar",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "ga": "fuar"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "te",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "ga": "te"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Aimsir",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Báistí",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Grian",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "fuar",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Te",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

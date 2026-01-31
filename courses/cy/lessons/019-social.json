@@ -1,0 +1,226 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Ddrwg gen i",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "cy": "Ddrwg gen i"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Os gweli di'n dda",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "cy": "Os gweli di'n dda"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Diolch",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "cy": "Diolch"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "Neis",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "cy": "Neis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "da",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "cy": "da"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ddrwg gen i",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Os gweli di'n dda",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Diolch",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Neis",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Da",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Ddrwg gen i",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "cy": "Ddrwg gen i"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Os gweli di'n dda",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "cy": "Os gweli di'n dda"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Diolch",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "cy": "Diolch"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "Neis",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "cy": "Neis"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "da",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "cy": "da"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ddrwg gen i",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Os gweli di'n dda",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Diolch",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Neis",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Da",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

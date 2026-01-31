@@ -3,7 +3,7 @@
   "title": "Questions & Answers",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kas",
       "choices": [
         "who",
@@ -15,10 +15,11 @@
       "correct": [
         "who"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ką",
       "choices": [
         "what",
@@ -30,10 +31,11 @@
       "correct": [
         "what"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kur",
       "choices": [
         "where",
@@ -45,10 +47,11 @@
       "correct": [
         "where"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kada",
       "choices": [
         "when",
@@ -60,10 +63,11 @@
       "correct": [
         "when"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kodėl",
       "choices": [
         "why",
@@ -75,45 +79,81 @@
       "correct": [
         "why"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kas"
+      ],
+      "en": "who",
+      "placeholder": "Type Lithuanian…",
+      "zh": "who",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ką",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ką"
+      ],
+      "en": "what",
+      "placeholder": "Type Lithuanian…",
+      "zh": "what",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kur",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kur"
+      ],
+      "en": "where",
+      "placeholder": "Type Lithuanian…",
+      "zh": "where",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kada",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kada"
+      ],
+      "en": "when",
+      "placeholder": "Type Lithuanian…",
+      "zh": "when",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kodėl",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kodėl"
+      ],
+      "en": "why",
+      "placeholder": "Type Lithuanian…",
+      "zh": "why",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "taip",
       "choices": [
         "yes",
@@ -125,10 +165,11 @@
       "correct": [
         "yes"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "ne",
       "choices": [
         "no",
@@ -140,24 +181,39 @@
       "correct": [
         "no"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "taip",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "taip"
+      ],
+      "en": "yes",
+      "placeholder": "Type Lithuanian…",
+      "zh": "是",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "ne",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "ne"
+      ],
+      "en": "no",
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "gerai",
       "choices": [
         "okay",
@@ -169,17 +225,25 @@
       "correct": [
         "okay"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "gerai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "gerai"
+      ],
+      "en": "okay",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "blogai",
       "choices": [
         "badly",
@@ -191,17 +255,25 @@
       "correct": [
         "badly"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "blogai",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "blogai"
+      ],
+      "en": "badly",
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kaip",
       "choices": [
         "how",
@@ -213,14 +285,22 @@
       "correct": [
         "how"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kaip",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kaip"
+      ],
+      "en": "how",
+      "placeholder": "Type Lithuanian…",
+      "zh": "how",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

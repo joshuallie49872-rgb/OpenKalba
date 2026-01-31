@@ -1,0 +1,236 @@
+{
+  "id": "126-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "很贵",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "很贵"
+    },
+    {
+      "prompt": "",
+      "zh": "便宜",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "便宜"
+    },
+    {
+      "prompt": "",
+      "zh": "折扣",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "折扣"
+    },
+    {
+      "prompt": "",
+      "zh": "收银员",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "收银员"
+    },
+    {
+      "prompt": "",
+      "zh": "检查",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "检查"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "很贵",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "便宜",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "折扣",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "收银员",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "检查",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "很贵",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "很贵"
+    },
+    {
+      "prompt": "",
+      "zh": "便宜",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "便宜"
+    },
+    {
+      "prompt": "",
+      "zh": "折扣",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "折扣"
+    },
+    {
+      "prompt": "",
+      "zh": "收银员",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "收银员"
+    },
+    {
+      "prompt": "",
+      "zh": "检查",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "检查"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "很贵",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "便宜",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "折扣",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "收银员",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "检查",
+      "type": "unknown"
+    }
+  ]
+}

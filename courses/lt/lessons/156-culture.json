@@ -3,7 +3,7 @@
   "title": "Culture & Everyday Life",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šventė",
       "choices": [
         "holiday",
@@ -15,10 +15,11 @@
       "correct": [
         "holiday"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "tradicija",
       "choices": [
         "tradition",
@@ -30,10 +31,11 @@
       "correct": [
         "tradition"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "paprotys",
       "choices": [
         "custom",
@@ -45,10 +47,11 @@
       "correct": [
         "custom"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "laisvalaikis",
       "choices": [
         "free time",
@@ -60,10 +63,11 @@
       "correct": [
         "free time"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "renginys",
       "choices": [
         "event",
@@ -75,45 +79,81 @@
       "correct": [
         "event"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šventė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šventė"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "tradicija",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "tradicija"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "paprotys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "paprotys"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "laisvalaikis",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "laisvalaikis"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "renginys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "renginys"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "šventė",
       "choices": [
         "holiday",
@@ -125,10 +165,11 @@
       "correct": [
         "holiday"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "tradicija",
       "choices": [
         "tradition",
@@ -140,10 +181,11 @@
       "correct": [
         "tradition"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "paprotys",
       "choices": [
         "custom",
@@ -155,10 +197,11 @@
       "correct": [
         "custom"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "laisvalaikis",
       "choices": [
         "free time",
@@ -170,10 +213,11 @@
       "correct": [
         "free time"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "renginys",
       "choices": [
         "event",
@@ -185,42 +229,78 @@
       "correct": [
         "event"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "šventė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "šventė"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "tradicija",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "tradicija"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "paprotys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "paprotys"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "laisvalaikis",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "laisvalaikis"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "renginys",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "renginys"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

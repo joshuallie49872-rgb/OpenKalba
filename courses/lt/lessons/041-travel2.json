@@ -3,7 +3,7 @@
   "title": "Advanced Travel",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pasas",
       "choices": [
         "passport",
@@ -15,10 +15,11 @@
       "correct": [
         "passport"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sienos",
       "choices": [
         "borders",
@@ -30,10 +31,11 @@
       "correct": [
         "borders"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "keliauti",
       "choices": [
         "to travel",
@@ -45,10 +47,11 @@
       "correct": [
         "to travel"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "lagaminas",
       "choices": [
         "suitcase",
@@ -60,10 +63,11 @@
       "correct": [
         "suitcase"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "muitinė",
       "choices": [
         "customs",
@@ -75,45 +79,81 @@
       "correct": [
         "customs"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pasas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pasas"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "siena",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "siena"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "prompt_zh": "翻译成立陶宛语",
+      "en": "border",
+      "zh": "边境"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "keliauti",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "keliauti"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "lagaminas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "lagaminas"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "muitinė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "muitinė"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pasas",
       "choices": [
         "passport",
@@ -125,10 +165,11 @@
       "correct": [
         "passport"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sienos",
       "choices": [
         "borders",
@@ -140,10 +181,11 @@
       "correct": [
         "borders"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "keliauti",
       "choices": [
         "to travel",
@@ -155,10 +197,11 @@
       "correct": [
         "to travel"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "lagaminas",
       "choices": [
         "suitcase",
@@ -170,10 +213,11 @@
       "correct": [
         "suitcase"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "muitinė",
       "choices": [
         "customs",
@@ -185,42 +229,78 @@
       "correct": [
         "customs"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pasas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pasas"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "siena",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "siena"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "prompt_zh": "翻译成立陶宛语",
+      "en": "border",
+      "zh": "边境"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "keliauti",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "keliauti"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "lagaminas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "lagaminas"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "muitinė",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "muitinė"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

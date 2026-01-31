@@ -1,0 +1,226 @@
+{
+  "id": "048-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Rwy'n hoffi",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n hoffi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Dydw i ddim yn hoffi",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "cy": "Dydw i ddim yn hoffi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Rwy'n mwynhau",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n mwynhau"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "Dydw i ddim eisiau",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "cy": "Dydw i ddim eisiau"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "pwysig",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "cy": "pwysig"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n ei hoffi fe",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "yn hoffi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n hoffi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dwi ddim eisiau",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pwysig",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Rwy'n hoffi",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n hoffi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Dydw i ddim yn hoffi",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "cy": "Dydw i ddim yn hoffi"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Rwy'n mwynhau",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n mwynhau"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "Dydw i ddim eisiau",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "cy": "Dydw i ddim eisiau"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "pwysig",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "cy": "pwysig"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n ei hoffi fe",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "yn hoffi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n hoffi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Dwi ddim eisiau",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Pwysig",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

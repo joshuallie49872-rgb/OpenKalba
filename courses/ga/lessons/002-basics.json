@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "ceann amháin",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "ga": "ceann amháin"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "dhá cheann",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "ga": "dhá cheann"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "trí cinn",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "ga": "trí cinn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "ceithre cinn",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "ga": "ceithre cinn"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "cúig",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "ga": "cúig"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "dearg",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "ga": "dearg"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "gorm",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "ga": "gorm"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "glas",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "ga": "glas"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "dubh",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "ga": "dubh"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "Bán",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "ga": "Bán"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "máthair",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "ga": "máthair"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "athair",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "ga": "athair"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "deartháir",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "ga": "deartháir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "deirfiúr",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "ga": "deirfiúr"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "teaghlach",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ga": "teaghlach"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "uisce",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ga": "uisce"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "caife",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ga": "caife"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "arán",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ga": "arán"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "Óstán",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "ga": "Óstán"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "ticéad",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "ga": "ticéad"
+    }
+  ]
+}

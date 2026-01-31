@@ -3,7 +3,7 @@
   "title": "Conversation & Feelings",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "laimingas",
       "choices": [
         "happy",
@@ -15,10 +15,11 @@
       "correct": [
         "happy"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "liūdnas",
       "choices": [
         "sad",
@@ -30,10 +31,11 @@
       "correct": [
         "sad"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pavargęs",
       "choices": [
         "tired",
@@ -45,10 +47,11 @@
       "correct": [
         "tired"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "džiaugiuosi",
       "choices": [
         "I am happy",
@@ -60,10 +63,11 @@
       "correct": [
         "I am happy"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "bijau",
       "choices": [
         "I am afraid",
@@ -75,45 +79,81 @@
       "correct": [
         "I am afraid"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "laimingas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "laimingas"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "liūdnas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "liūdnas"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pavargęs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pavargęs"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "džiaugiuosi",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "džiaugiuosi"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "bijau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "bijau"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "laimingas",
       "choices": [
         "happy",
@@ -125,10 +165,11 @@
       "correct": [
         "happy"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "liūdnas",
       "choices": [
         "sad",
@@ -140,10 +181,11 @@
       "correct": [
         "sad"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "pavargęs",
       "choices": [
         "tired",
@@ -155,10 +197,11 @@
       "correct": [
         "tired"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "džiaugiuosi",
       "choices": [
         "I am happy",
@@ -170,10 +213,11 @@
       "correct": [
         "I am happy"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "bijau",
       "choices": [
         "I am afraid",
@@ -185,42 +229,78 @@
       "correct": [
         "I am afraid"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "laimingas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "laimingas"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "liūdnas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "liūdnas"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "pavargęs",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "pavargęs"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "džiaugiuosi",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "džiaugiuosi"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "bijau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "bijau"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

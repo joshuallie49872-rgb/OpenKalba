@@ -1,0 +1,236 @@
+{
+  "id": "039-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "朋友",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "朋友"
+    },
+    {
+      "prompt": "",
+      "zh": "家庭",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "家庭"
+    },
+    {
+      "prompt": "",
+      "zh": "名称",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "名称"
+    },
+    {
+      "prompt": "",
+      "zh": "不错",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "不错"
+    },
+    {
+      "prompt": "",
+      "zh": "见面",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "见面"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "朋友",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "家庭",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "名称",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "不错",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "见面",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "朋友",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "朋友"
+    },
+    {
+      "prompt": "",
+      "zh": "家庭",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "家庭"
+    },
+    {
+      "prompt": "",
+      "zh": "名称",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "名称"
+    },
+    {
+      "prompt": "",
+      "zh": "不错",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "不错"
+    },
+    {
+      "prompt": "",
+      "zh": "见面",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "见面"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "朋友",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "家庭",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "名称",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "不错",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "见面",
+      "type": "unknown"
+    }
+  ]
+}

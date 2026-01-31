@@ -1,0 +1,285 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "Ba mhaith liom",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "ga": "Ba mhaith liom"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "Tá mé",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "ga": "Tá mé"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "Itheann mé",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ga": "Itheann mé"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "Ólann mé",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "ga": "Ólann mé"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "uisce",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ga": "uisce"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "caife",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ga": "caife"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "Beoir",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "ga": "Beoir"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "arán",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ga": "arán"
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Ba mhaith liom uisce",
+      "correct": [
+        "Ba mhaith liom uisce"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Ba mhaith liom caife",
+      "correct": [
+        "Ba mhaith liom caife"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "anseo",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ga": "anseo"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "ann",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ga": "ann"
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Is é seo an t-uisce",
+      "correct": [
+        "Is é seo an t-uisce"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Tá caife ann",
+      "correct": [
+        "Tá caife ann"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "uisce le do thoil",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "ga": "uisce le do thoil"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "Ba mhaith liom beoir",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "ga": "Ba mhaith liom beoir"
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Ólann mé uisce",
+      "correct": [
+        "Ólann mé uisce"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Ithim arán",
+      "correct": [
+        "Ithim arán"
+      ],
+      "en": "",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "Ceart go leor",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "ga": "Ceart go leor"
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Ceart go leor",
+      "correct": [
+        "Ceart go leor"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    }
+  ]
+}

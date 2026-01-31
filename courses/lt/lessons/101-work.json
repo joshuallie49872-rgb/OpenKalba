@@ -3,7 +3,7 @@
   "title": "Work & Office",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "darbas",
       "choices": [
         "work",
@@ -15,10 +15,11 @@
       "correct": [
         "work"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "biuras",
       "choices": [
         "office",
@@ -30,10 +31,11 @@
       "correct": [
         "office"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susitikimas",
       "choices": [
         "meeting",
@@ -45,10 +47,11 @@
       "correct": [
         "meeting"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "el. paštas",
       "choices": [
         "email",
@@ -60,10 +63,11 @@
       "correct": [
         "email"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "projektas",
       "choices": [
         "project",
@@ -75,45 +79,81 @@
       "correct": [
         "project"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "darbas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "darbas"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "biuras",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "biuras"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susitikimas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susitikimas"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "el. paštas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "el. paštas"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "projektas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "projektas"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "darbas",
       "choices": [
         "work",
@@ -125,10 +165,11 @@
       "correct": [
         "work"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "biuras",
       "choices": [
         "office",
@@ -140,10 +181,11 @@
       "correct": [
         "office"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "susitikimas",
       "choices": [
         "meeting",
@@ -155,10 +197,11 @@
       "correct": [
         "meeting"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "el. paštas",
       "choices": [
         "email",
@@ -170,10 +213,11 @@
       "correct": [
         "email"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "projektas",
       "choices": [
         "project",
@@ -185,42 +229,78 @@
       "correct": [
         "project"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "darbas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "darbas"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "biuras",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "biuras"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "susitikimas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "susitikimas"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "el. paštas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "el. paštas"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "projektas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "projektas"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

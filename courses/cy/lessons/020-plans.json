@@ -1,0 +1,226 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "Heddiw",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "cy": "Heddiw"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "Yfory",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "cy": "Yfory"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "yn ddiweddarach",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "cy": "yn ddiweddarach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Rwy'n cynllunio",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n cynllunio"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "Byddwn yn cwrdd",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "cy": "Byddwn yn cwrdd"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Heddiw",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Yfory",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "yn ddiweddarach",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n cynllunio",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Gweld ti",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "Heddiw",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "cy": "Heddiw"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "Yfory",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "cy": "Yfory"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "yn ddiweddarach",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "cy": "yn ddiweddarach"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Rwy'n cynllunio",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n cynllunio"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "Byddwn yn cwrdd",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "cy": "Byddwn yn cwrdd"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Heddiw",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Yfory",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "yn ddiweddarach",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n cynllunio",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Gweld ti",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

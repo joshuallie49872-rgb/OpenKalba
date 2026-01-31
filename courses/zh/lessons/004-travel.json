@@ -1,0 +1,236 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "给你",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "给你"
+    },
+    {
+      "prompt": "",
+      "zh": "十",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "十"
+    },
+    {
+      "prompt": "",
+      "zh": "左",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "左"
+    },
+    {
+      "prompt": "",
+      "zh": "右",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "右"
+    },
+    {
+      "prompt": "",
+      "zh": "直线",
+      "lt": "",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "直线"
+    },
+    {
+      "prompt": "",
+      "zh": "城市",
+      "lt": "",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "tts": "城市"
+    },
+    {
+      "prompt": "",
+      "zh": "街道",
+      "lt": "",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "tts": "街道"
+    },
+    {
+      "prompt": "",
+      "zh": "车站",
+      "lt": "",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "tts": "车站"
+    },
+    {
+      "prompt": "",
+      "zh": "机场",
+      "lt": "",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "tts": "机场"
+    },
+    {
+      "prompt": "",
+      "zh": "酒店",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "酒店"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "给你",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "十",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "左",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "右",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "直线",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "城市",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "街道",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "酒店",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "车站",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "机场",
+      "type": "unknown"
+    }
+  ]
+}

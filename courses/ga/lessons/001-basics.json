@@ -1,0 +1,276 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "tts": "Dia duit",
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "ga": "Dia duit"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "tts": "Go raibh maith agat",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ga": "Go raibh maith agat"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "tts": "Tá",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "ga": "Tá"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "tts": "Ní hea",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "ga": "Ní hea"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "tts": "le do thoil / tá fáilte romhat",
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "ga": "le do thoil / tá fáilte romhat"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "tts": "Gabh mo leith / tá brón orm",
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "ga": "Gabh mo leith / tá brón orm"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "tts": "Slán",
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "ga": "Slán"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "tts": "Slán",
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "ga": "Slán"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "tts": "ceart go leor / go maith",
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "ga": "ceart go leor / go maith"
+    },
+    {
+      "prompt": "Pick the correct meaning",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "tts": "go dona",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "ga": "go dona"
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Dia duit",
+      "correct": [
+        "Dia duit"
+      ],
+      "en": "hello",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Go raibh maith agat",
+      "correct": [
+        "Go raibh maith agat"
+      ],
+      "en": "thank you",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Tá",
+      "correct": [
+        "Tá"
+      ],
+      "en": "yes",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Ní hea",
+      "correct": [
+        "Ní hea"
+      ],
+      "en": "no",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "le do thoil / tá fáilte romhat",
+      "correct": [
+        "le do thoil / tá fáilte romhat"
+      ],
+      "en": "please / you're welcome",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Gabh mo leith / tá brón orm",
+      "correct": [
+        "Gabh mo leith / tá brón orm"
+      ],
+      "en": "excuse me / sorry",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Slán",
+      "correct": [
+        "Slán"
+      ],
+      "en": "goodbye",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "Slán",
+      "correct": [
+        "Slán"
+      ],
+      "en": "see you",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "ceart go leor / go maith",
+      "correct": [
+        "ceart go leor / go maith"
+      ],
+      "en": "okay / good",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    },
+    {
+      "prompt": "Translate to Irish",
+      "choices": [],
+      "tts": "go dona",
+      "correct": [
+        "go dona"
+      ],
+      "en": "badly",
+      "type": "translate",
+      "placeholder": "Type Irish…",
+      "ga": ""
+    }
+  ]
+}

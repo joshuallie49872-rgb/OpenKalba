@@ -1,0 +1,226 @@
+{
+  "id": "023-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "Cymorth",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "cy": "Cymorth"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "heddlu",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "cy": "heddlu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "ysbyty",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "cy": "ysbyty"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Tân",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "cy": "Tân"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "perygl",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "cy": "perygl"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cymorth",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Heddlu",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ysbyty",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tân",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Perygl",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "Cymorth",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "cy": "Cymorth"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "heddlu",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "cy": "heddlu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "ysbyty",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "cy": "ysbyty"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Tân",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "cy": "Tân"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "perygl",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "cy": "perygl"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cymorth",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Heddlu",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Ysbyty",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tân",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Perygl",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}

@@ -1,15 +1,37 @@
-# secrets
+# Secrets
 .env
 .env.*
 *.key
-*.pem
 
-# deps
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS / junk
+# OS/editor junk
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
+
+# Logs/temp/backups
+*.log
+*.tmp
+*.bak
+*.old
+*~
+*.swp
+
+# Archives
+*.zip
+*.7z
+
+# Node/Python caches
+node_modules/
+__pycache__/
+*.pyc
+
+# Tool caches / reports (generated)
+tools/_cache/
+tools/*_cache*.json
+tools/*_lessons_cache*.json
+tools/*_overlay_cache*.json
+tools/scan_zh_report_*.txt
+tools/*missing*.txt
+tools/zh_overlay_lt_UPDATED.json
+tools/_maps/*.csv

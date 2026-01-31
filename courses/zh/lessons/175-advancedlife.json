@@ -1,0 +1,236 @@
+{
+  "id": "175-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "解决方案",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "解决方案"
+    },
+    {
+      "prompt": "",
+      "zh": "问题",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "问题"
+    },
+    {
+      "prompt": "",
+      "zh": "选择",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "选择"
+    },
+    {
+      "prompt": "",
+      "zh": "经历",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "经历"
+    },
+    {
+      "prompt": "",
+      "zh": "结果",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "结果"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "解决方案",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "问题",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "选择",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "经历",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "结果",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "解决方案",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "解决方案"
+    },
+    {
+      "prompt": "",
+      "zh": "问题",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "问题"
+    },
+    {
+      "prompt": "",
+      "zh": "选择",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "选择"
+    },
+    {
+      "prompt": "",
+      "zh": "经历",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "经历"
+    },
+    {
+      "prompt": "",
+      "zh": "结果",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "结果"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "解决方案",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "问题",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "选择",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "经历",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "结果",
+      "type": "unknown"
+    }
+  ]
+}

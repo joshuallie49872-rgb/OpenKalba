@@ -1,0 +1,226 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Tá brón orm",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "ga": "Tá brón orm"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Más é do thoil é",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ga": "Más é do thoil é"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Go raibh maith agat",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ga": "Go raibh maith agat"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "deas",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ga": "deas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "go maith",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "ga": "go maith"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá brón orm",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Más é do thoil é",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Go raibh maith agat",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "deas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Maith",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Tá brón orm",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "ga": "Tá brón orm"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Más é do thoil é",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ga": "Más é do thoil é"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Go raibh maith agat",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ga": "Go raibh maith agat"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "deas",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ga": "deas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "go maith",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "ga": "go maith"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tá brón orm",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Más é do thoil é",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Go raibh maith agat",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "deas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Maith",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "id": "080-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Is maith liom",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ga": "Is maith liom"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Ní maith liom",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ga": "Ní maith liom"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Bainim taitneamh as",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ga": "Bainim taitneamh as"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "Níl mé ag iarraidh",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ga": "Níl mé ag iarraidh"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "Tábhachtach",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ga": "Tábhachtach"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Is maith liom é",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "nach dtaitníonn leis",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Is maith liom",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Níl uaim é a dhéanamh",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tábhachtach",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Is maith liom",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ga": "Is maith liom"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Ní maith liom",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ga": "Ní maith liom"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Bainim taitneamh as",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ga": "Bainim taitneamh as"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "Níl mé ag iarraidh",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ga": "Níl mé ag iarraidh"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "Tábhachtach",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ga": "Tábhachtach"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Is maith liom é",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "nach dtaitníonn leis",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Is maith liom",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Níl uaim é a dhéanamh",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Tábhachtach",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

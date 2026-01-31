@@ -1,0 +1,236 @@
+{
+  "id": "170-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "prompt": "",
+      "zh": "我认为",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "我认为"
+    },
+    {
+      "prompt": "",
+      "zh": "我同意",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "我同意"
+    },
+    {
+      "prompt": "",
+      "zh": "我不同意",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "我不同意"
+    },
+    {
+      "prompt": "",
+      "zh": "意见",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "意见"
+    },
+    {
+      "prompt": "",
+      "zh": "论点",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "论点"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我认为",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我同意",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我不同意",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "意见",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "论点",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "zh": "我认为",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "我认为"
+    },
+    {
+      "prompt": "",
+      "zh": "我同意",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "我同意"
+    },
+    {
+      "prompt": "",
+      "zh": "我不同意",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "我不同意"
+    },
+    {
+      "prompt": "",
+      "zh": "意见",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "意见"
+    },
+    {
+      "prompt": "",
+      "zh": "论点",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "论点"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我认为",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我同意",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "我不同意",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "意见",
+      "type": "unknown"
+    },
+    {
+      "prompt": "",
+      "lt": "",
+      "choices": [],
+      "tts": "论点",
+      "type": "unknown"
+    }
+  ]
+}

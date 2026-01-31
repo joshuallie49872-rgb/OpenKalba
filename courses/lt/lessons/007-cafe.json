@@ -3,7 +3,7 @@
   "title": "Ordering at a Café",
   "questions": [
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "prašau",
       "choices": [
         "please",
@@ -15,10 +15,11 @@
       "correct": [
         "please"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "meniu",
       "choices": [
         "menu",
@@ -30,10 +31,11 @@
       "correct": [
         "menu"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sąskaita",
       "choices": [
         "bill",
@@ -45,10 +47,11 @@
       "correct": [
         "bill"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "stalas",
       "choices": [
         "table",
@@ -60,10 +63,11 @@
       "correct": [
         "table"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kava",
       "choices": [
         "coffee",
@@ -75,45 +79,81 @@
       "correct": [
         "coffee"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "meniu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "meniu"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "sąskaita",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "sąskaita"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "stalas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "stalas"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kava",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kava"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "prašau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "prašau"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "prašau",
       "choices": [
         "please",
@@ -125,10 +165,11 @@
       "correct": [
         "please"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "meniu",
       "choices": [
         "menu",
@@ -140,10 +181,11 @@
       "correct": [
         "menu"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "sąskaita",
       "choices": [
         "bill",
@@ -155,10 +197,11 @@
       "correct": [
         "bill"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "stalas",
       "choices": [
         "table",
@@ -170,10 +213,11 @@
       "correct": [
         "table"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Pick the correct meaning",
       "lt": "kava",
       "choices": [
         "coffee",
@@ -185,42 +229,78 @@
       "correct": [
         "coffee"
       ],
-      "type": "choose"
+      "type": "choose",
+      "prompt_zh": "选对的意思"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "meniu",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "meniu"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "sąskaita",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "sąskaita"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "stalas",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "stalas"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "kava",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "kava"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "prompt_zh": "翻译成立陶宛语"
     },
     {
-      "prompt": "",
+      "prompt": "Translate to Lithuanian",
       "lt": "",
       "choices": [],
       "tts": "prašau",
-      "type": "unknown"
+      "type": "translate",
+      "correct": [
+        "prašau"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "prompt_zh": "翻译成立陶宛语"
     }
   ]
 }

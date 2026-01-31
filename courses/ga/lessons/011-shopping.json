@@ -1,0 +1,226 @@
+{
+  "id": "011-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "siopa",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ga": "siopa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "Praghas",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ga": "Praghas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "airgead",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ga": "airgead"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "cárta",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ga": "cárta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "airgead tirim",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ga": "airgead tirim"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Siopa",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Praghas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Airgead",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cárta",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "airgead tirim",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "siopa",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ga": "siopa"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "Praghas",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ga": "Praghas"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "airgead",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ga": "airgead"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "cárta",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ga": "cárta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "airgead tirim",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ga": "airgead tirim"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Siopa",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Praghas",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Airgead",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cárta",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "airgead tirim",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

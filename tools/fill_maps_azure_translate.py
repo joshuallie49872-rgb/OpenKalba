@@ -16,6 +16,15 @@ COURSE_TO_TRANSLATOR = {
     "uk": "uk",   # Ukrainian
     "pl": "pl",
     "ru": "ru",
+
+    # ✅ Chinese (Simplified / Mandarin)
+    "zh": "zh-Hans",
+
+    # ✅ Newly added
+    "hi": "hi",   # Hindi
+    "bn": "bn",   # Bengali
+    "pt": "pt",   # Portuguese
+    "ur": "ur",   # Urdu
 }
 
 TRANSLATOR_ENDPOINT = os.environ.get("AZURE_TRANSLATOR_ENDPOINT", "https://api.cognitive.microsofttranslator.com")

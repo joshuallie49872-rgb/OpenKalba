@@ -1,0 +1,226 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "tts": "Cé",
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "ga": "Cé"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "tts": "cad é",
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "ga": "cad é"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "tts": "i gcás ina",
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "ga": "i gcás ina"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "tts": "cathain",
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "ga": "cathain"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "tts": "Cén fáth",
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "ga": "Cén fáth"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cad é",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cad é",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "i gcás ina",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cathain",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Cén fáth",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "tts": "Tá",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "ga": "Tá"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "tts": "Ní hea",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "ga": "Ní hea"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Is ea",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Is ea",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "tts": "Ceart go leor",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "ga": "Ceart go leor"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "go maith",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "tts": "go dona",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "ga": "go dona"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Olc",
+      "type": "unknown",
+      "ga": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "tts": "conas",
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "ga": "conas"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Conas",
+      "type": "unknown",
+      "ga": ""
+    }
+  ]
+}

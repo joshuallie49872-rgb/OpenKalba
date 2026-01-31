@@ -1,0 +1,226 @@
+{
+  "id": "017-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "prompt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Rwy'n gweithio",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n gweithio"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Rwy'n cysgu",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n cysgu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Rwy'n bwyta",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n bwyta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Rwy'n mynd",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n mynd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Rwy'n deffro",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n deffro"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n gweithio",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cysgu",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "bwyta",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Mynd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n codi",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Rwy'n gweithio",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n gweithio"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Rwy'n cysgu",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n cysgu"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Rwy'n bwyta",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n bwyta"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Rwy'n mynd",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n mynd"
+    },
+    {
+      "prompt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Rwy'n deffro",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "cy": "Rwy'n deffro"
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n gweithio",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "cysgu",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "bwyta",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Mynd",
+      "type": "unknown",
+      "cy": ""
+    },
+    {
+      "prompt": "",
+      "choices": [],
+      "tts": "Rwy'n codi",
+      "type": "unknown",
+      "cy": ""
+    }
+  ]
+}
