@@ -1,0 +1,296 @@
+{
+  "id": "076-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "أنا أحب",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ar": "أنا أحب"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "لا أحب",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ar": "لا أحب"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "أنا أحب",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ar": "أنا أحب"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "لا أريد",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ar": "لا أريد"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "مهم",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ar": "مهم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أحب",
+      "type": "translate",
+      "correct": [
+        "أنا أحب"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ar": "أنا أحب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لا أحب",
+      "type": "translate",
+      "correct": [
+        "لا أحب"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ar": "لا أحب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أحب",
+      "type": "translate",
+      "correct": [
+        "أنا أحب"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ar": "أنا أحب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لا أريد",
+      "type": "translate",
+      "correct": [
+        "لا أريد"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ar": "لا أريد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مهم",
+      "type": "translate",
+      "correct": [
+        "مهم"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ar": "مهم"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "أنا أحب",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ar": "أنا أحب"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "لا أحب",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ar": "لا أحب"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "أنا أحب",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ar": "أنا أحب"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "لا أريد",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ar": "لا أريد"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "مهم",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ar": "مهم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أحب",
+      "type": "translate",
+      "correct": [
+        "أنا أحب"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ar": "أنا أحب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لا أحب",
+      "type": "translate",
+      "correct": [
+        "لا أحب"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ar": "لا أحب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أحب",
+      "type": "translate",
+      "correct": [
+        "أنا أحب"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ar": "أنا أحب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لا أريد",
+      "type": "translate",
+      "correct": [
+        "لا أريد"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ar": "لا أريد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مهم",
+      "type": "translate",
+      "correct": [
+        "مهم"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ar": "مهم"
+    }
+  ]
+}

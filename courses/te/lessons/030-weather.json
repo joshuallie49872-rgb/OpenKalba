@@ -1,0 +1,296 @@
+{
+  "id": "030-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "వాతావరణం",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "te": "వాతావరణం"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "వర్షం",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "te": "వర్షం"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "సూర్యుడు",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "te": "సూర్యుడు"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "చల్లగా",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "te": "చల్లగా"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "వేడి గా ఉంది",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "te": "వేడి గా ఉంది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వాతావరణం",
+      "type": "translate",
+      "correct": [
+        "వాతావరణం"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "te": "వాతావరణం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వర్షం",
+      "type": "translate",
+      "correct": [
+        "వర్షం"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "te": "వర్షం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సూర్యుడు",
+      "type": "translate",
+      "correct": [
+        "సూర్యుడు"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "te": "సూర్యుడు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "చల్లగా",
+      "type": "translate",
+      "correct": [
+        "చల్లగా"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "te": "చల్లగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వేడి గా ఉంది",
+      "type": "translate",
+      "correct": [
+        "వేడి గా ఉంది"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "te": "వేడి గా ఉంది"
+    },
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "వాతావరణం",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "te": "వాతావరణం"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "వర్షం",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "te": "వర్షం"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "సూర్యుడు",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "te": "సూర్యుడు"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "చల్లగా",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "te": "చల్లగా"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "వేడి గా ఉంది",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "te": "వేడి గా ఉంది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వాతావరణం",
+      "type": "translate",
+      "correct": [
+        "వాతావరణం"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "te": "వాతావరణం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వర్షం",
+      "type": "translate",
+      "correct": [
+        "వర్షం"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "te": "వర్షం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సూర్యుడు",
+      "type": "translate",
+      "correct": [
+        "సూర్యుడు"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "te": "సూర్యుడు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "చల్లగా",
+      "type": "translate",
+      "correct": [
+        "చల్లగా"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "te": "చల్లగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వేడి గా ఉంది",
+      "type": "translate",
+      "correct": [
+        "వేడి గా ఉంది"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "te": "వేడి గా ఉంది"
+    }
+  ]
+}

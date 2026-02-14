@@ -3,7 +3,6 @@
   "title": "Travel & Transport",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "autobusas",
       "choices": [
         "bus",
@@ -15,11 +14,9 @@
       "correct": [
         "bus"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "traukinys",
       "choices": [
         "train",
@@ -31,11 +28,9 @@
       "correct": [
         "train"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "bilietas",
       "choices": [
         "ticket",
@@ -47,11 +42,9 @@
       "correct": [
         "ticket"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "taksi",
       "choices": [
         "taxi",
@@ -63,11 +56,9 @@
       "correct": [
         "taxi"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kelionė",
       "choices": [
         "trip",
@@ -79,8 +70,7 @@
       "correct": [
         "trip"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -93,8 +83,7 @@
       ],
       "en": "bus",
       "placeholder": "Type Lithuanian…",
-      "zh": "bus",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "bus"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -107,8 +96,7 @@
       ],
       "en": "train",
       "placeholder": "Type Lithuanian…",
-      "zh": "train",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "train"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -121,8 +109,7 @@
       ],
       "en": "ticket",
       "placeholder": "Type Lithuanian…",
-      "zh": "ticket",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "ticket"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -135,8 +122,7 @@
       ],
       "en": "taxi",
       "placeholder": "Type Lithuanian…",
-      "zh": "taxi",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "taxi"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -149,11 +135,9 @@
       ],
       "en": "trip",
       "placeholder": "Type Lithuanian…",
-      "zh": "trip",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "trip"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "autobusas",
       "choices": [
         "bus",
@@ -165,11 +149,9 @@
       "correct": [
         "bus"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "traukinys",
       "choices": [
         "train",
@@ -181,11 +163,9 @@
       "correct": [
         "train"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "bilietas",
       "choices": [
         "ticket",
@@ -197,11 +177,9 @@
       "correct": [
         "ticket"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "taksi",
       "choices": [
         "taxi",
@@ -213,11 +191,9 @@
       "correct": [
         "taxi"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kelionė",
       "choices": [
         "trip",
@@ -229,8 +205,7 @@
       "correct": [
         "trip"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -243,8 +218,7 @@
       ],
       "en": "bus",
       "placeholder": "Type Lithuanian…",
-      "zh": "bus",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "bus"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -257,8 +231,7 @@
       ],
       "en": "train",
       "placeholder": "Type Lithuanian…",
-      "zh": "train",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "train"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -271,8 +244,7 @@
       ],
       "en": "ticket",
       "placeholder": "Type Lithuanian…",
-      "zh": "ticket",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "ticket"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -285,8 +257,7 @@
       ],
       "en": "taxi",
       "placeholder": "Type Lithuanian…",
-      "zh": "taxi",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "taxi"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -299,8 +270,7 @@
       ],
       "en": "trip",
       "placeholder": "Type Lithuanian…",
-      "zh": "trip",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "trip"
     }
   ]
 }

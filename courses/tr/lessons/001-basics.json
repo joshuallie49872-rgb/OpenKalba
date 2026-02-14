@@ -1,0 +1,296 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "lt": "labas",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "tts": "Merhaba",
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tr": "Merhaba"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "tts": "Teşekkürler",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tr": "Teşekkürler"
+    },
+    {
+      "lt": "taip",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "tts": "Evet",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tr": "Evet"
+    },
+    {
+      "lt": "ne",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "tts": "Hayır",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tr": "Hayır"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "tts": "Lütfen",
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tr": "Lütfen"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "tts": "Üzgünüm",
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tr": "Üzgünüm"
+    },
+    {
+      "lt": "viso gero",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "tts": "Hoşça kal",
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tr": "Hoşça kal"
+    },
+    {
+      "lt": "iki",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "tts": "Kadar",
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tr": "Kadar"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "tts": "Tamam",
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tr": "Tamam"
+    },
+    {
+      "lt": "blogai",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "tts": "Kötü",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tr": "Kötü"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Merhaba",
+      "correct": [
+        "Merhaba"
+      ],
+      "en": "hello",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "你好",
+      "tr": "Merhaba"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Teşekkürler",
+      "correct": [
+        "Teşekkürler"
+      ],
+      "en": "thank you",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "tr": "Teşekkürler"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Evet",
+      "correct": [
+        "Evet"
+      ],
+      "en": "yes",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "是的",
+      "tr": "Evet"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hayır",
+      "correct": [
+        "Hayır"
+      ],
+      "en": "no",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "tr": "Hayır"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Lütfen",
+      "correct": [
+        "Lütfen"
+      ],
+      "en": "please / you're welcome",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "拜托 / 不客气",
+      "tr": "Lütfen"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Üzgünüm",
+      "correct": [
+        "Üzgünüm"
+      ],
+      "en": "excuse me / sorry",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "打扰一下 / 抱歉",
+      "tr": "Üzgünüm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hoşça kal",
+      "correct": [
+        "Hoşça kal"
+      ],
+      "en": "goodbye",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "tr": "Hoşça kal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kadar",
+      "correct": [
+        "Kadar"
+      ],
+      "en": "see you",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "tr": "Kadar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tamam",
+      "correct": [
+        "Tamam"
+      ],
+      "en": "okay / good",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的/很好",
+      "tr": "Tamam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kötü",
+      "correct": [
+        "Kötü"
+      ],
+      "en": "badly",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "tr": "Kötü"
+    }
+  ]
+}

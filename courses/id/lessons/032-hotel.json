@@ -1,0 +1,296 @@
+{
+  "id": "032-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "kamar",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "id": "kamar"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "kunci",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "id": "kunci"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "tempat tidur",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "id": "tempat tidur"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "pendaftaran",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "id": "pendaftaran"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "menginap",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "id": "menginap"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kamar",
+      "type": "translate",
+      "correct": [
+        "kamar"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "id": "kamar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kunci",
+      "type": "translate",
+      "correct": [
+        "kunci"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "id": "kunci"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tempat tidur",
+      "type": "translate",
+      "correct": [
+        "tempat tidur"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "id": "tempat tidur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendaftaran",
+      "type": "translate",
+      "correct": [
+        "pendaftaran"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "id": "pendaftaran"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "menginap",
+      "type": "translate",
+      "correct": [
+        "menginap"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "id": "menginap"
+    },
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "kamar",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "id": "kamar"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "kunci",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "id": "kunci"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "tempat tidur",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "id": "tempat tidur"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "pendaftaran",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "id": "pendaftaran"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "menginap",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "id": "menginap"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kamar",
+      "type": "translate",
+      "correct": [
+        "kamar"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "id": "kamar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kunci",
+      "type": "translate",
+      "correct": [
+        "kunci"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "id": "kunci"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tempat tidur",
+      "type": "translate",
+      "correct": [
+        "tempat tidur"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "id": "tempat tidur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendaftaran",
+      "type": "translate",
+      "correct": [
+        "pendaftaran"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "id": "pendaftaran"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "menginap",
+      "type": "translate",
+      "correct": [
+        "menginap"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "id": "menginap"
+    }
+  ]
+}

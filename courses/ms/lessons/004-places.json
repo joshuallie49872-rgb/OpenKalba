@@ -1,0 +1,296 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "di sini",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ms": "di sini"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "di sana",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ms": "di sana"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "kiri",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ms": "kiri"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "kanan",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ms": "kanan"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "lurus",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ms": "lurus"
+    },
+    {
+      "lt": "miestas",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "bandar",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "ms": "bandar"
+    },
+    {
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "jalan",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "ms": "jalan"
+    },
+    {
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "stesen",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "ms": "stesen"
+    },
+    {
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "lapangan terbang",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "ms": "lapangan terbang"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "hotel",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "ms": "hotel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "di sini",
+      "type": "translate",
+      "correct": [
+        "di sini"
+      ],
+      "en": "here",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里",
+      "ms": "di sini"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "di sana",
+      "type": "translate",
+      "correct": [
+        "di sana"
+      ],
+      "en": "there",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里",
+      "ms": "di sana"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kiri",
+      "type": "translate",
+      "correct": [
+        "kiri"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "ms": "kiri"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kanan",
+      "type": "translate",
+      "correct": [
+        "kanan"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "ms": "kanan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lurus",
+      "type": "translate",
+      "correct": [
+        "lurus"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "ms": "lurus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bandar",
+      "type": "translate",
+      "correct": [
+        "bandar"
+      ],
+      "en": "city",
+      "placeholder": "Type Lithuanian…",
+      "zh": "city",
+      "ms": "bandar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "jalan",
+      "type": "translate",
+      "correct": [
+        "jalan"
+      ],
+      "en": "street",
+      "placeholder": "Type Lithuanian…",
+      "zh": "street",
+      "ms": "jalan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hotel",
+      "type": "translate",
+      "correct": [
+        "hotel"
+      ],
+      "en": "hotel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hotel",
+      "ms": "hotel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "stesen",
+      "type": "translate",
+      "correct": [
+        "stesen"
+      ],
+      "en": "station",
+      "placeholder": "Type Lithuanian…",
+      "zh": "station",
+      "ms": "stesen"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lapangan terbang",
+      "type": "translate",
+      "correct": [
+        "lapangan terbang"
+      ],
+      "en": "airport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "airport",
+      "ms": "lapangan terbang"
+    }
+  ]
+}

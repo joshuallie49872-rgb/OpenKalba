@@ -1,0 +1,316 @@
+{
+  "id": "013-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "ko": "오늘",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "오늘"
+    },
+    {
+      "ko": "내일",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "내일"
+    },
+    {
+      "ko": "어제",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "어제"
+    },
+    {
+      "ko": "지금",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "지금"
+    },
+    {
+      "ko": "시간",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "시간"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ko": "오늘",
+      "correct": [
+        "오늘"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "오늘",
+      "ru": "сегодня",
+      "pl": "Dzisiaj",
+      "zh": "今天",
+      "lt": "šiandien"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ko": "내일",
+      "correct": [
+        "내일"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "내일",
+      "ru": "завтра",
+      "pl": "jutro",
+      "zh": "明天",
+      "lt": "rytoj"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "ko": "어제",
+      "correct": [
+        "어제"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "어제",
+      "ru": "вчера",
+      "pl": "Wczoraj",
+      "zh": "昨天",
+      "lt": "vakar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "ko": "지금",
+      "correct": [
+        "지금"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "지금",
+      "ru": "сейчас",
+      "pl": "Teraz",
+      "zh": "现在",
+      "lt": "dabar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "ko": "시간",
+      "correct": [
+        "시간"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "시간",
+      "ru": "час",
+      "pl": "godzina",
+      "zh": "小时",
+      "lt": "valanda"
+    },
+    {
+      "ko": "오늘",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "오늘"
+    },
+    {
+      "ko": "내일",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "내일"
+    },
+    {
+      "ko": "어제",
+      "lt": "",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "tts": "어제"
+    },
+    {
+      "ko": "지금",
+      "lt": "",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "tts": "지금"
+    },
+    {
+      "ko": "시간",
+      "lt": "",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "tts": "시간"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ko": "오늘",
+      "correct": [
+        "오늘"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "오늘",
+      "ru": "сегодня",
+      "pl": "Dzisiaj",
+      "zh": "今天",
+      "lt": "šiandien"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ko": "내일",
+      "correct": [
+        "내일"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "내일",
+      "ru": "завтра",
+      "pl": "jutro",
+      "zh": "明天",
+      "lt": "rytoj"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yesterday",
+      "ko": "어제",
+      "correct": [
+        "어제"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "어제",
+      "ru": "вчера",
+      "pl": "Wczoraj",
+      "zh": "昨天",
+      "lt": "vakar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "now",
+      "ko": "지금",
+      "correct": [
+        "지금"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "지금",
+      "ru": "сейчас",
+      "pl": "Teraz",
+      "zh": "现在",
+      "lt": "dabar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hour",
+      "ko": "시간",
+      "correct": [
+        "시간"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "시간",
+      "ru": "час",
+      "pl": "godzina",
+      "zh": "小时",
+      "lt": "valanda"
+    }
+  ]
+}

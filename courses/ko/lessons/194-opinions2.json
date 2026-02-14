@@ -1,0 +1,316 @@
+{
+  "id": "194-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "ko": "제 생각에는",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "제 생각에는"
+    },
+    {
+      "ko": "동의합니다",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "동의합니다"
+    },
+    {
+      "ko": "저는 동의하지 않습니다.",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "저는 동의하지 않습니다."
+    },
+    {
+      "ko": "의견",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "의견"
+    },
+    {
+      "ko": "논쟁",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "논쟁"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "ko": "제 생각에는",
+      "correct": [
+        "제 생각에는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "제 생각에는",
+      "ru": "Я думаю",
+      "pl": "Myślę, że",
+      "zh": "我认为",
+      "lt": "Manau, kad"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "ko": "동의합니다",
+      "correct": [
+        "동의합니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "동의합니다",
+      "ru": "Я согласен",
+      "pl": "Zgadzam się",
+      "zh": "我同意",
+      "lt": "Aš sutinku"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "ko": "저는 동의하지 않습니다.",
+      "correct": [
+        "저는 동의하지 않습니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 동의하지 않습니다.",
+      "ru": "я не согласен",
+      "pl": "Nie zgadzam się",
+      "zh": "我不同意。",
+      "lt": "Nesutinku"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "ko": "의견",
+      "correct": [
+        "의견"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "의견",
+      "ru": "мнение",
+      "pl": "opinia",
+      "zh": "观点",
+      "lt": "nuomonė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "ko": "논쟁",
+      "correct": [
+        "논쟁"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "논쟁",
+      "ru": "аргумент",
+      "pl": "argument",
+      "zh": "争论",
+      "lt": "argumentas"
+    },
+    {
+      "ko": "제 생각에는",
+      "lt": "",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tts": "제 생각에는"
+    },
+    {
+      "ko": "동의합니다",
+      "lt": "",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tts": "동의합니다"
+    },
+    {
+      "ko": "저는 동의하지 않습니다.",
+      "lt": "",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tts": "저는 동의하지 않습니다."
+    },
+    {
+      "ko": "의견",
+      "lt": "",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tts": "의견"
+    },
+    {
+      "ko": "논쟁",
+      "lt": "",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tts": "논쟁"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I think",
+      "ko": "제 생각에는",
+      "correct": [
+        "제 생각에는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "제 생각에는",
+      "ru": "Я думаю",
+      "pl": "Myślę, że",
+      "zh": "我认为",
+      "lt": "Manau, kad"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I agree",
+      "ko": "동의합니다",
+      "correct": [
+        "동의합니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "동의합니다",
+      "ru": "Я согласен",
+      "pl": "Zgadzam się",
+      "zh": "我同意",
+      "lt": "Aš sutinku"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I disagree",
+      "ko": "저는 동의하지 않습니다.",
+      "correct": [
+        "저는 동의하지 않습니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 동의하지 않습니다.",
+      "ru": "я не согласен",
+      "pl": "Nie zgadzam się",
+      "zh": "我不同意。",
+      "lt": "Nesutinku"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinion",
+      "ko": "의견",
+      "correct": [
+        "의견"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "의견",
+      "ru": "мнение",
+      "pl": "opinia",
+      "zh": "观点",
+      "lt": "nuomonė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "argument",
+      "ko": "논쟁",
+      "correct": [
+        "논쟁"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "논쟁",
+      "ru": "аргумент",
+      "pl": "argument",
+      "zh": "争论",
+      "lt": "argumentas"
+    }
+  ]
+}

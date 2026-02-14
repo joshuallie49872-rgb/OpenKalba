@@ -1,0 +1,296 @@
+{
+  "id": "035-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "thời tiết",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "vi": "thời tiết"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "mưa",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "vi": "mưa"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "mặt trời",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "vi": "mặt trời"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "lạnh",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "vi": "lạnh"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "nóng",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "vi": "nóng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thời tiết",
+      "type": "translate",
+      "correct": [
+        "thời tiết"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "vi": "thời tiết"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mưa",
+      "type": "translate",
+      "correct": [
+        "mưa"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "vi": "mưa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mặt trời",
+      "type": "translate",
+      "correct": [
+        "mặt trời"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "vi": "mặt trời"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lạnh",
+      "type": "translate",
+      "correct": [
+        "lạnh"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "vi": "lạnh"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "nóng",
+      "type": "translate",
+      "correct": [
+        "nóng"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "vi": "nóng"
+    },
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "thời tiết",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "vi": "thời tiết"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "mưa",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "vi": "mưa"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "mặt trời",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "vi": "mặt trời"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "lạnh",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "vi": "lạnh"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "nóng",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "vi": "nóng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thời tiết",
+      "type": "translate",
+      "correct": [
+        "thời tiết"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "vi": "thời tiết"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mưa",
+      "type": "translate",
+      "correct": [
+        "mưa"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "vi": "mưa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mặt trời",
+      "type": "translate",
+      "correct": [
+        "mặt trời"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "vi": "mặt trời"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lạnh",
+      "type": "translate",
+      "correct": [
+        "lạnh"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "vi": "lạnh"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "nóng",
+      "type": "translate",
+      "correct": [
+        "nóng"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "vi": "nóng"
+    }
+  ]
+}

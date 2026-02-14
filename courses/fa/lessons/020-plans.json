@@ -1,0 +1,296 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "امروز",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "fa": "امروز"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "فردا",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "fa": "فردا"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "بعدا",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "fa": "بعدا"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "من برنامه ریزی می کنم",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "fa": "من برنامه ریزی می کنم"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "ما ملاقات خواهیم کرد",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "fa": "ما ملاقات خواهیم کرد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "امروز",
+      "type": "translate",
+      "correct": [
+        "امروز"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "fa": "امروز"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "فردا",
+      "type": "translate",
+      "correct": [
+        "فردا"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "fa": "فردا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بعدا",
+      "type": "translate",
+      "correct": [
+        "بعدا"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "fa": "بعدا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من برنامه ریزی می کنم",
+      "type": "translate",
+      "correct": [
+        "من برنامه ریزی می کنم"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "fa": "من برنامه ریزی می کنم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ما ملاقات خواهیم کرد",
+      "type": "translate",
+      "correct": [
+        "ما ملاقات خواهیم کرد"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "fa": "ما ملاقات خواهیم کرد"
+    },
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "امروز",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "fa": "امروز"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "فردا",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "fa": "فردا"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "بعدا",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "fa": "بعدا"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "من برنامه ریزی می کنم",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "fa": "من برنامه ریزی می کنم"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "ما ملاقات خواهیم کرد",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "fa": "ما ملاقات خواهیم کرد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "امروز",
+      "type": "translate",
+      "correct": [
+        "امروز"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "fa": "امروز"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "فردا",
+      "type": "translate",
+      "correct": [
+        "فردا"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "fa": "فردا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بعدا",
+      "type": "translate",
+      "correct": [
+        "بعدا"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "fa": "بعدا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من برنامه ریزی می کنم",
+      "type": "translate",
+      "correct": [
+        "من برنامه ریزی می کنم"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "fa": "من برنامه ریزی می کنم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ما ملاقات خواهیم کرد",
+      "type": "translate",
+      "correct": [
+        "ما ملاقات خواهیم کرد"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "fa": "ما ملاقات خواهیم کرد"
+    }
+  ]
+}

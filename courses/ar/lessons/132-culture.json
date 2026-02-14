@@ -1,0 +1,296 @@
+{
+  "id": "132-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "عطلة",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "ar": "عطلة"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "تقليد",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "ar": "تقليد"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "عادة",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "ar": "عادة"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "وقت فراغ",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "ar": "وقت فراغ"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "حدث",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "ar": "حدث"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عطلة",
+      "type": "translate",
+      "correct": [
+        "عطلة"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "ar": "عطلة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "تقليد",
+      "type": "translate",
+      "correct": [
+        "تقليد"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "ar": "تقليد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عادة",
+      "type": "translate",
+      "correct": [
+        "عادة"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "ar": "عادة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "وقت فراغ",
+      "type": "translate",
+      "correct": [
+        "وقت فراغ"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "ar": "وقت فراغ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حدث",
+      "type": "translate",
+      "correct": [
+        "حدث"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "ar": "حدث"
+    },
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "عطلة",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "ar": "عطلة"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "تقليد",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "ar": "تقليد"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "عادة",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "ar": "عادة"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "وقت فراغ",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "ar": "وقت فراغ"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "حدث",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "ar": "حدث"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عطلة",
+      "type": "translate",
+      "correct": [
+        "عطلة"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "ar": "عطلة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "تقليد",
+      "type": "translate",
+      "correct": [
+        "تقليد"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "ar": "تقليد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عادة",
+      "type": "translate",
+      "correct": [
+        "عادة"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "ar": "عادة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "وقت فراغ",
+      "type": "translate",
+      "correct": [
+        "وقت فراغ"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "ar": "وقت فراغ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حدث",
+      "type": "translate",
+      "correct": [
+        "حدث"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "ar": "حدث"
+    }
+  ]
+}

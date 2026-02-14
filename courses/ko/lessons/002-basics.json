@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "ko": "하나",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tts": "하나"
+    },
+    {
+      "ko": "둘",
+      "lt": "",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tts": "둘"
+    },
+    {
+      "ko": "삼",
+      "lt": "",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tts": "삼"
+    },
+    {
+      "ko": "넷",
+      "lt": "",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tts": "넷"
+    },
+    {
+      "ko": "다섯",
+      "lt": "",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tts": "다섯"
+    },
+    {
+      "ko": "빨간색",
+      "lt": "",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tts": "빨간색"
+    },
+    {
+      "ko": "파란색",
+      "lt": "",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tts": "파란색"
+    },
+    {
+      "ko": "녹색",
+      "lt": "",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tts": "녹색"
+    },
+    {
+      "ko": "검은색",
+      "lt": "",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tts": "검은색"
+    },
+    {
+      "ko": "하얀색",
+      "lt": "",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tts": "하얀색"
+    },
+    {
+      "ko": "어머니",
+      "lt": "",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tts": "어머니"
+    },
+    {
+      "ko": "아빠",
+      "lt": "",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tts": "아빠"
+    },
+    {
+      "ko": "형제",
+      "lt": "",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tts": "형제"
+    },
+    {
+      "ko": "자매",
+      "lt": "",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tts": "자매"
+    },
+    {
+      "ko": "가족",
+      "lt": "",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "가족"
+    },
+    {
+      "ko": "물",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "물"
+    },
+    {
+      "ko": "커피",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "커피"
+    },
+    {
+      "ko": "빵",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "빵"
+    },
+    {
+      "ko": "호텔",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "호텔"
+    },
+    {
+      "ko": "표",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "표"
+    }
+  ]
+}

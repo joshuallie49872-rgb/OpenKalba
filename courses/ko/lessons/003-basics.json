@@ -1,0 +1,313 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "ko": "나는 원해요",
+      "lt": "",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tts": "나는 원해요"
+    },
+    {
+      "ko": "나는 가지고 있다",
+      "lt": "",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tts": "나는 가지고 있다"
+    },
+    {
+      "ko": "나는 먹고 있다",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "나는 먹고 있다"
+    },
+    {
+      "ko": "나는 마신다",
+      "lt": "",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tts": "나는 마신다"
+    },
+    {
+      "ko": "물",
+      "lt": "",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "물"
+    },
+    {
+      "ko": "커피",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "커피"
+    },
+    {
+      "ko": "맥주",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "맥주"
+    },
+    {
+      "ko": "빵",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "빵"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I want water",
+      "ko": "물이 마시고 싶어요.",
+      "correct": [
+        "물이 마시고 싶어요."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "물이 마시고 싶어요.",
+      "ru": "Мне нужна вода",
+      "pl": "Chcę wody",
+      "zh": "我想要水",
+      "lt": "Aš noriu vandens"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I want coffee",
+      "ko": "커피 마시고 싶어요.",
+      "correct": [
+        "커피 마시고 싶어요."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "커피 마시고 싶어요.",
+      "ru": "Я хочу кофе",
+      "pl": "Chcę kawy",
+      "zh": "我想喝咖啡",
+      "lt": "Noriu kavos"
+    },
+    {
+      "ko": "여기",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "여기"
+    },
+    {
+      "ko": "거기",
+      "lt": "",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "거기"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "here water",
+      "ko": "여기에 물이 있습니다",
+      "correct": [
+        "여기에 물이 있습니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여기에 물이 있습니다",
+      "ru": "здесь вода",
+      "pl": "tutaj woda",
+      "zh": "这里水",
+      "lt": "čia vanduo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "there coffee",
+      "ko": "커피가 있어요",
+      "correct": [
+        "커피가 있어요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "커피가 있어요",
+      "ru": "там кофе",
+      "pl": "tam kawa",
+      "zh": "那里的咖啡",
+      "lt": "ten kava"
+    },
+    {
+      "ko": "물 주세요",
+      "lt": "",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tts": "물 주세요"
+    },
+    {
+      "ko": "맥주 마시고 싶어요.",
+      "lt": "",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tts": "맥주 마시고 싶어요."
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I drink vandenį",
+      "ko": "저는 물을 마십니다.",
+      "correct": [
+        "저는 물을 마십니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 물을 마십니다.",
+      "ru": "Я пью вандэни",
+      "pl": "Piję vandenį",
+      "zh": "我喝万登尼",
+      "lt": "Aš geriu vandenį"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat bread",
+      "ko": "나는 빵을 먹는다.",
+      "correct": [
+        "나는 빵을 먹는다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 빵을 먹는다.",
+      "ru": "Я ем хлеб",
+      "pl": "Jem chleb",
+      "zh": "我吃面包",
+      "lt": "Aš valgau duoną"
+    },
+    {
+      "ko": "좋은",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "좋은"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "ko": "좋은",
+      "correct": [
+        "좋은"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋은",
+      "ru": "хорошо",
+      "pl": "Dobra",
+      "zh": "好的",
+      "lt": "gerai"
+    }
+  ]
+}

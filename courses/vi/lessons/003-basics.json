@@ -1,0 +1,299 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "lt": "noriu",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "tôi muốn",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "vi": "tôi muốn"
+    },
+    {
+      "lt": "turiu",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "tôi có",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "vi": "tôi có"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "tôi ăn",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "vi": "tôi ăn"
+    },
+    {
+      "lt": "geriu",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "tôi uống",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "vi": "tôi uống"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "nước",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "vi": "nước"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "cà phê",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "vi": "cà phê"
+    },
+    {
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "bia",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "vi": "bia"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "bánh mì",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "vi": "bánh mì"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi muốn nước",
+      "correct": [
+        "tôi muốn nước"
+      ],
+      "en": "I want water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要水",
+      "vi": "tôi muốn nước"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi muốn cà phê",
+      "correct": [
+        "tôi muốn cà phê"
+      ],
+      "en": "I want coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要咖啡",
+      "vi": "tôi muốn cà phê"
+    },
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "ở đây",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "vi": "ở đây"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "ở đó",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "vi": "ở đó"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đây là nước",
+      "correct": [
+        "đây là nước"
+      ],
+      "en": "here water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里水",
+      "vi": "đây là nước"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ở đó có cà phê",
+      "correct": [
+        "ở đó có cà phê"
+      ],
+      "en": "there coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里咖啡",
+      "vi": "ở đó có cà phê"
+    },
+    {
+      "lt": "prašau vandens",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "làm ơn cho tôi nước",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "vi": "làm ơn cho tôi nước"
+    },
+    {
+      "lt": "noriu alaus",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "tôi muốn bia",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "vi": "tôi muốn bia"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi uống nước",
+      "correct": [
+        "tôi uống nước"
+      ],
+      "en": "I drink vandenį",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我drinkvandenį",
+      "vi": "tôi uống nước"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi ăn bánh mì",
+      "correct": [
+        "tôi ăn bánh mì"
+      ],
+      "en": "I eat bread",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat面包",
+      "vi": "tôi ăn bánh mì"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "được",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "vi": "được"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "được",
+      "correct": [
+        "được"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "vi": "được"
+    }
+  ]
+}

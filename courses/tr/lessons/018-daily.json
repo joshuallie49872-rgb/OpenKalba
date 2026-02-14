@@ -1,0 +1,296 @@
+{
+  "id": "018-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Çalışıyorum",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tr": "Çalışıyorum"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Uyuyorum",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tr": "Uyuyorum"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Yiyorum",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tr": "Yiyorum"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Gidiyorum",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tr": "Gidiyorum"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Uyanıyorum",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tr": "Uyanıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Çalışıyorum",
+      "type": "translate",
+      "correct": [
+        "Çalışıyorum"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "tr": "Çalışıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Uyuyorum",
+      "type": "translate",
+      "correct": [
+        "Uyuyorum"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "tr": "Uyuyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yiyorum",
+      "type": "translate",
+      "correct": [
+        "Yiyorum"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "tr": "Yiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gidiyorum",
+      "type": "translate",
+      "correct": [
+        "Gidiyorum"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "tr": "Gidiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Uyanıyorum",
+      "type": "translate",
+      "correct": [
+        "Uyanıyorum"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "tr": "Uyanıyorum"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Çalışıyorum",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tr": "Çalışıyorum"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Uyuyorum",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tr": "Uyuyorum"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "Yiyorum",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tr": "Yiyorum"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "Gidiyorum",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tr": "Gidiyorum"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "Uyanıyorum",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tr": "Uyanıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Çalışıyorum",
+      "type": "translate",
+      "correct": [
+        "Çalışıyorum"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "tr": "Çalışıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Uyuyorum",
+      "type": "translate",
+      "correct": [
+        "Uyuyorum"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "tr": "Uyuyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yiyorum",
+      "type": "translate",
+      "correct": [
+        "Yiyorum"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "tr": "Yiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gidiyorum",
+      "type": "translate",
+      "correct": [
+        "Gidiyorum"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "tr": "Gidiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Uyanıyorum",
+      "type": "translate",
+      "correct": [
+        "Uyanıyorum"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "tr": "Uyanıyorum"
+    }
+  ]
+}

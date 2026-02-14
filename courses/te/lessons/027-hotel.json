@@ -1,0 +1,296 @@
+{
+  "id": "027-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "గది",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "te": "గది"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "తాళం చెవి",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "te": "తాళం చెవి"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "మంచం",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "te": "మంచం"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "నమోదు",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "te": "నమోదు"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "రాత్రి బస",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "te": "రాత్రి బస"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "గది",
+      "type": "translate",
+      "correct": [
+        "గది"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "te": "గది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తాళం చెవి",
+      "type": "translate",
+      "correct": [
+        "తాళం చెవి"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "te": "తాళం చెవి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "మంచం",
+      "type": "translate",
+      "correct": [
+        "మంచం"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "te": "మంచం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నమోదు",
+      "type": "translate",
+      "correct": [
+        "నమోదు"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "te": "నమోదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "రాత్రి బస",
+      "type": "translate",
+      "correct": [
+        "రాత్రి బస"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "te": "రాత్రి బస"
+    },
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "గది",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "te": "గది"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "తాళం చెవి",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "te": "తాళం చెవి"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "మంచం",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "te": "మంచం"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "నమోదు",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "te": "నమోదు"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "రాత్రి బస",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "te": "రాత్రి బస"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "గది",
+      "type": "translate",
+      "correct": [
+        "గది"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "te": "గది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తాళం చెవి",
+      "type": "translate",
+      "correct": [
+        "తాళం చెవి"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "te": "తాళం చెవి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "మంచం",
+      "type": "translate",
+      "correct": [
+        "మంచం"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "te": "మంచం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నమోదు",
+      "type": "translate",
+      "correct": [
+        "నమోదు"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "te": "నమోదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "రాత్రి బస",
+      "type": "translate",
+      "correct": [
+        "రాత్రి బస"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "te": "రాత్రి బస"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "ko": "물",
+      "lt": "",
+      "choices": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tts": "물"
+    },
+    {
+      "ko": "커피",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "커피"
+    },
+    {
+      "ko": "차",
+      "lt": "",
+      "choices": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "correct": [
+        "tea"
+      ],
+      "type": "choose",
+      "tts": "차"
+    },
+    {
+      "ko": "맥주",
+      "lt": "",
+      "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tts": "맥주"
+    },
+    {
+      "ko": "와인",
+      "lt": "",
+      "choices": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "correct": [
+        "wine"
+      ],
+      "type": "choose",
+      "tts": "와인"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "water",
+      "ko": "물",
+      "correct": [
+        "물"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "물",
+      "ru": "вода",
+      "pl": "woda",
+      "zh": "水",
+      "lt": "vanduo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "ko": "커피",
+      "correct": [
+        "커피"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "커피",
+      "ru": "кофе",
+      "pl": "kawa",
+      "zh": "咖啡",
+      "lt": "kava"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tea",
+      "ko": "차",
+      "correct": [
+        "차"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "차",
+      "ru": "чай",
+      "pl": "herbata",
+      "zh": "茶",
+      "lt": "arbata"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beer",
+      "ko": "맥주",
+      "correct": [
+        "맥주"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "맥주",
+      "ru": "пиво",
+      "pl": "piwo",
+      "zh": "啤酒",
+      "lt": "alus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "wine",
+      "ko": "와인",
+      "correct": [
+        "와인"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "와인",
+      "ru": "вино",
+      "pl": "wino",
+      "zh": "葡萄酒",
+      "lt": "vynas"
+    },
+    {
+      "ko": "빵",
+      "lt": "",
+      "choices": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tts": "빵"
+    },
+    {
+      "ko": "치즈",
+      "lt": "",
+      "choices": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "correct": [
+        "cheese"
+      ],
+      "type": "choose",
+      "tts": "치즈"
+    },
+    {
+      "ko": "고기",
+      "lt": "",
+      "choices": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "meat"
+      ],
+      "type": "choose",
+      "tts": "고기"
+    },
+    {
+      "ko": "물고기",
+      "lt": "",
+      "choices": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "correct": [
+        "fish"
+      ],
+      "type": "choose",
+      "tts": "물고기"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bread",
+      "ko": "빵",
+      "correct": [
+        "빵"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "빵",
+      "ru": "хлеб",
+      "pl": "chleb",
+      "zh": "面包",
+      "lt": "duona"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheese",
+      "ko": "치즈",
+      "correct": [
+        "치즈"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "치즈",
+      "ru": "сыр",
+      "pl": "ser",
+      "zh": "奶酪",
+      "lt": "sūris"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meat",
+      "ko": "고기",
+      "correct": [
+        "고기"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "고기",
+      "ru": "мясо",
+      "pl": "mięso",
+      "zh": "肉",
+      "lt": "mėsa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fish",
+      "ko": "물고기",
+      "correct": [
+        "물고기"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "물고기",
+      "ru": "рыба",
+      "pl": "ryba",
+      "zh": "鱼",
+      "lt": "žuvis"
+    },
+    {
+      "ko": "맛있는",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "맛있는"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "ko": "맛있는",
+      "correct": [
+        "맛있는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "맛있는",
+      "ru": "вкусный",
+      "pl": "smaczny",
+      "zh": "可口",
+      "lt": "skanus"
+    }
+  ]
+}

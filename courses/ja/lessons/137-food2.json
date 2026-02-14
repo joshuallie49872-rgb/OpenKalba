@@ -1,0 +1,296 @@
+{
+  "id": "137-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "朝食",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "ja": "朝食"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "昼食",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "ja": "昼食"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "夕食",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "ja": "夕食"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "おいしい",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "ja": "おいしい"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "お腹がすきました",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "ja": "お腹がすきました"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "朝食",
+      "type": "translate",
+      "correct": [
+        "朝食"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "ja": "朝食"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "昼食",
+      "type": "translate",
+      "correct": [
+        "昼食"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "ja": "昼食"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "夕食",
+      "type": "translate",
+      "correct": [
+        "夕食"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "ja": "夕食"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "おいしい",
+      "type": "translate",
+      "correct": [
+        "おいしい"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "ja": "おいしい"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お腹がすきました",
+      "type": "translate",
+      "correct": [
+        "お腹がすきました"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "ja": "お腹がすきました"
+    },
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "朝食",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "ja": "朝食"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "昼食",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "ja": "昼食"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "夕食",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "ja": "夕食"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "おいしい",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "ja": "おいしい"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "お腹がすきました",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "ja": "お腹がすきました"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "朝食",
+      "type": "translate",
+      "correct": [
+        "朝食"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "ja": "朝食"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "昼食",
+      "type": "translate",
+      "correct": [
+        "昼食"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "ja": "昼食"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "夕食",
+      "type": "translate",
+      "correct": [
+        "夕食"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "ja": "夕食"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "おいしい",
+      "type": "translate",
+      "correct": [
+        "おいしい"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "ja": "おいしい"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お腹がすきました",
+      "type": "translate",
+      "correct": [
+        "お腹がすきました"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "ja": "お腹がすきました"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "126-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "ఖరీదైన",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "te": "ఖరీదైన"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "చౌక",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "te": "చౌక"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "తగ్గింపు",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "te": "తగ్గింపు"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "క్యాషియర్",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "te": "క్యాషియర్"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "రసీదు",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "te": "రసీదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఖరీదైన",
+      "type": "translate",
+      "correct": [
+        "ఖరీదైన"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "te": "ఖరీదైన"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "చౌక",
+      "type": "translate",
+      "correct": [
+        "చౌక"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "te": "చౌక"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తగ్గింపు",
+      "type": "translate",
+      "correct": [
+        "తగ్గింపు"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "te": "తగ్గింపు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "క్యాషియర్",
+      "type": "translate",
+      "correct": [
+        "క్యాషియర్"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "te": "క్యాషియర్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "రసీదు",
+      "type": "translate",
+      "correct": [
+        "రసీదు"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "te": "రసీదు"
+    },
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "ఖరీదైన",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "te": "ఖరీదైన"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "చౌక",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "te": "చౌక"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "తగ్గింపు",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "te": "తగ్గింపు"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "క్యాషియర్",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "te": "క్యాషియర్"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "రసీదు",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "te": "రసీదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఖరీదైన",
+      "type": "translate",
+      "correct": [
+        "ఖరీదైన"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "te": "ఖరీదైన"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "చౌక",
+      "type": "translate",
+      "correct": [
+        "చౌక"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "te": "చౌక"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తగ్గింపు",
+      "type": "translate",
+      "correct": [
+        "తగ్గింపు"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "te": "తగ్గింపు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "క్యాషియర్",
+      "type": "translate",
+      "correct": [
+        "క్యాషియర్"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "te": "క్యాషియర్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "రసీదు",
+      "type": "translate",
+      "correct": [
+        "రసీదు"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "te": "రసీదు"
+    }
+  ]
+}

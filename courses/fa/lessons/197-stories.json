@@ -1,0 +1,296 @@
+{
+  "id": "197-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "داستان",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "fa": "داستان"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "یک داستان",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "fa": "یک داستان"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "شروع",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "fa": "شروع"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "پایان",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "fa": "پایان"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "اتفاق افتاد",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "fa": "اتفاق افتاد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "داستان",
+      "type": "translate",
+      "correct": [
+        "داستان"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "fa": "داستان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک داستان",
+      "type": "translate",
+      "correct": [
+        "یک داستان"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "fa": "یک داستان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "شروع",
+      "type": "translate",
+      "correct": [
+        "شروع"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "fa": "شروع"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پایان",
+      "type": "translate",
+      "correct": [
+        "پایان"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "fa": "پایان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "اتفاق افتاد",
+      "type": "translate",
+      "correct": [
+        "اتفاق افتاد"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "fa": "اتفاق افتاد"
+    },
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "داستان",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "fa": "داستان"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "یک داستان",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "fa": "یک داستان"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "شروع",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "fa": "شروع"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "پایان",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "fa": "پایان"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "اتفاق افتاد",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "fa": "اتفاق افتاد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "داستان",
+      "type": "translate",
+      "correct": [
+        "داستان"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "fa": "داستان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک داستان",
+      "type": "translate",
+      "correct": [
+        "یک داستان"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "fa": "یک داستان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "شروع",
+      "type": "translate",
+      "correct": [
+        "شروع"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "fa": "شروع"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پایان",
+      "type": "translate",
+      "correct": [
+        "پایان"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "fa": "پایان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "اتفاق افتاد",
+      "type": "translate",
+      "correct": [
+        "اتفاق افتاد"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "fa": "اتفاق افتاد"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "025-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "آب و هوا",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "fa": "آب و هوا"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "باران",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "fa": "باران"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "خورشید",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "fa": "خورشید"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "سرد",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "fa": "سرد"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "داغ است",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "fa": "داغ است"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "آب و هوا",
+      "type": "translate",
+      "correct": [
+        "آب و هوا"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "fa": "آب و هوا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "باران",
+      "type": "translate",
+      "correct": [
+        "باران"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "fa": "باران"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خورشید",
+      "type": "translate",
+      "correct": [
+        "خورشید"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "fa": "خورشید"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سرد",
+      "type": "translate",
+      "correct": [
+        "سرد"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "fa": "سرد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "داغ است",
+      "type": "translate",
+      "correct": [
+        "داغ است"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "fa": "داغ است"
+    },
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "آب و هوا",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "fa": "آب و هوا"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "باران",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "fa": "باران"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "خورشید",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "fa": "خورشید"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "سرد",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "fa": "سرد"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "داغ است",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "fa": "داغ است"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "آب و هوا",
+      "type": "translate",
+      "correct": [
+        "آب و هوا"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "fa": "آب و هوا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "باران",
+      "type": "translate",
+      "correct": [
+        "باران"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "fa": "باران"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خورشید",
+      "type": "translate",
+      "correct": [
+        "خورشید"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "fa": "خورشید"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سرد",
+      "type": "translate",
+      "correct": [
+        "سرد"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "fa": "سرد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "داغ است",
+      "type": "translate",
+      "correct": [
+        "داغ است"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "fa": "داغ است"
+    }
+  ]
+}

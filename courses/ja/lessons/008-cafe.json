@@ -1,0 +1,296 @@
+{
+  "id": "008-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "お願いします",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ja": "お願いします"
+    },
+    {
+      "lt": "meniu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "メニュー",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "ja": "メニュー"
+    },
+    {
+      "lt": "sąskaita",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "勘定",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "ja": "勘定"
+    },
+    {
+      "lt": "stalas",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "テーブル",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "ja": "テーブル"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "コーヒー",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ja": "コーヒー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "メニュー",
+      "type": "translate",
+      "correct": [
+        "メニュー"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "ja": "メニュー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "勘定",
+      "type": "translate",
+      "correct": [
+        "勘定"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "ja": "勘定"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "テーブル",
+      "type": "translate",
+      "correct": [
+        "テーブル"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "ja": "テーブル"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "コーヒー",
+      "type": "translate",
+      "correct": [
+        "コーヒー"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "ja": "コーヒー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お願いします",
+      "type": "translate",
+      "correct": [
+        "お願いします"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ja": "お願いします"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "お願いします",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ja": "お願いします"
+    },
+    {
+      "lt": "meniu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "メニュー",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "ja": "メニュー"
+    },
+    {
+      "lt": "sąskaita",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "勘定",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "ja": "勘定"
+    },
+    {
+      "lt": "stalas",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "テーブル",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "ja": "テーブル"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "コーヒー",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ja": "コーヒー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "メニュー",
+      "type": "translate",
+      "correct": [
+        "メニュー"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "ja": "メニュー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "勘定",
+      "type": "translate",
+      "correct": [
+        "勘定"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "ja": "勘定"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "テーブル",
+      "type": "translate",
+      "correct": [
+        "テーブル"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "ja": "テーブル"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "コーヒー",
+      "type": "translate",
+      "correct": [
+        "コーヒー"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "ja": "コーヒー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お願いします",
+      "type": "translate",
+      "correct": [
+        "お願いします"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ja": "お願いします"
+    }
+  ]
+}

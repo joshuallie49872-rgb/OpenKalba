@@ -1,0 +1,296 @@
+{
+  "id": "151-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "ngạc nhiên",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "vi": "ngạc nhiên"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "tức giận",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "vi": "tức giận"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "bình tĩnh",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "vi": "bình tĩnh"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "lo lắng",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "vi": "lo lắng"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "hài lòng",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "vi": "hài lòng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngạc nhiên",
+      "type": "translate",
+      "correct": [
+        "ngạc nhiên"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "vi": "ngạc nhiên"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tức giận",
+      "type": "translate",
+      "correct": [
+        "tức giận"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "vi": "tức giận"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bình tĩnh",
+      "type": "translate",
+      "correct": [
+        "bình tĩnh"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "vi": "bình tĩnh"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lo lắng",
+      "type": "translate",
+      "correct": [
+        "lo lắng"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "vi": "lo lắng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hài lòng",
+      "type": "translate",
+      "correct": [
+        "hài lòng"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "vi": "hài lòng"
+    },
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "ngạc nhiên",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "vi": "ngạc nhiên"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "tức giận",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "vi": "tức giận"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "bình tĩnh",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "vi": "bình tĩnh"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "lo lắng",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "vi": "lo lắng"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "hài lòng",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "vi": "hài lòng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngạc nhiên",
+      "type": "translate",
+      "correct": [
+        "ngạc nhiên"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "vi": "ngạc nhiên"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tức giận",
+      "type": "translate",
+      "correct": [
+        "tức giận"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "vi": "tức giận"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bình tĩnh",
+      "type": "translate",
+      "correct": [
+        "bình tĩnh"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "vi": "bình tĩnh"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lo lắng",
+      "type": "translate",
+      "correct": [
+        "lo lắng"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "vi": "lo lắng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hài lòng",
+      "type": "translate",
+      "correct": [
+        "hài lòng"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "vi": "hài lòng"
+    }
+  ]
+}

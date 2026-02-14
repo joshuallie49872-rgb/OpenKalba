@@ -1,0 +1,296 @@
+{
+  "id": "018-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "من کار می کنم",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "fa": "من کار می کنم"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "من خوابم",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "fa": "من خوابم"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "من میخورم",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "fa": "من میخورم"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "من می روم",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "fa": "من می روم"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "من بلند می شوم",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "fa": "من بلند می شوم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من کار می کنم",
+      "type": "translate",
+      "correct": [
+        "من کار می کنم"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "fa": "من کار می کنم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من خوابم",
+      "type": "translate",
+      "correct": [
+        "من خوابم"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "fa": "من خوابم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من میخورم",
+      "type": "translate",
+      "correct": [
+        "من میخورم"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "fa": "من میخورم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من می روم",
+      "type": "translate",
+      "correct": [
+        "من می روم"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "fa": "من می روم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من بلند می شوم",
+      "type": "translate",
+      "correct": [
+        "من بلند می شوم"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "fa": "من بلند می شوم"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "من کار می کنم",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "fa": "من کار می کنم"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "من خوابم",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "fa": "من خوابم"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "من میخورم",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "fa": "من میخورم"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "من می روم",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "fa": "من می روم"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "من بلند می شوم",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "fa": "من بلند می شوم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من کار می کنم",
+      "type": "translate",
+      "correct": [
+        "من کار می کنم"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "fa": "من کار می کنم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من خوابم",
+      "type": "translate",
+      "correct": [
+        "من خوابم"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "fa": "من خوابم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من میخورم",
+      "type": "translate",
+      "correct": [
+        "من میخورم"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "fa": "من میخورم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من می روم",
+      "type": "translate",
+      "correct": [
+        "من می روم"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "fa": "من می روم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من بلند می شوم",
+      "type": "translate",
+      "correct": [
+        "من بلند می شوم"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "fa": "من بلند می شوم"
+    }
+  ]
+}

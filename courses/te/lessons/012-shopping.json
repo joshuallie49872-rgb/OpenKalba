@@ -1,0 +1,296 @@
+{
+  "id": "012-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "దుకాణం",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "te": "దుకాణం"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "ధర",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "te": "ధర"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "డబ్బు",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "te": "డబ్బు"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "కార్డు",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "te": "కార్డు"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "నగదుగా",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "te": "నగదుగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "దుకాణం",
+      "type": "translate",
+      "correct": [
+        "దుకాణం"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "te": "దుకాణం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ధర",
+      "type": "translate",
+      "correct": [
+        "ధర"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "te": "ధర"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "డబ్బు",
+      "type": "translate",
+      "correct": [
+        "డబ్బు"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "te": "డబ్బు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కార్డు",
+      "type": "translate",
+      "correct": [
+        "కార్డు"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "te": "కార్డు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నగదుగా",
+      "type": "translate",
+      "correct": [
+        "నగదుగా"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "te": "నగదుగా"
+    },
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "దుకాణం",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "te": "దుకాణం"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "ధర",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "te": "ధర"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "డబ్బు",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "te": "డబ్బు"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "కార్డు",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "te": "కార్డు"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "నగదుగా",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "te": "నగదుగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "దుకాణం",
+      "type": "translate",
+      "correct": [
+        "దుకాణం"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "te": "దుకాణం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ధర",
+      "type": "translate",
+      "correct": [
+        "ధర"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "te": "ధర"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "డబ్బు",
+      "type": "translate",
+      "correct": [
+        "డబ్బు"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "te": "డబ్బు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కార్డు",
+      "type": "translate",
+      "correct": [
+        "కార్డు"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "te": "కార్డు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నగదుగా",
+      "type": "translate",
+      "correct": [
+        "నగదుగా"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "te": "నగదుగా"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "022-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "bilik",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ms": "bilik"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "kunci",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ms": "kunci"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "katil",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ms": "katil"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "pendaftaran",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ms": "pendaftaran"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "bermalam",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ms": "bermalam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bilik",
+      "type": "translate",
+      "correct": [
+        "bilik"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "ms": "bilik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kunci",
+      "type": "translate",
+      "correct": [
+        "kunci"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "ms": "kunci"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "katil",
+      "type": "translate",
+      "correct": [
+        "katil"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "ms": "katil"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendaftaran",
+      "type": "translate",
+      "correct": [
+        "pendaftaran"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "ms": "pendaftaran"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bermalam",
+      "type": "translate",
+      "correct": [
+        "bermalam"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "ms": "bermalam"
+    },
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "bilik",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ms": "bilik"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "kunci",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ms": "kunci"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "katil",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ms": "katil"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "pendaftaran",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ms": "pendaftaran"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "bermalam",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ms": "bermalam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bilik",
+      "type": "translate",
+      "correct": [
+        "bilik"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "ms": "bilik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kunci",
+      "type": "translate",
+      "correct": [
+        "kunci"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "ms": "kunci"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "katil",
+      "type": "translate",
+      "correct": [
+        "katil"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "ms": "katil"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendaftaran",
+      "type": "translate",
+      "correct": [
+        "pendaftaran"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "ms": "pendaftaran"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bermalam",
+      "type": "translate",
+      "correct": [
+        "bermalam"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "ms": "bermalam"
+    }
+  ]
+}

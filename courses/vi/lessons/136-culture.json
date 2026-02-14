@@ -1,0 +1,296 @@
+{
+  "id": "136-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "ngày lễ",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "vi": "ngày lễ"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "truyền thống",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "vi": "truyền thống"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "phong tục",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "vi": "phong tục"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "thời gian rảnh",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "vi": "thời gian rảnh"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "sự kiện",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "vi": "sự kiện"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngày lễ",
+      "type": "translate",
+      "correct": [
+        "ngày lễ"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "vi": "ngày lễ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "truyền thống",
+      "type": "translate",
+      "correct": [
+        "truyền thống"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "vi": "truyền thống"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "phong tục",
+      "type": "translate",
+      "correct": [
+        "phong tục"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "vi": "phong tục"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thời gian rảnh",
+      "type": "translate",
+      "correct": [
+        "thời gian rảnh"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "vi": "thời gian rảnh"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sự kiện",
+      "type": "translate",
+      "correct": [
+        "sự kiện"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "vi": "sự kiện"
+    },
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "ngày lễ",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "vi": "ngày lễ"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "truyền thống",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "vi": "truyền thống"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "phong tục",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "vi": "phong tục"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "thời gian rảnh",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "vi": "thời gian rảnh"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "sự kiện",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "vi": "sự kiện"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngày lễ",
+      "type": "translate",
+      "correct": [
+        "ngày lễ"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "vi": "ngày lễ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "truyền thống",
+      "type": "translate",
+      "correct": [
+        "truyền thống"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "vi": "truyền thống"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "phong tục",
+      "type": "translate",
+      "correct": [
+        "phong tục"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "vi": "phong tục"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thời gian rảnh",
+      "type": "translate",
+      "correct": [
+        "thời gian rảnh"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "vi": "thời gian rảnh"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sự kiện",
+      "type": "translate",
+      "correct": [
+        "sự kiện"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "vi": "sự kiện"
+    }
+  ]
+}

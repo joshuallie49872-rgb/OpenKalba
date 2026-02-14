@@ -1,0 +1,296 @@
+{
+  "id": "191-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "حل",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "ar": "حل"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "مشكلة",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "ar": "مشكلة"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "خيار",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "ar": "خيار"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "تجربة",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "ar": "تجربة"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "نتيجة",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "ar": "نتيجة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حل",
+      "type": "translate",
+      "correct": [
+        "حل"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "ar": "حل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مشكلة",
+      "type": "translate",
+      "correct": [
+        "مشكلة"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "ar": "مشكلة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خيار",
+      "type": "translate",
+      "correct": [
+        "خيار"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "ar": "خيار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "تجربة",
+      "type": "translate",
+      "correct": [
+        "تجربة"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "ar": "تجربة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نتيجة",
+      "type": "translate",
+      "correct": [
+        "نتيجة"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "ar": "نتيجة"
+    },
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "حل",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "ar": "حل"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "مشكلة",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "ar": "مشكلة"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "خيار",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "ar": "خيار"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "تجربة",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "ar": "تجربة"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "نتيجة",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "ar": "نتيجة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حل",
+      "type": "translate",
+      "correct": [
+        "حل"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "ar": "حل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مشكلة",
+      "type": "translate",
+      "correct": [
+        "مشكلة"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "ar": "مشكلة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خيار",
+      "type": "translate",
+      "correct": [
+        "خيار"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "ar": "خيار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "تجربة",
+      "type": "translate",
+      "correct": [
+        "تجربة"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "ar": "تجربة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نتيجة",
+      "type": "translate",
+      "correct": [
+        "نتيجة"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "ar": "نتيجة"
+    }
+  ]
+}

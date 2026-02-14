@@ -1,0 +1,316 @@
+{
+  "id": "010-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "ko": "가게",
+      "lt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tts": "가게"
+    },
+    {
+      "ko": "가격",
+      "lt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tts": "가격"
+    },
+    {
+      "ko": "돈",
+      "lt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tts": "돈"
+    },
+    {
+      "ko": "카드",
+      "lt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tts": "카드"
+    },
+    {
+      "ko": "현금으로",
+      "lt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tts": "현금으로"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "shop",
+      "ko": "가게",
+      "correct": [
+        "가게"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "가게",
+      "ru": "магазин",
+      "pl": "sklep",
+      "zh": "店铺",
+      "lt": "parduotuvė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "price",
+      "ko": "가격",
+      "correct": [
+        "가격"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "가격",
+      "ru": "цена",
+      "pl": "cena",
+      "zh": "价格",
+      "lt": "kaina"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "money",
+      "ko": "돈",
+      "correct": [
+        "돈"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "돈",
+      "ru": "деньги",
+      "pl": "pieniądze",
+      "zh": "钱",
+      "lt": "pinigai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "card",
+      "ko": "카드",
+      "correct": [
+        "카드"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "카드",
+      "ru": "карта",
+      "pl": "karta",
+      "zh": "卡片",
+      "lt": "kortelė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cash",
+      "ko": "현금으로",
+      "correct": [
+        "현금으로"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "현금으로",
+      "ru": "наличные",
+      "pl": "gotówka",
+      "zh": "现金",
+      "lt": "grynieji pinigai"
+    },
+    {
+      "ko": "가게",
+      "lt": "",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tts": "가게"
+    },
+    {
+      "ko": "가격",
+      "lt": "",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tts": "가격"
+    },
+    {
+      "ko": "돈",
+      "lt": "",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tts": "돈"
+    },
+    {
+      "ko": "카드",
+      "lt": "",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tts": "카드"
+    },
+    {
+      "ko": "현금으로",
+      "lt": "",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tts": "현금으로"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "shop",
+      "ko": "가게",
+      "correct": [
+        "가게"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "가게",
+      "ru": "магазин",
+      "pl": "sklep",
+      "zh": "店铺",
+      "lt": "parduotuvė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "price",
+      "ko": "가격",
+      "correct": [
+        "가격"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "가격",
+      "ru": "цена",
+      "pl": "cena",
+      "zh": "价格",
+      "lt": "kaina"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "money",
+      "ko": "돈",
+      "correct": [
+        "돈"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "돈",
+      "ru": "деньги",
+      "pl": "pieniądze",
+      "zh": "钱",
+      "lt": "pinigai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "card",
+      "ko": "카드",
+      "correct": [
+        "카드"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "카드",
+      "ru": "карта",
+      "pl": "karta",
+      "zh": "卡片",
+      "lt": "kortelė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cash",
+      "ko": "현금으로",
+      "correct": [
+        "현금으로"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "현금으로",
+      "ru": "наличные",
+      "pl": "gotówka",
+      "zh": "现金",
+      "lt": "grynieji pinigai"
+    }
+  ]
+}

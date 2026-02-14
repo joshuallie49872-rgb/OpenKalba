@@ -1,0 +1,296 @@
+{
+  "id": "150-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "விலையுயர்ந்த",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ta": "விலையுயர்ந்த"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "மலிவு",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ta": "மலிவு"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "தள்ளுபடி",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ta": "தள்ளுபடி"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "காசாளர்",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ta": "காசாளர்"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "ரசீது",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ta": "ரசீது"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "விலையுயர்ந்த",
+      "type": "translate",
+      "correct": [
+        "விலையுயர்ந்த"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "ta": "விலையுயர்ந்த"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மலிவு",
+      "type": "translate",
+      "correct": [
+        "மலிவு"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "ta": "மலிவு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "தள்ளுபடி",
+      "type": "translate",
+      "correct": [
+        "தள்ளுபடி"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "ta": "தள்ளுபடி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "காசாளர்",
+      "type": "translate",
+      "correct": [
+        "காசாளர்"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "ta": "காசாளர்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ரசீது",
+      "type": "translate",
+      "correct": [
+        "ரசீது"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "ta": "ரசீது"
+    },
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "விலையுயர்ந்த",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ta": "விலையுயர்ந்த"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "மலிவு",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ta": "மலிவு"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "தள்ளுபடி",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ta": "தள்ளுபடி"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "காசாளர்",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ta": "காசாளர்"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "ரசீது",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ta": "ரசீது"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "விலையுயர்ந்த",
+      "type": "translate",
+      "correct": [
+        "விலையுயர்ந்த"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "ta": "விலையுயர்ந்த"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மலிவு",
+      "type": "translate",
+      "correct": [
+        "மலிவு"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "ta": "மலிவு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "தள்ளுபடி",
+      "type": "translate",
+      "correct": [
+        "தள்ளுபடி"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "ta": "தள்ளுபடி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "காசாளர்",
+      "type": "translate",
+      "correct": [
+        "காசாளர்"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "ta": "காசாளர்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ரசீது",
+      "type": "translate",
+      "correct": [
+        "ரசீது"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "ta": "ரசீது"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "క్షమించండి",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "te": "క్షమించండి"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "దయచేసి",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "te": "దయచేసి"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "ధన్యవాదాలు",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "te": "ధన్యవాదాలు"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "సంతోషంగా ఉంది",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "te": "సంతోషంగా ఉంది"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "మంచిది",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "te": "మంచిది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "క్షమించండి",
+      "type": "translate",
+      "correct": [
+        "క్షమించండి"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "te": "క్షమించండి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "దయచేసి",
+      "type": "translate",
+      "correct": [
+        "దయచేసి"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "te": "దయచేసి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ధన్యవాదాలు",
+      "type": "translate",
+      "correct": [
+        "ధన్యవాదాలు"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "te": "ధన్యవాదాలు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సంతోషంగా ఉంది",
+      "type": "translate",
+      "correct": [
+        "సంతోషంగా ఉంది"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "te": "సంతోషంగా ఉంది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "మంచిది",
+      "type": "translate",
+      "correct": [
+        "మంచిది"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "te": "మంచిది"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "క్షమించండి",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "te": "క్షమించండి"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "దయచేసి",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "te": "దయచేసి"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "ధన్యవాదాలు",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "te": "ధన్యవాదాలు"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "సంతోషంగా ఉంది",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "te": "సంతోషంగా ఉంది"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "మంచిది",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "te": "మంచిది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "క్షమించండి",
+      "type": "translate",
+      "correct": [
+        "క్షమించండి"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "te": "క్షమించండి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "దయచేసి",
+      "type": "translate",
+      "correct": [
+        "దయచేసి"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "te": "దయచేసి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ధన్యవాదాలు",
+      "type": "translate",
+      "correct": [
+        "ధన్యవాదాలు"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "te": "ధన్యవాదాలు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సంతోషంగా ఉంది",
+      "type": "translate",
+      "correct": [
+        "సంతోషంగా ఉంది"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "te": "సంతోషంగా ఉంది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "మంచిది",
+      "type": "translate",
+      "correct": [
+        "మంచిది"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "te": "మంచిది"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "018-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "நான் வேலை செய்கிறேன்",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ta": "நான் வேலை செய்கிறேன்"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "நான் தூங்குகிறேன்",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ta": "நான் தூங்குகிறேன்"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "நான் சாப்பிடுகிறேன்",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ta": "நான் சாப்பிடுகிறேன்"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "நான் போகிறேன்",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ta": "நான் போகிறேன்"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "நான் எழுந்திருக்கிறேன்",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ta": "நான் எழுந்திருக்கிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் வேலை செய்கிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் வேலை செய்கிறேன்"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "ta": "நான் வேலை செய்கிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் தூங்குகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் தூங்குகிறேன்"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "ta": "நான் தூங்குகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் சாப்பிடுகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் சாப்பிடுகிறேன்"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "ta": "நான் சாப்பிடுகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் போகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் போகிறேன்"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "ta": "நான் போகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் எழுந்திருக்கிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் எழுந்திருக்கிறேன்"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "ta": "நான் எழுந்திருக்கிறேன்"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "நான் வேலை செய்கிறேன்",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ta": "நான் வேலை செய்கிறேன்"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "நான் தூங்குகிறேன்",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ta": "நான் தூங்குகிறேன்"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "நான் சாப்பிடுகிறேன்",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ta": "நான் சாப்பிடுகிறேன்"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "நான் போகிறேன்",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ta": "நான் போகிறேன்"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "நான் எழுந்திருக்கிறேன்",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ta": "நான் எழுந்திருக்கிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் வேலை செய்கிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் வேலை செய்கிறேன்"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "ta": "நான் வேலை செய்கிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் தூங்குகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் தூங்குகிறேன்"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "ta": "நான் தூங்குகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் சாப்பிடுகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் சாப்பிடுகிறேன்"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "ta": "நான் சாப்பிடுகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் போகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் போகிறேன்"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "ta": "நான் போகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் எழுந்திருக்கிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் எழுந்திருக்கிறேன்"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "ta": "நான் எழுந்திருக்கிறேன்"
+    }
+  ]
+}

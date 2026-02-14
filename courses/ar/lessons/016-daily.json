@@ -1,0 +1,296 @@
+{
+  "id": "016-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "أنا أعمل",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ar": "أنا أعمل"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "أنا نائم",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ar": "أنا نائم"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "أنا آكل",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ar": "أنا آكل"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "أنا أذهب",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ar": "أنا أذهب"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "أستيقظ",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ar": "أستيقظ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أعمل",
+      "type": "translate",
+      "correct": [
+        "أنا أعمل"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "ar": "أنا أعمل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا نائم",
+      "type": "translate",
+      "correct": [
+        "أنا نائم"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "ar": "أنا نائم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا آكل",
+      "type": "translate",
+      "correct": [
+        "أنا آكل"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "ar": "أنا آكل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أذهب",
+      "type": "translate",
+      "correct": [
+        "أنا أذهب"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "ar": "أنا أذهب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أستيقظ",
+      "type": "translate",
+      "correct": [
+        "أستيقظ"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "ar": "أستيقظ"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "أنا أعمل",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ar": "أنا أعمل"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "أنا نائم",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ar": "أنا نائم"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "أنا آكل",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ar": "أنا آكل"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "أنا أذهب",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ar": "أنا أذهب"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "أستيقظ",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ar": "أستيقظ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أعمل",
+      "type": "translate",
+      "correct": [
+        "أنا أعمل"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "ar": "أنا أعمل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا نائم",
+      "type": "translate",
+      "correct": [
+        "أنا نائم"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "ar": "أنا نائم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا آكل",
+      "type": "translate",
+      "correct": [
+        "أنا آكل"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "ar": "أنا آكل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا أذهب",
+      "type": "translate",
+      "correct": [
+        "أنا أذهب"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "ar": "أنا أذهب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أستيقظ",
+      "type": "translate",
+      "correct": [
+        "أستيقظ"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "ar": "أستيقظ"
+    }
+  ]
+}

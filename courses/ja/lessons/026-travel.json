@@ -1,0 +1,296 @@
+{
+  "id": "026-travel",
+  "title": "Travel & Transport",
+  "questions": [
+    {
+      "lt": "autobusas",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "tts": "バス",
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "ja": "バス"
+    },
+    {
+      "lt": "traukinys",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "tts": "電車",
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "ja": "電車"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "tts": "チケット",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "ja": "チケット"
+    },
+    {
+      "lt": "taksi",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "tts": "タクシー",
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "ja": "タクシー"
+    },
+    {
+      "lt": "kelionė",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "tts": "旅行",
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "ja": "旅行"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "バス",
+      "type": "translate",
+      "correct": [
+        "バス"
+      ],
+      "en": "bus",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bus",
+      "ja": "バス"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "電車",
+      "type": "translate",
+      "correct": [
+        "電車"
+      ],
+      "en": "train",
+      "placeholder": "Type Lithuanian…",
+      "zh": "train",
+      "ja": "電車"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "チケット",
+      "type": "translate",
+      "correct": [
+        "チケット"
+      ],
+      "en": "ticket",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ticket",
+      "ja": "チケット"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "タクシー",
+      "type": "translate",
+      "correct": [
+        "タクシー"
+      ],
+      "en": "taxi",
+      "placeholder": "Type Lithuanian…",
+      "zh": "taxi",
+      "ja": "タクシー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "旅行",
+      "type": "translate",
+      "correct": [
+        "旅行"
+      ],
+      "en": "trip",
+      "placeholder": "Type Lithuanian…",
+      "zh": "trip",
+      "ja": "旅行"
+    },
+    {
+      "lt": "autobusas",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "tts": "バス",
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "ja": "バス"
+    },
+    {
+      "lt": "traukinys",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "tts": "電車",
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "ja": "電車"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "tts": "チケット",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "ja": "チケット"
+    },
+    {
+      "lt": "taksi",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "tts": "タクシー",
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "ja": "タクシー"
+    },
+    {
+      "lt": "kelionė",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "tts": "旅行",
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "ja": "旅行"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "バス",
+      "type": "translate",
+      "correct": [
+        "バス"
+      ],
+      "en": "bus",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bus",
+      "ja": "バス"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "電車",
+      "type": "translate",
+      "correct": [
+        "電車"
+      ],
+      "en": "train",
+      "placeholder": "Type Lithuanian…",
+      "zh": "train",
+      "ja": "電車"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "チケット",
+      "type": "translate",
+      "correct": [
+        "チケット"
+      ],
+      "en": "ticket",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ticket",
+      "ja": "チケット"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "タクシー",
+      "type": "translate",
+      "correct": [
+        "タクシー"
+      ],
+      "en": "taxi",
+      "placeholder": "Type Lithuanian…",
+      "zh": "taxi",
+      "ja": "タクシー"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "旅行",
+      "type": "translate",
+      "correct": [
+        "旅行"
+      ],
+      "en": "trip",
+      "placeholder": "Type Lithuanian…",
+      "zh": "trip",
+      "ja": "旅行"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "017-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "saya bekerja",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "id": "saya bekerja"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "saya tidur",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "id": "saya tidur"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "saya makan",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "id": "saya makan"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "saya pergi",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "id": "saya pergi"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "saya bangun",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "id": "saya bangun"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya bekerja",
+      "type": "translate",
+      "correct": [
+        "saya bekerja"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "id": "saya bekerja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidur",
+      "type": "translate",
+      "correct": [
+        "saya tidur"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "id": "saya tidur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya makan",
+      "type": "translate",
+      "correct": [
+        "saya makan"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "id": "saya makan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya pergi",
+      "type": "translate",
+      "correct": [
+        "saya pergi"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "id": "saya pergi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya bangun",
+      "type": "translate",
+      "correct": [
+        "saya bangun"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "id": "saya bangun"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "saya bekerja",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "id": "saya bekerja"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "saya tidur",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "id": "saya tidur"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "saya makan",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "id": "saya makan"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "saya pergi",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "id": "saya pergi"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "saya bangun",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "id": "saya bangun"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya bekerja",
+      "type": "translate",
+      "correct": [
+        "saya bekerja"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "id": "saya bekerja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidur",
+      "type": "translate",
+      "correct": [
+        "saya tidur"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "id": "saya tidur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya makan",
+      "type": "translate",
+      "correct": [
+        "saya makan"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "id": "saya makan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya pergi",
+      "type": "translate",
+      "correct": [
+        "saya pergi"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "id": "saya pergi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya bangun",
+      "type": "translate",
+      "correct": [
+        "saya bangun"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "id": "saya bangun"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "166-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "من فکر می کنم",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "fa": "من فکر می کنم"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "من موافقم",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "fa": "من موافقم"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "من موافق نیستم",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "fa": "من موافق نیستم"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "نظر",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "fa": "نظر"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "استدلال",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "fa": "استدلال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من فکر می کنم",
+      "type": "translate",
+      "correct": [
+        "من فکر می کنم"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "fa": "من فکر می کنم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من موافقم",
+      "type": "translate",
+      "correct": [
+        "من موافقم"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "fa": "من موافقم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من موافق نیستم",
+      "type": "translate",
+      "correct": [
+        "من موافق نیستم"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "fa": "من موافق نیستم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نظر",
+      "type": "translate",
+      "correct": [
+        "نظر"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "fa": "نظر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "استدلال",
+      "type": "translate",
+      "correct": [
+        "استدلال"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "fa": "استدلال"
+    },
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "من فکر می کنم",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "fa": "من فکر می کنم"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "من موافقم",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "fa": "من موافقم"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "من موافق نیستم",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "fa": "من موافق نیستم"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "نظر",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "fa": "نظر"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "استدلال",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "fa": "استدلال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من فکر می کنم",
+      "type": "translate",
+      "correct": [
+        "من فکر می کنم"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "fa": "من فکر می کنم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من موافقم",
+      "type": "translate",
+      "correct": [
+        "من موافقم"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "fa": "من موافقم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من موافق نیستم",
+      "type": "translate",
+      "correct": [
+        "من موافق نیستم"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "fa": "من موافق نیستم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نظر",
+      "type": "translate",
+      "correct": [
+        "نظر"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "fa": "نظر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "استدلال",
+      "type": "translate",
+      "correct": [
+        "استدلال"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "fa": "استدلال"
+    }
+  ]
+}

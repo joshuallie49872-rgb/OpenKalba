@@ -1,0 +1,296 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "lt": "labas",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "tts": "வணக்கம்",
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "ta": "வணக்கம்"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "tts": "நன்றி",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ta": "நன்றி"
+    },
+    {
+      "lt": "taip",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "tts": "ஆம்",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "ta": "ஆம்"
+    },
+    {
+      "lt": "ne",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "tts": "இல்லை",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "ta": "இல்லை"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "tts": "தயவுசெய்து",
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "ta": "தயவுசெய்து"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "tts": "மன்னிக்கவும்",
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "ta": "மன்னிக்கவும்"
+    },
+    {
+      "lt": "viso gero",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "tts": "விடைபெறுகிறேன்",
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "ta": "விடைபெறுகிறேன்"
+    },
+    {
+      "lt": "iki",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "tts": "வரை",
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "ta": "வரை"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "tts": "சரி",
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "ta": "சரி"
+    },
+    {
+      "lt": "blogai",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "tts": "மோசமான",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "ta": "மோசமான"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வணக்கம்",
+      "correct": [
+        "வணக்கம்"
+      ],
+      "en": "hello",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "你好",
+      "ta": "வணக்கம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நன்றி",
+      "correct": [
+        "நன்றி"
+      ],
+      "en": "thank you",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "ta": "நன்றி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ஆம்",
+      "correct": [
+        "ஆம்"
+      ],
+      "en": "yes",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "是的",
+      "ta": "ஆம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "இல்லை",
+      "correct": [
+        "இல்லை"
+      ],
+      "en": "no",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "ta": "இல்லை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "தயவுசெய்து",
+      "correct": [
+        "தயவுசெய்து"
+      ],
+      "en": "please / you're welcome",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "拜托 / 不客气",
+      "ta": "தயவுசெய்து"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மன்னிக்கவும்",
+      "correct": [
+        "மன்னிக்கவும்"
+      ],
+      "en": "excuse me / sorry",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "打扰一下 / 抱歉",
+      "ta": "மன்னிக்கவும்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "விடைபெறுகிறேன்",
+      "correct": [
+        "விடைபெறுகிறேன்"
+      ],
+      "en": "goodbye",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "ta": "விடைபெறுகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வரை",
+      "correct": [
+        "வரை"
+      ],
+      "en": "see you",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "ta": "வரை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சரி",
+      "correct": [
+        "சரி"
+      ],
+      "en": "okay / good",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的/很好",
+      "ta": "சரி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மோசமான",
+      "correct": [
+        "மோசமான"
+      ],
+      "en": "badly",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "ta": "மோசமான"
+    }
+  ]
+}

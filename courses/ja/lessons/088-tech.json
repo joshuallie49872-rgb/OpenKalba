@@ -1,0 +1,296 @@
+{
+  "id": "088-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "lt": "telefonas",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "電話",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "ja": "電話"
+    },
+    {
+      "lt": "kompiuteris",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "コンピューター",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "ja": "コンピューター"
+    },
+    {
+      "lt": "internetas",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "インターネット",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "ja": "インターネット"
+    },
+    {
+      "lt": "programa",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "プログラム",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "ja": "プログラム"
+    },
+    {
+      "lt": "žinutė",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "メッセージ",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "ja": "メッセージ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "電話",
+      "type": "translate",
+      "correct": [
+        "電話"
+      ],
+      "en": "phone",
+      "placeholder": "Type Lithuanian…",
+      "zh": "phone",
+      "ja": "電話"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "コンピューター",
+      "type": "translate",
+      "correct": [
+        "コンピューター"
+      ],
+      "en": "computer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "computer",
+      "ja": "コンピューター"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "インターネット",
+      "type": "translate",
+      "correct": [
+        "インターネット"
+      ],
+      "en": "internet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "internet",
+      "ja": "インターネット"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "プログラム",
+      "type": "translate",
+      "correct": [
+        "プログラム"
+      ],
+      "en": "app",
+      "placeholder": "Type Lithuanian…",
+      "zh": "app",
+      "ja": "プログラム"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "メッセージ",
+      "type": "translate",
+      "correct": [
+        "メッセージ"
+      ],
+      "en": "message",
+      "placeholder": "Type Lithuanian…",
+      "zh": "message",
+      "ja": "メッセージ"
+    },
+    {
+      "lt": "telefonas",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "電話",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "ja": "電話"
+    },
+    {
+      "lt": "kompiuteris",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "コンピューター",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "ja": "コンピューター"
+    },
+    {
+      "lt": "internetas",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "インターネット",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "ja": "インターネット"
+    },
+    {
+      "lt": "programa",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "プログラム",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "ja": "プログラム"
+    },
+    {
+      "lt": "žinutė",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "メッセージ",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "ja": "メッセージ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "電話",
+      "type": "translate",
+      "correct": [
+        "電話"
+      ],
+      "en": "phone",
+      "placeholder": "Type Lithuanian…",
+      "zh": "phone",
+      "ja": "電話"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "コンピューター",
+      "type": "translate",
+      "correct": [
+        "コンピューター"
+      ],
+      "en": "computer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "computer",
+      "ja": "コンピューター"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "インターネット",
+      "type": "translate",
+      "correct": [
+        "インターネット"
+      ],
+      "en": "internet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "internet",
+      "ja": "インターネット"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "プログラム",
+      "type": "translate",
+      "correct": [
+        "プログラム"
+      ],
+      "en": "app",
+      "placeholder": "Type Lithuanian…",
+      "zh": "app",
+      "ja": "プログラム"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "メッセージ",
+      "type": "translate",
+      "correct": [
+        "メッセージ"
+      ],
+      "en": "message",
+      "placeholder": "Type Lithuanian…",
+      "zh": "message",
+      "ja": "メッセージ"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "035-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "天気",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "ja": "天気"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "雨",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "ja": "雨"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "太陽",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "ja": "太陽"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "寒い",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "ja": "寒い"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "暑い",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "ja": "暑い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "天気",
+      "type": "translate",
+      "correct": [
+        "天気"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "ja": "天気"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "雨",
+      "type": "translate",
+      "correct": [
+        "雨"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "ja": "雨"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "太陽",
+      "type": "translate",
+      "correct": [
+        "太陽"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "ja": "太陽"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "寒い",
+      "type": "translate",
+      "correct": [
+        "寒い"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "ja": "寒い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "暑い",
+      "type": "translate",
+      "correct": [
+        "暑い"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "ja": "暑い"
+    },
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "天気",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "ja": "天気"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "雨",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "ja": "雨"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "太陽",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "ja": "太陽"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "寒い",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "ja": "寒い"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "暑い",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "ja": "暑い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "天気",
+      "type": "translate",
+      "correct": [
+        "天気"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "ja": "天気"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "雨",
+      "type": "translate",
+      "correct": [
+        "雨"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "ja": "雨"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "太陽",
+      "type": "translate",
+      "correct": [
+        "太陽"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "ja": "太陽"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "寒い",
+      "type": "translate",
+      "correct": [
+        "寒い"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "ja": "寒い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "暑い",
+      "type": "translate",
+      "correct": [
+        "暑い"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "ja": "暑い"
+    }
+  ]
+}

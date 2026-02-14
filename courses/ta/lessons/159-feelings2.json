@@ -1,0 +1,296 @@
+{
+  "id": "159-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "ஆச்சரியமடைந்த",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "ta": "ஆச்சரியமடைந்த"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "கோபம்",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "ta": "கோபம்"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "அமைதியான",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "ta": "அமைதியான"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "கவலை",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "ta": "கவலை"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "திருப்தி",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "ta": "திருப்தி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ஆச்சரியமடைந்த",
+      "type": "translate",
+      "correct": [
+        "ஆச்சரியமடைந்த"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "ta": "ஆச்சரியமடைந்த"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கோபம்",
+      "type": "translate",
+      "correct": [
+        "கோபம்"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "ta": "கோபம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "அமைதியான",
+      "type": "translate",
+      "correct": [
+        "அமைதியான"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "ta": "அமைதியான"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கவலை",
+      "type": "translate",
+      "correct": [
+        "கவலை"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "ta": "கவலை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "திருப்தி",
+      "type": "translate",
+      "correct": [
+        "திருப்தி"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "ta": "திருப்தி"
+    },
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "ஆச்சரியமடைந்த",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "ta": "ஆச்சரியமடைந்த"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "கோபம்",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "ta": "கோபம்"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "அமைதியான",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "ta": "அமைதியான"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "கவலை",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "ta": "கவலை"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "திருப்தி",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "ta": "திருப்தி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ஆச்சரியமடைந்த",
+      "type": "translate",
+      "correct": [
+        "ஆச்சரியமடைந்த"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "ta": "ஆச்சரியமடைந்த"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கோபம்",
+      "type": "translate",
+      "correct": [
+        "கோபம்"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "ta": "கோபம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "அமைதியான",
+      "type": "translate",
+      "correct": [
+        "அமைதியான"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "ta": "அமைதியான"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கவலை",
+      "type": "translate",
+      "correct": [
+        "கவலை"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "ta": "கவலை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "திருப்தி",
+      "type": "translate",
+      "correct": [
+        "திருப்தி"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "ta": "திருப்தி"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "hôm nay",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "vi": "hôm nay"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "ngày mai",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "vi": "ngày mai"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "sau",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "vi": "sau"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "tôi dự định",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "vi": "tôi dự định"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "chúng ta sẽ gặp nhau",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "vi": "chúng ta sẽ gặp nhau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hôm nay",
+      "type": "translate",
+      "correct": [
+        "hôm nay"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "vi": "hôm nay"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngày mai",
+      "type": "translate",
+      "correct": [
+        "ngày mai"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "vi": "ngày mai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sau",
+      "type": "translate",
+      "correct": [
+        "sau"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "vi": "sau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi dự định",
+      "type": "translate",
+      "correct": [
+        "tôi dự định"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "vi": "tôi dự định"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chúng ta sẽ gặp nhau",
+      "type": "translate",
+      "correct": [
+        "chúng ta sẽ gặp nhau"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "vi": "chúng ta sẽ gặp nhau"
+    },
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "hôm nay",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "vi": "hôm nay"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "ngày mai",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "vi": "ngày mai"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "sau",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "vi": "sau"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "tôi dự định",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "vi": "tôi dự định"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "chúng ta sẽ gặp nhau",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "vi": "chúng ta sẽ gặp nhau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hôm nay",
+      "type": "translate",
+      "correct": [
+        "hôm nay"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "vi": "hôm nay"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngày mai",
+      "type": "translate",
+      "correct": [
+        "ngày mai"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "vi": "ngày mai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sau",
+      "type": "translate",
+      "correct": [
+        "sau"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "vi": "sau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi dự định",
+      "type": "translate",
+      "correct": [
+        "tôi dự định"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "vi": "tôi dự định"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chúng ta sẽ gặp nhau",
+      "type": "translate",
+      "correct": [
+        "chúng ta sẽ gặp nhau"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "vi": "chúng ta sẽ gặp nhau"
+    }
+  ]
+}

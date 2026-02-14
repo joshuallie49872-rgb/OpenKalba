@@ -3,7 +3,6 @@
   "title": "Advanced Travel",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pasas",
       "choices": [
         "passport",
@@ -15,11 +14,9 @@
       "correct": [
         "passport"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "sienos",
       "choices": [
         "borders",
@@ -31,11 +28,9 @@
       "correct": [
         "borders"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "keliauti",
       "choices": [
         "to travel",
@@ -47,11 +42,9 @@
       "correct": [
         "to travel"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "lagaminas",
       "choices": [
         "suitcase",
@@ -63,11 +56,9 @@
       "correct": [
         "suitcase"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "muitinė",
       "choices": [
         "customs",
@@ -79,8 +70,7 @@
       "correct": [
         "customs"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -93,8 +83,7 @@
       ],
       "en": "passport",
       "placeholder": "Type Lithuanian…",
-      "zh": "passport",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "passport"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -106,7 +95,6 @@
         "siena"
       ],
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "en": "border",
       "zh": "边境"
     },
@@ -121,8 +109,7 @@
       ],
       "en": "to travel",
       "placeholder": "Type Lithuanian…",
-      "zh": "to travel",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "to travel"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -135,8 +122,7 @@
       ],
       "en": "suitcase",
       "placeholder": "Type Lithuanian…",
-      "zh": "suitcase",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "suitcase"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -149,11 +135,9 @@
       ],
       "en": "customs",
       "placeholder": "Type Lithuanian…",
-      "zh": "customs",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "customs"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pasas",
       "choices": [
         "passport",
@@ -165,11 +149,9 @@
       "correct": [
         "passport"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "sienos",
       "choices": [
         "borders",
@@ -181,11 +163,9 @@
       "correct": [
         "borders"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "keliauti",
       "choices": [
         "to travel",
@@ -197,11 +177,9 @@
       "correct": [
         "to travel"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "lagaminas",
       "choices": [
         "suitcase",
@@ -213,11 +191,9 @@
       "correct": [
         "suitcase"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "muitinė",
       "choices": [
         "customs",
@@ -229,8 +205,7 @@
       "correct": [
         "customs"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -243,8 +218,7 @@
       ],
       "en": "passport",
       "placeholder": "Type Lithuanian…",
-      "zh": "passport",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "passport"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -256,7 +230,6 @@
         "siena"
       ],
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "en": "border",
       "zh": "边境"
     },
@@ -271,8 +244,7 @@
       ],
       "en": "to travel",
       "placeholder": "Type Lithuanian…",
-      "zh": "to travel",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "to travel"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -285,8 +257,7 @@
       ],
       "en": "suitcase",
       "placeholder": "Type Lithuanian…",
-      "zh": "suitcase",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "suitcase"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -299,8 +270,7 @@
       ],
       "en": "customs",
       "placeholder": "Type Lithuanian…",
-      "zh": "customs",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "customs"
     }
   ]
 }

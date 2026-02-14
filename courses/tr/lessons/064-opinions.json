@@ -1,0 +1,296 @@
+{
+  "id": "064-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Severim",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tr": "Severim"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Hoşlanmıyorum",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tr": "Hoşlanmıyorum"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Severim",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tr": "Severim"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "İstemiyorum",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tr": "İstemiyorum"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "Önemli",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tr": "Önemli"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Severim",
+      "type": "translate",
+      "correct": [
+        "Severim"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "tr": "Severim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hoşlanmıyorum",
+      "type": "translate",
+      "correct": [
+        "Hoşlanmıyorum"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "tr": "Hoşlanmıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Severim",
+      "type": "translate",
+      "correct": [
+        "Severim"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "tr": "Severim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İstemiyorum",
+      "type": "translate",
+      "correct": [
+        "İstemiyorum"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "tr": "İstemiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Önemli",
+      "type": "translate",
+      "correct": [
+        "Önemli"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "tr": "Önemli"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "Severim",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tr": "Severim"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "Hoşlanmıyorum",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tr": "Hoşlanmıyorum"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "Severim",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tr": "Severim"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "İstemiyorum",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tr": "İstemiyorum"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "Önemli",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tr": "Önemli"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Severim",
+      "type": "translate",
+      "correct": [
+        "Severim"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "tr": "Severim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hoşlanmıyorum",
+      "type": "translate",
+      "correct": [
+        "Hoşlanmıyorum"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "tr": "Hoşlanmıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Severim",
+      "type": "translate",
+      "correct": [
+        "Severim"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "tr": "Severim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İstemiyorum",
+      "type": "translate",
+      "correct": [
+        "İstemiyorum"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "tr": "İstemiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Önemli",
+      "type": "translate",
+      "correct": [
+        "Önemli"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "tr": "Önemli"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "032-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "Oda",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tr": "Oda"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Anahtar",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tr": "Anahtar"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "Yatak",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tr": "Yatak"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Kayıt",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tr": "Kayıt"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "Gecelik konaklama",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tr": "Gecelik konaklama"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Oda",
+      "type": "translate",
+      "correct": [
+        "Oda"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "tr": "Oda"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Anahtar",
+      "type": "translate",
+      "correct": [
+        "Anahtar"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "tr": "Anahtar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yatak",
+      "type": "translate",
+      "correct": [
+        "Yatak"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "tr": "Yatak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kayıt",
+      "type": "translate",
+      "correct": [
+        "Kayıt"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "tr": "Kayıt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gecelik konaklama",
+      "type": "translate",
+      "correct": [
+        "Gecelik konaklama"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "tr": "Gecelik konaklama"
+    },
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "Oda",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tr": "Oda"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "Anahtar",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tr": "Anahtar"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "Yatak",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tr": "Yatak"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "Kayıt",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tr": "Kayıt"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "Gecelik konaklama",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tr": "Gecelik konaklama"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Oda",
+      "type": "translate",
+      "correct": [
+        "Oda"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "tr": "Oda"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Anahtar",
+      "type": "translate",
+      "correct": [
+        "Anahtar"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "tr": "Anahtar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yatak",
+      "type": "translate",
+      "correct": [
+        "Yatak"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "tr": "Yatak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kayıt",
+      "type": "translate",
+      "correct": [
+        "Kayıt"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "tr": "Kayıt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gecelik konaklama",
+      "type": "translate",
+      "correct": [
+        "Gecelik konaklama"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "tr": "Gecelik konaklama"
+    }
+  ]
+}

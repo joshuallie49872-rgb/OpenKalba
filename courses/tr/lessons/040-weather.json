@@ -1,0 +1,296 @@
+{
+  "id": "040-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "Hava durumu",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tr": "Hava durumu"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "Yağmur",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tr": "Yağmur"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "Güneş",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tr": "Güneş"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "Soğuk",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tr": "Soğuk"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "Sıcak",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tr": "Sıcak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hava durumu",
+      "type": "translate",
+      "correct": [
+        "Hava durumu"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "tr": "Hava durumu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yağmur",
+      "type": "translate",
+      "correct": [
+        "Yağmur"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "tr": "Yağmur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Güneş",
+      "type": "translate",
+      "correct": [
+        "Güneş"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "tr": "Güneş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Soğuk",
+      "type": "translate",
+      "correct": [
+        "Soğuk"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "tr": "Soğuk"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sıcak",
+      "type": "translate",
+      "correct": [
+        "Sıcak"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "tr": "Sıcak"
+    },
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "Hava durumu",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tr": "Hava durumu"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "Yağmur",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tr": "Yağmur"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "Güneş",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tr": "Güneş"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "Soğuk",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tr": "Soğuk"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "Sıcak",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tr": "Sıcak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hava durumu",
+      "type": "translate",
+      "correct": [
+        "Hava durumu"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "tr": "Hava durumu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yağmur",
+      "type": "translate",
+      "correct": [
+        "Yağmur"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "tr": "Yağmur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Güneş",
+      "type": "translate",
+      "correct": [
+        "Güneş"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "tr": "Güneş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Soğuk",
+      "type": "translate",
+      "correct": [
+        "Soğuk"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "tr": "Soğuk"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sıcak",
+      "type": "translate",
+      "correct": [
+        "Sıcak"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "tr": "Sıcak"
+    }
+  ]
+}

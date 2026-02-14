@@ -1,0 +1,316 @@
+{
+  "id": "122-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "ko": "값비싼",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "값비싼"
+    },
+    {
+      "ko": "값이 싼",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "값이 싼"
+    },
+    {
+      "ko": "할인",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "할인"
+    },
+    {
+      "ko": "출납원",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "출납원"
+    },
+    {
+      "ko": "확인하다",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "확인하다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "ko": "값비싼",
+      "correct": [
+        "값비싼"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "값비싼",
+      "ru": "дорогой",
+      "pl": "drogi",
+      "zh": "昂贵的",
+      "lt": "brangus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "ko": "값이 싼",
+      "correct": [
+        "값이 싼"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "값이 싼",
+      "ru": "дешевый",
+      "pl": "tani",
+      "zh": "便宜的",
+      "lt": "pigus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "ko": "할인",
+      "correct": [
+        "할인"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "할인",
+      "ru": "скидка",
+      "pl": "rabat",
+      "zh": "折扣",
+      "lt": "nuolaida"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "ko": "출납원",
+      "correct": [
+        "출납원"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "출납원",
+      "ru": "касса",
+      "pl": "kasjer",
+      "zh": "出纳员",
+      "lt": "kasininkas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "ko": "확인하다",
+      "correct": [
+        "확인하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "확인하다",
+      "ru": "квитанция",
+      "pl": "paragon",
+      "zh": "收据",
+      "lt": "kvitas"
+    },
+    {
+      "ko": "값비싼",
+      "lt": "",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "tts": "값비싼"
+    },
+    {
+      "ko": "값이 싼",
+      "lt": "",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "tts": "값이 싼"
+    },
+    {
+      "ko": "할인",
+      "lt": "",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "tts": "할인"
+    },
+    {
+      "ko": "출납원",
+      "lt": "",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "tts": "출납원"
+    },
+    {
+      "ko": "확인하다",
+      "lt": "",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "tts": "확인하다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "expensive",
+      "ko": "값비싼",
+      "correct": [
+        "값비싼"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "값비싼",
+      "ru": "дорогой",
+      "pl": "drogi",
+      "zh": "昂贵的",
+      "lt": "brangus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cheap",
+      "ko": "값이 싼",
+      "correct": [
+        "값이 싼"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "값이 싼",
+      "ru": "дешевый",
+      "pl": "tani",
+      "zh": "便宜的",
+      "lt": "pigus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discount",
+      "ko": "할인",
+      "correct": [
+        "할인"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "할인",
+      "ru": "скидка",
+      "pl": "rabat",
+      "zh": "折扣",
+      "lt": "nuolaida"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cashier",
+      "ko": "출납원",
+      "correct": [
+        "출납원"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "출납원",
+      "ru": "касса",
+      "pl": "kasjer",
+      "zh": "出纳员",
+      "lt": "kasininkas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "receipt",
+      "ko": "확인하다",
+      "correct": [
+        "확인하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "확인하다",
+      "ru": "квитанция",
+      "pl": "paragon",
+      "zh": "收据",
+      "lt": "kvitas"
+    }
+  ]
+}

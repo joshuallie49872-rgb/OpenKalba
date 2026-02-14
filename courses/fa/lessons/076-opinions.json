@@ -1,0 +1,296 @@
+{
+  "id": "076-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "من دوست دارم",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "fa": "من دوست دارم"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "دوست ندارم",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "fa": "دوست ندارم"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "من دوست دارم",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "fa": "من دوست دارم"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "من نمی خواهم",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "fa": "من نمی خواهم"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "مهم است",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "fa": "مهم است"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من دوست دارم",
+      "type": "translate",
+      "correct": [
+        "من دوست دارم"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "fa": "من دوست دارم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "دوست ندارم",
+      "type": "translate",
+      "correct": [
+        "دوست ندارم"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "fa": "دوست ندارم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من دوست دارم",
+      "type": "translate",
+      "correct": [
+        "من دوست دارم"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "fa": "من دوست دارم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من نمی خواهم",
+      "type": "translate",
+      "correct": [
+        "من نمی خواهم"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "fa": "من نمی خواهم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مهم است",
+      "type": "translate",
+      "correct": [
+        "مهم است"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "fa": "مهم است"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "من دوست دارم",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "fa": "من دوست دارم"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "دوست ندارم",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "fa": "دوست ندارم"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "من دوست دارم",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "fa": "من دوست دارم"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "من نمی خواهم",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "fa": "من نمی خواهم"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "مهم است",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "fa": "مهم است"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من دوست دارم",
+      "type": "translate",
+      "correct": [
+        "من دوست دارم"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "fa": "من دوست دارم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "دوست ندارم",
+      "type": "translate",
+      "correct": [
+        "دوست ندارم"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "fa": "دوست ندارم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من دوست دارم",
+      "type": "translate",
+      "correct": [
+        "من دوست دارم"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "fa": "من دوست دارم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من نمی خواهم",
+      "type": "translate",
+      "correct": [
+        "من نمی خواهم"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "fa": "من نمی خواهم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مهم است",
+      "type": "translate",
+      "correct": [
+        "مهم است"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "fa": "مهم است"
+    }
+  ]
+}

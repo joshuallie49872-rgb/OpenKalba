@@ -1,0 +1,296 @@
+{
+  "id": "043-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "đau",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "vi": "đau"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "đầu",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "vi": "đầu"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "tay",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "vi": "tay"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "chân",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "vi": "chân"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "bác sĩ",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "vi": "bác sĩ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đau",
+      "type": "translate",
+      "correct": [
+        "đau"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "vi": "đau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đầu",
+      "type": "translate",
+      "correct": [
+        "đầu"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "vi": "đầu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tay",
+      "type": "translate",
+      "correct": [
+        "tay"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "vi": "tay"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chân",
+      "type": "translate",
+      "correct": [
+        "chân"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "vi": "chân"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bác sĩ",
+      "type": "translate",
+      "correct": [
+        "bác sĩ"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "vi": "bác sĩ"
+    },
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "đau",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "vi": "đau"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "đầu",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "vi": "đầu"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "tay",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "vi": "tay"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "chân",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "vi": "chân"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "bác sĩ",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "vi": "bác sĩ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đau",
+      "type": "translate",
+      "correct": [
+        "đau"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "vi": "đau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đầu",
+      "type": "translate",
+      "correct": [
+        "đầu"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "vi": "đầu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tay",
+      "type": "translate",
+      "correct": [
+        "tay"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "vi": "tay"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chân",
+      "type": "translate",
+      "correct": [
+        "chân"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "vi": "chân"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bác sĩ",
+      "type": "translate",
+      "correct": [
+        "bác sĩ"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "vi": "bác sĩ"
+    }
+  ]
+}

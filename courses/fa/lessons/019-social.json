@@ -1,0 +1,296 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "متاسفم",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "fa": "متاسفم"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "لطفا",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "fa": "لطفا"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "متشکرم",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "fa": "متشکرم"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "خوب",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "fa": "خوب"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "خوب",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "fa": "خوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متاسفم",
+      "type": "translate",
+      "correct": [
+        "متاسفم"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "fa": "متاسفم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لطفا",
+      "type": "translate",
+      "correct": [
+        "لطفا"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "fa": "لطفا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متشکرم",
+      "type": "translate",
+      "correct": [
+        "متشکرم"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "fa": "متشکرم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خوب",
+      "type": "translate",
+      "correct": [
+        "خوب"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "fa": "خوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خوب",
+      "type": "translate",
+      "correct": [
+        "خوب"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "fa": "خوب"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "متاسفم",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "fa": "متاسفم"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "لطفا",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "fa": "لطفا"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "متشکرم",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "fa": "متشکرم"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "خوب",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "fa": "خوب"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "خوب",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "fa": "خوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متاسفم",
+      "type": "translate",
+      "correct": [
+        "متاسفم"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "fa": "متاسفم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لطفا",
+      "type": "translate",
+      "correct": [
+        "لطفا"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "fa": "لطفا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متشکرم",
+      "type": "translate",
+      "correct": [
+        "متشکرم"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "fa": "متشکرم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خوب",
+      "type": "translate",
+      "correct": [
+        "خوب"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "fa": "خوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خوب",
+      "type": "translate",
+      "correct": [
+        "خوب"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "fa": "خوب"
+    }
+  ]
+}

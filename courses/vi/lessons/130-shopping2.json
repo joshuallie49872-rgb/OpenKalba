@@ -1,0 +1,296 @@
+{
+  "id": "130-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "đắt",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "vi": "đắt"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "rẻ",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "vi": "rẻ"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "giảm giá",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "vi": "giảm giá"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "thu ngân",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "vi": "thu ngân"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "biên lai",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "vi": "biên lai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đắt",
+      "type": "translate",
+      "correct": [
+        "đắt"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "vi": "đắt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "rẻ",
+      "type": "translate",
+      "correct": [
+        "rẻ"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "vi": "rẻ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "giảm giá",
+      "type": "translate",
+      "correct": [
+        "giảm giá"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "vi": "giảm giá"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thu ngân",
+      "type": "translate",
+      "correct": [
+        "thu ngân"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "vi": "thu ngân"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "biên lai",
+      "type": "translate",
+      "correct": [
+        "biên lai"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "vi": "biên lai"
+    },
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "đắt",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "vi": "đắt"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "rẻ",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "vi": "rẻ"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "giảm giá",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "vi": "giảm giá"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "thu ngân",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "vi": "thu ngân"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "biên lai",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "vi": "biên lai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đắt",
+      "type": "translate",
+      "correct": [
+        "đắt"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "vi": "đắt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "rẻ",
+      "type": "translate",
+      "correct": [
+        "rẻ"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "vi": "rẻ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "giảm giá",
+      "type": "translate",
+      "correct": [
+        "giảm giá"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "vi": "giảm giá"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thu ngân",
+      "type": "translate",
+      "correct": [
+        "thu ngân"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "vi": "thu ngân"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "biên lai",
+      "type": "translate",
+      "correct": [
+        "biên lai"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "vi": "biên lai"
+    }
+  ]
+}

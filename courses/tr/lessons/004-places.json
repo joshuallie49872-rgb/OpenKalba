@@ -1,0 +1,296 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "Burada",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tr": "Burada"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "Orada",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tr": "Orada"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "Sol",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tr": "Sol"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "Sağ",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tr": "Sağ"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "Doğrudan",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tr": "Doğrudan"
+    },
+    {
+      "lt": "miestas",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "Şehir",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "tr": "Şehir"
+    },
+    {
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "Sokak",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "tr": "Sokak"
+    },
+    {
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "İstasyon",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "tr": "İstasyon"
+    },
+    {
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "Havalimanı",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "tr": "Havalimanı"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "Otel",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tr": "Otel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Burada",
+      "type": "translate",
+      "correct": [
+        "Burada"
+      ],
+      "en": "here",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里",
+      "tr": "Burada"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Orada",
+      "type": "translate",
+      "correct": [
+        "Orada"
+      ],
+      "en": "there",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里",
+      "tr": "Orada"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sol",
+      "type": "translate",
+      "correct": [
+        "Sol"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "tr": "Sol"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sağ",
+      "type": "translate",
+      "correct": [
+        "Sağ"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "tr": "Sağ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Doğrudan",
+      "type": "translate",
+      "correct": [
+        "Doğrudan"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "tr": "Doğrudan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Şehir",
+      "type": "translate",
+      "correct": [
+        "Şehir"
+      ],
+      "en": "city",
+      "placeholder": "Type Lithuanian…",
+      "zh": "city",
+      "tr": "Şehir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sokak",
+      "type": "translate",
+      "correct": [
+        "Sokak"
+      ],
+      "en": "street",
+      "placeholder": "Type Lithuanian…",
+      "zh": "street",
+      "tr": "Sokak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Otel",
+      "type": "translate",
+      "correct": [
+        "Otel"
+      ],
+      "en": "hotel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hotel",
+      "tr": "Otel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İstasyon",
+      "type": "translate",
+      "correct": [
+        "İstasyon"
+      ],
+      "en": "station",
+      "placeholder": "Type Lithuanian…",
+      "zh": "station",
+      "tr": "İstasyon"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Havalimanı",
+      "type": "translate",
+      "correct": [
+        "Havalimanı"
+      ],
+      "en": "airport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "airport",
+      "tr": "Havalimanı"
+    }
+  ]
+}

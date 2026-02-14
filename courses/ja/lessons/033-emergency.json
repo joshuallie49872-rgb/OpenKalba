@@ -1,0 +1,296 @@
+{
+  "id": "033-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "lt": "pagalba",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "助け",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "ja": "助け"
+    },
+    {
+      "lt": "policija",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "警察",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "ja": "警察"
+    },
+    {
+      "lt": "ligoninė",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "病院",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "ja": "病院"
+    },
+    {
+      "lt": "gaisras",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "火事",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "ja": "火事"
+    },
+    {
+      "lt": "pavojus",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "危険",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "ja": "危険"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "助け",
+      "type": "translate",
+      "correct": [
+        "助け"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "ja": "助け"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "警察",
+      "type": "translate",
+      "correct": [
+        "警察"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "ja": "警察"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "病院",
+      "type": "translate",
+      "correct": [
+        "病院"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "ja": "病院"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "火事",
+      "type": "translate",
+      "correct": [
+        "火事"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "ja": "火事"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "危険",
+      "type": "translate",
+      "correct": [
+        "危険"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "ja": "危険"
+    },
+    {
+      "lt": "pagalba",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "助け",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "ja": "助け"
+    },
+    {
+      "lt": "policija",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "警察",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "ja": "警察"
+    },
+    {
+      "lt": "ligoninė",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "病院",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "ja": "病院"
+    },
+    {
+      "lt": "gaisras",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "火事",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "ja": "火事"
+    },
+    {
+      "lt": "pavojus",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "危険",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "ja": "危険"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "助け",
+      "type": "translate",
+      "correct": [
+        "助け"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "ja": "助け"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "警察",
+      "type": "translate",
+      "correct": [
+        "警察"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "ja": "警察"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "病院",
+      "type": "translate",
+      "correct": [
+        "病院"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "ja": "病院"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "火事",
+      "type": "translate",
+      "correct": [
+        "火事"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "ja": "火事"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "危険",
+      "type": "translate",
+      "correct": [
+        "危険"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "ja": "危険"
+    }
+  ]
+}

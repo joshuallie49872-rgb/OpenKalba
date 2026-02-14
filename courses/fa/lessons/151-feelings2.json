@@ -1,0 +1,296 @@
+{
+  "id": "151-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "متعجب",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "fa": "متعجب"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "عصبانی",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "fa": "عصبانی"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "آرام",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "fa": "آرام"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "نگران",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "fa": "نگران"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "راضی",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "fa": "راضی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متعجب",
+      "type": "translate",
+      "correct": [
+        "متعجب"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "fa": "متعجب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عصبانی",
+      "type": "translate",
+      "correct": [
+        "عصبانی"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "fa": "عصبانی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "آرام",
+      "type": "translate",
+      "correct": [
+        "آرام"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "fa": "آرام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نگران",
+      "type": "translate",
+      "correct": [
+        "نگران"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "fa": "نگران"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "راضی",
+      "type": "translate",
+      "correct": [
+        "راضی"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "fa": "راضی"
+    },
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "متعجب",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "fa": "متعجب"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "عصبانی",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "fa": "عصبانی"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "آرام",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "fa": "آرام"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "نگران",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "fa": "نگران"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "راضی",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "fa": "راضی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متعجب",
+      "type": "translate",
+      "correct": [
+        "متعجب"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "fa": "متعجب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عصبانی",
+      "type": "translate",
+      "correct": [
+        "عصبانی"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "fa": "عصبانی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "آرام",
+      "type": "translate",
+      "correct": [
+        "آرام"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "fa": "آرام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نگران",
+      "type": "translate",
+      "correct": [
+        "نگران"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "fa": "نگران"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "راضی",
+      "type": "translate",
+      "correct": [
+        "راضی"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "fa": "راضی"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "049-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "Pasaport",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tr": "Pasaport"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "Duvarlar",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tr": "Duvarlar"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "Seyahat etmek",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tr": "Seyahat etmek"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "Bavul",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tr": "Bavul"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "Gümrük",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tr": "Gümrük"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Pasaport",
+      "type": "translate",
+      "correct": [
+        "Pasaport"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "tr": "Pasaport"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Duvar",
+      "type": "translate",
+      "correct": [
+        "Duvar"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "tr": "Duvar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Seyahat etmek",
+      "type": "translate",
+      "correct": [
+        "Seyahat etmek"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "tr": "Seyahat etmek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Bavul",
+      "type": "translate",
+      "correct": [
+        "Bavul"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "tr": "Bavul"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gümrük",
+      "type": "translate",
+      "correct": [
+        "Gümrük"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "tr": "Gümrük"
+    },
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "Pasaport",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tr": "Pasaport"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "Duvarlar",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tr": "Duvarlar"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "Seyahat etmek",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tr": "Seyahat etmek"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "Bavul",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tr": "Bavul"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "Gümrük",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tr": "Gümrük"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Pasaport",
+      "type": "translate",
+      "correct": [
+        "Pasaport"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "tr": "Pasaport"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Duvar",
+      "type": "translate",
+      "correct": [
+        "Duvar"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "tr": "Duvar"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Seyahat etmek",
+      "type": "translate",
+      "correct": [
+        "Seyahat etmek"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "tr": "Seyahat etmek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Bavul",
+      "type": "translate",
+      "correct": [
+        "Bavul"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "tr": "Bavul"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gümrük",
+      "type": "translate",
+      "correct": [
+        "Gümrük"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "tr": "Gümrük"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "028-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "lt": "pagalba",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "Yardım",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tr": "Yardım"
+    },
+    {
+      "lt": "policija",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "Polis",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tr": "Polis"
+    },
+    {
+      "lt": "ligoninė",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "Hastane",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tr": "Hastane"
+    },
+    {
+      "lt": "gaisras",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Ateş",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tr": "Ateş"
+    },
+    {
+      "lt": "pavojus",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "Tehlike",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tr": "Tehlike"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yardım",
+      "type": "translate",
+      "correct": [
+        "Yardım"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "tr": "Yardım"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Polis",
+      "type": "translate",
+      "correct": [
+        "Polis"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "tr": "Polis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hastane",
+      "type": "translate",
+      "correct": [
+        "Hastane"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "tr": "Hastane"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ateş",
+      "type": "translate",
+      "correct": [
+        "Ateş"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "tr": "Ateş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tehlike",
+      "type": "translate",
+      "correct": [
+        "Tehlike"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "tr": "Tehlike"
+    },
+    {
+      "lt": "pagalba",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "Yardım",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tr": "Yardım"
+    },
+    {
+      "lt": "policija",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "Polis",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tr": "Polis"
+    },
+    {
+      "lt": "ligoninė",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "Hastane",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tr": "Hastane"
+    },
+    {
+      "lt": "gaisras",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "Ateş",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tr": "Ateş"
+    },
+    {
+      "lt": "pavojus",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "Tehlike",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tr": "Tehlike"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yardım",
+      "type": "translate",
+      "correct": [
+        "Yardım"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "tr": "Yardım"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Polis",
+      "type": "translate",
+      "correct": [
+        "Polis"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "tr": "Polis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hastane",
+      "type": "translate",
+      "correct": [
+        "Hastane"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "tr": "Hastane"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ateş",
+      "type": "translate",
+      "correct": [
+        "Ateş"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "tr": "Ateş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tehlike",
+      "type": "translate",
+      "correct": [
+        "Tehlike"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "tr": "Tehlike"
+    }
+  ]
+}

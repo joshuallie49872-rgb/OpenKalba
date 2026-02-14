@@ -1,0 +1,316 @@
+{
+  "id": "052-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "ko": "좋아요",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "좋아요"
+    },
+    {
+      "ko": "싫어함",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "싫어함"
+    },
+    {
+      "ko": "좋아요",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "좋아요"
+    },
+    {
+      "ko": "나는 원하지 않아",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "나는 원하지 않아"
+    },
+    {
+      "ko": "중요한",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "중요한"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "ko": "좋아요",
+      "correct": [
+        "좋아요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋아요",
+      "ru": "Мне нравится",
+      "pl": "Lubię",
+      "zh": "我喜欢",
+      "lt": "Man patinka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "ko": "싫어함",
+      "correct": [
+        "싫어함"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "싫어함",
+      "ru": "Мне не нравится",
+      "pl": "Nie lubię",
+      "zh": "我不喜欢",
+      "lt": "Man nepatinka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "ko": "좋아요",
+      "correct": [
+        "좋아요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋아요",
+      "ru": "Мне нравится",
+      "pl": "Lubię",
+      "zh": "我喜欢",
+      "lt": "Man patinka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "ko": "나는 원하지 않아",
+      "correct": [
+        "나는 원하지 않아"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 원하지 않아",
+      "ru": "Я не хочу",
+      "pl": "Nie chcę",
+      "zh": "我不想",
+      "lt": "Aš nenoriu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "ko": "중요한",
+      "correct": [
+        "중요한"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "중요한",
+      "ru": "важный",
+      "pl": "ważny",
+      "zh": "重要的",
+      "lt": "svarbus"
+    },
+    {
+      "ko": "좋아요",
+      "lt": "",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "tts": "좋아요"
+    },
+    {
+      "ko": "싫어함",
+      "lt": "",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "tts": "싫어함"
+    },
+    {
+      "ko": "좋아요",
+      "lt": "",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "tts": "좋아요"
+    },
+    {
+      "ko": "나는 원하지 않아",
+      "lt": "",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "tts": "나는 원하지 않아"
+    },
+    {
+      "ko": "중요한",
+      "lt": "",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "tts": "중요한"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I like",
+      "ko": "좋아요",
+      "correct": [
+        "좋아요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋아요",
+      "ru": "Мне нравится",
+      "pl": "Lubię",
+      "zh": "我喜欢",
+      "lt": "Man patinka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't like",
+      "ko": "싫어함",
+      "correct": [
+        "싫어함"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "싫어함",
+      "ru": "Мне не нравится",
+      "pl": "Nie lubię",
+      "zh": "我不喜欢",
+      "lt": "Man nepatinka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I enjoy",
+      "ko": "좋아요",
+      "correct": [
+        "좋아요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋아요",
+      "ru": "Мне нравится",
+      "pl": "Lubię",
+      "zh": "我喜欢",
+      "lt": "Man patinka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I don't want",
+      "ko": "나는 원하지 않아",
+      "correct": [
+        "나는 원하지 않아"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 원하지 않아",
+      "ru": "Я не хочу",
+      "pl": "Nie chcę",
+      "zh": "我不想",
+      "lt": "Aš nenoriu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "important",
+      "ko": "중요한",
+      "correct": [
+        "중요한"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "중요한",
+      "ru": "важный",
+      "pl": "ważny",
+      "zh": "重要的",
+      "lt": "svarbus"
+    }
+  ]
+}

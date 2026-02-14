@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "lt": "vienas",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "ఒంటరిగా",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "te": "ఒంటరిగా"
+    },
+    {
+      "lt": "du",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "రెండు",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "te": "రెండు"
+    },
+    {
+      "lt": "trys",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "మూడు",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "te": "మూడు"
+    },
+    {
+      "lt": "keturi",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "నాలుగు",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "te": "నాలుగు"
+    },
+    {
+      "lt": "penki",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "ఐదు",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "te": "ఐదు"
+    },
+    {
+      "lt": "raudona",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "ఎరుపు",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "te": "ఎరుపు"
+    },
+    {
+      "lt": "mėlyna",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "నీలం",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "te": "నీలం"
+    },
+    {
+      "lt": "žalia",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "ఆకుపచ్చ",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "te": "ఆకుపచ్చ"
+    },
+    {
+      "lt": "juoda",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "నలుపు",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "te": "నలుపు"
+    },
+    {
+      "lt": "balta",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "తెలుపు",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "te": "తెలుపు"
+    },
+    {
+      "lt": "mama",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "తల్లి",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "te": "తల్లి"
+    },
+    {
+      "lt": "tėtis",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "నాన్న",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "te": "నాన్న"
+    },
+    {
+      "lt": "brolis",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "సోదరుడు",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "te": "సోదరుడు"
+    },
+    {
+      "lt": "sesuo",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "సోదరి",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "te": "సోదరి"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "కుటుంబం",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "te": "కుటుంబం"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "నీరు",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "te": "నీరు"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "కాఫీ",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "te": "కాఫీ"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "రొట్టె",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "te": "రొట్టె"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "హోటల్",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "te": "హోటల్"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "టికెట్",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "te": "టికెట్"
+    }
+  ]
+}

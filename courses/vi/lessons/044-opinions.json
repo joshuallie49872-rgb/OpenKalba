@@ -1,0 +1,296 @@
+{
+  "id": "044-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "tôi thích",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "vi": "tôi thích"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "không thích",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "vi": "không thích"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "tôi thích",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "vi": "tôi thích"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "tôi không muốn",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "vi": "tôi không muốn"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "quan trọng",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "vi": "quan trọng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi thích",
+      "type": "translate",
+      "correct": [
+        "tôi thích"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "vi": "tôi thích"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "không thích",
+      "type": "translate",
+      "correct": [
+        "không thích"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "vi": "không thích"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi thích",
+      "type": "translate",
+      "correct": [
+        "tôi thích"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "vi": "tôi thích"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi không muốn",
+      "type": "translate",
+      "correct": [
+        "tôi không muốn"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "vi": "tôi không muốn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "quan trọng",
+      "type": "translate",
+      "correct": [
+        "quan trọng"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "vi": "quan trọng"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "tôi thích",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "vi": "tôi thích"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "không thích",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "vi": "không thích"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "tôi thích",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "vi": "tôi thích"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "tôi không muốn",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "vi": "tôi không muốn"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "quan trọng",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "vi": "quan trọng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi thích",
+      "type": "translate",
+      "correct": [
+        "tôi thích"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "vi": "tôi thích"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "không thích",
+      "type": "translate",
+      "correct": [
+        "không thích"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "vi": "không thích"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi thích",
+      "type": "translate",
+      "correct": [
+        "tôi thích"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "vi": "tôi thích"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi không muốn",
+      "type": "translate",
+      "correct": [
+        "tôi không muốn"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "vi": "tôi không muốn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "quan trọng",
+      "type": "translate",
+      "correct": [
+        "quan trọng"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "vi": "quan trọng"
+    }
+  ]
+}

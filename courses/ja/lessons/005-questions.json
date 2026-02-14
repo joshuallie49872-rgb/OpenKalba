@@ -1,0 +1,296 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "lt": "kas",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "tts": "何",
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "ja": "何"
+    },
+    {
+      "lt": "ką",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "tts": "何",
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "ja": "何"
+    },
+    {
+      "lt": "kur",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "tts": "どこ",
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "ja": "どこ"
+    },
+    {
+      "lt": "kada",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "tts": "いつ",
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "ja": "いつ"
+    },
+    {
+      "lt": "kodėl",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "tts": "なぜ",
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "ja": "なぜ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "何",
+      "type": "translate",
+      "correct": [
+        "何"
+      ],
+      "en": "who",
+      "placeholder": "Type Lithuanian…",
+      "zh": "who",
+      "ja": "何"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "何",
+      "type": "translate",
+      "correct": [
+        "何"
+      ],
+      "en": "what",
+      "placeholder": "Type Lithuanian…",
+      "zh": "what",
+      "ja": "何"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "どこ",
+      "type": "translate",
+      "correct": [
+        "どこ"
+      ],
+      "en": "where",
+      "placeholder": "Type Lithuanian…",
+      "zh": "where",
+      "ja": "どこ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "いつ",
+      "type": "translate",
+      "correct": [
+        "いつ"
+      ],
+      "en": "when",
+      "placeholder": "Type Lithuanian…",
+      "zh": "when",
+      "ja": "いつ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "なぜ",
+      "type": "translate",
+      "correct": [
+        "なぜ"
+      ],
+      "en": "why",
+      "placeholder": "Type Lithuanian…",
+      "zh": "why",
+      "ja": "なぜ"
+    },
+    {
+      "lt": "taip",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "tts": "はい",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "ja": "はい"
+    },
+    {
+      "lt": "ne",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "tts": "いいえ",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "ja": "いいえ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "はい",
+      "type": "translate",
+      "correct": [
+        "はい"
+      ],
+      "en": "yes",
+      "placeholder": "Type Lithuanian…",
+      "zh": "是",
+      "ja": "はい"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "いいえ",
+      "type": "translate",
+      "correct": [
+        "いいえ"
+      ],
+      "en": "no",
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "ja": "いいえ"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "tts": "いいです",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "ja": "いいです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "いいです",
+      "type": "translate",
+      "correct": [
+        "いいです"
+      ],
+      "en": "okay",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "ja": "いいです"
+    },
+    {
+      "lt": "blogai",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "tts": "悪い",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "ja": "悪い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "悪い",
+      "type": "translate",
+      "correct": [
+        "悪い"
+      ],
+      "en": "badly",
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "ja": "悪い"
+    },
+    {
+      "lt": "kaip",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "tts": "どうやって",
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "ja": "どうやって"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "どうやって",
+      "type": "translate",
+      "correct": [
+        "どうやって"
+      ],
+      "en": "how",
+      "placeholder": "Type Lithuanian…",
+      "zh": "how",
+      "ja": "どうやって"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "063-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "నొప్పి",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "te": "నొప్పి"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "తల",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "te": "తల"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "చేతి",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "te": "చేతి"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "కాలు",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "te": "కాలు"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "వైద్యుడు",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "te": "వైద్యుడు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నొప్పి",
+      "type": "translate",
+      "correct": [
+        "నొప్పి"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "te": "నొప్పి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తల",
+      "type": "translate",
+      "correct": [
+        "తల"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "te": "తల"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "చేతి",
+      "type": "translate",
+      "correct": [
+        "చేతి"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "te": "చేతి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కాలు",
+      "type": "translate",
+      "correct": [
+        "కాలు"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "te": "కాలు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వైద్యుడు",
+      "type": "translate",
+      "correct": [
+        "వైద్యుడు"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "te": "వైద్యుడు"
+    },
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "నొప్పి",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "te": "నొప్పి"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "తల",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "te": "తల"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "చేతి",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "te": "చేతి"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "కాలు",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "te": "కాలు"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "వైద్యుడు",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "te": "వైద్యుడు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నొప్పి",
+      "type": "translate",
+      "correct": [
+        "నొప్పి"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "te": "నొప్పి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తల",
+      "type": "translate",
+      "correct": [
+        "తల"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "te": "తల"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "చేతి",
+      "type": "translate",
+      "correct": [
+        "చేతి"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "te": "చేతి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కాలు",
+      "type": "translate",
+      "correct": [
+        "కాలు"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "te": "కాలు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వైద్యుడు",
+      "type": "translate",
+      "correct": [
+        "వైద్యుడు"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "te": "వైద్యుడు"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "049-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pasport",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "ms": "pasport"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "dinding",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "ms": "dinding"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "melancong",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "ms": "melancong"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "beg pakaian",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "ms": "beg pakaian"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "kastam",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "ms": "kastam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pasport",
+      "type": "translate",
+      "correct": [
+        "pasport"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "ms": "pasport"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dinding",
+      "type": "translate",
+      "correct": [
+        "dinding"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "ms": "dinding"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "melancong",
+      "type": "translate",
+      "correct": [
+        "melancong"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "ms": "melancong"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "beg pakaian",
+      "type": "translate",
+      "correct": [
+        "beg pakaian"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "ms": "beg pakaian"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kastam",
+      "type": "translate",
+      "correct": [
+        "kastam"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "ms": "kastam"
+    },
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "pasport",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "ms": "pasport"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "dinding",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "ms": "dinding"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "melancong",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "ms": "melancong"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "beg pakaian",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "ms": "beg pakaian"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "kastam",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "ms": "kastam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pasport",
+      "type": "translate",
+      "correct": [
+        "pasport"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "ms": "pasport"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dinding",
+      "type": "translate",
+      "correct": [
+        "dinding"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "ms": "dinding"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "melancong",
+      "type": "translate",
+      "correct": [
+        "melancong"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "ms": "melancong"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "beg pakaian",
+      "type": "translate",
+      "correct": [
+        "beg pakaian"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "ms": "beg pakaian"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kastam",
+      "type": "translate",
+      "correct": [
+        "kastam"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "ms": "kastam"
+    }
+  ]
+}

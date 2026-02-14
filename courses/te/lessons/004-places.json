@@ -1,0 +1,296 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "ఇక్కడ",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "te": "ఇక్కడ"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "అక్కడ",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "te": "అక్కడ"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "ఎడమ",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "te": "ఎడమ"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "కుడి",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "te": "కుడి"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "నేరుగా",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "te": "నేరుగా"
+    },
+    {
+      "lt": "miestas",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "నగరం",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "te": "నగరం"
+    },
+    {
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "వీధి",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "te": "వీధి"
+    },
+    {
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "స్టేషన్",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "te": "స్టేషన్"
+    },
+    {
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "విమానాశ్రయం",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "te": "విమానాశ్రయం"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "హోటల్",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "te": "హోటల్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఇక్కడ",
+      "type": "translate",
+      "correct": [
+        "ఇక్కడ"
+      ],
+      "en": "here",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里",
+      "te": "ఇక్కడ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అక్కడ",
+      "type": "translate",
+      "correct": [
+        "అక్కడ"
+      ],
+      "en": "there",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里",
+      "te": "అక్కడ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఎడమ",
+      "type": "translate",
+      "correct": [
+        "ఎడమ"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "te": "ఎడమ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కుడి",
+      "type": "translate",
+      "correct": [
+        "కుడి"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "te": "కుడి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేరుగా",
+      "type": "translate",
+      "correct": [
+        "నేరుగా"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "te": "నేరుగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నగరం",
+      "type": "translate",
+      "correct": [
+        "నగరం"
+      ],
+      "en": "city",
+      "placeholder": "Type Lithuanian…",
+      "zh": "city",
+      "te": "నగరం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వీధి",
+      "type": "translate",
+      "correct": [
+        "వీధి"
+      ],
+      "en": "street",
+      "placeholder": "Type Lithuanian…",
+      "zh": "street",
+      "te": "వీధి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "హోటల్",
+      "type": "translate",
+      "correct": [
+        "హోటల్"
+      ],
+      "en": "hotel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hotel",
+      "te": "హోటల్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "స్టేషన్",
+      "type": "translate",
+      "correct": [
+        "స్టేషన్"
+      ],
+      "en": "station",
+      "placeholder": "Type Lithuanian…",
+      "zh": "station",
+      "te": "స్టేషన్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "విమానాశ్రయం",
+      "type": "translate",
+      "correct": [
+        "విమానాశ్రయం"
+      ],
+      "en": "airport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "airport",
+      "te": "విమానాశ్రయం"
+    }
+  ]
+}

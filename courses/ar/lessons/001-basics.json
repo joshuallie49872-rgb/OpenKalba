@@ -1,0 +1,296 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "lt": "labas",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "tts": "مرحبًا",
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "ar": "مرحبًا"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "tts": "شكرًا",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ar": "شكرًا"
+    },
+    {
+      "lt": "taip",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "tts": "نعم",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "ar": "نعم"
+    },
+    {
+      "lt": "ne",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "tts": "لا",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "ar": "لا"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "tts": "من فضلك",
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "ar": "من فضلك"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "tts": "أنا آسف",
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "ar": "أنا آسف"
+    },
+    {
+      "lt": "viso gero",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "tts": "مع السلامة",
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "ar": "مع السلامة"
+    },
+    {
+      "lt": "iki",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "tts": "حتى",
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "ar": "حتى"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "tts": "حسنًا",
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "ar": "حسنًا"
+    },
+    {
+      "lt": "blogai",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "tts": "سيئ",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "ar": "سيئ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مرحبًا",
+      "correct": [
+        "مرحبًا"
+      ],
+      "en": "hello",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "你好",
+      "ar": "مرحبًا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "شكرًا",
+      "correct": [
+        "شكرًا"
+      ],
+      "en": "thank you",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "ar": "شكرًا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نعم",
+      "correct": [
+        "نعم"
+      ],
+      "en": "yes",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "是的",
+      "ar": "نعم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لا",
+      "correct": [
+        "لا"
+      ],
+      "en": "no",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "ar": "لا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من فضلك",
+      "correct": [
+        "من فضلك"
+      ],
+      "en": "please / you're welcome",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "拜托 / 不客气",
+      "ar": "من فضلك"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا آسف",
+      "correct": [
+        "أنا آسف"
+      ],
+      "en": "excuse me / sorry",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "打扰一下 / 抱歉",
+      "ar": "أنا آسف"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مع السلامة",
+      "correct": [
+        "مع السلامة"
+      ],
+      "en": "goodbye",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "ar": "مع السلامة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حتى",
+      "correct": [
+        "حتى"
+      ],
+      "en": "see you",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "再见",
+      "ar": "حتى"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حسنًا",
+      "correct": [
+        "حسنًا"
+      ],
+      "en": "okay / good",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的/很好",
+      "ar": "حسنًا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سيئ",
+      "correct": [
+        "سيئ"
+      ],
+      "en": "badly",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "ar": "سيئ"
+    }
+  ]
+}

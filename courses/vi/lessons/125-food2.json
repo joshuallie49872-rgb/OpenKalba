@@ -1,0 +1,296 @@
+{
+  "id": "125-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "bữa sáng",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "vi": "bữa sáng"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "bữa trưa",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "vi": "bữa trưa"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "bữa tối",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "vi": "bữa tối"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "ngon",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "vi": "ngon"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "đói",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "vi": "đói"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bữa sáng",
+      "type": "translate",
+      "correct": [
+        "bữa sáng"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "vi": "bữa sáng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bữa trưa",
+      "type": "translate",
+      "correct": [
+        "bữa trưa"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "vi": "bữa trưa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bữa tối",
+      "type": "translate",
+      "correct": [
+        "bữa tối"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "vi": "bữa tối"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngon",
+      "type": "translate",
+      "correct": [
+        "ngon"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "vi": "ngon"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đói",
+      "type": "translate",
+      "correct": [
+        "đói"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "vi": "đói"
+    },
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "bữa sáng",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "vi": "bữa sáng"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "bữa trưa",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "vi": "bữa trưa"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "bữa tối",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "vi": "bữa tối"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "ngon",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "vi": "ngon"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "đói",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "vi": "đói"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bữa sáng",
+      "type": "translate",
+      "correct": [
+        "bữa sáng"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "vi": "bữa sáng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bữa trưa",
+      "type": "translate",
+      "correct": [
+        "bữa trưa"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "vi": "bữa trưa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bữa tối",
+      "type": "translate",
+      "correct": [
+        "bữa tối"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "vi": "bữa tối"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ngon",
+      "type": "translate",
+      "correct": [
+        "ngon"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "vi": "ngon"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đói",
+      "type": "translate",
+      "correct": [
+        "đói"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "vi": "đói"
+    }
+  ]
+}

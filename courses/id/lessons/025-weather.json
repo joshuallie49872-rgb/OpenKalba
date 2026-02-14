@@ -1,0 +1,296 @@
+{
+  "id": "025-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "cuaca",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "id": "cuaca"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "hujan",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "id": "hujan"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "matahari",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "id": "matahari"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "dingin",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "id": "dingin"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "panas",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "id": "panas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cuaca",
+      "type": "translate",
+      "correct": [
+        "cuaca"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "id": "cuaca"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hujan",
+      "type": "translate",
+      "correct": [
+        "hujan"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "id": "hujan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "matahari",
+      "type": "translate",
+      "correct": [
+        "matahari"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "id": "matahari"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dingin",
+      "type": "translate",
+      "correct": [
+        "dingin"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "id": "dingin"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "panas",
+      "type": "translate",
+      "correct": [
+        "panas"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "id": "panas"
+    },
+    {
+      "lt": "oras",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "tts": "cuaca",
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "id": "cuaca"
+    },
+    {
+      "lt": "lietus",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "tts": "hujan",
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "id": "hujan"
+    },
+    {
+      "lt": "saulė",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "tts": "matahari",
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "id": "matahari"
+    },
+    {
+      "lt": "šalta",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "tts": "dingin",
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "id": "dingin"
+    },
+    {
+      "lt": "karšta",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "tts": "panas",
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "id": "panas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cuaca",
+      "type": "translate",
+      "correct": [
+        "cuaca"
+      ],
+      "en": "weather",
+      "placeholder": "Type Lithuanian…",
+      "zh": "weather",
+      "id": "cuaca"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hujan",
+      "type": "translate",
+      "correct": [
+        "hujan"
+      ],
+      "en": "rain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "rain",
+      "id": "hujan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "matahari",
+      "type": "translate",
+      "correct": [
+        "matahari"
+      ],
+      "en": "sun",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sun",
+      "id": "matahari"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dingin",
+      "type": "translate",
+      "correct": [
+        "dingin"
+      ],
+      "en": "cold",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cold",
+      "id": "dingin"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "panas",
+      "type": "translate",
+      "correct": [
+        "panas"
+      ],
+      "en": "hot",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hot",
+      "id": "panas"
+    }
+  ]
+}

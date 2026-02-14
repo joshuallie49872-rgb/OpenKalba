@@ -1,0 +1,296 @@
+{
+  "id": "170-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "思います",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "ja": "思います"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "同意します",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "ja": "同意します"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "同意しません",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "ja": "同意しません"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "意見",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "ja": "意見"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "口論",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "ja": "口論"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "思います",
+      "type": "translate",
+      "correct": [
+        "思います"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "ja": "思います"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "同意します",
+      "type": "translate",
+      "correct": [
+        "同意します"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "ja": "同意します"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "同意しません",
+      "type": "translate",
+      "correct": [
+        "同意しません"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "ja": "同意しません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "意見",
+      "type": "translate",
+      "correct": [
+        "意見"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "ja": "意見"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "口論",
+      "type": "translate",
+      "correct": [
+        "口論"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "ja": "口論"
+    },
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "思います",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "ja": "思います"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "同意します",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "ja": "同意します"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "同意しません",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "ja": "同意しません"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "意見",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "ja": "意見"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "口論",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "ja": "口論"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "思います",
+      "type": "translate",
+      "correct": [
+        "思います"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "ja": "思います"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "同意します",
+      "type": "translate",
+      "correct": [
+        "同意します"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "ja": "同意します"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "同意しません",
+      "type": "translate",
+      "correct": [
+        "同意しません"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "ja": "同意しません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "意見",
+      "type": "translate",
+      "correct": [
+        "意見"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "ja": "意見"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "口論",
+      "type": "translate",
+      "correct": [
+        "口論"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "ja": "口論"
+    }
+  ]
+}

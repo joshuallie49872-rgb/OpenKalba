@@ -1,0 +1,296 @@
+{
+  "id": "093-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "İş",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tr": "İş"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "Ofis",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tr": "Ofis"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "Toplantı",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tr": "Toplantı"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "E-posta",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tr": "E-posta"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "Proje",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tr": "Proje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İş",
+      "type": "translate",
+      "correct": [
+        "İş"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "tr": "İş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ofis",
+      "type": "translate",
+      "correct": [
+        "Ofis"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "tr": "Ofis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Toplantı",
+      "type": "translate",
+      "correct": [
+        "Toplantı"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "tr": "Toplantı"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "E-posta",
+      "type": "translate",
+      "correct": [
+        "E-posta"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "tr": "E-posta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Proje",
+      "type": "translate",
+      "correct": [
+        "Proje"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "tr": "Proje"
+    },
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "İş",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tr": "İş"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "Ofis",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tr": "Ofis"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "Toplantı",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tr": "Toplantı"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "E-posta",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tr": "E-posta"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "Proje",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tr": "Proje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İş",
+      "type": "translate",
+      "correct": [
+        "İş"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "tr": "İş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ofis",
+      "type": "translate",
+      "correct": [
+        "Ofis"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "tr": "Ofis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Toplantı",
+      "type": "translate",
+      "correct": [
+        "Toplantı"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "tr": "Toplantı"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "E-posta",
+      "type": "translate",
+      "correct": [
+        "E-posta"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "tr": "E-posta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Proje",
+      "type": "translate",
+      "correct": [
+        "Proje"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "tr": "Proje"
+    }
+  ]
+}

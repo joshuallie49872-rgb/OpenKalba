@@ -1,0 +1,296 @@
+{
+  "id": "181-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "câu chuyện",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "vi": "câu chuyện"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "câu chuyện",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "vi": "câu chuyện"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "sự bắt đầu",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "vi": "sự bắt đầu"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "kết thúc",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "vi": "kết thúc"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "đã xảy ra",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "vi": "đã xảy ra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "câu chuyện",
+      "type": "translate",
+      "correct": [
+        "câu chuyện"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "vi": "câu chuyện"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "câu chuyện",
+      "type": "translate",
+      "correct": [
+        "câu chuyện"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "vi": "câu chuyện"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sự bắt đầu",
+      "type": "translate",
+      "correct": [
+        "sự bắt đầu"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "vi": "sự bắt đầu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kết thúc",
+      "type": "translate",
+      "correct": [
+        "kết thúc"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "vi": "kết thúc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đã xảy ra",
+      "type": "translate",
+      "correct": [
+        "đã xảy ra"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "vi": "đã xảy ra"
+    },
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "câu chuyện",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "vi": "câu chuyện"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "câu chuyện",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "vi": "câu chuyện"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "sự bắt đầu",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "vi": "sự bắt đầu"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "kết thúc",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "vi": "kết thúc"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "đã xảy ra",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "vi": "đã xảy ra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "câu chuyện",
+      "type": "translate",
+      "correct": [
+        "câu chuyện"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "vi": "câu chuyện"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "câu chuyện",
+      "type": "translate",
+      "correct": [
+        "câu chuyện"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "vi": "câu chuyện"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sự bắt đầu",
+      "type": "translate",
+      "correct": [
+        "sự bắt đầu"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "vi": "sự bắt đầu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kết thúc",
+      "type": "translate",
+      "correct": [
+        "kết thúc"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "vi": "kết thúc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đã xảy ra",
+      "type": "translate",
+      "correct": [
+        "đã xảy ra"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "vi": "đã xảy ra"
+    }
+  ]
+}

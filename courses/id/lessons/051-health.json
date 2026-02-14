@@ -1,0 +1,296 @@
+{
+  "id": "051-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "rasa sakit",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "id": "rasa sakit"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "kepala",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "id": "kepala"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "tangan",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "id": "tangan"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "kaki",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "id": "kaki"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "dokter",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "id": "dokter"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "rasa sakit",
+      "type": "translate",
+      "correct": [
+        "rasa sakit"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "id": "rasa sakit"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kepala",
+      "type": "translate",
+      "correct": [
+        "kepala"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "id": "kepala"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tangan",
+      "type": "translate",
+      "correct": [
+        "tangan"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "id": "tangan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kaki",
+      "type": "translate",
+      "correct": [
+        "kaki"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "id": "kaki"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dokter",
+      "type": "translate",
+      "correct": [
+        "dokter"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "id": "dokter"
+    },
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "rasa sakit",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "id": "rasa sakit"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "kepala",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "id": "kepala"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "tangan",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "id": "tangan"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "kaki",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "id": "kaki"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "dokter",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "id": "dokter"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "rasa sakit",
+      "type": "translate",
+      "correct": [
+        "rasa sakit"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "id": "rasa sakit"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kepala",
+      "type": "translate",
+      "correct": [
+        "kepala"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "id": "kepala"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tangan",
+      "type": "translate",
+      "correct": [
+        "tangan"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "id": "tangan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kaki",
+      "type": "translate",
+      "correct": [
+        "kaki"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "id": "kaki"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dokter",
+      "type": "translate",
+      "correct": [
+        "dokter"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "id": "dokter"
+    }
+  ]
+}

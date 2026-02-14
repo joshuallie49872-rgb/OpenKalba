@@ -3,7 +3,6 @@
   "title": "Basics 3",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "noriu",
       "choices": [
         "I want",
@@ -15,11 +14,9 @@
       "correct": [
         "I want"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "turiu",
       "choices": [
         "I have",
@@ -31,11 +28,9 @@
       "correct": [
         "I have"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "valgau",
       "choices": [
         "I eat",
@@ -47,11 +42,9 @@
       "correct": [
         "I eat"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "geriu",
       "choices": [
         "I drink",
@@ -63,11 +56,9 @@
       "correct": [
         "I drink"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "vanduo",
       "choices": [
         "water",
@@ -79,11 +70,9 @@
       "correct": [
         "water"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kava",
       "choices": [
         "coffee",
@@ -95,11 +84,9 @@
       "correct": [
         "coffee"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "alus",
       "choices": [
         "beer",
@@ -111,11 +98,9 @@
       "correct": [
         "beer"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "duona",
       "choices": [
         "bread",
@@ -127,8 +112,7 @@
       "correct": [
         "bread"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -141,7 +125,6 @@
       "en": "I want water",
       "type": "translate",
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "zh": "我想要水"
     },
     {
@@ -155,11 +138,9 @@
       "en": "I want coffee",
       "type": "translate",
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "zh": "我想要咖啡"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "čia",
       "choices": [
         "here",
@@ -171,11 +152,9 @@
       "correct": [
         "here"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "ten",
       "choices": [
         "there",
@@ -187,8 +166,7 @@
       "correct": [
         "there"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -201,7 +179,6 @@
       "en": "here water",
       "type": "translate",
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "zh": "这里水"
     },
     {
@@ -215,11 +192,9 @@
       "en": "there coffee",
       "type": "translate",
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "zh": "那里咖啡"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "prašau vandens",
       "choices": [
         "water please",
@@ -231,11 +206,9 @@
       "correct": [
         "water please"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "noriu alaus",
       "choices": [
         "I want beer",
@@ -247,8 +220,7 @@
       "correct": [
         "I want beer"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -261,7 +233,6 @@
       "en": "I drink vandenį",
       "type": "translate",
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "zh": "我drinkvandenį"
     },
     {
@@ -275,11 +246,9 @@
       "en": "I eat bread",
       "type": "translate",
       "placeholder": "Type Lithuanian…",
-      "prompt_zh": "翻译成立陶宛语",
       "zh": "我eat面包"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "gerai",
       "choices": [
         "okay",
@@ -291,8 +260,7 @@
       "correct": [
         "okay"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -305,8 +273,7 @@
       "en": "okay",
       "type": "translate",
       "placeholder": "Type Lithuanian…",
-      "zh": "好的",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "好的"
     }
   ]
 }

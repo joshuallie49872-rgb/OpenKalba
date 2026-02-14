@@ -1,0 +1,316 @@
+{
+  "id": "181-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "ko": "역사",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "역사"
+    },
+    {
+      "ko": "이야기",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "이야기"
+    },
+    {
+      "ko": "시작",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "시작"
+    },
+    {
+      "ko": "끝",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "끝"
+    },
+    {
+      "ko": "일어났다",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "일어났다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "story",
+      "ko": "역사",
+      "correct": [
+        "역사"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "역사",
+      "ru": "история",
+      "pl": "historia",
+      "zh": "故事",
+      "lt": "istorija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "narrative",
+      "ko": "이야기",
+      "correct": [
+        "이야기"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이야기",
+      "ru": "повествование",
+      "pl": "narracja",
+      "zh": "叙述",
+      "lt": "pasakojimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beginning",
+      "ko": "시작",
+      "correct": [
+        "시작"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "시작",
+      "ru": "начало",
+      "pl": "początek",
+      "zh": "开始",
+      "lt": "pradžia"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ending",
+      "ko": "끝",
+      "correct": [
+        "끝"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "끝",
+      "ru": "конец",
+      "pl": "zakończenie",
+      "zh": "结束",
+      "lt": "pabaiga"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happened",
+      "ko": "일어났다",
+      "correct": [
+        "일어났다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "일어났다",
+      "ru": "случилось",
+      "pl": "wydarzyło się",
+      "zh": "发生",
+      "lt": "įvyko"
+    },
+    {
+      "ko": "역사",
+      "lt": "",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tts": "역사"
+    },
+    {
+      "ko": "이야기",
+      "lt": "",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tts": "이야기"
+    },
+    {
+      "ko": "시작",
+      "lt": "",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tts": "시작"
+    },
+    {
+      "ko": "끝",
+      "lt": "",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tts": "끝"
+    },
+    {
+      "ko": "일어났다",
+      "lt": "",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tts": "일어났다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "story",
+      "ko": "역사",
+      "correct": [
+        "역사"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "역사",
+      "ru": "история",
+      "pl": "historia",
+      "zh": "故事",
+      "lt": "istorija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "narrative",
+      "ko": "이야기",
+      "correct": [
+        "이야기"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이야기",
+      "ru": "повествование",
+      "pl": "narracja",
+      "zh": "叙述",
+      "lt": "pasakojimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "beginning",
+      "ko": "시작",
+      "correct": [
+        "시작"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "시작",
+      "ru": "начало",
+      "pl": "początek",
+      "zh": "开始",
+      "lt": "pradžia"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ending",
+      "ko": "끝",
+      "correct": [
+        "끝"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "끝",
+      "ru": "конец",
+      "pl": "zakończenie",
+      "zh": "结束",
+      "lt": "pabaiga"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happened",
+      "ko": "일어났다",
+      "correct": [
+        "일어났다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "일어났다",
+      "ru": "случилось",
+      "pl": "wydarzyło się",
+      "zh": "发生",
+      "lt": "įvyko"
+    }
+  ]
+}

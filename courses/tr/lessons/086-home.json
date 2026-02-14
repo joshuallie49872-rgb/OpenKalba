@@ -1,0 +1,296 @@
+{
+  "id": "086-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "lt": "namai",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "Ev",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tr": "Ev"
+    },
+    {
+      "lt": "butas",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "Daire",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tr": "Daire"
+    },
+    {
+      "lt": "virtuvė",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "Mutfak",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tr": "Mutfak"
+    },
+    {
+      "lt": "vonios kambarys",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "Banyo",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tr": "Banyo"
+    },
+    {
+      "lt": "švara",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "Temizlik",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tr": "Temizlik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ev",
+      "type": "translate",
+      "correct": [
+        "Ev"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "tr": "Ev"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Daire",
+      "type": "translate",
+      "correct": [
+        "Daire"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "tr": "Daire"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Mutfak",
+      "type": "translate",
+      "correct": [
+        "Mutfak"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "tr": "Mutfak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Banyo",
+      "type": "translate",
+      "correct": [
+        "Banyo"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "tr": "Banyo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Temizlik",
+      "type": "translate",
+      "correct": [
+        "Temizlik"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "tr": "Temizlik"
+    },
+    {
+      "lt": "namai",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "Ev",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "tr": "Ev"
+    },
+    {
+      "lt": "butas",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "Daire",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "tr": "Daire"
+    },
+    {
+      "lt": "virtuvė",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "Mutfak",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "tr": "Mutfak"
+    },
+    {
+      "lt": "vonios kambarys",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "Banyo",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "tr": "Banyo"
+    },
+    {
+      "lt": "švara",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "Temizlik",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "tr": "Temizlik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ev",
+      "type": "translate",
+      "correct": [
+        "Ev"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "tr": "Ev"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Daire",
+      "type": "translate",
+      "correct": [
+        "Daire"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "tr": "Daire"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Mutfak",
+      "type": "translate",
+      "correct": [
+        "Mutfak"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "tr": "Mutfak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Banyo",
+      "type": "translate",
+      "correct": [
+        "Banyo"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "tr": "Banyo"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Temizlik",
+      "type": "translate",
+      "correct": [
+        "Temizlik"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "tr": "Temizlik"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "009-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "làm ơn",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "vi": "làm ơn"
+    },
+    {
+      "lt": "meniu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "thực đơn",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "vi": "thực đơn"
+    },
+    {
+      "lt": "sąskaita",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "hóa đơn",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "vi": "hóa đơn"
+    },
+    {
+      "lt": "stalas",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "bàn",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "vi": "bàn"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "cà phê",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "vi": "cà phê"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thực đơn",
+      "type": "translate",
+      "correct": [
+        "thực đơn"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "vi": "thực đơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hóa đơn",
+      "type": "translate",
+      "correct": [
+        "hóa đơn"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "vi": "hóa đơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bàn",
+      "type": "translate",
+      "correct": [
+        "bàn"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "vi": "bàn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cà phê",
+      "type": "translate",
+      "correct": [
+        "cà phê"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "vi": "cà phê"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "làm ơn",
+      "type": "translate",
+      "correct": [
+        "làm ơn"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "vi": "làm ơn"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "làm ơn",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "vi": "làm ơn"
+    },
+    {
+      "lt": "meniu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "thực đơn",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "vi": "thực đơn"
+    },
+    {
+      "lt": "sąskaita",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "hóa đơn",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "vi": "hóa đơn"
+    },
+    {
+      "lt": "stalas",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "bàn",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "vi": "bàn"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "cà phê",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "vi": "cà phê"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thực đơn",
+      "type": "translate",
+      "correct": [
+        "thực đơn"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "vi": "thực đơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hóa đơn",
+      "type": "translate",
+      "correct": [
+        "hóa đơn"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "vi": "hóa đơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bàn",
+      "type": "translate",
+      "correct": [
+        "bàn"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "vi": "bàn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cà phê",
+      "type": "translate",
+      "correct": [
+        "cà phê"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "vi": "cà phê"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "làm ơn",
+      "type": "translate",
+      "correct": [
+        "làm ơn"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "vi": "làm ơn"
+    }
+  ]
+}

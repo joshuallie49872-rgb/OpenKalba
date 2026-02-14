@@ -1,0 +1,316 @@
+{
+  "id": "016-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "ko": "저는 일합니다",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "저는 일합니다"
+    },
+    {
+      "ko": "저는 자고 있어요.",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "저는 자고 있어요."
+    },
+    {
+      "ko": "나는 먹고 있다",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "나는 먹고 있다"
+    },
+    {
+      "ko": "저는 갑니다.",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "저는 갑니다."
+    },
+    {
+      "ko": "저는 일어나고 있어요.",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "저는 일어나고 있어요."
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "ko": "저는 일합니다",
+      "correct": [
+        "저는 일합니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 일합니다",
+      "ru": "Я работаю",
+      "pl": "Pracuję",
+      "zh": "我的工作",
+      "lt": "Aš dirbu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "ko": "저는 자고 있어요.",
+      "correct": [
+        "저는 자고 있어요."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 자고 있어요.",
+      "ru": "Я сплю",
+      "pl": "Śpię",
+      "zh": "我睡着了",
+      "lt": "Aš miegu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "ko": "나는 먹고 있다",
+      "correct": [
+        "나는 먹고 있다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 먹고 있다",
+      "ru": "Я ем",
+      "pl": "Jem",
+      "zh": "我吃",
+      "lt": "Aš valgau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "ko": "저는 갑니다.",
+      "correct": [
+        "저는 갑니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 갑니다.",
+      "ru": "Я иду",
+      "pl": "Idę",
+      "zh": "我去",
+      "lt": "Aš einu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "ko": "저는 일어나고 있어요.",
+      "correct": [
+        "저는 일어나고 있어요."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 일어나고 있어요.",
+      "ru": "Я просыпаюсь",
+      "pl": "Budzę się",
+      "zh": "我醒来",
+      "lt": "Aš pabundu"
+    },
+    {
+      "ko": "저는 일합니다",
+      "lt": "",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "tts": "저는 일합니다"
+    },
+    {
+      "ko": "저는 자고 있어요.",
+      "lt": "",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "tts": "저는 자고 있어요."
+    },
+    {
+      "ko": "나는 먹고 있다",
+      "lt": "",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tts": "나는 먹고 있다"
+    },
+    {
+      "ko": "저는 갑니다.",
+      "lt": "",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "tts": "저는 갑니다."
+    },
+    {
+      "ko": "저는 일어나고 있어요.",
+      "lt": "",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "tts": "저는 일어나고 있어요."
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I work",
+      "ko": "저는 일합니다",
+      "correct": [
+        "저는 일합니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 일합니다",
+      "ru": "Я работаю",
+      "pl": "Pracuję",
+      "zh": "我的工作",
+      "lt": "Aš dirbu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I sleep",
+      "ko": "저는 자고 있어요.",
+      "correct": [
+        "저는 자고 있어요."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 자고 있어요.",
+      "ru": "Я сплю",
+      "pl": "Śpię",
+      "zh": "我睡着了",
+      "lt": "Aš miegu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I eat",
+      "ko": "나는 먹고 있다",
+      "correct": [
+        "나는 먹고 있다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 먹고 있다",
+      "ru": "Я ем",
+      "pl": "Jem",
+      "zh": "我吃",
+      "lt": "Aš valgau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I go",
+      "ko": "저는 갑니다.",
+      "correct": [
+        "저는 갑니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 갑니다.",
+      "ru": "Я иду",
+      "pl": "Idę",
+      "zh": "我去",
+      "lt": "Aš einu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I wake up",
+      "ko": "저는 일어나고 있어요.",
+      "correct": [
+        "저는 일어나고 있어요."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저는 일어나고 있어요.",
+      "ru": "Я просыпаюсь",
+      "pl": "Budzę się",
+      "zh": "我醒来",
+      "lt": "Aš pabundu"
+    }
+  ]
+}

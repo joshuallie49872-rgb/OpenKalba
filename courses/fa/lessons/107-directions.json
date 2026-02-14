@@ -1,0 +1,296 @@
+{
+  "id": "107-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "سمت چپ",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "fa": "سمت چپ"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "درست است",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "fa": "درست است"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "مستقیما",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "fa": "مستقیما"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "برگشت",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "fa": "برگشت"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "بستن",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "fa": "بستن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سمت چپ",
+      "type": "translate",
+      "correct": [
+        "سمت چپ"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "fa": "سمت چپ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "درست است",
+      "type": "translate",
+      "correct": [
+        "درست است"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "fa": "درست است"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مستقیما",
+      "type": "translate",
+      "correct": [
+        "مستقیما"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "fa": "مستقیما"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برگشت",
+      "type": "translate",
+      "correct": [
+        "برگشت"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "fa": "برگشت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بستن",
+      "type": "translate",
+      "correct": [
+        "بستن"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "fa": "بستن"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "سمت چپ",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "fa": "سمت چپ"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "درست است",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "fa": "درست است"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "مستقیما",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "fa": "مستقیما"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "برگشت",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "fa": "برگشت"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "بستن",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "fa": "بستن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سمت چپ",
+      "type": "translate",
+      "correct": [
+        "سمت چپ"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "fa": "سمت چپ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "درست است",
+      "type": "translate",
+      "correct": [
+        "درست است"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "fa": "درست است"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مستقیما",
+      "type": "translate",
+      "correct": [
+        "مستقیما"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "fa": "مستقیما"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برگشت",
+      "type": "translate",
+      "correct": [
+        "برگشت"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "fa": "برگشت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بستن",
+      "type": "translate",
+      "correct": [
+        "بستن"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "fa": "بستن"
+    }
+  ]
+}

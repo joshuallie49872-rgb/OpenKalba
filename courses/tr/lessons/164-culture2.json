@@ -1,0 +1,296 @@
+{
+  "id": "164-culture2",
+  "title": "Culture, Media & Society",
+  "questions": [
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "Medya",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "tr": "Medya"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "Toplum",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "tr": "Toplum"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "Görüşler",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "tr": "Görüşler"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "Tartışma",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "tr": "Tartışma"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "Kültür",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "tr": "Kültür"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Medya",
+      "type": "translate",
+      "correct": [
+        "Medya"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "tr": "Medya"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Toplum",
+      "type": "translate",
+      "correct": [
+        "Toplum"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "tr": "Toplum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Görüşler",
+      "type": "translate",
+      "correct": [
+        "Görüşler"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "tr": "Görüşler"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tartışma",
+      "type": "translate",
+      "correct": [
+        "Tartışma"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "tr": "Tartışma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kültür",
+      "type": "translate",
+      "correct": [
+        "Kültür"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "tr": "Kültür"
+    },
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "Medya",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "tr": "Medya"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "Toplum",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "tr": "Toplum"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "Görüşler",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "tr": "Görüşler"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "Tartışma",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "tr": "Tartışma"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "Kültür",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "tr": "Kültür"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Medya",
+      "type": "translate",
+      "correct": [
+        "Medya"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "tr": "Medya"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Toplum",
+      "type": "translate",
+      "correct": [
+        "Toplum"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "tr": "Toplum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Görüşler",
+      "type": "translate",
+      "correct": [
+        "Görüşler"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "tr": "Görüşler"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tartışma",
+      "type": "translate",
+      "correct": [
+        "Tartışma"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "tr": "Tartışma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kültür",
+      "type": "translate",
+      "correct": [
+        "Kültür"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "tr": "Kültür"
+    }
+  ]
+}

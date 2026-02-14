@@ -1,0 +1,296 @@
+{
+  "id": "200-culture2",
+  "title": "Culture, Media & Society",
+  "questions": [
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "truyền thông",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "vi": "truyền thông"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "xã hội",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "vi": "xã hội"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "ý kiến",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "vi": "ý kiến"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "thảo luận",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "vi": "thảo luận"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "văn hóa",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "vi": "văn hóa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "truyền thông",
+      "type": "translate",
+      "correct": [
+        "truyền thông"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "vi": "truyền thông"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "xã hội",
+      "type": "translate",
+      "correct": [
+        "xã hội"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "vi": "xã hội"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ý kiến",
+      "type": "translate",
+      "correct": [
+        "ý kiến"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "vi": "ý kiến"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thảo luận",
+      "type": "translate",
+      "correct": [
+        "thảo luận"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "vi": "thảo luận"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "văn hóa",
+      "type": "translate",
+      "correct": [
+        "văn hóa"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "vi": "văn hóa"
+    },
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "truyền thông",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "vi": "truyền thông"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "xã hội",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "vi": "xã hội"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "ý kiến",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "vi": "ý kiến"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "thảo luận",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "vi": "thảo luận"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "văn hóa",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "vi": "văn hóa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "truyền thông",
+      "type": "translate",
+      "correct": [
+        "truyền thông"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "vi": "truyền thông"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "xã hội",
+      "type": "translate",
+      "correct": [
+        "xã hội"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "vi": "xã hội"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ý kiến",
+      "type": "translate",
+      "correct": [
+        "ý kiến"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "vi": "ý kiến"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thảo luận",
+      "type": "translate",
+      "correct": [
+        "thảo luận"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "vi": "thảo luận"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "văn hóa",
+      "type": "translate",
+      "correct": [
+        "văn hóa"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "vi": "văn hóa"
+    }
+  ]
+}

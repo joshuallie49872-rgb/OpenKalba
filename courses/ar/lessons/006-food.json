@@ -1,0 +1,296 @@
+{
+  "id": "006-food",
+  "title": "Food & Drinks",
+  "questions": [
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "wine",
+        "coffee",
+        "beer"
+      ],
+      "tts": "ماء",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ar": "ماء"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "milk"
+      ],
+      "tts": "قهوة",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ar": "قهوة"
+    },
+    {
+      "lt": "arbata",
+      "choices": [
+        "tea",
+        "coffee",
+        "juice",
+        "water"
+      ],
+      "tts": "شاي",
+      "correct": [
+        "tea"
+      ],
+      "type": "choose",
+      "ar": "شاي"
+    },
+    {
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "juice",
+        "milk"
+      ],
+      "tts": "بيرة",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "ar": "بيرة"
+    },
+    {
+      "lt": "vynas",
+      "choices": [
+        "wine",
+        "beer",
+        "water",
+        "tea"
+      ],
+      "tts": "نبيذ",
+      "correct": [
+        "wine"
+      ],
+      "type": "choose",
+      "ar": "نبيذ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ماء",
+      "type": "translate",
+      "correct": [
+        "ماء"
+      ],
+      "en": "water",
+      "placeholder": "Type Lithuanian…",
+      "zh": "水",
+      "ar": "ماء"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قهوة",
+      "type": "translate",
+      "correct": [
+        "قهوة"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "ar": "قهوة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "شاي",
+      "type": "translate",
+      "correct": [
+        "شاي"
+      ],
+      "en": "tea",
+      "placeholder": "Type Lithuanian…",
+      "zh": "茶",
+      "ar": "شاي"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بيرة",
+      "type": "translate",
+      "correct": [
+        "بيرة"
+      ],
+      "en": "beer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "啤酒",
+      "ar": "بيرة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نبيذ",
+      "type": "translate",
+      "correct": [
+        "نبيذ"
+      ],
+      "en": "wine",
+      "placeholder": "Type Lithuanian…",
+      "zh": "葡萄酒",
+      "ar": "نبيذ"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "cheese",
+        "fish"
+      ],
+      "tts": "خبز",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ar": "خبز"
+    },
+    {
+      "lt": "sūris",
+      "choices": [
+        "cheese",
+        "meat",
+        "fish",
+        "bread"
+      ],
+      "tts": "جبن",
+      "correct": [
+        "cheese"
+      ],
+      "type": "choose",
+      "ar": "جبن"
+    },
+    {
+      "lt": "mėsa",
+      "choices": [
+        "meat",
+        "fish",
+        "cheese",
+        "bread"
+      ],
+      "tts": "لحم",
+      "correct": [
+        "meat"
+      ],
+      "type": "choose",
+      "ar": "لحم"
+    },
+    {
+      "lt": "žuvis",
+      "choices": [
+        "fish",
+        "meat",
+        "cheese",
+        "bread"
+      ],
+      "tts": "سمك",
+      "correct": [
+        "fish"
+      ],
+      "type": "choose",
+      "ar": "سمك"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خبز",
+      "type": "translate",
+      "correct": [
+        "خبز"
+      ],
+      "en": "bread",
+      "placeholder": "Type Lithuanian…",
+      "zh": "面包",
+      "ar": "خبز"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "جبن",
+      "type": "translate",
+      "correct": [
+        "جبن"
+      ],
+      "en": "cheese",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheese",
+      "ar": "جبن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لحم",
+      "type": "translate",
+      "correct": [
+        "لحم"
+      ],
+      "en": "meat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meat",
+      "ar": "لحم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سمك",
+      "type": "translate",
+      "correct": [
+        "سمك"
+      ],
+      "en": "fish",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fish",
+      "ar": "سمك"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "hot",
+        "cold"
+      ],
+      "tts": "لذيذ",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "ar": "لذيذ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لذيذ",
+      "type": "translate",
+      "correct": [
+        "لذيذ"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "ar": "لذيذ"
+    }
+  ]
+}

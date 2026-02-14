@@ -1,0 +1,296 @@
+{
+  "id": "056-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ms": "saya suka"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "saya tidak suka",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ms": "saya tidak suka"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ms": "saya suka"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "saya tidak mahu",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ms": "saya tidak mahu"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "penting",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ms": "penting"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ms": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak suka",
+      "type": "translate",
+      "correct": [
+        "saya tidak suka"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ms": "saya tidak suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ms": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak mahu",
+      "type": "translate",
+      "correct": [
+        "saya tidak mahu"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ms": "saya tidak mahu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penting",
+      "type": "translate",
+      "correct": [
+        "penting"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ms": "penting"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ms": "saya suka"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "saya tidak suka",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ms": "saya tidak suka"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ms": "saya suka"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "saya tidak mahu",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ms": "saya tidak mahu"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "penting",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ms": "penting"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ms": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak suka",
+      "type": "translate",
+      "correct": [
+        "saya tidak suka"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ms": "saya tidak suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ms": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak mahu",
+      "type": "translate",
+      "correct": [
+        "saya tidak mahu"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ms": "saya tidak mahu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penting",
+      "type": "translate",
+      "correct": [
+        "penting"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ms": "penting"
+    }
+  ]
+}

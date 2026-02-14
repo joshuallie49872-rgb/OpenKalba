@@ -1,0 +1,316 @@
+{
+  "id": "172-culture2",
+  "title": "Culture, Media & Society",
+  "questions": [
+    {
+      "ko": "메디아",
+      "lt": "",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "tts": "메디아"
+    },
+    {
+      "ko": "사회",
+      "lt": "",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "tts": "사회"
+    },
+    {
+      "ko": "의견",
+      "lt": "",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "tts": "의견"
+    },
+    {
+      "ko": "논의",
+      "lt": "",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "tts": "논의"
+    },
+    {
+      "ko": "문화",
+      "lt": "",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "tts": "문화"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "media",
+      "ko": "메디아",
+      "correct": [
+        "메디아"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "메디아",
+      "ru": "СМИ",
+      "pl": "głoska bezdźwięczna",
+      "zh": "媒体",
+      "lt": "žiniasklaida"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "society",
+      "ko": "사회",
+      "correct": [
+        "사회"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "사회",
+      "ru": "общество",
+      "pl": "społeczeństwo",
+      "zh": "社会",
+      "lt": "visuomenė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinions",
+      "ko": "의견",
+      "correct": [
+        "의견"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "의견",
+      "ru": "мнения",
+      "pl": "opinie",
+      "zh": "意见",
+      "lt": "nuomonės"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discussion",
+      "ko": "논의",
+      "correct": [
+        "논의"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "논의",
+      "ru": "обсуждение",
+      "pl": "dyskusja",
+      "zh": "讨论",
+      "lt": "diskusija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "culture",
+      "ko": "문화",
+      "correct": [
+        "문화"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "문화",
+      "ru": "культура",
+      "pl": "kultura",
+      "zh": "文化",
+      "lt": "kultūra"
+    },
+    {
+      "ko": "메디아",
+      "lt": "",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "tts": "메디아"
+    },
+    {
+      "ko": "사회",
+      "lt": "",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "tts": "사회"
+    },
+    {
+      "ko": "의견",
+      "lt": "",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "tts": "의견"
+    },
+    {
+      "ko": "논의",
+      "lt": "",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "tts": "논의"
+    },
+    {
+      "ko": "문화",
+      "lt": "",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "tts": "문화"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "media",
+      "ko": "메디아",
+      "correct": [
+        "메디아"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "메디아",
+      "ru": "СМИ",
+      "pl": "głoska bezdźwięczna",
+      "zh": "媒体",
+      "lt": "žiniasklaida"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "society",
+      "ko": "사회",
+      "correct": [
+        "사회"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "사회",
+      "ru": "общество",
+      "pl": "społeczeństwo",
+      "zh": "社会",
+      "lt": "visuomenė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "opinions",
+      "ko": "의견",
+      "correct": [
+        "의견"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "의견",
+      "ru": "мнения",
+      "pl": "opinie",
+      "zh": "意见",
+      "lt": "nuomonės"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "discussion",
+      "ko": "논의",
+      "correct": [
+        "논의"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "논의",
+      "ru": "обсуждение",
+      "pl": "dyskusja",
+      "zh": "讨论",
+      "lt": "diskusija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "culture",
+      "ko": "문화",
+      "correct": [
+        "문화"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "문화",
+      "ru": "культура",
+      "pl": "kultura",
+      "zh": "文化",
+      "lt": "kultūra"
+    }
+  ]
+}

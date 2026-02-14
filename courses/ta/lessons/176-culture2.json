@@ -1,0 +1,296 @@
+{
+  "id": "176-culture2",
+  "title": "Culture, Media & Society",
+  "questions": [
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "ஊடகம்",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "ta": "ஊடகம்"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "சமூகம்",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "ta": "சமூகம்"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "கருத்துக்கள்",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "ta": "கருத்துக்கள்"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "விவாதம்",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "ta": "விவாதம்"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "கலாச்சாரம்",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "ta": "கலாச்சாரம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ஊடகம்",
+      "type": "translate",
+      "correct": [
+        "ஊடகம்"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "ta": "ஊடகம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சமூகம்",
+      "type": "translate",
+      "correct": [
+        "சமூகம்"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "ta": "சமூகம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கருத்துக்கள்",
+      "type": "translate",
+      "correct": [
+        "கருத்துக்கள்"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "ta": "கருத்துக்கள்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "விவாதம்",
+      "type": "translate",
+      "correct": [
+        "விவாதம்"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "ta": "விவாதம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கலாச்சாரம்",
+      "type": "translate",
+      "correct": [
+        "கலாச்சாரம்"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "ta": "கலாச்சாரம்"
+    },
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "ஊடகம்",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "ta": "ஊடகம்"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "சமூகம்",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "ta": "சமூகம்"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "கருத்துக்கள்",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "ta": "கருத்துக்கள்"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "விவாதம்",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "ta": "விவாதம்"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "கலாச்சாரம்",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "ta": "கலாச்சாரம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ஊடகம்",
+      "type": "translate",
+      "correct": [
+        "ஊடகம்"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "ta": "ஊடகம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சமூகம்",
+      "type": "translate",
+      "correct": [
+        "சமூகம்"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "ta": "சமூகம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கருத்துக்கள்",
+      "type": "translate",
+      "correct": [
+        "கருத்துக்கள்"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "ta": "கருத்துக்கள்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "விவாதம்",
+      "type": "translate",
+      "correct": [
+        "விவாதம்"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "ta": "விவாதம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கலாச்சாரம்",
+      "type": "translate",
+      "correct": [
+        "கலாச்சாரம்"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "ta": "கலாச்சாரம்"
+    }
+  ]
+}

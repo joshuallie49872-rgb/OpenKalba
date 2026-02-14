@@ -1,0 +1,296 @@
+{
+  "id": "115-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "左",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ja": "左"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "右",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ja": "右"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "まっすぐ",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ja": "まっすぐ"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "戻る",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "ja": "戻る"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "近い",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "ja": "近い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "左",
+      "type": "translate",
+      "correct": [
+        "左"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "ja": "左"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "右",
+      "type": "translate",
+      "correct": [
+        "右"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "ja": "右"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "まっすぐ",
+      "type": "translate",
+      "correct": [
+        "まっすぐ"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "ja": "まっすぐ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "戻る",
+      "type": "translate",
+      "correct": [
+        "戻る"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "ja": "戻る"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "近い",
+      "type": "translate",
+      "correct": [
+        "近い"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "ja": "近い"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "左",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ja": "左"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "右",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ja": "右"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "まっすぐ",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ja": "まっすぐ"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "戻る",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "ja": "戻る"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "近い",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "ja": "近い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "左",
+      "type": "translate",
+      "correct": [
+        "左"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "ja": "左"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "右",
+      "type": "translate",
+      "correct": [
+        "右"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "ja": "右"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "まっすぐ",
+      "type": "translate",
+      "correct": [
+        "まっすぐ"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "ja": "まっすぐ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "戻る",
+      "type": "translate",
+      "correct": [
+        "戻る"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "ja": "戻る"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "近い",
+      "type": "translate",
+      "correct": [
+        "近い"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "ja": "近い"
+    }
+  ]
+}

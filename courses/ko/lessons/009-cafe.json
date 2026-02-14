@@ -1,0 +1,316 @@
+{
+  "id": "009-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "ko": "제발",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "제발"
+    },
+    {
+      "ko": "메뉴",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "메뉴"
+    },
+    {
+      "ko": "계정",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "계정"
+    },
+    {
+      "ko": "테이블",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "테이블"
+    },
+    {
+      "ko": "커피",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "커피"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "menu",
+      "ko": "메뉴",
+      "correct": [
+        "메뉴"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "메뉴",
+      "ru": "меню",
+      "pl": "menu",
+      "zh": "菜单",
+      "lt": "meniu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bill",
+      "ko": "계정",
+      "correct": [
+        "계정"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "계정",
+      "ru": "счет",
+      "pl": "rachunek",
+      "zh": "账单",
+      "lt": "sąskaita"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "table",
+      "ko": "테이블",
+      "correct": [
+        "테이블"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "테이블",
+      "ru": "стол",
+      "pl": "tabela",
+      "zh": "桌子",
+      "lt": "stalas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "ko": "커피",
+      "correct": [
+        "커피"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "커피",
+      "ru": "кофе",
+      "pl": "kawa",
+      "zh": "咖啡",
+      "lt": "kava"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "ko": "제발",
+      "correct": [
+        "제발"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "제발",
+      "ru": "пожалуйста",
+      "pl": "Proszę",
+      "zh": "请",
+      "lt": "prašau"
+    },
+    {
+      "ko": "제발",
+      "lt": "",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "제발"
+    },
+    {
+      "ko": "메뉴",
+      "lt": "",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "tts": "메뉴"
+    },
+    {
+      "ko": "계정",
+      "lt": "",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "tts": "계정"
+    },
+    {
+      "ko": "테이블",
+      "lt": "",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "tts": "테이블"
+    },
+    {
+      "ko": "커피",
+      "lt": "",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tts": "커피"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "menu",
+      "ko": "메뉴",
+      "correct": [
+        "메뉴"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "메뉴",
+      "ru": "меню",
+      "pl": "menu",
+      "zh": "菜单",
+      "lt": "meniu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bill",
+      "ko": "계정",
+      "correct": [
+        "계정"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "계정",
+      "ru": "счет",
+      "pl": "rachunek",
+      "zh": "账单",
+      "lt": "sąskaita"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "table",
+      "ko": "테이블",
+      "correct": [
+        "테이블"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "테이블",
+      "ru": "стол",
+      "pl": "tabela",
+      "zh": "桌子",
+      "lt": "stalas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "coffee",
+      "ko": "커피",
+      "correct": [
+        "커피"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "커피",
+      "ru": "кофе",
+      "pl": "kawa",
+      "zh": "咖啡",
+      "lt": "kava"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "ko": "제발",
+      "correct": [
+        "제발"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "제발",
+      "ru": "пожалуйста",
+      "pl": "Proszę",
+      "zh": "请",
+      "lt": "prašau"
+    }
+  ]
+}

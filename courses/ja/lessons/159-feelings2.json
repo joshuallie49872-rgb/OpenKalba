@@ -1,0 +1,296 @@
+{
+  "id": "159-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "驚いた",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "ja": "驚いた"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "怒っています",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "ja": "怒っています"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "落ち着いた",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "ja": "落ち着いた"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "心配している",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "ja": "心配している"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "満足",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "ja": "満足"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "驚いた",
+      "type": "translate",
+      "correct": [
+        "驚いた"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "ja": "驚いた"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "怒っています",
+      "type": "translate",
+      "correct": [
+        "怒っています"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "ja": "怒っています"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "落ち着いた",
+      "type": "translate",
+      "correct": [
+        "落ち着いた"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "ja": "落ち着いた"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "心配している",
+      "type": "translate",
+      "correct": [
+        "心配している"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "ja": "心配している"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "満足",
+      "type": "translate",
+      "correct": [
+        "満足"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "ja": "満足"
+    },
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "驚いた",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "ja": "驚いた"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "怒っています",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "ja": "怒っています"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "落ち着いた",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "ja": "落ち着いた"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "心配している",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "ja": "心配している"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "満足",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "ja": "満足"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "驚いた",
+      "type": "translate",
+      "correct": [
+        "驚いた"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "ja": "驚いた"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "怒っています",
+      "type": "translate",
+      "correct": [
+        "怒っています"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "ja": "怒っています"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "落ち着いた",
+      "type": "translate",
+      "correct": [
+        "落ち着いた"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "ja": "落ち着いた"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "心配している",
+      "type": "translate",
+      "correct": [
+        "心配している"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "ja": "心配している"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "満足",
+      "type": "translate",
+      "correct": [
+        "満足"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "ja": "満足"
+    }
+  ]
+}

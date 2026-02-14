@@ -1,0 +1,296 @@
+{
+  "id": "070-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "hạnh phúc",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "vi": "hạnh phúc"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "buồn",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "vi": "buồn"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "mệt",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "vi": "mệt"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "tôi vui",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "vi": "tôi vui"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "tôi sợ",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "vi": "tôi sợ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hạnh phúc",
+      "type": "translate",
+      "correct": [
+        "hạnh phúc"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "vi": "hạnh phúc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "buồn",
+      "type": "translate",
+      "correct": [
+        "buồn"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "vi": "buồn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mệt",
+      "type": "translate",
+      "correct": [
+        "mệt"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "vi": "mệt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi vui",
+      "type": "translate",
+      "correct": [
+        "tôi vui"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "vi": "tôi vui"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi sợ",
+      "type": "translate",
+      "correct": [
+        "tôi sợ"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "vi": "tôi sợ"
+    },
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "hạnh phúc",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "vi": "hạnh phúc"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "buồn",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "vi": "buồn"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "mệt",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "vi": "mệt"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "tôi vui",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "vi": "tôi vui"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "tôi sợ",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "vi": "tôi sợ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hạnh phúc",
+      "type": "translate",
+      "correct": [
+        "hạnh phúc"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "vi": "hạnh phúc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "buồn",
+      "type": "translate",
+      "correct": [
+        "buồn"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "vi": "buồn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mệt",
+      "type": "translate",
+      "correct": [
+        "mệt"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "vi": "mệt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi vui",
+      "type": "translate",
+      "correct": [
+        "tôi vui"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "vi": "tôi vui"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi sợ",
+      "type": "translate",
+      "correct": [
+        "tôi sợ"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "vi": "tôi sợ"
+    }
+  ]
+}

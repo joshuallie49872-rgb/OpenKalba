@@ -1,0 +1,316 @@
+{
+  "id": "097-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "ko": "일하다",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "일하다"
+    },
+    {
+      "ko": "사무실",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "사무실"
+    },
+    {
+      "ko": "회의",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "회의"
+    },
+    {
+      "ko": "이메일",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "이메일"
+    },
+    {
+      "ko": "프로젝트",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "프로젝트"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "ko": "일하다",
+      "correct": [
+        "일하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "일하다",
+      "ru": "работа",
+      "pl": "praca",
+      "zh": "工作",
+      "lt": "darbas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "ko": "사무실",
+      "correct": [
+        "사무실"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "사무실",
+      "ru": "офис",
+      "pl": "biuro",
+      "zh": "办公室",
+      "lt": "biuras"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "ko": "회의",
+      "correct": [
+        "회의"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "회의",
+      "ru": "встреча",
+      "pl": "spotkanie",
+      "zh": "会议",
+      "lt": "susitikimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "ko": "이메일",
+      "correct": [
+        "이메일"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이메일",
+      "ru": "электронная почта",
+      "pl": "e-mail",
+      "zh": "电子邮件",
+      "lt": "el. paštas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "ko": "프로젝트",
+      "correct": [
+        "프로젝트"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "프로젝트",
+      "ru": "проект",
+      "pl": "projekt",
+      "zh": "项目",
+      "lt": "projektas"
+    },
+    {
+      "ko": "일하다",
+      "lt": "",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "tts": "일하다"
+    },
+    {
+      "ko": "사무실",
+      "lt": "",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "tts": "사무실"
+    },
+    {
+      "ko": "회의",
+      "lt": "",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "tts": "회의"
+    },
+    {
+      "ko": "이메일",
+      "lt": "",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "tts": "이메일"
+    },
+    {
+      "ko": "프로젝트",
+      "lt": "",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "tts": "프로젝트"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "work",
+      "ko": "일하다",
+      "correct": [
+        "일하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "일하다",
+      "ru": "работа",
+      "pl": "praca",
+      "zh": "工作",
+      "lt": "darbas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "office",
+      "ko": "사무실",
+      "correct": [
+        "사무실"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "사무실",
+      "ru": "офис",
+      "pl": "biuro",
+      "zh": "办公室",
+      "lt": "biuras"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "meeting",
+      "ko": "회의",
+      "correct": [
+        "회의"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "회의",
+      "ru": "встреча",
+      "pl": "spotkanie",
+      "zh": "会议",
+      "lt": "susitikimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "email",
+      "ko": "이메일",
+      "correct": [
+        "이메일"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이메일",
+      "ru": "электронная почта",
+      "pl": "e-mail",
+      "zh": "电子邮件",
+      "lt": "el. paštas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "project",
+      "ko": "프로젝트",
+      "correct": [
+        "프로젝트"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "프로젝트",
+      "ru": "проект",
+      "pl": "projekt",
+      "zh": "项目",
+      "lt": "projektas"
+    }
+  ]
+}

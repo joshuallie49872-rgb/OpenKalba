@@ -1,0 +1,299 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "lt": "noriu",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "saya mahu",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "ms": "saya mahu"
+    },
+    {
+      "lt": "turiu",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "saya ada",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "ms": "saya ada"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "saya makan",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ms": "saya makan"
+    },
+    {
+      "lt": "geriu",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "saya minum",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "ms": "saya minum"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "air",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ms": "air"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "kopi",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ms": "kopi"
+    },
+    {
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "bir",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "ms": "bir"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "roti",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ms": "roti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya mahu air",
+      "correct": [
+        "saya mahu air"
+      ],
+      "en": "I want water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要水",
+      "ms": "saya mahu air"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya mahu kopi",
+      "correct": [
+        "saya mahu kopi"
+      ],
+      "en": "I want coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要咖啡",
+      "ms": "saya mahu kopi"
+    },
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "di sini",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ms": "di sini"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "di sana",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ms": "di sana"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "inilah air",
+      "correct": [
+        "inilah air"
+      ],
+      "en": "here water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里水",
+      "ms": "inilah air"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ada kopi",
+      "correct": [
+        "ada kopi"
+      ],
+      "en": "there coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里咖啡",
+      "ms": "ada kopi"
+    },
+    {
+      "lt": "prašau vandens",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "sila beri air",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "ms": "sila beri air"
+    },
+    {
+      "lt": "noriu alaus",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "saya mahu bir",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "ms": "saya mahu bir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya minum air",
+      "correct": [
+        "saya minum air"
+      ],
+      "en": "I drink vandenį",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我drinkvandenį",
+      "ms": "saya minum air"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya makan roti",
+      "correct": [
+        "saya makan roti"
+      ],
+      "en": "I eat bread",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat面包",
+      "ms": "saya makan roti"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "baik",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "ms": "baik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "baik",
+      "correct": [
+        "baik"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "ms": "baik"
+    }
+  ]
+}

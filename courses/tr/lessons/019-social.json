@@ -1,0 +1,296 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Üzgünüm",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tr": "Üzgünüm"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Lütfen",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tr": "Lütfen"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Teşekkürler",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tr": "Teşekkürler"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "Memnun oldum",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tr": "Memnun oldum"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "İyi",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tr": "İyi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Üzgünüm",
+      "type": "translate",
+      "correct": [
+        "Üzgünüm"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "tr": "Üzgünüm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Lütfen",
+      "type": "translate",
+      "correct": [
+        "Lütfen"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "tr": "Lütfen"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Teşekkürler",
+      "type": "translate",
+      "correct": [
+        "Teşekkürler"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "tr": "Teşekkürler"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Memnun oldum",
+      "type": "translate",
+      "correct": [
+        "Memnun oldum"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "tr": "Memnun oldum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İyi",
+      "type": "translate",
+      "correct": [
+        "İyi"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "tr": "İyi"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "Üzgünüm",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tr": "Üzgünüm"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "Lütfen",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tr": "Lütfen"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "Teşekkürler",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tr": "Teşekkürler"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "Memnun oldum",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tr": "Memnun oldum"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "İyi",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tr": "İyi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Üzgünüm",
+      "type": "translate",
+      "correct": [
+        "Üzgünüm"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "tr": "Üzgünüm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Lütfen",
+      "type": "translate",
+      "correct": [
+        "Lütfen"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "tr": "Lütfen"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Teşekkürler",
+      "type": "translate",
+      "correct": [
+        "Teşekkürler"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "tr": "Teşekkürler"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Memnun oldum",
+      "type": "translate",
+      "correct": [
+        "Memnun oldum"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "tr": "Memnun oldum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İyi",
+      "type": "translate",
+      "correct": [
+        "İyi"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "tr": "İyi"
+    }
+  ]
+}

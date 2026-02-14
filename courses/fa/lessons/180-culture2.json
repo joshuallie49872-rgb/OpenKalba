@@ -1,0 +1,296 @@
+{
+  "id": "180-culture2",
+  "title": "Culture, Media & Society",
+  "questions": [
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "رسانه ها",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "fa": "رسانه ها"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "جامعه",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "fa": "جامعه"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "نظرات",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "fa": "نظرات"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "بحث",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "fa": "بحث"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "فرهنگ",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "fa": "فرهنگ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رسانه ها",
+      "type": "translate",
+      "correct": [
+        "رسانه ها"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "fa": "رسانه ها"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "جامعه",
+      "type": "translate",
+      "correct": [
+        "جامعه"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "fa": "جامعه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نظرات",
+      "type": "translate",
+      "correct": [
+        "نظرات"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "fa": "نظرات"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بحث",
+      "type": "translate",
+      "correct": [
+        "بحث"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "fa": "بحث"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "فرهنگ",
+      "type": "translate",
+      "correct": [
+        "فرهنگ"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "fa": "فرهنگ"
+    },
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "رسانه ها",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "fa": "رسانه ها"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "جامعه",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "fa": "جامعه"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "نظرات",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "fa": "نظرات"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "بحث",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "fa": "بحث"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "فرهنگ",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "fa": "فرهنگ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رسانه ها",
+      "type": "translate",
+      "correct": [
+        "رسانه ها"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "fa": "رسانه ها"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "جامعه",
+      "type": "translate",
+      "correct": [
+        "جامعه"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "fa": "جامعه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نظرات",
+      "type": "translate",
+      "correct": [
+        "نظرات"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "fa": "نظرات"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بحث",
+      "type": "translate",
+      "correct": [
+        "بحث"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "fa": "بحث"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "فرهنگ",
+      "type": "translate",
+      "correct": [
+        "فرهنگ"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "fa": "فرهنگ"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "193-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "Hikâye",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tr": "Hikâye"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "Hikâye",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tr": "Hikâye"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "Başlangıç",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tr": "Başlangıç"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "Son",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tr": "Son"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "Oldu",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tr": "Oldu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hikâye",
+      "type": "translate",
+      "correct": [
+        "Hikâye"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "tr": "Hikâye"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hikâye",
+      "type": "translate",
+      "correct": [
+        "Hikâye"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "tr": "Hikâye"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Başlangıç",
+      "type": "translate",
+      "correct": [
+        "Başlangıç"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "tr": "Başlangıç"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Son",
+      "type": "translate",
+      "correct": [
+        "Son"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "tr": "Son"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Oldu",
+      "type": "translate",
+      "correct": [
+        "Oldu"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "tr": "Oldu"
+    },
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "Hikâye",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "tr": "Hikâye"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "Hikâye",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "tr": "Hikâye"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "Başlangıç",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "tr": "Başlangıç"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "Son",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "tr": "Son"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "Oldu",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "tr": "Oldu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hikâye",
+      "type": "translate",
+      "correct": [
+        "Hikâye"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "tr": "Hikâye"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hikâye",
+      "type": "translate",
+      "correct": [
+        "Hikâye"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "tr": "Hikâye"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Başlangıç",
+      "type": "translate",
+      "correct": [
+        "Başlangıç"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "tr": "Başlangıç"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Son",
+      "type": "translate",
+      "correct": [
+        "Son"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "tr": "Son"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Oldu",
+      "type": "translate",
+      "correct": [
+        "Oldu"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "tr": "Oldu"
+    }
+  ]
+}

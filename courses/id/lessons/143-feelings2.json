@@ -1,0 +1,296 @@
+{
+  "id": "143-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "terkejut",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "id": "terkejut"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "marah",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "id": "marah"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "tenang",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "id": "tenang"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "khawatir",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "id": "khawatir"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "puas",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "id": "puas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "terkejut",
+      "type": "translate",
+      "correct": [
+        "terkejut"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "id": "terkejut"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "marah",
+      "type": "translate",
+      "correct": [
+        "marah"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "id": "marah"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tenang",
+      "type": "translate",
+      "correct": [
+        "tenang"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "id": "tenang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "khawatir",
+      "type": "translate",
+      "correct": [
+        "khawatir"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "id": "khawatir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "puas",
+      "type": "translate",
+      "correct": [
+        "puas"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "id": "puas"
+    },
+    {
+      "lt": "nustebęs",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "tts": "terkejut",
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "id": "terkejut"
+    },
+    {
+      "lt": "piktas",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "tts": "marah",
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "id": "marah"
+    },
+    {
+      "lt": "ramus",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "tts": "tenang",
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "id": "tenang"
+    },
+    {
+      "lt": "susirūpinęs",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "tts": "khawatir",
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "id": "khawatir"
+    },
+    {
+      "lt": "patenkintas",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "tts": "puas",
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "id": "puas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "terkejut",
+      "type": "translate",
+      "correct": [
+        "terkejut"
+      ],
+      "en": "surprised",
+      "placeholder": "Type Lithuanian…",
+      "zh": "surprised",
+      "id": "terkejut"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "marah",
+      "type": "translate",
+      "correct": [
+        "marah"
+      ],
+      "en": "angry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "angry",
+      "id": "marah"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tenang",
+      "type": "translate",
+      "correct": [
+        "tenang"
+      ],
+      "en": "calm",
+      "placeholder": "Type Lithuanian…",
+      "zh": "calm",
+      "id": "tenang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "khawatir",
+      "type": "translate",
+      "correct": [
+        "khawatir"
+      ],
+      "en": "worried",
+      "placeholder": "Type Lithuanian…",
+      "zh": "担心",
+      "id": "khawatir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "puas",
+      "type": "translate",
+      "correct": [
+        "puas"
+      ],
+      "en": "satisfied",
+      "placeholder": "Type Lithuanian…",
+      "zh": "satisfied",
+      "id": "puas"
+    }
+  ]
+}

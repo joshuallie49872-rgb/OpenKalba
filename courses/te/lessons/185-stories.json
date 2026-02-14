@@ -1,0 +1,296 @@
+{
+  "id": "185-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "కథ",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "te": "కథ"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "కథ",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "te": "కథ"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "ప్రారంభం",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "te": "ప్రారంభం"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "ముగింపు",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "te": "ముగింపు"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "జరిగింది",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "te": "జరిగింది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కథ",
+      "type": "translate",
+      "correct": [
+        "కథ"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "te": "కథ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కథ",
+      "type": "translate",
+      "correct": [
+        "కథ"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "te": "కథ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ప్రారంభం",
+      "type": "translate",
+      "correct": [
+        "ప్రారంభం"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "te": "ప్రారంభం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ముగింపు",
+      "type": "translate",
+      "correct": [
+        "ముగింపు"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "te": "ముగింపు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "జరిగింది",
+      "type": "translate",
+      "correct": [
+        "జరిగింది"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "te": "జరిగింది"
+    },
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "కథ",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "te": "కథ"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "కథ",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "te": "కథ"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "ప్రారంభం",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "te": "ప్రారంభం"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "ముగింపు",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "te": "ముగింపు"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "జరిగింది",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "te": "జరిగింది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కథ",
+      "type": "translate",
+      "correct": [
+        "కథ"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "te": "కథ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కథ",
+      "type": "translate",
+      "correct": [
+        "కథ"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "te": "కథ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ప్రారంభం",
+      "type": "translate",
+      "correct": [
+        "ప్రారంభం"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "te": "ప్రారంభం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ముగింపు",
+      "type": "translate",
+      "correct": [
+        "ముగింపు"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "te": "ముగింపు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "జరిగింది",
+      "type": "translate",
+      "correct": [
+        "జరిగింది"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "te": "జరిగింది"
+    }
+  ]
+}

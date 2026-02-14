@@ -1,0 +1,296 @@
+{
+  "id": "022-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "அறை",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ta": "அறை"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "திறவுகோல்",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ta": "திறவுகோல்"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "படுக்கை",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ta": "படுக்கை"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "பதிவு",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ta": "பதிவு"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "இரவு தங்குதல்",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ta": "இரவு தங்குதல்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "அறை",
+      "type": "translate",
+      "correct": [
+        "அறை"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "ta": "அறை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "திறவுகோல்",
+      "type": "translate",
+      "correct": [
+        "திறவுகோல்"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "ta": "திறவுகோல்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "படுக்கை",
+      "type": "translate",
+      "correct": [
+        "படுக்கை"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "ta": "படுக்கை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பதிவு",
+      "type": "translate",
+      "correct": [
+        "பதிவு"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "ta": "பதிவு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "இரவு தங்குதல்",
+      "type": "translate",
+      "correct": [
+        "இரவு தங்குதல்"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "ta": "இரவு தங்குதல்"
+    },
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "அறை",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ta": "அறை"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "திறவுகோல்",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ta": "திறவுகோல்"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "படுக்கை",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ta": "படுக்கை"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "பதிவு",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ta": "பதிவு"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "இரவு தங்குதல்",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ta": "இரவு தங்குதல்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "அறை",
+      "type": "translate",
+      "correct": [
+        "அறை"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "ta": "அறை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "திறவுகோல்",
+      "type": "translate",
+      "correct": [
+        "திறவுகோல்"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "ta": "திறவுகோல்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "படுக்கை",
+      "type": "translate",
+      "correct": [
+        "படுக்கை"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "ta": "படுக்கை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பதிவு",
+      "type": "translate",
+      "correct": [
+        "பதிவு"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "ta": "பதிவு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "இரவு தங்குதல்",
+      "type": "translate",
+      "correct": [
+        "இரவு தங்குதல்"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "ta": "இரவு தங்குதல்"
+    }
+  ]
+}

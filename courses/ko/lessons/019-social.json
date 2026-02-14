@@ -1,0 +1,316 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "ko": "죄송합니다.",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "죄송합니다."
+    },
+    {
+      "ko": "제발",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "제발"
+    },
+    {
+      "ko": "감사합니다",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "감사합니다"
+    },
+    {
+      "ko": "멋진",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "멋진"
+    },
+    {
+      "ko": "좋은",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "좋은"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sorry",
+      "ko": "죄송합니다.",
+      "correct": [
+        "죄송합니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "죄송합니다.",
+      "ru": "извини",
+      "pl": "Przepraszam",
+      "zh": "对不起",
+      "lt": "atsiprašau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "ko": "제발",
+      "correct": [
+        "제발"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "제발",
+      "ru": "пожалуйста",
+      "pl": "Proszę",
+      "zh": "请",
+      "lt": "prašau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "ko": "감사합니다",
+      "correct": [
+        "감사합니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "감사합니다",
+      "ru": "Спасибо",
+      "pl": "Dziękuję",
+      "zh": "谢谢",
+      "lt": "ačiū"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "ko": "멋진",
+      "correct": [
+        "멋진"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "멋진",
+      "ru": "хороший",
+      "pl": "Ładny",
+      "zh": "好的",
+      "lt": "gražus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "good",
+      "ko": "좋은",
+      "correct": [
+        "좋은"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋은",
+      "ru": "хороший",
+      "pl": "Dobry",
+      "zh": "好的",
+      "lt": "geras"
+    },
+    {
+      "ko": "죄송합니다.",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "tts": "죄송합니다."
+    },
+    {
+      "ko": "제발",
+      "lt": "",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "tts": "제발"
+    },
+    {
+      "ko": "감사합니다",
+      "lt": "",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "감사합니다"
+    },
+    {
+      "ko": "멋진",
+      "lt": "",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "멋진"
+    },
+    {
+      "ko": "좋은",
+      "lt": "",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "tts": "좋은"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sorry",
+      "ko": "죄송합니다.",
+      "correct": [
+        "죄송합니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "죄송합니다.",
+      "ru": "извини",
+      "pl": "Przepraszam",
+      "zh": "对不起",
+      "lt": "atsiprašau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please",
+      "ko": "제발",
+      "correct": [
+        "제발"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "제발",
+      "ru": "пожалуйста",
+      "pl": "Proszę",
+      "zh": "请",
+      "lt": "prašau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "ko": "감사합니다",
+      "correct": [
+        "감사합니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "감사합니다",
+      "ru": "Спасибо",
+      "pl": "Dziękuję",
+      "zh": "谢谢",
+      "lt": "ačiū"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "ko": "멋진",
+      "correct": [
+        "멋진"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "멋진",
+      "ru": "хороший",
+      "pl": "Ładny",
+      "zh": "好的",
+      "lt": "gražus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "good",
+      "ko": "좋은",
+      "correct": [
+        "좋은"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋은",
+      "ru": "хороший",
+      "pl": "Dobry",
+      "zh": "好的",
+      "lt": "geras"
+    }
+  ]
+}

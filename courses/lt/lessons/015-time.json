@@ -3,7 +3,6 @@
   "title": "Time & Dates",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "šiandien",
       "choices": [
         "today",
@@ -15,11 +14,9 @@
       "correct": [
         "today"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "rytoj",
       "choices": [
         "tomorrow",
@@ -31,11 +28,9 @@
       "correct": [
         "tomorrow"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "vakar",
       "choices": [
         "yesterday",
@@ -47,11 +42,9 @@
       "correct": [
         "yesterday"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "dabar",
       "choices": [
         "now",
@@ -63,11 +56,9 @@
       "correct": [
         "now"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "valanda",
       "choices": [
         "hour",
@@ -79,8 +70,7 @@
       "correct": [
         "hour"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -93,8 +83,7 @@
       ],
       "en": "today",
       "placeholder": "Type Lithuanian…",
-      "zh": "今天",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "今天"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -107,8 +96,7 @@
       ],
       "en": "tomorrow",
       "placeholder": "Type Lithuanian…",
-      "zh": "明天",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "明天"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -121,8 +109,7 @@
       ],
       "en": "yesterday",
       "placeholder": "Type Lithuanian…",
-      "zh": "昨天",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "昨天"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -135,8 +122,7 @@
       ],
       "en": "now",
       "placeholder": "Type Lithuanian…",
-      "zh": "now",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "now"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -149,11 +135,9 @@
       ],
       "en": "hour",
       "placeholder": "Type Lithuanian…",
-      "zh": "hour",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "hour"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "šiandien",
       "choices": [
         "today",
@@ -165,11 +149,9 @@
       "correct": [
         "today"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "rytoj",
       "choices": [
         "tomorrow",
@@ -181,11 +163,9 @@
       "correct": [
         "tomorrow"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "vakar",
       "choices": [
         "yesterday",
@@ -197,11 +177,9 @@
       "correct": [
         "yesterday"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "dabar",
       "choices": [
         "now",
@@ -213,11 +191,9 @@
       "correct": [
         "now"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "valanda",
       "choices": [
         "hour",
@@ -229,8 +205,7 @@
       "correct": [
         "hour"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -243,8 +218,7 @@
       ],
       "en": "today",
       "placeholder": "Type Lithuanian…",
-      "zh": "今天",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "今天"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -257,8 +231,7 @@
       ],
       "en": "tomorrow",
       "placeholder": "Type Lithuanian…",
-      "zh": "明天",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "明天"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -271,8 +244,7 @@
       ],
       "en": "yesterday",
       "placeholder": "Type Lithuanian…",
-      "zh": "昨天",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "昨天"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -285,8 +257,7 @@
       ],
       "en": "now",
       "placeholder": "Type Lithuanian…",
-      "zh": "now",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "now"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -299,8 +270,7 @@
       ],
       "en": "hour",
       "placeholder": "Type Lithuanian…",
-      "zh": "hour",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "hour"
     }
   ]
 }

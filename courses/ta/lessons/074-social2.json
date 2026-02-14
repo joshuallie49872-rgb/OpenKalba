@@ -1,0 +1,296 @@
+{
+  "id": "074-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "மகிழ்ச்சி",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ta": "மகிழ்ச்சி"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "வருத்தம்",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ta": "வருத்தம்"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "சோர்வாக",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ta": "சோர்வாக"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "நான் மகிழ்ச்சி அடைகிறேன்",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ta": "நான் மகிழ்ச்சி அடைகிறேன்"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "நான் பயப்படுகிறேன்",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ta": "நான் பயப்படுகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மகிழ்ச்சி",
+      "type": "translate",
+      "correct": [
+        "மகிழ்ச்சி"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "ta": "மகிழ்ச்சி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வருத்தம்",
+      "type": "translate",
+      "correct": [
+        "வருத்தம்"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "ta": "வருத்தம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சோர்வாக",
+      "type": "translate",
+      "correct": [
+        "சோர்வாக"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "ta": "சோர்வாக"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் மகிழ்ச்சி அடைகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் மகிழ்ச்சி அடைகிறேன்"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "ta": "நான் மகிழ்ச்சி அடைகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் பயப்படுகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் பயப்படுகிறேன்"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "ta": "நான் பயப்படுகிறேன்"
+    },
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "மகிழ்ச்சி",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ta": "மகிழ்ச்சி"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "வருத்தம்",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ta": "வருத்தம்"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "சோர்வாக",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ta": "சோர்வாக"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "நான் மகிழ்ச்சி அடைகிறேன்",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ta": "நான் மகிழ்ச்சி அடைகிறேன்"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "நான் பயப்படுகிறேன்",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ta": "நான் பயப்படுகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மகிழ்ச்சி",
+      "type": "translate",
+      "correct": [
+        "மகிழ்ச்சி"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "ta": "மகிழ்ச்சி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வருத்தம்",
+      "type": "translate",
+      "correct": [
+        "வருத்தம்"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "ta": "வருத்தம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சோர்வாக",
+      "type": "translate",
+      "correct": [
+        "சோர்வாக"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "ta": "சோர்வாக"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் மகிழ்ச்சி அடைகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் மகிழ்ச்சி அடைகிறேன்"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "ta": "நான் மகிழ்ச்சி அடைகிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் பயப்படுகிறேன்",
+      "type": "translate",
+      "correct": [
+        "நான் பயப்படுகிறேன்"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "ta": "நான் பயப்படுகிறேன்"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "097-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "công việc",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "vi": "công việc"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "văn phòng",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "vi": "văn phòng"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "cuộc gặp",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "vi": "cuộc gặp"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "email",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "vi": "email"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "dự án",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "vi": "dự án"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "công việc",
+      "type": "translate",
+      "correct": [
+        "công việc"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "vi": "công việc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "văn phòng",
+      "type": "translate",
+      "correct": [
+        "văn phòng"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "vi": "văn phòng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cuộc gặp",
+      "type": "translate",
+      "correct": [
+        "cuộc gặp"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "vi": "cuộc gặp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "email",
+      "type": "translate",
+      "correct": [
+        "email"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "vi": "email"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dự án",
+      "type": "translate",
+      "correct": [
+        "dự án"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "vi": "dự án"
+    },
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "công việc",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "vi": "công việc"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "văn phòng",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "vi": "văn phòng"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "cuộc gặp",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "vi": "cuộc gặp"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "email",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "vi": "email"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "dự án",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "vi": "dự án"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "công việc",
+      "type": "translate",
+      "correct": [
+        "công việc"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "vi": "công việc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "văn phòng",
+      "type": "translate",
+      "correct": [
+        "văn phòng"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "vi": "văn phòng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cuộc gặp",
+      "type": "translate",
+      "correct": [
+        "cuộc gặp"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "vi": "cuộc gặp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "email",
+      "type": "translate",
+      "correct": [
+        "email"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "vi": "email"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dự án",
+      "type": "translate",
+      "correct": [
+        "dự án"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "vi": "dự án"
+    }
+  ]
+}

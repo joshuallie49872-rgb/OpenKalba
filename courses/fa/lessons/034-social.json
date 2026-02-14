@@ -1,0 +1,296 @@
+{
+  "id": "034-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "یک دوست",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "fa": "یک دوست"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "خانواده",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "fa": "خانواده"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "نام",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "fa": "نام"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "خوب",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "fa": "خوب"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "برای ملاقات",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "fa": "برای ملاقات"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک دوست",
+      "type": "translate",
+      "correct": [
+        "یک دوست"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "fa": "یک دوست"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خانواده",
+      "type": "translate",
+      "correct": [
+        "خانواده"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "fa": "خانواده"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نام",
+      "type": "translate",
+      "correct": [
+        "نام"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "fa": "نام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خوب",
+      "type": "translate",
+      "correct": [
+        "خوب"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "fa": "خوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برای ملاقات",
+      "type": "translate",
+      "correct": [
+        "برای ملاقات"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "fa": "برای ملاقات"
+    },
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "یک دوست",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "fa": "یک دوست"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "خانواده",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "fa": "خانواده"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "نام",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "fa": "نام"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "خوب",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "fa": "خوب"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "برای ملاقات",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "fa": "برای ملاقات"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک دوست",
+      "type": "translate",
+      "correct": [
+        "یک دوست"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "fa": "یک دوست"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خانواده",
+      "type": "translate",
+      "correct": [
+        "خانواده"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "fa": "خانواده"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نام",
+      "type": "translate",
+      "correct": [
+        "نام"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "fa": "نام"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خوب",
+      "type": "translate",
+      "correct": [
+        "خوب"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "fa": "خوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برای ملاقات",
+      "type": "translate",
+      "correct": [
+        "برای ملاقات"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "fa": "برای ملاقات"
+    }
+  ]
+}

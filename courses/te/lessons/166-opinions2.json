@@ -1,0 +1,296 @@
+{
+  "id": "166-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "నేను అనుకుంటున్నాను",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "te": "నేను అనుకుంటున్నాను"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "నేను అంగీకరిస్తున్నాను",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "te": "నేను అంగీకరిస్తున్నాను"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "నేను అంగీకరించను",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "te": "నేను అంగీకరించను"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "అభిప్రాయం",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "te": "అభిప్రాయం"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "వాదన",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "te": "వాదన"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను అనుకుంటున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను అనుకుంటున్నాను"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "te": "నేను అనుకుంటున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను అంగీకరిస్తున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను అంగీకరిస్తున్నాను"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "te": "నేను అంగీకరిస్తున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను అంగీకరించను",
+      "type": "translate",
+      "correct": [
+        "నేను అంగీకరించను"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "te": "నేను అంగీకరించను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అభిప్రాయం",
+      "type": "translate",
+      "correct": [
+        "అభిప్రాయం"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "te": "అభిప్రాయం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వాదన",
+      "type": "translate",
+      "correct": [
+        "వాదన"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "te": "వాదన"
+    },
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "నేను అనుకుంటున్నాను",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "te": "నేను అనుకుంటున్నాను"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "నేను అంగీకరిస్తున్నాను",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "te": "నేను అంగీకరిస్తున్నాను"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "నేను అంగీకరించను",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "te": "నేను అంగీకరించను"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "అభిప్రాయం",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "te": "అభిప్రాయం"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "వాదన",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "te": "వాదన"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను అనుకుంటున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను అనుకుంటున్నాను"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "te": "నేను అనుకుంటున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను అంగీకరిస్తున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను అంగీకరిస్తున్నాను"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "te": "నేను అంగీకరిస్తున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను అంగీకరించను",
+      "type": "translate",
+      "correct": [
+        "నేను అంగీకరించను"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "te": "నేను అంగీకరించను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అభిప్రాయం",
+      "type": "translate",
+      "correct": [
+        "అభిప్రాయం"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "te": "అభిప్రాయం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వాదన",
+      "type": "translate",
+      "correct": [
+        "వాదన"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "te": "వాదన"
+    }
+  ]
+}

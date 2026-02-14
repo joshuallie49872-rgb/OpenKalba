@@ -1,0 +1,296 @@
+{
+  "id": "011-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "kedai",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ms": "kedai"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "harga",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ms": "harga"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "wang",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ms": "wang"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "kad",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ms": "kad"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "tunai",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ms": "tunai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kedai",
+      "type": "translate",
+      "correct": [
+        "kedai"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "ms": "kedai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "harga",
+      "type": "translate",
+      "correct": [
+        "harga"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "ms": "harga"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "wang",
+      "type": "translate",
+      "correct": [
+        "wang"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "ms": "wang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kad",
+      "type": "translate",
+      "correct": [
+        "kad"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "ms": "kad"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tunai",
+      "type": "translate",
+      "correct": [
+        "tunai"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "ms": "tunai"
+    },
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "kedai",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ms": "kedai"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "harga",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ms": "harga"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "wang",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ms": "wang"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "kad",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ms": "kad"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "tunai",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ms": "tunai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kedai",
+      "type": "translate",
+      "correct": [
+        "kedai"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "ms": "kedai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "harga",
+      "type": "translate",
+      "correct": [
+        "harga"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "ms": "harga"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "wang",
+      "type": "translate",
+      "correct": [
+        "wang"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "ms": "wang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kad",
+      "type": "translate",
+      "correct": [
+        "kad"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "ms": "kad"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tunai",
+      "type": "translate",
+      "correct": [
+        "tunai"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "ms": "tunai"
+    }
+  ]
+}

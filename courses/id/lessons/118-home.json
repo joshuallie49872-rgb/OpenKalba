@@ -1,0 +1,296 @@
+{
+  "id": "118-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "lt": "namai",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "rumah",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "id": "rumah"
+    },
+    {
+      "lt": "butas",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "apartemen",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "id": "apartemen"
+    },
+    {
+      "lt": "virtuvė",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "dapur",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "id": "dapur"
+    },
+    {
+      "lt": "vonios kambarys",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "kamar mandi",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "id": "kamar mandi"
+    },
+    {
+      "lt": "švara",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "kebersihan",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "id": "kebersihan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "rumah",
+      "type": "translate",
+      "correct": [
+        "rumah"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "id": "rumah"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "apartemen",
+      "type": "translate",
+      "correct": [
+        "apartemen"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "id": "apartemen"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dapur",
+      "type": "translate",
+      "correct": [
+        "dapur"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "id": "dapur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kamar mandi",
+      "type": "translate",
+      "correct": [
+        "kamar mandi"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "id": "kamar mandi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kebersihan",
+      "type": "translate",
+      "correct": [
+        "kebersihan"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "id": "kebersihan"
+    },
+    {
+      "lt": "namai",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "rumah",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "id": "rumah"
+    },
+    {
+      "lt": "butas",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "apartemen",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "id": "apartemen"
+    },
+    {
+      "lt": "virtuvė",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "dapur",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "id": "dapur"
+    },
+    {
+      "lt": "vonios kambarys",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "kamar mandi",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "id": "kamar mandi"
+    },
+    {
+      "lt": "švara",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "kebersihan",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "id": "kebersihan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "rumah",
+      "type": "translate",
+      "correct": [
+        "rumah"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "id": "rumah"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "apartemen",
+      "type": "translate",
+      "correct": [
+        "apartemen"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "id": "apartemen"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "dapur",
+      "type": "translate",
+      "correct": [
+        "dapur"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "id": "dapur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kamar mandi",
+      "type": "translate",
+      "correct": [
+        "kamar mandi"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "id": "kamar mandi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kebersihan",
+      "type": "translate",
+      "correct": [
+        "kebersihan"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "id": "kebersihan"
+    }
+  ]
+}

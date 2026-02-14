@@ -3,7 +3,6 @@
   "title": "Social & Polite Talk",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "atsiprašau",
       "choices": [
         "sorry",
@@ -15,11 +14,9 @@
       "correct": [
         "sorry"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "prašau",
       "choices": [
         "please",
@@ -31,11 +28,9 @@
       "correct": [
         "please"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "ačiū",
       "choices": [
         "thank you",
@@ -47,11 +42,9 @@
       "correct": [
         "thank you"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "malonu",
       "choices": [
         "nice",
@@ -63,11 +56,9 @@
       "correct": [
         "nice"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "geras",
       "choices": [
         "good",
@@ -79,8 +70,7 @@
       "correct": [
         "good"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -93,8 +83,7 @@
       ],
       "en": "sorry",
       "placeholder": "Type Lithuanian…",
-      "zh": "抱歉",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "抱歉"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -107,8 +96,7 @@
       ],
       "en": "please",
       "placeholder": "Type Lithuanian…",
-      "zh": "请",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "请"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -121,8 +109,7 @@
       ],
       "en": "thank you",
       "placeholder": "Type Lithuanian…",
-      "zh": "谢谢",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "谢谢"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -135,8 +122,7 @@
       ],
       "en": "nice",
       "placeholder": "Type Lithuanian…",
-      "zh": "nice",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "nice"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -149,11 +135,9 @@
       ],
       "en": "good",
       "placeholder": "Type Lithuanian…",
-      "zh": "好",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "好"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "atsiprašau",
       "choices": [
         "sorry",
@@ -165,11 +149,9 @@
       "correct": [
         "sorry"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "prašau",
       "choices": [
         "please",
@@ -181,11 +163,9 @@
       "correct": [
         "please"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "ačiū",
       "choices": [
         "thank you",
@@ -197,11 +177,9 @@
       "correct": [
         "thank you"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "malonu",
       "choices": [
         "nice",
@@ -213,11 +191,9 @@
       "correct": [
         "nice"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "geras",
       "choices": [
         "good",
@@ -229,8 +205,7 @@
       "correct": [
         "good"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -243,8 +218,7 @@
       ],
       "en": "sorry",
       "placeholder": "Type Lithuanian…",
-      "zh": "抱歉",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "抱歉"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -257,8 +231,7 @@
       ],
       "en": "please",
       "placeholder": "Type Lithuanian…",
-      "zh": "请",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "请"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -271,8 +244,7 @@
       ],
       "en": "thank you",
       "placeholder": "Type Lithuanian…",
-      "zh": "谢谢",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "谢谢"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -285,8 +257,7 @@
       ],
       "en": "nice",
       "placeholder": "Type Lithuanian…",
-      "zh": "nice",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "nice"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -299,8 +270,7 @@
       ],
       "en": "good",
       "placeholder": "Type Lithuanian…",
-      "zh": "好",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "好"
     }
   ]
 }

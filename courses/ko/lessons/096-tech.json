@@ -1,0 +1,316 @@
+{
+  "id": "096-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "ko": "전화",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "전화"
+    },
+    {
+      "ko": "컴퓨터",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "컴퓨터"
+    },
+    {
+      "ko": "인터넷",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "인터넷"
+    },
+    {
+      "ko": "프로그램",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "프로그램"
+    },
+    {
+      "ko": "메시지",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "메시지"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "ko": "전화",
+      "correct": [
+        "전화"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "전화",
+      "ru": "телефон",
+      "pl": "telefon",
+      "zh": "电话",
+      "lt": "telefonas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "ko": "컴퓨터",
+      "correct": [
+        "컴퓨터"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "컴퓨터",
+      "ru": "компьютер",
+      "pl": "komputer",
+      "zh": "电脑",
+      "lt": "kompiuteris"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "ko": "인터넷",
+      "correct": [
+        "인터넷"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "인터넷",
+      "ru": "интернет",
+      "pl": "Internet",
+      "zh": "互联网",
+      "lt": "internetas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "ko": "프로그램",
+      "correct": [
+        "프로그램"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "프로그램",
+      "ru": "приложение",
+      "pl": "aplikacja",
+      "zh": "应用程序",
+      "lt": "programėlė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "ko": "메시지",
+      "correct": [
+        "메시지"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "메시지",
+      "ru": "сообщение",
+      "pl": "wiadomość",
+      "zh": "信息",
+      "lt": "žinutė"
+    },
+    {
+      "ko": "전화",
+      "lt": "",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "tts": "전화"
+    },
+    {
+      "ko": "컴퓨터",
+      "lt": "",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "tts": "컴퓨터"
+    },
+    {
+      "ko": "인터넷",
+      "lt": "",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "tts": "인터넷"
+    },
+    {
+      "ko": "프로그램",
+      "lt": "",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "tts": "프로그램"
+    },
+    {
+      "ko": "메시지",
+      "lt": "",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "tts": "메시지"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "phone",
+      "ko": "전화",
+      "correct": [
+        "전화"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "전화",
+      "ru": "телефон",
+      "pl": "telefon",
+      "zh": "电话",
+      "lt": "telefonas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "computer",
+      "ko": "컴퓨터",
+      "correct": [
+        "컴퓨터"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "컴퓨터",
+      "ru": "компьютер",
+      "pl": "komputer",
+      "zh": "电脑",
+      "lt": "kompiuteris"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "internet",
+      "ko": "인터넷",
+      "correct": [
+        "인터넷"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "인터넷",
+      "ru": "интернет",
+      "pl": "Internet",
+      "zh": "互联网",
+      "lt": "internetas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "app",
+      "ko": "프로그램",
+      "correct": [
+        "프로그램"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "프로그램",
+      "ru": "приложение",
+      "pl": "aplikacja",
+      "zh": "应用程序",
+      "lt": "programėlė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "message",
+      "ko": "메시지",
+      "correct": [
+        "메시지"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "메시지",
+      "ru": "сообщение",
+      "pl": "wiadomość",
+      "zh": "信息",
+      "lt": "žinutė"
+    }
+  ]
+}

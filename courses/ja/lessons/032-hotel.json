@@ -1,0 +1,296 @@
+{
+  "id": "032-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "部屋",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ja": "部屋"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "鍵",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ja": "鍵"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "ベッド",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ja": "ベッド"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "登録",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ja": "登録"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "一泊",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ja": "一泊"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "部屋",
+      "type": "translate",
+      "correct": [
+        "部屋"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "ja": "部屋"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "鍵",
+      "type": "translate",
+      "correct": [
+        "鍵"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "ja": "鍵"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ベッド",
+      "type": "translate",
+      "correct": [
+        "ベッド"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "ja": "ベッド"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "登録",
+      "type": "translate",
+      "correct": [
+        "登録"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "ja": "登録"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "一泊",
+      "type": "translate",
+      "correct": [
+        "一泊"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "ja": "一泊"
+    },
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "部屋",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "ja": "部屋"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "鍵",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "ja": "鍵"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "ベッド",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "ja": "ベッド"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "登録",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "ja": "登録"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "一泊",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "ja": "一泊"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "部屋",
+      "type": "translate",
+      "correct": [
+        "部屋"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "ja": "部屋"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "鍵",
+      "type": "translate",
+      "correct": [
+        "鍵"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "ja": "鍵"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ベッド",
+      "type": "translate",
+      "correct": [
+        "ベッド"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "ja": "ベッド"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "登録",
+      "type": "translate",
+      "correct": [
+        "登録"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "ja": "登録"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "一泊",
+      "type": "translate",
+      "correct": [
+        "一泊"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "ja": "一泊"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "lt": "noriu",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "من می خواهم",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "fa": "من می خواهم"
+    },
+    {
+      "lt": "turiu",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "من دارم",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "fa": "من دارم"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "من میخورم",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "fa": "من میخورم"
+    },
+    {
+      "lt": "geriu",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "من می نوشم",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "fa": "من می نوشم"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "آب",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "fa": "آب"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "قهوه",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "fa": "قهوه"
+    },
+    {
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "آبجو",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "fa": "آبجو"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "نان",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "fa": "نان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من آب میخواهم",
+      "correct": [
+        "من آب میخواهم"
+      ],
+      "en": "I want water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要水",
+      "fa": "من آب میخواهم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من قهوه می خواهم",
+      "correct": [
+        "من قهوه می خواهم"
+      ],
+      "en": "I want coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要咖啡",
+      "fa": "من قهوه می خواهم"
+    },
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "اینجا",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "fa": "اینجا"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "وجود دارد",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "fa": "وجود دارد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "اینجا آب است",
+      "correct": [
+        "اینجا آب است"
+      ],
+      "en": "here water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里水",
+      "fa": "اینجا آب است"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قهوه هست",
+      "correct": [
+        "قهوه هست"
+      ],
+      "en": "there coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里咖啡",
+      "fa": "قهوه هست"
+    },
+    {
+      "lt": "prašau vandens",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "لطفاً، آب بیاورید",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "fa": "لطفاً، آب بیاورید"
+    },
+    {
+      "lt": "noriu alaus",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "من آبجو می خواهم",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "fa": "من آبجو می خواهم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من آب میخورم",
+      "correct": [
+        "من آب میخورم"
+      ],
+      "en": "I drink vandenį",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我drinkvandenį",
+      "fa": "من آب میخورم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "من نان میخورم",
+      "correct": [
+        "من نان میخورم"
+      ],
+      "en": "I eat bread",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat面包",
+      "fa": "من نان میخورم"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "باشه",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "fa": "باشه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "باشه",
+      "correct": [
+        "باشه"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "fa": "باشه"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "lt": "noriu",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "İstiyorum",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "tr": "İstiyorum"
+    },
+    {
+      "lt": "turiu",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "Sahibim",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "tr": "Sahibim"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "Yiyorum",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "tr": "Yiyorum"
+    },
+    {
+      "lt": "geriu",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "İçiyorum",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "tr": "İçiyorum"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "Su",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tr": "Su"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "Kahve",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tr": "Kahve"
+    },
+    {
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "Bira",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "tr": "Bira"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "Ekmek",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tr": "Ekmek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Su istiyorum",
+      "correct": [
+        "Su istiyorum"
+      ],
+      "en": "I want water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要水",
+      "tr": "Su istiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kahve istiyorum",
+      "correct": [
+        "Kahve istiyorum"
+      ],
+      "en": "I want coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要咖啡",
+      "tr": "Kahve istiyorum"
+    },
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "Burada",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tr": "Burada"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "Orada",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tr": "Orada"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İşte su",
+      "correct": [
+        "İşte su"
+      ],
+      "en": "here water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里水",
+      "tr": "İşte su"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Orada kahve var",
+      "correct": [
+        "Orada kahve var"
+      ],
+      "en": "there coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里咖啡",
+      "tr": "Orada kahve var"
+    },
+    {
+      "lt": "prašau vandens",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "Su lütfen",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "tr": "Su lütfen"
+    },
+    {
+      "lt": "noriu alaus",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "Bira istiyorum",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "tr": "Bira istiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Su içiyorum",
+      "correct": [
+        "Su içiyorum"
+      ],
+      "en": "I drink vandenį",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我drinkvandenį",
+      "tr": "Su içiyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ekmek yiyorum",
+      "correct": [
+        "Ekmek yiyorum"
+      ],
+      "en": "I eat bread",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat面包",
+      "tr": "Ekmek yiyorum"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "Tamam",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tr": "Tamam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tamam",
+      "correct": [
+        "Tamam"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "tr": "Tamam"
+    }
+  ]
+}

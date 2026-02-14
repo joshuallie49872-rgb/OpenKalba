@@ -1,0 +1,296 @@
+{
+  "id": "012-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "店",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ja": "店"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "価格",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ja": "価格"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "お金",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ja": "お金"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "カード",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ja": "カード"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "現金で",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ja": "現金で"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "店",
+      "type": "translate",
+      "correct": [
+        "店"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "ja": "店"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "価格",
+      "type": "translate",
+      "correct": [
+        "価格"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "ja": "価格"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お金",
+      "type": "translate",
+      "correct": [
+        "お金"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "ja": "お金"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "カード",
+      "type": "translate",
+      "correct": [
+        "カード"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "ja": "カード"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "現金で",
+      "type": "translate",
+      "correct": [
+        "現金で"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "ja": "現金で"
+    },
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "店",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ja": "店"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "価格",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ja": "価格"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "お金",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ja": "お金"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "カード",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ja": "カード"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "現金で",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ja": "現金で"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "店",
+      "type": "translate",
+      "correct": [
+        "店"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "ja": "店"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "価格",
+      "type": "translate",
+      "correct": [
+        "価格"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "ja": "価格"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お金",
+      "type": "translate",
+      "correct": [
+        "お金"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "ja": "お金"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "カード",
+      "type": "translate",
+      "correct": [
+        "カード"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "ja": "カード"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "現金で",
+      "type": "translate",
+      "correct": [
+        "現金で"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "ja": "現金で"
+    }
+  ]
+}

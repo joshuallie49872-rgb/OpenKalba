@@ -1,0 +1,316 @@
+{
+  "id": "187-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "ko": "결정",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "결정"
+    },
+    {
+      "ko": "문제",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "문제"
+    },
+    {
+      "ko": "선택",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "선택"
+    },
+    {
+      "ko": "경험",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "경험"
+    },
+    {
+      "ko": "결과",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "결과"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "ko": "결정",
+      "correct": [
+        "결정"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "결정",
+      "ru": "решение",
+      "pl": "rozwiązanie",
+      "zh": "解决方案",
+      "lt": "sprendimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "ko": "문제",
+      "correct": [
+        "문제"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "문제",
+      "ru": "проблема",
+      "pl": "problem",
+      "zh": "问题",
+      "lt": "problema"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "ko": "선택",
+      "correct": [
+        "선택"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "선택",
+      "ru": "выбор",
+      "pl": "wybór",
+      "zh": "选择",
+      "lt": "pasirinkimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "ko": "경험",
+      "correct": [
+        "경험"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "경험",
+      "ru": "опыт",
+      "pl": "doświadczenie",
+      "zh": "经验",
+      "lt": "patirtis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "ko": "결과",
+      "correct": [
+        "결과"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "결과",
+      "ru": "результат",
+      "pl": "wynik",
+      "zh": "结果",
+      "lt": "rezultatas"
+    },
+    {
+      "ko": "결정",
+      "lt": "",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tts": "결정"
+    },
+    {
+      "ko": "문제",
+      "lt": "",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tts": "문제"
+    },
+    {
+      "ko": "선택",
+      "lt": "",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tts": "선택"
+    },
+    {
+      "ko": "경험",
+      "lt": "",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tts": "경험"
+    },
+    {
+      "ko": "결과",
+      "lt": "",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tts": "결과"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "solution",
+      "ko": "결정",
+      "correct": [
+        "결정"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "결정",
+      "ru": "решение",
+      "pl": "rozwiązanie",
+      "zh": "解决方案",
+      "lt": "sprendimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "problem",
+      "ko": "문제",
+      "correct": [
+        "문제"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "문제",
+      "ru": "проблема",
+      "pl": "problem",
+      "zh": "问题",
+      "lt": "problema"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "choice",
+      "ko": "선택",
+      "correct": [
+        "선택"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "선택",
+      "ru": "выбор",
+      "pl": "wybór",
+      "zh": "选择",
+      "lt": "pasirinkimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "experience",
+      "ko": "경험",
+      "correct": [
+        "경험"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "경험",
+      "ru": "опыт",
+      "pl": "doświadczenie",
+      "zh": "经验",
+      "lt": "patirtis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "result",
+      "ko": "결과",
+      "correct": [
+        "결과"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "결과",
+      "ru": "результат",
+      "pl": "wynik",
+      "zh": "结果",
+      "lt": "rezultatas"
+    }
+  ]
+}

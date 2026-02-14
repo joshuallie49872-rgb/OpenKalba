@@ -1,0 +1,296 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "xin lỗi",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "vi": "xin lỗi"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "làm ơn",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "vi": "làm ơn"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "cảm ơn",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "vi": "cảm ơn"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "vui được gặp",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "vi": "vui được gặp"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "tốt",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "vi": "tốt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "xin lỗi",
+      "type": "translate",
+      "correct": [
+        "xin lỗi"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "vi": "xin lỗi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "làm ơn",
+      "type": "translate",
+      "correct": [
+        "làm ơn"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "vi": "làm ơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cảm ơn",
+      "type": "translate",
+      "correct": [
+        "cảm ơn"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "vi": "cảm ơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "vui được gặp",
+      "type": "translate",
+      "correct": [
+        "vui được gặp"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "vi": "vui được gặp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tốt",
+      "type": "translate",
+      "correct": [
+        "tốt"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "vi": "tốt"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "xin lỗi",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "vi": "xin lỗi"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "làm ơn",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "vi": "làm ơn"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "cảm ơn",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "vi": "cảm ơn"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "vui được gặp",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "vi": "vui được gặp"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "tốt",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "vi": "tốt"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "xin lỗi",
+      "type": "translate",
+      "correct": [
+        "xin lỗi"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "vi": "xin lỗi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "làm ơn",
+      "type": "translate",
+      "correct": [
+        "làm ơn"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "vi": "làm ơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cảm ơn",
+      "type": "translate",
+      "correct": [
+        "cảm ơn"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "vi": "cảm ơn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "vui được gặp",
+      "type": "translate",
+      "correct": [
+        "vui được gặp"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "vi": "vui được gặp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tốt",
+      "type": "translate",
+      "correct": [
+        "tốt"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "vi": "tốt"
+    }
+  ]
+}

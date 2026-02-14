@@ -1,0 +1,296 @@
+{
+  "id": "046-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "سعيد",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ar": "سعيد"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "حزين",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ar": "حزين"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "متعب",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ar": "متعب"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "أنا سعيد",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ar": "أنا سعيد"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "أنا خائف",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ar": "أنا خائف"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سعيد",
+      "type": "translate",
+      "correct": [
+        "سعيد"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "ar": "سعيد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حزين",
+      "type": "translate",
+      "correct": [
+        "حزين"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "ar": "حزين"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متعب",
+      "type": "translate",
+      "correct": [
+        "متعب"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "ar": "متعب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا سعيد",
+      "type": "translate",
+      "correct": [
+        "أنا سعيد"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "ar": "أنا سعيد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا خائف",
+      "type": "translate",
+      "correct": [
+        "أنا خائف"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "ar": "أنا خائف"
+    },
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "سعيد",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ar": "سعيد"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "حزين",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ar": "حزين"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "متعب",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ar": "متعب"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "أنا سعيد",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ar": "أنا سعيد"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "أنا خائف",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ar": "أنا خائف"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سعيد",
+      "type": "translate",
+      "correct": [
+        "سعيد"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "ar": "سعيد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حزين",
+      "type": "translate",
+      "correct": [
+        "حزين"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "ar": "حزين"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متعب",
+      "type": "translate",
+      "correct": [
+        "متعب"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "ar": "متعب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا سعيد",
+      "type": "translate",
+      "correct": [
+        "أنا سعيد"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "ar": "أنا سعيد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أنا خائف",
+      "type": "translate",
+      "correct": [
+        "أنا خائف"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "ar": "أنا خائف"
+    }
+  ]
+}

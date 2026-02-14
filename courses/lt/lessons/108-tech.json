@@ -3,7 +3,6 @@
   "title": "Technology & Media",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "telefonas",
       "choices": [
         "phone",
@@ -15,11 +14,9 @@
       "correct": [
         "phone"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kompiuteris",
       "choices": [
         "computer",
@@ -31,11 +28,9 @@
       "correct": [
         "computer"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "internetas",
       "choices": [
         "internet",
@@ -47,11 +42,9 @@
       "correct": [
         "internet"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "programa",
       "choices": [
         "app",
@@ -63,11 +56,9 @@
       "correct": [
         "app"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "žinutė",
       "choices": [
         "message",
@@ -79,8 +70,7 @@
       "correct": [
         "message"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -93,8 +83,7 @@
       ],
       "en": "phone",
       "placeholder": "Type Lithuanian…",
-      "zh": "phone",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "phone"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -107,8 +96,7 @@
       ],
       "en": "computer",
       "placeholder": "Type Lithuanian…",
-      "zh": "computer",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "computer"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -121,8 +109,7 @@
       ],
       "en": "internet",
       "placeholder": "Type Lithuanian…",
-      "zh": "internet",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "internet"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -135,8 +122,7 @@
       ],
       "en": "app",
       "placeholder": "Type Lithuanian…",
-      "zh": "app",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "app"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -149,11 +135,9 @@
       ],
       "en": "message",
       "placeholder": "Type Lithuanian…",
-      "zh": "message",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "message"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "telefonas",
       "choices": [
         "phone",
@@ -165,11 +149,9 @@
       "correct": [
         "phone"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kompiuteris",
       "choices": [
         "computer",
@@ -181,11 +163,9 @@
       "correct": [
         "computer"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "internetas",
       "choices": [
         "internet",
@@ -197,11 +177,9 @@
       "correct": [
         "internet"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "programa",
       "choices": [
         "app",
@@ -213,11 +191,9 @@
       "correct": [
         "app"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "žinutė",
       "choices": [
         "message",
@@ -229,8 +205,7 @@
       "correct": [
         "message"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -243,8 +218,7 @@
       ],
       "en": "phone",
       "placeholder": "Type Lithuanian…",
-      "zh": "phone",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "phone"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -257,8 +231,7 @@
       ],
       "en": "computer",
       "placeholder": "Type Lithuanian…",
-      "zh": "computer",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "computer"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -271,8 +244,7 @@
       ],
       "en": "internet",
       "placeholder": "Type Lithuanian…",
-      "zh": "internet",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "internet"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -285,8 +257,7 @@
       ],
       "en": "app",
       "placeholder": "Type Lithuanian…",
-      "zh": "app",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "app"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -299,8 +270,7 @@
       ],
       "en": "message",
       "placeholder": "Type Lithuanian…",
-      "zh": "message",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "message"
     }
   ]
 }

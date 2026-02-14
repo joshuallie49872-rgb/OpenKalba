@@ -1,0 +1,296 @@
+{
+  "id": "165-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "cerita",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "ms": "cerita"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "cerita",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "ms": "cerita"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "permulaan",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "ms": "permulaan"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "penamat",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "ms": "penamat"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "berlaku",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "ms": "berlaku"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cerita",
+      "type": "translate",
+      "correct": [
+        "cerita"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "ms": "cerita"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cerita",
+      "type": "translate",
+      "correct": [
+        "cerita"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "ms": "cerita"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "permulaan",
+      "type": "translate",
+      "correct": [
+        "permulaan"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "ms": "permulaan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penamat",
+      "type": "translate",
+      "correct": [
+        "penamat"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "ms": "penamat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "berlaku",
+      "type": "translate",
+      "correct": [
+        "berlaku"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "ms": "berlaku"
+    },
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "cerita",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "ms": "cerita"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "cerita",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "ms": "cerita"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "permulaan",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "ms": "permulaan"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "penamat",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "ms": "penamat"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "berlaku",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "ms": "berlaku"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cerita",
+      "type": "translate",
+      "correct": [
+        "cerita"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "ms": "cerita"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cerita",
+      "type": "translate",
+      "correct": [
+        "cerita"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "ms": "cerita"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "permulaan",
+      "type": "translate",
+      "correct": [
+        "permulaan"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "ms": "permulaan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penamat",
+      "type": "translate",
+      "correct": [
+        "penamat"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "ms": "penamat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "berlaku",
+      "type": "translate",
+      "correct": [
+        "berlaku"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "ms": "berlaku"
+    }
+  ]
+}

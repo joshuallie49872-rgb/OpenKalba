@@ -1,0 +1,296 @@
+{
+  "id": "077-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "パスポート",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "ja": "パスポート"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "壁",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "ja": "壁"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "旅行する",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "ja": "旅行する"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "スーツケース",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "ja": "スーツケース"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "税関",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "ja": "税関"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "パスポート",
+      "type": "translate",
+      "correct": [
+        "パスポート"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "ja": "パスポート"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "壁",
+      "type": "translate",
+      "correct": [
+        "壁"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "ja": "壁"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "旅行する",
+      "type": "translate",
+      "correct": [
+        "旅行する"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "ja": "旅行する"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "スーツケース",
+      "type": "translate",
+      "correct": [
+        "スーツケース"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "ja": "スーツケース"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "税関",
+      "type": "translate",
+      "correct": [
+        "税関"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "ja": "税関"
+    },
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "パスポート",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "ja": "パスポート"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "壁",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "ja": "壁"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "旅行する",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "ja": "旅行する"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "スーツケース",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "ja": "スーツケース"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "税関",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "ja": "税関"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "パスポート",
+      "type": "translate",
+      "correct": [
+        "パスポート"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "ja": "パスポート"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "壁",
+      "type": "translate",
+      "correct": [
+        "壁"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "ja": "壁"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "旅行する",
+      "type": "translate",
+      "correct": [
+        "旅行する"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "ja": "旅行する"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "スーツケース",
+      "type": "translate",
+      "correct": [
+        "スーツケース"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "ja": "スーツケース"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "税関",
+      "type": "translate",
+      "correct": [
+        "税関"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "ja": "税関"
+    }
+  ]
+}

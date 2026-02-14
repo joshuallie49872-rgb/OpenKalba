@@ -1,0 +1,296 @@
+{
+  "id": "183-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "Çözüm",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tr": "Çözüm"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "Sorun",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tr": "Sorun"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "Seçenek",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tr": "Seçenek"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "Deneyim",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tr": "Deneyim"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "Sonuç",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tr": "Sonuç"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Çözüm",
+      "type": "translate",
+      "correct": [
+        "Çözüm"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "tr": "Çözüm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sorun",
+      "type": "translate",
+      "correct": [
+        "Sorun"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "tr": "Sorun"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Seçenek",
+      "type": "translate",
+      "correct": [
+        "Seçenek"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "tr": "Seçenek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Deneyim",
+      "type": "translate",
+      "correct": [
+        "Deneyim"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "tr": "Deneyim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sonuç",
+      "type": "translate",
+      "correct": [
+        "Sonuç"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "tr": "Sonuç"
+    },
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "Çözüm",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "tr": "Çözüm"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "Sorun",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "tr": "Sorun"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "Seçenek",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "tr": "Seçenek"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "Deneyim",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "tr": "Deneyim"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "Sonuç",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "tr": "Sonuç"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Çözüm",
+      "type": "translate",
+      "correct": [
+        "Çözüm"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "tr": "Çözüm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sorun",
+      "type": "translate",
+      "correct": [
+        "Sorun"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "tr": "Sorun"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Seçenek",
+      "type": "translate",
+      "correct": [
+        "Seçenek"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "tr": "Seçenek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Deneyim",
+      "type": "translate",
+      "correct": [
+        "Deneyim"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "tr": "Deneyim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Sonuç",
+      "type": "translate",
+      "correct": [
+        "Sonuç"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "tr": "Sonuç"
+    }
+  ]
+}

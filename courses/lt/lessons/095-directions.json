@@ -3,7 +3,6 @@
   "title": "Directions & Movement",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kairė",
       "choices": [
         "left",
@@ -15,11 +14,9 @@
       "correct": [
         "left"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "dešinė",
       "choices": [
         "right",
@@ -31,11 +28,9 @@
       "correct": [
         "right"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "tiesiai",
       "choices": [
         "straight",
@@ -47,11 +42,9 @@
       "correct": [
         "straight"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "atgal",
       "choices": [
         "back",
@@ -63,11 +56,9 @@
       "correct": [
         "back"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "arti",
       "choices": [
         "near",
@@ -79,8 +70,7 @@
       "correct": [
         "near"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -93,8 +83,7 @@
       ],
       "en": "left",
       "placeholder": "Type Lithuanian…",
-      "zh": "left",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "left"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -107,8 +96,7 @@
       ],
       "en": "right",
       "placeholder": "Type Lithuanian…",
-      "zh": "right",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "right"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -121,8 +109,7 @@
       ],
       "en": "straight",
       "placeholder": "Type Lithuanian…",
-      "zh": "straight",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "straight"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -135,8 +122,7 @@
       ],
       "en": "back",
       "placeholder": "Type Lithuanian…",
-      "zh": "back",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "back"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -149,11 +135,9 @@
       ],
       "en": "near",
       "placeholder": "Type Lithuanian…",
-      "zh": "near",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "near"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kairė",
       "choices": [
         "left",
@@ -165,11 +149,9 @@
       "correct": [
         "left"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "dešinė",
       "choices": [
         "right",
@@ -181,11 +163,9 @@
       "correct": [
         "right"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "tiesiai",
       "choices": [
         "straight",
@@ -197,11 +177,9 @@
       "correct": [
         "straight"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "atgal",
       "choices": [
         "back",
@@ -213,11 +191,9 @@
       "correct": [
         "back"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "arti",
       "choices": [
         "near",
@@ -229,8 +205,7 @@
       "correct": [
         "near"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -243,8 +218,7 @@
       ],
       "en": "left",
       "placeholder": "Type Lithuanian…",
-      "zh": "left",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "left"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -257,8 +231,7 @@
       ],
       "en": "right",
       "placeholder": "Type Lithuanian…",
-      "zh": "right",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "right"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -271,8 +244,7 @@
       ],
       "en": "straight",
       "placeholder": "Type Lithuanian…",
-      "zh": "straight",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "straight"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -285,8 +257,7 @@
       ],
       "en": "back",
       "placeholder": "Type Lithuanian…",
-      "zh": "back",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "back"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -299,8 +270,7 @@
       ],
       "en": "near",
       "placeholder": "Type Lithuanian…",
-      "zh": "near",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "near"
     }
   ]
 }

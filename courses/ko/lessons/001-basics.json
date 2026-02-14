@@ -1,0 +1,316 @@
+{
+  "id": "001-basics",
+  "title": "Basics 1",
+  "questions": [
+    {
+      "ko": "안녕하세요",
+      "lt": "",
+      "choices": [
+        "hello",
+        "thank you",
+        "yes",
+        "no"
+      ],
+      "correct": [
+        "hello"
+      ],
+      "type": "choose",
+      "tts": "안녕하세요"
+    },
+    {
+      "ko": "감사합니다",
+      "lt": "",
+      "choices": [
+        "sorry",
+        "thank you",
+        "please",
+        "hello"
+      ],
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "tts": "감사합니다"
+    },
+    {
+      "ko": "예",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "goodbye",
+        "please"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "예"
+    },
+    {
+      "ko": "아니요",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "thanks",
+        "hi"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "아니요"
+    },
+    {
+      "ko": "제발",
+      "lt": "",
+      "choices": [
+        "please / you're welcome",
+        "goodbye",
+        "sorry",
+        "hello"
+      ],
+      "correct": [
+        "please / you're welcome"
+      ],
+      "type": "choose",
+      "tts": "제발"
+    },
+    {
+      "ko": "죄송합니다.",
+      "lt": "",
+      "choices": [
+        "excuse me / sorry",
+        "please",
+        "thanks",
+        "yes"
+      ],
+      "correct": [
+        "excuse me / sorry"
+      ],
+      "type": "choose",
+      "tts": "죄송합니다."
+    },
+    {
+      "ko": "모두 제일 좋다",
+      "lt": "",
+      "choices": [
+        "goodbye",
+        "good morning",
+        "good night",
+        "see you"
+      ],
+      "correct": [
+        "goodbye"
+      ],
+      "type": "choose",
+      "tts": "모두 제일 좋다"
+    },
+    {
+      "ko": "~까지",
+      "lt": "",
+      "choices": [
+        "see you",
+        "hello",
+        "thanks",
+        "no"
+      ],
+      "correct": [
+        "see you"
+      ],
+      "type": "choose",
+      "tts": "~까지"
+    },
+    {
+      "ko": "좋은",
+      "lt": "",
+      "choices": [
+        "okay / good",
+        "bad",
+        "please",
+        "tomorrow"
+      ],
+      "correct": [
+        "okay / good"
+      ],
+      "type": "choose",
+      "tts": "좋은"
+    },
+    {
+      "ko": "나쁜",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "hello",
+        "thanks"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "나쁜"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hello",
+      "ko": "안녕하세요",
+      "correct": [
+        "안녕하세요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "안녕하세요",
+      "ru": "привет",
+      "pl": "Witam",
+      "zh": "你好",
+      "lt": "Sveiki"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "thank you",
+      "ko": "감사합니다",
+      "correct": [
+        "감사합니다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "감사합니다",
+      "ru": "Спасибо",
+      "pl": "Dziękuję",
+      "zh": "谢谢",
+      "lt": "ačiū"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "ko": "예",
+      "correct": [
+        "예"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "예",
+      "ru": "да",
+      "pl": "Tak",
+      "zh": "是的",
+      "lt": "taip"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "ko": "아니요",
+      "correct": [
+        "아니요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "아니요",
+      "ru": "нет",
+      "pl": "NIE",
+      "zh": "不",
+      "lt": "ne"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "please / you're welcome",
+      "ko": "제발",
+      "correct": [
+        "제발"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "제발",
+      "ru": "пожалуйста / пожалуйста",
+      "pl": "proszę / nie ma za co",
+      "zh": "请/不客气",
+      "lt": "prašom / prašom"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "excuse me / sorry",
+      "ko": "죄송합니다.",
+      "correct": [
+        "죄송합니다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "죄송합니다.",
+      "ru": "извините / извините",
+      "pl": "przepraszam",
+      "zh": "不好意思/抱歉",
+      "lt": "atsiprašau / atsiprašau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "goodbye",
+      "ko": "모두 제일 좋다",
+      "correct": [
+        "모두 제일 좋다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "모두 제일 좋다",
+      "ru": "до свидания",
+      "pl": "do widzenia",
+      "zh": "再见",
+      "lt": "atsisveikinimas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "see you",
+      "ko": "~까지",
+      "correct": [
+        "~까지"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "~까지",
+      "ru": "Увидимся",
+      "pl": "do zobaczenia",
+      "zh": "再见",
+      "lt": "pasimatysime"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay / good",
+      "ko": "좋은",
+      "correct": [
+        "좋은"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋은",
+      "ru": "хорошо / неплохо",
+      "pl": "dobrze / dobrze",
+      "zh": "好的/良好",
+      "lt": "gerai / gerai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "ko": "나쁜",
+      "correct": [
+        "나쁜"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나쁜",
+      "ru": "плохо",
+      "pl": "źle",
+      "zh": "糟糕",
+      "lt": "blogai"
+    }
+  ]
+}

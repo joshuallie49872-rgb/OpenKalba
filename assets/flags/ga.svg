@@ -1,5 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2">
-  <rect width="1" height="2" x="0" y="0" fill="#169B62"/>
-  <rect width="1" height="2" x="1" y="0" fill="#FFFFFF"/>
-  <rect width="1" height="2" x="2" y="0" fill="#FF883E"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <defs>
+    <clipPath id="r">
+      <rect x="0" y="5" width="36" height="26" rx="4" ry="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#r)">
+    <!-- Ireland flag (vertical tricolour) full-bleed -->
+    <rect x="0"  y="5" width="12" height="26" fill="#169B62"/>
+    <rect x="12" y="5" width="12" height="26" fill="#FFFFFF"/>
+    <rect x="24" y="5" width="12" height="26" fill="#FF883E"/>
+
+    <!-- hairline inner border to match your set -->
+    <rect x="0.15" y="5.15" width="35.7" height="25.7" rx="3.85" ry="3.85"
+          fill="none" stroke="#000000" stroke-width="0.3"/>
+  </g>
 </svg>

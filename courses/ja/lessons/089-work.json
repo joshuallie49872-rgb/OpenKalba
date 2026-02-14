@@ -1,0 +1,296 @@
+{
+  "id": "089-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "仕事",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "ja": "仕事"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "オフィス",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "ja": "オフィス"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "会議",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "ja": "会議"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "メール",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "ja": "メール"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "プロジェクト",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "ja": "プロジェクト"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "仕事",
+      "type": "translate",
+      "correct": [
+        "仕事"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "ja": "仕事"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "オフィス",
+      "type": "translate",
+      "correct": [
+        "オフィス"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "ja": "オフィス"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "会議",
+      "type": "translate",
+      "correct": [
+        "会議"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "ja": "会議"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "メール",
+      "type": "translate",
+      "correct": [
+        "メール"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "ja": "メール"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "プロジェクト",
+      "type": "translate",
+      "correct": [
+        "プロジェクト"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "ja": "プロジェクト"
+    },
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "仕事",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "ja": "仕事"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "オフィス",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "ja": "オフィス"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "会議",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "ja": "会議"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "メール",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "ja": "メール"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "プロジェクト",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "ja": "プロジェクト"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "仕事",
+      "type": "translate",
+      "correct": [
+        "仕事"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "ja": "仕事"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "オフィス",
+      "type": "translate",
+      "correct": [
+        "オフィス"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "ja": "オフィス"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "会議",
+      "type": "translate",
+      "correct": [
+        "会議"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "ja": "会議"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "メール",
+      "type": "translate",
+      "correct": [
+        "メール"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "ja": "メール"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "プロジェクト",
+      "type": "translate",
+      "correct": [
+        "プロジェクト"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "ja": "プロジェクト"
+    }
+  ]
+}

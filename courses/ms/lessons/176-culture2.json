@@ -1,0 +1,296 @@
+{
+  "id": "176-culture2",
+  "title": "Culture, Media & Society",
+  "questions": [
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "media",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "ms": "media"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "masyarakat",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "ms": "masyarakat"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "pendapat",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "ms": "pendapat"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "perbincangan",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "ms": "perbincangan"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "budaya",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "ms": "budaya"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "media",
+      "type": "translate",
+      "correct": [
+        "media"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "ms": "media"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "masyarakat",
+      "type": "translate",
+      "correct": [
+        "masyarakat"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "ms": "masyarakat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendapat",
+      "type": "translate",
+      "correct": [
+        "pendapat"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "ms": "pendapat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "perbincangan",
+      "type": "translate",
+      "correct": [
+        "perbincangan"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "ms": "perbincangan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "budaya",
+      "type": "translate",
+      "correct": [
+        "budaya"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "ms": "budaya"
+    },
+    {
+      "lt": "žiniasklaida",
+      "choices": [
+        "media",
+        "news",
+        "culture",
+        "society"
+      ],
+      "tts": "media",
+      "correct": [
+        "media"
+      ],
+      "type": "choose",
+      "ms": "media"
+    },
+    {
+      "lt": "visuomenė",
+      "choices": [
+        "society",
+        "people",
+        "media",
+        "group"
+      ],
+      "tts": "masyarakat",
+      "correct": [
+        "society"
+      ],
+      "type": "choose",
+      "ms": "masyarakat"
+    },
+    {
+      "lt": "nuomonės",
+      "choices": [
+        "opinions",
+        "facts",
+        "stories",
+        "rules"
+      ],
+      "tts": "pendapat",
+      "correct": [
+        "opinions"
+      ],
+      "type": "choose",
+      "ms": "pendapat"
+    },
+    {
+      "lt": "diskusija",
+      "choices": [
+        "discussion",
+        "argument",
+        "meeting",
+        "speech"
+      ],
+      "tts": "perbincangan",
+      "correct": [
+        "discussion"
+      ],
+      "type": "choose",
+      "ms": "perbincangan"
+    },
+    {
+      "lt": "kultūra",
+      "choices": [
+        "culture",
+        "tradition",
+        "habit",
+        "event"
+      ],
+      "tts": "budaya",
+      "correct": [
+        "culture"
+      ],
+      "type": "choose",
+      "ms": "budaya"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "media",
+      "type": "translate",
+      "correct": [
+        "media"
+      ],
+      "en": "media",
+      "placeholder": "Type Lithuanian…",
+      "zh": "media",
+      "ms": "media"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "masyarakat",
+      "type": "translate",
+      "correct": [
+        "masyarakat"
+      ],
+      "en": "society",
+      "placeholder": "Type Lithuanian…",
+      "zh": "society",
+      "ms": "masyarakat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendapat",
+      "type": "translate",
+      "correct": [
+        "pendapat"
+      ],
+      "en": "opinions",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinions",
+      "ms": "pendapat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "perbincangan",
+      "type": "translate",
+      "correct": [
+        "perbincangan"
+      ],
+      "en": "discussion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discussion",
+      "ms": "perbincangan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "budaya",
+      "type": "translate",
+      "correct": [
+        "budaya"
+      ],
+      "en": "culture",
+      "placeholder": "Type Lithuanian…",
+      "zh": "culture",
+      "ms": "budaya"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "169-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "قصة",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "ar": "قصة"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "قصة",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "ar": "قصة"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "بداية",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "ar": "بداية"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "نهاية",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "ar": "نهاية"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "حدث",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "ar": "حدث"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قصة",
+      "type": "translate",
+      "correct": [
+        "قصة"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "ar": "قصة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قصة",
+      "type": "translate",
+      "correct": [
+        "قصة"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "ar": "قصة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بداية",
+      "type": "translate",
+      "correct": [
+        "بداية"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "ar": "بداية"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نهاية",
+      "type": "translate",
+      "correct": [
+        "نهاية"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "ar": "نهاية"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حدث",
+      "type": "translate",
+      "correct": [
+        "حدث"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "ar": "حدث"
+    },
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "قصة",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "ar": "قصة"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "قصة",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "ar": "قصة"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "بداية",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "ar": "بداية"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "نهاية",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "ar": "نهاية"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "حدث",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "ar": "حدث"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قصة",
+      "type": "translate",
+      "correct": [
+        "قصة"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "ar": "قصة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قصة",
+      "type": "translate",
+      "correct": [
+        "قصة"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "ar": "قصة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بداية",
+      "type": "translate",
+      "correct": [
+        "بداية"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "ar": "بداية"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نهاية",
+      "type": "translate",
+      "correct": [
+        "نهاية"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "ar": "نهاية"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حدث",
+      "type": "translate",
+      "correct": [
+        "حدث"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "ar": "حدث"
+    }
+  ]
+}

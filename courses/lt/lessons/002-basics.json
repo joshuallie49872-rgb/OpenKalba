@@ -3,7 +3,6 @@
   "title": "Basics 2",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "vienas",
       "choices": [
         "one",
@@ -15,11 +14,9 @@
       "correct": [
         "one"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "du",
       "choices": [
         "one",
@@ -31,11 +28,9 @@
       "correct": [
         "two"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "trys",
       "choices": [
         "three",
@@ -47,11 +42,9 @@
       "correct": [
         "three"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "keturi",
       "choices": [
         "four",
@@ -63,11 +56,9 @@
       "correct": [
         "four"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "penki",
       "choices": [
         "five",
@@ -79,11 +70,9 @@
       "correct": [
         "five"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "raudona",
       "choices": [
         "red",
@@ -95,11 +84,9 @@
       "correct": [
         "red"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "mėlyna",
       "choices": [
         "blue",
@@ -111,11 +98,9 @@
       "correct": [
         "blue"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "žalia",
       "choices": [
         "green",
@@ -127,11 +112,9 @@
       "correct": [
         "green"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "juoda",
       "choices": [
         "black",
@@ -143,11 +126,9 @@
       "correct": [
         "black"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "balta",
       "choices": [
         "white",
@@ -159,11 +140,9 @@
       "correct": [
         "white"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "mama",
       "choices": [
         "mother",
@@ -175,11 +154,9 @@
       "correct": [
         "mother"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "tėtis",
       "choices": [
         "father",
@@ -191,11 +168,9 @@
       "correct": [
         "father"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "brolis",
       "choices": [
         "brother",
@@ -207,11 +182,9 @@
       "correct": [
         "brother"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "sesuo",
       "choices": [
         "sister",
@@ -223,11 +196,9 @@
       "correct": [
         "sister"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "šeima",
       "choices": [
         "family",
@@ -239,11 +210,9 @@
       "correct": [
         "family"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "vanduo",
       "choices": [
         "water",
@@ -255,11 +224,9 @@
       "correct": [
         "water"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "kava",
       "choices": [
         "coffee",
@@ -271,11 +238,9 @@
       "correct": [
         "coffee"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "duona",
       "choices": [
         "bread",
@@ -287,11 +252,9 @@
       "correct": [
         "bread"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "viešbutis",
       "choices": [
         "hotel",
@@ -303,11 +266,9 @@
       "correct": [
         "hotel"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "bilietas",
       "choices": [
         "ticket",
@@ -319,8 +280,7 @@
       "correct": [
         "ticket"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     }
   ]
 }

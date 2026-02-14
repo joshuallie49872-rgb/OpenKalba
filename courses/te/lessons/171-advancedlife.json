@@ -1,0 +1,296 @@
+{
+  "id": "171-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "పరిష్కారం",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "te": "పరిష్కారం"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "సమస్య",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "te": "సమస్య"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "ఎంపిక",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "te": "ఎంపిక"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "అనుభవం",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "te": "అనుభవం"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "ఫలితం",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "te": "ఫలితం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "పరిష్కారం",
+      "type": "translate",
+      "correct": [
+        "పరిష్కారం"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "te": "పరిష్కారం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సమస్య",
+      "type": "translate",
+      "correct": [
+        "సమస్య"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "te": "సమస్య"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఎంపిక",
+      "type": "translate",
+      "correct": [
+        "ఎంపిక"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "te": "ఎంపిక"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అనుభవం",
+      "type": "translate",
+      "correct": [
+        "అనుభవం"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "te": "అనుభవం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఫలితం",
+      "type": "translate",
+      "correct": [
+        "ఫలితం"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "te": "ఫలితం"
+    },
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "పరిష్కారం",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "te": "పరిష్కారం"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "సమస్య",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "te": "సమస్య"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "ఎంపిక",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "te": "ఎంపిక"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "అనుభవం",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "te": "అనుభవం"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "ఫలితం",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "te": "ఫలితం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "పరిష్కారం",
+      "type": "translate",
+      "correct": [
+        "పరిష్కారం"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "te": "పరిష్కారం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సమస్య",
+      "type": "translate",
+      "correct": [
+        "సమస్య"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "te": "సమస్య"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఎంపిక",
+      "type": "translate",
+      "correct": [
+        "ఎంపిక"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "te": "ఎంపిక"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అనుభవం",
+      "type": "translate",
+      "correct": [
+        "అనుభవం"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "te": "అనుభవం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఫలితం",
+      "type": "translate",
+      "correct": [
+        "ఫలితం"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "te": "ఫలితం"
+    }
+  ]
+}

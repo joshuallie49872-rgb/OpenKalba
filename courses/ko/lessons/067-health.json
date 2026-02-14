@@ -1,0 +1,316 @@
+{
+  "id": "067-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "ko": "통증",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "통증"
+    },
+    {
+      "ko": "머리",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "머리"
+    },
+    {
+      "ko": "손",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "손"
+    },
+    {
+      "ko": "다리",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "다리"
+    },
+    {
+      "ko": "의사",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "의사"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "pain",
+      "ko": "통증",
+      "correct": [
+        "통증"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "통증",
+      "ru": "боль",
+      "pl": "ból",
+      "zh": "疼痛",
+      "lt": "skausmas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "head",
+      "ko": "머리",
+      "correct": [
+        "머리"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "머리",
+      "ru": "голова",
+      "pl": "głowa",
+      "zh": "头",
+      "lt": "galva"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hand",
+      "ko": "손",
+      "correct": [
+        "손"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "손",
+      "ru": "рука",
+      "pl": "ręka",
+      "zh": "手",
+      "lt": "ranka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "leg",
+      "ko": "다리",
+      "correct": [
+        "다리"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "다리",
+      "ru": "нога",
+      "pl": "noga",
+      "zh": "腿",
+      "lt": "koja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "doctor",
+      "ko": "의사",
+      "correct": [
+        "의사"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "의사",
+      "ru": "врач",
+      "pl": "lekarz",
+      "zh": "医生",
+      "lt": "gydytojas"
+    },
+    {
+      "ko": "통증",
+      "lt": "",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "tts": "통증"
+    },
+    {
+      "ko": "머리",
+      "lt": "",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "tts": "머리"
+    },
+    {
+      "ko": "손",
+      "lt": "",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "tts": "손"
+    },
+    {
+      "ko": "다리",
+      "lt": "",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "tts": "다리"
+    },
+    {
+      "ko": "의사",
+      "lt": "",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "tts": "의사"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "pain",
+      "ko": "통증",
+      "correct": [
+        "통증"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "통증",
+      "ru": "боль",
+      "pl": "ból",
+      "zh": "疼痛",
+      "lt": "skausmas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "head",
+      "ko": "머리",
+      "correct": [
+        "머리"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "머리",
+      "ru": "голова",
+      "pl": "głowa",
+      "zh": "头",
+      "lt": "galva"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hand",
+      "ko": "손",
+      "correct": [
+        "손"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "손",
+      "ru": "рука",
+      "pl": "ręka",
+      "zh": "手",
+      "lt": "ranka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "leg",
+      "ko": "다리",
+      "correct": [
+        "다리"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "다리",
+      "ru": "нога",
+      "pl": "noga",
+      "zh": "腿",
+      "lt": "koja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "doctor",
+      "ko": "의사",
+      "correct": [
+        "의사"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "의사",
+      "ru": "врач",
+      "pl": "lekarz",
+      "zh": "医生",
+      "lt": "gydytojas"
+    }
+  ]
+}

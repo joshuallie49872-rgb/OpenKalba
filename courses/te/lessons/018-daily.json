@@ -1,0 +1,296 @@
+{
+  "id": "018-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "నేను పని చేస్తున్నాను",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "te": "నేను పని చేస్తున్నాను"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "నేను నిద్రపోతున్నాను",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "te": "నేను నిద్రపోతున్నాను"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "నేను తింటాను",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "te": "నేను తింటాను"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "నేను వెళ్తున్నాను",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "te": "నేను వెళ్తున్నాను"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "నేను లేస్తాను",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "te": "నేను లేస్తాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను పని చేస్తున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను పని చేస్తున్నాను"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "te": "నేను పని చేస్తున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను నిద్రపోతున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను నిద్రపోతున్నాను"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "te": "నేను నిద్రపోతున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను తింటాను",
+      "type": "translate",
+      "correct": [
+        "నేను తింటాను"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "te": "నేను తింటాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను వెళ్తున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను వెళ్తున్నాను"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "te": "నేను వెళ్తున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను లేస్తాను",
+      "type": "translate",
+      "correct": [
+        "నేను లేస్తాను"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "te": "నేను లేస్తాను"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "నేను పని చేస్తున్నాను",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "te": "నేను పని చేస్తున్నాను"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "నేను నిద్రపోతున్నాను",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "te": "నేను నిద్రపోతున్నాను"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "నేను తింటాను",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "te": "నేను తింటాను"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "నేను వెళ్తున్నాను",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "te": "నేను వెళ్తున్నాను"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "నేను లేస్తాను",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "te": "నేను లేస్తాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను పని చేస్తున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను పని చేస్తున్నాను"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "te": "నేను పని చేస్తున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను నిద్రపోతున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను నిద్రపోతున్నాను"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "te": "నేను నిద్రపోతున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను తింటాను",
+      "type": "translate",
+      "correct": [
+        "నేను తింటాను"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "te": "నేను తింటాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను వెళ్తున్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను వెళ్తున్నాను"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "te": "నేను వెళ్తున్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను లేస్తాను",
+      "type": "translate",
+      "correct": [
+        "నేను లేస్తాను"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "te": "నేను లేస్తాను"
+    }
+  ]
+}

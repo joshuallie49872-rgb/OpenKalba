@@ -1,0 +1,296 @@
+{
+  "id": "095-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "يسار",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ar": "يسار"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "يمين",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ar": "يمين"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "مباشرة",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ar": "مباشرة"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "إلى الخلف",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "ar": "إلى الخلف"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "قريب",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "ar": "قريب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "يسار",
+      "type": "translate",
+      "correct": [
+        "يسار"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "ar": "يسار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "يمين",
+      "type": "translate",
+      "correct": [
+        "يمين"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "ar": "يمين"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مباشرة",
+      "type": "translate",
+      "correct": [
+        "مباشرة"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "ar": "مباشرة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "إلى الخلف",
+      "type": "translate",
+      "correct": [
+        "إلى الخلف"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "ar": "إلى الخلف"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قريب",
+      "type": "translate",
+      "correct": [
+        "قريب"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "ar": "قريب"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "يسار",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ar": "يسار"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "يمين",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ar": "يمين"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "مباشرة",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ar": "مباشرة"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "إلى الخلف",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "ar": "إلى الخلف"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "قريب",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "ar": "قريب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "يسار",
+      "type": "translate",
+      "correct": [
+        "يسار"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "ar": "يسار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "يمين",
+      "type": "translate",
+      "correct": [
+        "يمين"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "ar": "يمين"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مباشرة",
+      "type": "translate",
+      "correct": [
+        "مباشرة"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "ar": "مباشرة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "إلى الخلف",
+      "type": "translate",
+      "correct": [
+        "إلى الخلف"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "ar": "إلى الخلف"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "قريب",
+      "type": "translate",
+      "correct": [
+        "قريب"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "ar": "قريب"
+    }
+  ]
+}

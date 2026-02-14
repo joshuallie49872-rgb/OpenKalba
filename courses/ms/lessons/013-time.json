@@ -1,0 +1,296 @@
+{
+  "id": "013-time",
+  "title": "Time & Dates",
+  "questions": [
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "hari ini",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "ms": "hari ini"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "esok",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "ms": "esok"
+    },
+    {
+      "lt": "vakar",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "tts": "semalam",
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "ms": "semalam"
+    },
+    {
+      "lt": "dabar",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "sekarang",
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "ms": "sekarang"
+    },
+    {
+      "lt": "valanda",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "tts": "jam",
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "ms": "jam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hari ini",
+      "type": "translate",
+      "correct": [
+        "hari ini"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "ms": "hari ini"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "esok",
+      "type": "translate",
+      "correct": [
+        "esok"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "ms": "esok"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "semalam",
+      "type": "translate",
+      "correct": [
+        "semalam"
+      ],
+      "en": "yesterday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "昨天",
+      "ms": "semalam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sekarang",
+      "type": "translate",
+      "correct": [
+        "sekarang"
+      ],
+      "en": "now",
+      "placeholder": "Type Lithuanian…",
+      "zh": "now",
+      "ms": "sekarang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "jam",
+      "type": "translate",
+      "correct": [
+        "jam"
+      ],
+      "en": "hour",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hour",
+      "ms": "jam"
+    },
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "hari ini",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "ms": "hari ini"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "esok",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "ms": "esok"
+    },
+    {
+      "lt": "vakar",
+      "choices": [
+        "yesterday",
+        "today",
+        "now",
+        "later"
+      ],
+      "tts": "semalam",
+      "correct": [
+        "yesterday"
+      ],
+      "type": "choose",
+      "ms": "semalam"
+    },
+    {
+      "lt": "dabar",
+      "choices": [
+        "now",
+        "later",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "sekarang",
+      "correct": [
+        "now"
+      ],
+      "type": "choose",
+      "ms": "sekarang"
+    },
+    {
+      "lt": "valanda",
+      "choices": [
+        "hour",
+        "minute",
+        "day",
+        "week"
+      ],
+      "tts": "jam",
+      "correct": [
+        "hour"
+      ],
+      "type": "choose",
+      "ms": "jam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hari ini",
+      "type": "translate",
+      "correct": [
+        "hari ini"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "ms": "hari ini"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "esok",
+      "type": "translate",
+      "correct": [
+        "esok"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "ms": "esok"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "semalam",
+      "type": "translate",
+      "correct": [
+        "semalam"
+      ],
+      "en": "yesterday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "昨天",
+      "ms": "semalam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sekarang",
+      "type": "translate",
+      "correct": [
+        "sekarang"
+      ],
+      "en": "now",
+      "placeholder": "Type Lithuanian…",
+      "zh": "now",
+      "ms": "sekarang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "jam",
+      "type": "translate",
+      "correct": [
+        "jam"
+      ],
+      "en": "hour",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hour",
+      "ms": "jam"
+    }
+  ]
+}

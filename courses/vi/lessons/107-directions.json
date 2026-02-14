@@ -1,0 +1,296 @@
+{
+  "id": "107-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "bên trái",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "vi": "bên trái"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "bên phải",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "vi": "bên phải"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "thẳng",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "vi": "thẳng"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "quay lại",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "vi": "quay lại"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "gần",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "vi": "gần"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bên trái",
+      "type": "translate",
+      "correct": [
+        "bên trái"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "vi": "bên trái"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bên phải",
+      "type": "translate",
+      "correct": [
+        "bên phải"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "vi": "bên phải"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thẳng",
+      "type": "translate",
+      "correct": [
+        "thẳng"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "vi": "thẳng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "quay lại",
+      "type": "translate",
+      "correct": [
+        "quay lại"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "vi": "quay lại"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gần",
+      "type": "translate",
+      "correct": [
+        "gần"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "vi": "gần"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "bên trái",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "vi": "bên trái"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "bên phải",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "vi": "bên phải"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "thẳng",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "vi": "thẳng"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "quay lại",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "vi": "quay lại"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "gần",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "vi": "gần"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bên trái",
+      "type": "translate",
+      "correct": [
+        "bên trái"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "vi": "bên trái"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bên phải",
+      "type": "translate",
+      "correct": [
+        "bên phải"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "vi": "bên phải"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thẳng",
+      "type": "translate",
+      "correct": [
+        "thẳng"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "vi": "thẳng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "quay lại",
+      "type": "translate",
+      "correct": [
+        "quay lại"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "vi": "quay lại"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gần",
+      "type": "translate",
+      "correct": [
+        "gần"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "vi": "gần"
+    }
+  ]
+}

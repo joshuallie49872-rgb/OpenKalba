@@ -1,0 +1,316 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "ko": "무엇",
+      "lt": "",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "tts": "무엇"
+    },
+    {
+      "ko": "무엇",
+      "lt": "",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "tts": "무엇"
+    },
+    {
+      "ko": "어디",
+      "lt": "",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "tts": "어디"
+    },
+    {
+      "ko": "언제",
+      "lt": "",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "tts": "언제"
+    },
+    {
+      "ko": "왜",
+      "lt": "",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "tts": "왜"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "who",
+      "ko": "무엇",
+      "correct": [
+        "무엇"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "무엇",
+      "ru": "ВОЗ",
+      "pl": "Kto",
+      "zh": "WHO",
+      "lt": "PSO"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "what",
+      "ko": "무엇",
+      "correct": [
+        "무엇"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "무엇",
+      "ru": "что",
+      "pl": "Co",
+      "zh": "什么",
+      "lt": "ką"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "where",
+      "ko": "어디",
+      "correct": [
+        "어디"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "어디",
+      "ru": "где",
+      "pl": "Gdzie",
+      "zh": "在哪里",
+      "lt": "kur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "when",
+      "ko": "언제",
+      "correct": [
+        "언제"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "언제",
+      "ru": "когда",
+      "pl": "Kiedy",
+      "zh": "什么时候",
+      "lt": "kada"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "why",
+      "ko": "왜",
+      "correct": [
+        "왜"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "왜",
+      "ru": "почему",
+      "pl": "Dlaczego",
+      "zh": "为什么",
+      "lt": "kodėl"
+    },
+    {
+      "ko": "예",
+      "lt": "",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tts": "예"
+    },
+    {
+      "ko": "아니요",
+      "lt": "",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tts": "아니요"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "yes",
+      "ko": "예",
+      "correct": [
+        "예"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "예",
+      "ru": "да",
+      "pl": "Tak",
+      "zh": "是的",
+      "lt": "taip"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "no",
+      "ko": "아니요",
+      "correct": [
+        "아니요"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "아니요",
+      "ru": "нет",
+      "pl": "NIE",
+      "zh": "不",
+      "lt": "ne"
+    },
+    {
+      "ko": "좋은",
+      "lt": "",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tts": "좋은"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "okay",
+      "ko": "좋은",
+      "correct": [
+        "좋은"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "좋은",
+      "ru": "хорошо",
+      "pl": "Dobra",
+      "zh": "好的",
+      "lt": "gerai"
+    },
+    {
+      "ko": "나쁜",
+      "lt": "",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tts": "나쁜"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "badly",
+      "ko": "나쁜",
+      "correct": [
+        "나쁜"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나쁜",
+      "ru": "плохо",
+      "pl": "źle",
+      "zh": "糟糕",
+      "lt": "blogai"
+    },
+    {
+      "ko": "어떻게",
+      "lt": "",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "tts": "어떻게"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "how",
+      "ko": "어떻게",
+      "correct": [
+        "어떻게"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "어떻게",
+      "ru": "как",
+      "pl": "Jak",
+      "zh": "如何",
+      "lt": "kaip"
+    }
+  ]
+}

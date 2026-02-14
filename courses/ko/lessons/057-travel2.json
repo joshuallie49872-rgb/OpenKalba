@@ -1,0 +1,316 @@
+{
+  "id": "057-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "ko": "여권",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "여권"
+    },
+    {
+      "ko": "벽",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "벽"
+    },
+    {
+      "ko": "여행하다",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "여행하다"
+    },
+    {
+      "ko": "여행 가방",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "여행 가방"
+    },
+    {
+      "ko": "세관",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "세관"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "ko": "여권",
+      "correct": [
+        "여권"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여권",
+      "ru": "паспорт",
+      "pl": "paszport",
+      "zh": "护照",
+      "lt": "pasas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "ko": "벽",
+      "correct": [
+        "벽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "벽",
+      "ru": "граница",
+      "pl": "granica",
+      "zh": "边界",
+      "lt": "siena"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "ko": "여행하다",
+      "correct": [
+        "여행하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여행하다",
+      "ru": "путешествовать",
+      "pl": "podróżować",
+      "zh": "去旅行",
+      "lt": "keliauti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "ko": "여행 가방",
+      "correct": [
+        "여행 가방"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여행 가방",
+      "ru": "чемодан",
+      "pl": "walizka",
+      "zh": "手提箱",
+      "lt": "lagaminas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "ko": "세관",
+      "correct": [
+        "세관"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "세관",
+      "ru": "таможня",
+      "pl": "odprawa celna",
+      "zh": "海关",
+      "lt": "muitinės"
+    },
+    {
+      "ko": "여권",
+      "lt": "",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "tts": "여권"
+    },
+    {
+      "ko": "벽",
+      "lt": "",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "tts": "벽"
+    },
+    {
+      "ko": "여행하다",
+      "lt": "",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "tts": "여행하다"
+    },
+    {
+      "ko": "여행 가방",
+      "lt": "",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "tts": "여행 가방"
+    },
+    {
+      "ko": "세관",
+      "lt": "",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "tts": "세관"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "passport",
+      "ko": "여권",
+      "correct": [
+        "여권"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여권",
+      "ru": "паспорт",
+      "pl": "paszport",
+      "zh": "护照",
+      "lt": "pasas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "border",
+      "ko": "벽",
+      "correct": [
+        "벽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "벽",
+      "ru": "граница",
+      "pl": "granica",
+      "zh": "边界",
+      "lt": "siena"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to travel",
+      "ko": "여행하다",
+      "correct": [
+        "여행하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여행하다",
+      "ru": "путешествовать",
+      "pl": "podróżować",
+      "zh": "去旅行",
+      "lt": "keliauti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "suitcase",
+      "ko": "여행 가방",
+      "correct": [
+        "여행 가방"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여행 가방",
+      "ru": "чемодан",
+      "pl": "walizka",
+      "zh": "手提箱",
+      "lt": "lagaminas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "customs",
+      "ko": "세관",
+      "correct": [
+        "세관"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "세관",
+      "ru": "таможня",
+      "pl": "odprawa celna",
+      "zh": "海关",
+      "lt": "muitinės"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "ここ",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ja": "ここ"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "そこ",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ja": "そこ"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "左",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ja": "左"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "右",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ja": "右"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "まっすぐ",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ja": "まっすぐ"
+    },
+    {
+      "lt": "miestas",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "市",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "ja": "市"
+    },
+    {
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "通り",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "ja": "通り"
+    },
+    {
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "駅",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "ja": "駅"
+    },
+    {
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "空港",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "ja": "空港"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "ホテル",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "ja": "ホテル"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ここ",
+      "type": "translate",
+      "correct": [
+        "ここ"
+      ],
+      "en": "here",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里",
+      "ja": "ここ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "そこ",
+      "type": "translate",
+      "correct": [
+        "そこ"
+      ],
+      "en": "there",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里",
+      "ja": "そこ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "左",
+      "type": "translate",
+      "correct": [
+        "左"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "ja": "左"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "右",
+      "type": "translate",
+      "correct": [
+        "右"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "ja": "右"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "まっすぐ",
+      "type": "translate",
+      "correct": [
+        "まっすぐ"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "ja": "まっすぐ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "市",
+      "type": "translate",
+      "correct": [
+        "市"
+      ],
+      "en": "city",
+      "placeholder": "Type Lithuanian…",
+      "zh": "city",
+      "ja": "市"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "通り",
+      "type": "translate",
+      "correct": [
+        "通り"
+      ],
+      "en": "street",
+      "placeholder": "Type Lithuanian…",
+      "zh": "street",
+      "ja": "通り"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ホテル",
+      "type": "translate",
+      "correct": [
+        "ホテル"
+      ],
+      "en": "hotel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hotel",
+      "ja": "ホテル"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "駅",
+      "type": "translate",
+      "correct": [
+        "駅"
+      ],
+      "en": "station",
+      "placeholder": "Type Lithuanian…",
+      "zh": "station",
+      "ja": "駅"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "空港",
+      "type": "translate",
+      "correct": [
+        "空港"
+      ],
+      "en": "airport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "airport",
+      "ja": "空港"
+    }
+  ]
+}

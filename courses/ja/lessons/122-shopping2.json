@@ -1,0 +1,296 @@
+{
+  "id": "122-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "高い",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ja": "高い"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "安い",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ja": "安い"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "割引",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ja": "割引"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "レジ係",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ja": "レジ係"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "レシート",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ja": "レシート"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "高い",
+      "type": "translate",
+      "correct": [
+        "高い"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "ja": "高い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "安い",
+      "type": "translate",
+      "correct": [
+        "安い"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "ja": "安い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "割引",
+      "type": "translate",
+      "correct": [
+        "割引"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "ja": "割引"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "レジ係",
+      "type": "translate",
+      "correct": [
+        "レジ係"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "ja": "レジ係"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "レシート",
+      "type": "translate",
+      "correct": [
+        "レシート"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "ja": "レシート"
+    },
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "高い",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ja": "高い"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "安い",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ja": "安い"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "割引",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ja": "割引"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "レジ係",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ja": "レジ係"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "レシート",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ja": "レシート"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "高い",
+      "type": "translate",
+      "correct": [
+        "高い"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "ja": "高い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "安い",
+      "type": "translate",
+      "correct": [
+        "安い"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "ja": "安い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "割引",
+      "type": "translate",
+      "correct": [
+        "割引"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "ja": "割引"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "レジ係",
+      "type": "translate",
+      "correct": [
+        "レジ係"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "ja": "レジ係"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "レシート",
+      "type": "translate",
+      "correct": [
+        "レシート"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "ja": "レシート"
+    }
+  ]
+}

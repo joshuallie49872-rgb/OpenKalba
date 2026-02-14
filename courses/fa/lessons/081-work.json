@@ -1,0 +1,296 @@
+{
+  "id": "081-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "کار کردن",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "fa": "کار کردن"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "دفتر",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "fa": "دفتر"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "یک جلسه",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "fa": "یک جلسه"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "اداره پست ایمیل",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "fa": "اداره پست ایمیل"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "پروژه",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "fa": "پروژه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "کار کردن",
+      "type": "translate",
+      "correct": [
+        "کار کردن"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "fa": "کار کردن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "دفتر",
+      "type": "translate",
+      "correct": [
+        "دفتر"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "fa": "دفتر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک جلسه",
+      "type": "translate",
+      "correct": [
+        "یک جلسه"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "fa": "یک جلسه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "اداره پست ایمیل",
+      "type": "translate",
+      "correct": [
+        "اداره پست ایمیل"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "fa": "اداره پست ایمیل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پروژه",
+      "type": "translate",
+      "correct": [
+        "پروژه"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "fa": "پروژه"
+    },
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "کار کردن",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "fa": "کار کردن"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "دفتر",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "fa": "دفتر"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "یک جلسه",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "fa": "یک جلسه"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "اداره پست ایمیل",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "fa": "اداره پست ایمیل"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "پروژه",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "fa": "پروژه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "کار کردن",
+      "type": "translate",
+      "correct": [
+        "کار کردن"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "fa": "کار کردن"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "دفتر",
+      "type": "translate",
+      "correct": [
+        "دفتر"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "fa": "دفتر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک جلسه",
+      "type": "translate",
+      "correct": [
+        "یک جلسه"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "fa": "یک جلسه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "اداره پست ایمیل",
+      "type": "translate",
+      "correct": [
+        "اداره پست ایمیل"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "fa": "اداره پست ایمیل"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پروژه",
+      "type": "translate",
+      "correct": [
+        "پروژه"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "fa": "پروژه"
+    }
+  ]
+}

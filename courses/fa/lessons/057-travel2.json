@@ -1,0 +1,296 @@
+{
+  "id": "057-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "پاسپورت",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "fa": "پاسپورت"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "دیوارها",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "fa": "دیوارها"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "برای سفر",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "fa": "برای سفر"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "یک چمدان",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "fa": "یک چمدان"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "اداره گمرک",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "fa": "اداره گمرک"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پاسپورت",
+      "type": "translate",
+      "correct": [
+        "پاسپورت"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "fa": "پاسپورت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "دیوار",
+      "type": "translate",
+      "correct": [
+        "دیوار"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "fa": "دیوار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برای سفر",
+      "type": "translate",
+      "correct": [
+        "برای سفر"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "fa": "برای سفر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک چمدان",
+      "type": "translate",
+      "correct": [
+        "یک چمدان"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "fa": "یک چمدان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "اداره گمرک",
+      "type": "translate",
+      "correct": [
+        "اداره گمرک"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "fa": "اداره گمرک"
+    },
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "پاسپورت",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "fa": "پاسپورت"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "دیوارها",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "fa": "دیوارها"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "برای سفر",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "fa": "برای سفر"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "یک چمدان",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "fa": "یک چمدان"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "اداره گمرک",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "fa": "اداره گمرک"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پاسپورت",
+      "type": "translate",
+      "correct": [
+        "پاسپورت"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "fa": "پاسپورت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "دیوار",
+      "type": "translate",
+      "correct": [
+        "دیوار"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "fa": "دیوار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برای سفر",
+      "type": "translate",
+      "correct": [
+        "برای سفر"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "fa": "برای سفر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "یک چمدان",
+      "type": "translate",
+      "correct": [
+        "یک چمدان"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "fa": "یک چمدان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "اداره گمرک",
+      "type": "translate",
+      "correct": [
+        "اداره گمرک"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "fa": "اداره گمرک"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "132-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "ko": "축하",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "축하"
+    },
+    {
+      "ko": "전통",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "전통"
+    },
+    {
+      "ko": "관습",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "관습"
+    },
+    {
+      "ko": "여가",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "여가"
+    },
+    {
+      "ko": "이벤트",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "이벤트"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "ko": "축하",
+      "correct": [
+        "축하"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "축하",
+      "ru": "праздничный день",
+      "pl": "wakacje",
+      "zh": "假期",
+      "lt": "atostogos"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "ko": "전통",
+      "correct": [
+        "전통"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "전통",
+      "ru": "традиция",
+      "pl": "tradycja",
+      "zh": "传统",
+      "lt": "tradicija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "ko": "관습",
+      "correct": [
+        "관습"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "관습",
+      "ru": "обычай",
+      "pl": "zwyczaj",
+      "zh": "风俗",
+      "lt": "paprotys"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "ko": "여가",
+      "correct": [
+        "여가"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여가",
+      "ru": "свободное время",
+      "pl": "czas wolny",
+      "zh": "空闲时间",
+      "lt": "laisvas laikas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "ko": "이벤트",
+      "correct": [
+        "이벤트"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이벤트",
+      "ru": "событие",
+      "pl": "wydarzenie",
+      "zh": "事件",
+      "lt": "įvykis"
+    },
+    {
+      "ko": "축하",
+      "lt": "",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tts": "축하"
+    },
+    {
+      "ko": "전통",
+      "lt": "",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tts": "전통"
+    },
+    {
+      "ko": "관습",
+      "lt": "",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tts": "관습"
+    },
+    {
+      "ko": "여가",
+      "lt": "",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tts": "여가"
+    },
+    {
+      "ko": "이벤트",
+      "lt": "",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tts": "이벤트"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "holiday",
+      "ko": "축하",
+      "correct": [
+        "축하"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "축하",
+      "ru": "праздничный день",
+      "pl": "wakacje",
+      "zh": "假期",
+      "lt": "atostogos"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tradition",
+      "ko": "전통",
+      "correct": [
+        "전통"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "전통",
+      "ru": "традиция",
+      "pl": "tradycja",
+      "zh": "传统",
+      "lt": "tradicija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "custom",
+      "ko": "관습",
+      "correct": [
+        "관습"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "관습",
+      "ru": "обычай",
+      "pl": "zwyczaj",
+      "zh": "风俗",
+      "lt": "paprotys"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "free time",
+      "ko": "여가",
+      "correct": [
+        "여가"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여가",
+      "ru": "свободное время",
+      "pl": "czas wolny",
+      "zh": "空闲时间",
+      "lt": "laisvas laikas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "event",
+      "ko": "이벤트",
+      "correct": [
+        "이벤트"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이벤트",
+      "ru": "событие",
+      "pl": "wydarzenie",
+      "zh": "事件",
+      "lt": "įvykis"
+    }
+  ]
+}

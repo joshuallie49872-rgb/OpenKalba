@@ -1,0 +1,296 @@
+{
+  "id": "125-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "Kahvaltı",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tr": "Kahvaltı"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "Öğle yemeği",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tr": "Öğle yemeği"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "Akşam yemeği",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tr": "Akşam yemeği"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "Lezzetli",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tr": "Lezzetli"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "Aç",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tr": "Aç"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kahvaltı",
+      "type": "translate",
+      "correct": [
+        "Kahvaltı"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "tr": "Kahvaltı"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Öğle yemeği",
+      "type": "translate",
+      "correct": [
+        "Öğle yemeği"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "tr": "Öğle yemeği"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Akşam yemeği",
+      "type": "translate",
+      "correct": [
+        "Akşam yemeği"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "tr": "Akşam yemeği"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Lezzetli",
+      "type": "translate",
+      "correct": [
+        "Lezzetli"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "tr": "Lezzetli"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Aç",
+      "type": "translate",
+      "correct": [
+        "Aç"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "tr": "Aç"
+    },
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "Kahvaltı",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tr": "Kahvaltı"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "Öğle yemeği",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tr": "Öğle yemeği"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "Akşam yemeği",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tr": "Akşam yemeği"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "Lezzetli",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tr": "Lezzetli"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "Aç",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tr": "Aç"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kahvaltı",
+      "type": "translate",
+      "correct": [
+        "Kahvaltı"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "tr": "Kahvaltı"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Öğle yemeği",
+      "type": "translate",
+      "correct": [
+        "Öğle yemeği"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "tr": "Öğle yemeği"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Akşam yemeği",
+      "type": "translate",
+      "correct": [
+        "Akşam yemeği"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "tr": "Akşam yemeği"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Lezzetli",
+      "type": "translate",
+      "correct": [
+        "Lezzetli"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "tr": "Lezzetli"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Aç",
+      "type": "translate",
+      "correct": [
+        "Aç"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "tr": "Aç"
+    }
+  ]
+}

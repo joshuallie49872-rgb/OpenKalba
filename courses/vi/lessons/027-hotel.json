@@ -1,0 +1,296 @@
+{
+  "id": "027-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "phòng",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "vi": "phòng"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "chìa khóa",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "vi": "chìa khóa"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "giường",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "vi": "giường"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "đăng ký",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "vi": "đăng ký"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "qua đêm",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "vi": "qua đêm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "phòng",
+      "type": "translate",
+      "correct": [
+        "phòng"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "vi": "phòng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chìa khóa",
+      "type": "translate",
+      "correct": [
+        "chìa khóa"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "vi": "chìa khóa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "giường",
+      "type": "translate",
+      "correct": [
+        "giường"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "vi": "giường"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đăng ký",
+      "type": "translate",
+      "correct": [
+        "đăng ký"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "vi": "đăng ký"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "qua đêm",
+      "type": "translate",
+      "correct": [
+        "qua đêm"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "vi": "qua đêm"
+    },
+    {
+      "lt": "kambarys",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "tts": "phòng",
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "vi": "phòng"
+    },
+    {
+      "lt": "raktas",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "tts": "chìa khóa",
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "vi": "chìa khóa"
+    },
+    {
+      "lt": "lova",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "tts": "giường",
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "vi": "giường"
+    },
+    {
+      "lt": "registracija",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "tts": "đăng ký",
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "vi": "đăng ký"
+    },
+    {
+      "lt": "nakvynė",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "tts": "qua đêm",
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "vi": "qua đêm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "phòng",
+      "type": "translate",
+      "correct": [
+        "phòng"
+      ],
+      "en": "room",
+      "placeholder": "Type Lithuanian…",
+      "zh": "room",
+      "vi": "phòng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chìa khóa",
+      "type": "translate",
+      "correct": [
+        "chìa khóa"
+      ],
+      "en": "key",
+      "placeholder": "Type Lithuanian…",
+      "zh": "key",
+      "vi": "chìa khóa"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "giường",
+      "type": "translate",
+      "correct": [
+        "giường"
+      ],
+      "en": "bed",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bed",
+      "vi": "giường"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đăng ký",
+      "type": "translate",
+      "correct": [
+        "đăng ký"
+      ],
+      "en": "check-in",
+      "placeholder": "Type Lithuanian…",
+      "zh": "check-in",
+      "vi": "đăng ký"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "qua đêm",
+      "type": "translate",
+      "correct": [
+        "qua đêm"
+      ],
+      "en": "overnight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "overnight",
+      "vi": "qua đêm"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "052-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "నాకు ఇష్టం",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "ఇష్టం లేదు",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "te": "ఇష్టం లేదు"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "నాకు ఇష్టం",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "నాకు కావడం లేదు",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "te": "నాకు కావడం లేదు"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "ముఖ్యమైనది",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "te": "ముఖ్యమైనది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు ఇష్టం",
+      "type": "translate",
+      "correct": [
+        "నాకు ఇష్టం"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఇష్టం లేదు",
+      "type": "translate",
+      "correct": [
+        "ఇష్టం లేదు"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "te": "ఇష్టం లేదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు ఇష్టం",
+      "type": "translate",
+      "correct": [
+        "నాకు ఇష్టం"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు కావడం లేదు",
+      "type": "translate",
+      "correct": [
+        "నాకు కావడం లేదు"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "te": "నాకు కావడం లేదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ముఖ్యమైనది",
+      "type": "translate",
+      "correct": [
+        "ముఖ్యమైనది"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "te": "ముఖ్యమైనది"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "నాకు ఇష్టం",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "ఇష్టం లేదు",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "te": "ఇష్టం లేదు"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "నాకు ఇష్టం",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "నాకు కావడం లేదు",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "te": "నాకు కావడం లేదు"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "ముఖ్యమైనది",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "te": "ముఖ్యమైనది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు ఇష్టం",
+      "type": "translate",
+      "correct": [
+        "నాకు ఇష్టం"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఇష్టం లేదు",
+      "type": "translate",
+      "correct": [
+        "ఇష్టం లేదు"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "te": "ఇష్టం లేదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు ఇష్టం",
+      "type": "translate",
+      "correct": [
+        "నాకు ఇష్టం"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "te": "నాకు ఇష్టం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు కావడం లేదు",
+      "type": "translate",
+      "correct": [
+        "నాకు కావడం లేదు"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "te": "నాకు కావడం లేదు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ముఖ్యమైనది",
+      "type": "translate",
+      "correct": [
+        "ముఖ్యమైనది"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "te": "ముఖ్యమైనది"
+    }
+  ]
+}

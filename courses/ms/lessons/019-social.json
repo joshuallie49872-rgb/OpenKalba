@@ -1,0 +1,296 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "saya minta maaf",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "ms": "saya minta maaf"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "sila",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ms": "sila"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "terima kasih",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ms": "terima kasih"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "baik",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ms": "baik"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "baik",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "ms": "baik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya minta maaf",
+      "type": "translate",
+      "correct": [
+        "saya minta maaf"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "ms": "saya minta maaf"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sila",
+      "type": "translate",
+      "correct": [
+        "sila"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ms": "sila"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "terima kasih",
+      "type": "translate",
+      "correct": [
+        "terima kasih"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "ms": "terima kasih"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "baik",
+      "type": "translate",
+      "correct": [
+        "baik"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ms": "baik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "baik",
+      "type": "translate",
+      "correct": [
+        "baik"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "ms": "baik"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "saya minta maaf",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "ms": "saya minta maaf"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "sila",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ms": "sila"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "terima kasih",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ms": "terima kasih"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "baik",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ms": "baik"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "baik",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "ms": "baik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya minta maaf",
+      "type": "translate",
+      "correct": [
+        "saya minta maaf"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "ms": "saya minta maaf"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sila",
+      "type": "translate",
+      "correct": [
+        "sila"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ms": "sila"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "terima kasih",
+      "type": "translate",
+      "correct": [
+        "terima kasih"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "ms": "terima kasih"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "baik",
+      "type": "translate",
+      "correct": [
+        "baik"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ms": "baik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "baik",
+      "type": "translate",
+      "correct": [
+        "baik"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "ms": "baik"
+    }
+  ]
+}

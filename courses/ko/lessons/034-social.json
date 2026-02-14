@@ -1,0 +1,316 @@
+{
+  "id": "034-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "ko": "친구",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "친구"
+    },
+    {
+      "ko": "가족",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "가족"
+    },
+    {
+      "ko": "이름",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "이름"
+    },
+    {
+      "ko": "멋진",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "멋진"
+    },
+    {
+      "ko": "만나다",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "만나다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "ko": "친구",
+      "correct": [
+        "친구"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "친구",
+      "ru": "друг",
+      "pl": "przyjaciel",
+      "zh": "朋友",
+      "lt": "draugas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "ko": "가족",
+      "correct": [
+        "가족"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "가족",
+      "ru": "семья",
+      "pl": "rodzina",
+      "zh": "家庭",
+      "lt": "šeima"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "ko": "이름",
+      "correct": [
+        "이름"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이름",
+      "ru": "имя",
+      "pl": "nazwa",
+      "zh": "姓名",
+      "lt": "vardas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "ko": "멋진",
+      "correct": [
+        "멋진"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "멋진",
+      "ru": "хороший",
+      "pl": "Ładny",
+      "zh": "好的",
+      "lt": "gražus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "ko": "만나다",
+      "correct": [
+        "만나다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "만나다",
+      "ru": "встретиться",
+      "pl": "spotkać się",
+      "zh": "满足",
+      "lt": "susitikti"
+    },
+    {
+      "ko": "친구",
+      "lt": "",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tts": "친구"
+    },
+    {
+      "ko": "가족",
+      "lt": "",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tts": "가족"
+    },
+    {
+      "ko": "이름",
+      "lt": "",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tts": "이름"
+    },
+    {
+      "ko": "멋진",
+      "lt": "",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tts": "멋진"
+    },
+    {
+      "ko": "만나다",
+      "lt": "",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tts": "만나다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "friend",
+      "ko": "친구",
+      "correct": [
+        "친구"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "친구",
+      "ru": "друг",
+      "pl": "przyjaciel",
+      "zh": "朋友",
+      "lt": "draugas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "family",
+      "ko": "가족",
+      "correct": [
+        "가족"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "가족",
+      "ru": "семья",
+      "pl": "rodzina",
+      "zh": "家庭",
+      "lt": "šeima"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "name",
+      "ko": "이름",
+      "correct": [
+        "이름"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "이름",
+      "ru": "имя",
+      "pl": "nazwa",
+      "zh": "姓名",
+      "lt": "vardas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "nice",
+      "ko": "멋진",
+      "correct": [
+        "멋진"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "멋진",
+      "ru": "хороший",
+      "pl": "Ładny",
+      "zh": "好的",
+      "lt": "gražus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "to meet",
+      "ko": "만나다",
+      "correct": [
+        "만나다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "만나다",
+      "ru": "встретиться",
+      "pl": "spotkać się",
+      "zh": "满足",
+      "lt": "susitikti"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "id": "151-feelings2",
+  "title": "Feelings & Reactions",
+  "questions": [
+    {
+      "ko": "놀란",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "놀란"
+    },
+    {
+      "ko": "화난",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "화난"
+    },
+    {
+      "ko": "침착한",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "침착한"
+    },
+    {
+      "ko": "걱정하는",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "걱정하는"
+    },
+    {
+      "ko": "만족하는",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "만족하는"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "ko": "놀란",
+      "correct": [
+        "놀란"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "놀란",
+      "ru": "удивленный",
+      "pl": "zaskoczony",
+      "zh": "惊讶",
+      "lt": "nustebęs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "ko": "화난",
+      "correct": [
+        "화난"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "화난",
+      "ru": "злой",
+      "pl": "zły",
+      "zh": "生气的",
+      "lt": "piktas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "ko": "침착한",
+      "correct": [
+        "침착한"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "침착한",
+      "ru": "спокойствие",
+      "pl": "spokój",
+      "zh": "冷静的",
+      "lt": "ramus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "ko": "걱정하는",
+      "correct": [
+        "걱정하는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "걱정하는",
+      "ru": "волновался",
+      "pl": "zmartwiony",
+      "zh": "担心",
+      "lt": "susirūpinęs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "ko": "만족하는",
+      "correct": [
+        "만족하는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "만족하는",
+      "ru": "удовлетворен",
+      "pl": "zadowolony",
+      "zh": "使满意",
+      "lt": "patenkintas"
+    },
+    {
+      "ko": "놀란",
+      "lt": "",
+      "choices": [
+        "surprised",
+        "angry",
+        "happy",
+        "sad"
+      ],
+      "correct": [
+        "surprised"
+      ],
+      "type": "choose",
+      "tts": "놀란"
+    },
+    {
+      "ko": "화난",
+      "lt": "",
+      "choices": [
+        "angry",
+        "happy",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "angry"
+      ],
+      "type": "choose",
+      "tts": "화난"
+    },
+    {
+      "ko": "침착한",
+      "lt": "",
+      "choices": [
+        "calm",
+        "angry",
+        "sad",
+        "busy"
+      ],
+      "correct": [
+        "calm"
+      ],
+      "type": "choose",
+      "tts": "침착한"
+    },
+    {
+      "ko": "걱정하는",
+      "lt": "",
+      "choices": [
+        "worried",
+        "happy",
+        "calm",
+        "excited"
+      ],
+      "correct": [
+        "worried"
+      ],
+      "type": "choose",
+      "tts": "걱정하는"
+    },
+    {
+      "ko": "만족하는",
+      "lt": "",
+      "choices": [
+        "satisfied",
+        "angry",
+        "sad",
+        "tired"
+      ],
+      "correct": [
+        "satisfied"
+      ],
+      "type": "choose",
+      "tts": "만족하는"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "surprised",
+      "ko": "놀란",
+      "correct": [
+        "놀란"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "놀란",
+      "ru": "удивленный",
+      "pl": "zaskoczony",
+      "zh": "惊讶",
+      "lt": "nustebęs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "angry",
+      "ko": "화난",
+      "correct": [
+        "화난"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "화난",
+      "ru": "злой",
+      "pl": "zły",
+      "zh": "生气的",
+      "lt": "piktas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "calm",
+      "ko": "침착한",
+      "correct": [
+        "침착한"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "침착한",
+      "ru": "спокойствие",
+      "pl": "spokój",
+      "zh": "冷静的",
+      "lt": "ramus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "worried",
+      "ko": "걱정하는",
+      "correct": [
+        "걱정하는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "걱정하는",
+      "ru": "волновался",
+      "pl": "zmartwiony",
+      "zh": "担心",
+      "lt": "susirūpinęs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "satisfied",
+      "ko": "만족하는",
+      "correct": [
+        "만족하는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "만족하는",
+      "ru": "удовлетворен",
+      "pl": "zadowolony",
+      "zh": "使满意",
+      "lt": "patenkintas"
+    }
+  ]
+}

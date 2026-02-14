@@ -1,0 +1,296 @@
+{
+  "id": "073-travel2",
+  "title": "Advanced Travel",
+  "questions": [
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "పాస్‌పోర్ట్",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "te": "పాస్‌పోర్ట్"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "గోడలు",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "te": "గోడలు"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "ప్రయాణించడానికి",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "te": "ప్రయాణించడానికి"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "సూట్‌కేస్",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "te": "సూట్‌కేస్"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "సుంక శాఖ",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "te": "సుంక శాఖ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "పాస్‌పోర్ట్",
+      "type": "translate",
+      "correct": [
+        "పాస్‌పోర్ట్"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "te": "పాస్‌పోర్ట్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "గోడ",
+      "type": "translate",
+      "correct": [
+        "గోడ"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "te": "గోడ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ప్రయాణించడానికి",
+      "type": "translate",
+      "correct": [
+        "ప్రయాణించడానికి"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "te": "ప్రయాణించడానికి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సూట్‌కేస్",
+      "type": "translate",
+      "correct": [
+        "సూట్‌కేస్"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "te": "సూట్‌కేస్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సుంక శాఖ",
+      "type": "translate",
+      "correct": [
+        "సుంక శాఖ"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "te": "సుంక శాఖ"
+    },
+    {
+      "lt": "pasas",
+      "choices": [
+        "passport",
+        "ticket",
+        "hotel",
+        "map"
+      ],
+      "tts": "పాస్‌పోర్ట్",
+      "correct": [
+        "passport"
+      ],
+      "type": "choose",
+      "te": "పాస్‌పోర్ట్"
+    },
+    {
+      "lt": "sienos",
+      "choices": [
+        "borders",
+        "streets",
+        "doors",
+        "cities"
+      ],
+      "tts": "గోడలు",
+      "correct": [
+        "borders"
+      ],
+      "type": "choose",
+      "te": "గోడలు"
+    },
+    {
+      "lt": "keliauti",
+      "choices": [
+        "to travel",
+        "to stay",
+        "to eat",
+        "to sleep"
+      ],
+      "tts": "ప్రయాణించడానికి",
+      "correct": [
+        "to travel"
+      ],
+      "type": "choose",
+      "te": "ప్రయాణించడానికి"
+    },
+    {
+      "lt": "lagaminas",
+      "choices": [
+        "suitcase",
+        "bag",
+        "ticket",
+        "passport"
+      ],
+      "tts": "సూట్‌కేస్",
+      "correct": [
+        "suitcase"
+      ],
+      "type": "choose",
+      "te": "సూట్‌కేస్"
+    },
+    {
+      "lt": "muitinė",
+      "choices": [
+        "customs",
+        "hotel",
+        "airport",
+        "police"
+      ],
+      "tts": "సుంక శాఖ",
+      "correct": [
+        "customs"
+      ],
+      "type": "choose",
+      "te": "సుంక శాఖ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "పాస్‌పోర్ట్",
+      "type": "translate",
+      "correct": [
+        "పాస్‌పోర్ట్"
+      ],
+      "en": "passport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "passport",
+      "te": "పాస్‌పోర్ట్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "గోడ",
+      "type": "translate",
+      "correct": [
+        "గోడ"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "border",
+      "zh": "边境",
+      "te": "గోడ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ప్రయాణించడానికి",
+      "type": "translate",
+      "correct": [
+        "ప్రయాణించడానికి"
+      ],
+      "en": "to travel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to travel",
+      "te": "ప్రయాణించడానికి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సూట్‌కేస్",
+      "type": "translate",
+      "correct": [
+        "సూట్‌కేస్"
+      ],
+      "en": "suitcase",
+      "placeholder": "Type Lithuanian…",
+      "zh": "suitcase",
+      "te": "సూట్‌కేస్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సుంక శాఖ",
+      "type": "translate",
+      "correct": [
+        "సుంక శాఖ"
+      ],
+      "en": "customs",
+      "placeholder": "Type Lithuanian…",
+      "zh": "customs",
+      "te": "సుంక శాఖ"
+    }
+  ]
+}

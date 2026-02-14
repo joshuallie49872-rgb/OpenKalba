@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "lt": "vienas",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "một",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "vi": "một"
+    },
+    {
+      "lt": "du",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "hai",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "vi": "hai"
+    },
+    {
+      "lt": "trys",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "ba",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "vi": "ba"
+    },
+    {
+      "lt": "keturi",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "bốn",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "vi": "bốn"
+    },
+    {
+      "lt": "penki",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "năm",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "vi": "năm"
+    },
+    {
+      "lt": "raudona",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "đỏ",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "vi": "đỏ"
+    },
+    {
+      "lt": "mėlyna",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "xanh dương",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "vi": "xanh dương"
+    },
+    {
+      "lt": "žalia",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "xanh lá",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "vi": "xanh lá"
+    },
+    {
+      "lt": "juoda",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "đen",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "vi": "đen"
+    },
+    {
+      "lt": "balta",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "trắng",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "vi": "trắng"
+    },
+    {
+      "lt": "mama",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "mẹ",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "vi": "mẹ"
+    },
+    {
+      "lt": "tėtis",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "bố",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "vi": "bố"
+    },
+    {
+      "lt": "brolis",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "anh trai",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "vi": "anh trai"
+    },
+    {
+      "lt": "sesuo",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "chị gái",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "vi": "chị gái"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "gia đình",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "vi": "gia đình"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "nước",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "vi": "nước"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "cà phê",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "vi": "cà phê"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "bánh mì",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "vi": "bánh mì"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "khách sạn",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "vi": "khách sạn"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "vé",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "vi": "vé"
+    }
+  ]
+}

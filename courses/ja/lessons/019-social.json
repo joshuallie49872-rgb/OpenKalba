@@ -1,0 +1,296 @@
+{
+  "id": "019-social",
+  "title": "Social & Polite Talk",
+  "questions": [
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "すみません",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "ja": "すみません"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "お願いします",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ja": "お願いします"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "ありがとう",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ja": "ありがとう"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "はじめまして",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ja": "はじめまして"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "良い",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "ja": "良い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "すみません",
+      "type": "translate",
+      "correct": [
+        "すみません"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "ja": "すみません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お願いします",
+      "type": "translate",
+      "correct": [
+        "お願いします"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ja": "お願いします"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ありがとう",
+      "type": "translate",
+      "correct": [
+        "ありがとう"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "ja": "ありがとう"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "はじめまして",
+      "type": "translate",
+      "correct": [
+        "はじめまして"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ja": "はじめまして"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "良い",
+      "type": "translate",
+      "correct": [
+        "良い"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "ja": "良い"
+    },
+    {
+      "lt": "atsiprašau",
+      "choices": [
+        "sorry",
+        "thanks",
+        "hello",
+        "bye"
+      ],
+      "tts": "すみません",
+      "correct": [
+        "sorry"
+      ],
+      "type": "choose",
+      "ja": "すみません"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "sorry",
+        "yes",
+        "no"
+      ],
+      "tts": "お願いします",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ja": "お願いします"
+    },
+    {
+      "lt": "ačiū",
+      "choices": [
+        "thank you",
+        "sorry",
+        "hello",
+        "bye"
+      ],
+      "tts": "ありがとう",
+      "correct": [
+        "thank you"
+      ],
+      "type": "choose",
+      "ja": "ありがとう"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "bad",
+        "late",
+        "slow"
+      ],
+      "tts": "はじめまして",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ja": "はじめまして"
+    },
+    {
+      "lt": "geras",
+      "choices": [
+        "good",
+        "bad",
+        "slow",
+        "fast"
+      ],
+      "tts": "良い",
+      "correct": [
+        "good"
+      ],
+      "type": "choose",
+      "ja": "良い"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "すみません",
+      "type": "translate",
+      "correct": [
+        "すみません"
+      ],
+      "en": "sorry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "抱歉",
+      "ja": "すみません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "お願いします",
+      "type": "translate",
+      "correct": [
+        "お願いします"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ja": "お願いします"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ありがとう",
+      "type": "translate",
+      "correct": [
+        "ありがとう"
+      ],
+      "en": "thank you",
+      "placeholder": "Type Lithuanian…",
+      "zh": "谢谢",
+      "ja": "ありがとう"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "はじめまして",
+      "type": "translate",
+      "correct": [
+        "はじめまして"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ja": "はじめまして"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "良い",
+      "type": "translate",
+      "correct": [
+        "良い"
+      ],
+      "en": "good",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好",
+      "ja": "良い"
+    }
+  ]
+}

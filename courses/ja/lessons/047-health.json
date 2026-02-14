@@ -1,0 +1,296 @@
+{
+  "id": "047-health",
+  "title": "Health & Body",
+  "questions": [
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "痛み",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "ja": "痛み"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "頭",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "ja": "頭"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "手",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "ja": "手"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "脚",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "ja": "脚"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "医者",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "ja": "医者"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "痛み",
+      "type": "translate",
+      "correct": [
+        "痛み"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "ja": "痛み"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "頭",
+      "type": "translate",
+      "correct": [
+        "頭"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "ja": "頭"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "手",
+      "type": "translate",
+      "correct": [
+        "手"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "ja": "手"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "脚",
+      "type": "translate",
+      "correct": [
+        "脚"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "ja": "脚"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "医者",
+      "type": "translate",
+      "correct": [
+        "医者"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "ja": "医者"
+    },
+    {
+      "lt": "skausmas",
+      "choices": [
+        "pain",
+        "health",
+        "body",
+        "head"
+      ],
+      "tts": "痛み",
+      "correct": [
+        "pain"
+      ],
+      "type": "choose",
+      "ja": "痛み"
+    },
+    {
+      "lt": "galva",
+      "choices": [
+        "head",
+        "arm",
+        "leg",
+        "hand"
+      ],
+      "tts": "頭",
+      "correct": [
+        "head"
+      ],
+      "type": "choose",
+      "ja": "頭"
+    },
+    {
+      "lt": "ranką",
+      "choices": [
+        "hand",
+        "leg",
+        "foot",
+        "head"
+      ],
+      "tts": "手",
+      "correct": [
+        "hand"
+      ],
+      "type": "choose",
+      "ja": "手"
+    },
+    {
+      "lt": "koja",
+      "choices": [
+        "leg",
+        "arm",
+        "hand",
+        "head"
+      ],
+      "tts": "脚",
+      "correct": [
+        "leg"
+      ],
+      "type": "choose",
+      "ja": "脚"
+    },
+    {
+      "lt": "gydytojas",
+      "choices": [
+        "doctor",
+        "nurse",
+        "police",
+        "teacher"
+      ],
+      "tts": "医者",
+      "correct": [
+        "doctor"
+      ],
+      "type": "choose",
+      "ja": "医者"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "痛み",
+      "type": "translate",
+      "correct": [
+        "痛み"
+      ],
+      "en": "pain",
+      "placeholder": "Type Lithuanian…",
+      "zh": "pain",
+      "ja": "痛み"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "頭",
+      "type": "translate",
+      "correct": [
+        "頭"
+      ],
+      "en": "head",
+      "placeholder": "Type Lithuanian…",
+      "zh": "head",
+      "ja": "頭"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "手",
+      "type": "translate",
+      "correct": [
+        "手"
+      ],
+      "placeholder": "Type Lithuanian…",
+      "en": "hand",
+      "zh": "hand",
+      "ja": "手"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "脚",
+      "type": "translate",
+      "correct": [
+        "脚"
+      ],
+      "en": "leg",
+      "placeholder": "Type Lithuanian…",
+      "zh": "leg",
+      "ja": "脚"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "医者",
+      "type": "translate",
+      "correct": [
+        "医者"
+      ],
+      "en": "doctor",
+      "placeholder": "Type Lithuanian…",
+      "zh": "doctor",
+      "ja": "医者"
+    }
+  ]
+}

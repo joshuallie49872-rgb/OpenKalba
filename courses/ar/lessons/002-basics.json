@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "lt": "vienas",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "واحد",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "ar": "واحد"
+    },
+    {
+      "lt": "du",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "اثنان",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "ar": "اثنان"
+    },
+    {
+      "lt": "trys",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "ثلاثة",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "ar": "ثلاثة"
+    },
+    {
+      "lt": "keturi",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "أربعة",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "ar": "أربعة"
+    },
+    {
+      "lt": "penki",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "خمسة",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "ar": "خمسة"
+    },
+    {
+      "lt": "raudona",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "أحمر",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "ar": "أحمر"
+    },
+    {
+      "lt": "mėlyna",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "أزرق",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "ar": "أزرق"
+    },
+    {
+      "lt": "žalia",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "أخضر",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "ar": "أخضر"
+    },
+    {
+      "lt": "juoda",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "أسود",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "ar": "أسود"
+    },
+    {
+      "lt": "balta",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "أبيض",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "ar": "أبيض"
+    },
+    {
+      "lt": "mama",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "أم",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "ar": "أم"
+    },
+    {
+      "lt": "tėtis",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "أب",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "ar": "أب"
+    },
+    {
+      "lt": "brolis",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "أخ",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "ar": "أخ"
+    },
+    {
+      "lt": "sesuo",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "أخت",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "ar": "أخت"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "عائلة",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ar": "عائلة"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "ماء",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ar": "ماء"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "قهوة",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ar": "قهوة"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "خبز",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ar": "خبز"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "فندق",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "ar": "فندق"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "تذكرة",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "ar": "تذكرة"
+    }
+  ]
+}

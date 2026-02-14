@@ -1,0 +1,296 @@
+{
+  "id": "024-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "bạn",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "vi": "bạn"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "gia đình",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "vi": "gia đình"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "tên",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "vi": "tên"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "vui được gặp",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "vi": "vui được gặp"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "gặp nhau",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "vi": "gặp nhau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bạn",
+      "type": "translate",
+      "correct": [
+        "bạn"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "vi": "bạn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gia đình",
+      "type": "translate",
+      "correct": [
+        "gia đình"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "vi": "gia đình"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tên",
+      "type": "translate",
+      "correct": [
+        "tên"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "vi": "tên"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "vui được gặp",
+      "type": "translate",
+      "correct": [
+        "vui được gặp"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "vi": "vui được gặp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gặp nhau",
+      "type": "translate",
+      "correct": [
+        "gặp nhau"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "vi": "gặp nhau"
+    },
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "bạn",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "vi": "bạn"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "gia đình",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "vi": "gia đình"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "tên",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "vi": "tên"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "vui được gặp",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "vi": "vui được gặp"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "gặp nhau",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "vi": "gặp nhau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bạn",
+      "type": "translate",
+      "correct": [
+        "bạn"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "vi": "bạn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gia đình",
+      "type": "translate",
+      "correct": [
+        "gia đình"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "vi": "gia đình"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tên",
+      "type": "translate",
+      "correct": [
+        "tên"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "vi": "tên"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "vui được gặp",
+      "type": "translate",
+      "correct": [
+        "vui được gặp"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "vi": "vui được gặp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gặp nhau",
+      "type": "translate",
+      "correct": [
+        "gặp nhau"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "vi": "gặp nhau"
+    }
+  ]
+}

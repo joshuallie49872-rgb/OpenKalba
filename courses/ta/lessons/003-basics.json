@@ -1,0 +1,299 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "lt": "noriu",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "எனக்கு வேண்டும்",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு வேண்டும்"
+    },
+    {
+      "lt": "turiu",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "என்னிடம் உள்ளது",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "ta": "என்னிடம் உள்ளது"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "நான் சாப்பிடுகிறேன்",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ta": "நான் சாப்பிடுகிறேன்"
+    },
+    {
+      "lt": "geriu",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "நான் குடிக்கிறேன்",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "ta": "நான் குடிக்கிறேன்"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "தண்ணீர்",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ta": "தண்ணீர்"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "காபி",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ta": "காபி"
+    },
+    {
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "பீர்",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "ta": "பீர்"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "ரொட்டி",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ta": "ரொட்டி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு தண்ணீர் வேண்டும்",
+      "correct": [
+        "எனக்கு தண்ணீர் வேண்டும்"
+      ],
+      "en": "I want water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要水",
+      "ta": "எனக்கு தண்ணீர் வேண்டும்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு காபி வேண்டும்",
+      "correct": [
+        "எனக்கு காபி வேண்டும்"
+      ],
+      "en": "I want coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要咖啡",
+      "ta": "எனக்கு காபி வேண்டும்"
+    },
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "இங்கே",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ta": "இங்கே"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "அங்கு",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ta": "அங்கு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "இங்கே தண்ணீர்",
+      "correct": [
+        "இங்கே தண்ணீர்"
+      ],
+      "en": "here water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里水",
+      "ta": "இங்கே தண்ணீர்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "அங்கு காபி இருக்கிறது",
+      "correct": [
+        "அங்கு காபி இருக்கிறது"
+      ],
+      "en": "there coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里咖啡",
+      "ta": "அங்கு காபி இருக்கிறது"
+    },
+    {
+      "lt": "prašau vandens",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "தண்ணீர் தாருங்கள்",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "ta": "தண்ணீர் தாருங்கள்"
+    },
+    {
+      "lt": "noriu alaus",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "எனக்கு பீர் வேண்டும்",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு பீர் வேண்டும்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் தண்ணீர் குடிக்கிறேன்",
+      "correct": [
+        "நான் தண்ணீர் குடிக்கிறேன்"
+      ],
+      "en": "I drink vandenį",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我drinkvandenį",
+      "ta": "நான் தண்ணீர் குடிக்கிறேன்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நான் ரொட்டி சாப்பிடுகிறேன்",
+      "correct": [
+        "நான் ரொட்டி சாப்பிடுகிறேன்"
+      ],
+      "en": "I eat bread",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat面包",
+      "ta": "நான் ரொட்டி சாப்பிடுகிறேன்"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "சரி",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "ta": "சரி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சரி",
+      "correct": [
+        "சரி"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "ta": "சரி"
+    }
+  ]
+}

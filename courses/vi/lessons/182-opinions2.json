@@ -1,0 +1,296 @@
+{
+  "id": "182-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "tôi nghĩ",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "vi": "tôi nghĩ"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "tôi đồng ý",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "vi": "tôi đồng ý"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "tôi không đồng ý",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "vi": "tôi không đồng ý"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "ý kiến",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "vi": "ý kiến"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "tranh cãi",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "vi": "tranh cãi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi nghĩ",
+      "type": "translate",
+      "correct": [
+        "tôi nghĩ"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "vi": "tôi nghĩ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi đồng ý",
+      "type": "translate",
+      "correct": [
+        "tôi đồng ý"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "vi": "tôi đồng ý"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi không đồng ý",
+      "type": "translate",
+      "correct": [
+        "tôi không đồng ý"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "vi": "tôi không đồng ý"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ý kiến",
+      "type": "translate",
+      "correct": [
+        "ý kiến"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "vi": "ý kiến"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tranh cãi",
+      "type": "translate",
+      "correct": [
+        "tranh cãi"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "vi": "tranh cãi"
+    },
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "tôi nghĩ",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "vi": "tôi nghĩ"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "tôi đồng ý",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "vi": "tôi đồng ý"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "tôi không đồng ý",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "vi": "tôi không đồng ý"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "ý kiến",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "vi": "ý kiến"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "tranh cãi",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "vi": "tranh cãi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi nghĩ",
+      "type": "translate",
+      "correct": [
+        "tôi nghĩ"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "vi": "tôi nghĩ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi đồng ý",
+      "type": "translate",
+      "correct": [
+        "tôi đồng ý"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "vi": "tôi đồng ý"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi không đồng ý",
+      "type": "translate",
+      "correct": [
+        "tôi không đồng ý"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "vi": "tôi không đồng ý"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ý kiến",
+      "type": "translate",
+      "correct": [
+        "ý kiến"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "vi": "ý kiến"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tranh cãi",
+      "type": "translate",
+      "correct": [
+        "tranh cãi"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "vi": "tranh cãi"
+    }
+  ]
+}

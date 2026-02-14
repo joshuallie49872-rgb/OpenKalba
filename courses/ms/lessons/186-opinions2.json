@@ -1,0 +1,296 @@
+{
+  "id": "186-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "saya fikir",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "ms": "saya fikir"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "saya setuju",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "ms": "saya setuju"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "saya tidak bersetuju",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "ms": "saya tidak bersetuju"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "pendapat",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "ms": "pendapat"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "pertengkaran",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "ms": "pertengkaran"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya fikir",
+      "type": "translate",
+      "correct": [
+        "saya fikir"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "ms": "saya fikir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya setuju",
+      "type": "translate",
+      "correct": [
+        "saya setuju"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "ms": "saya setuju"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak bersetuju",
+      "type": "translate",
+      "correct": [
+        "saya tidak bersetuju"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "ms": "saya tidak bersetuju"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendapat",
+      "type": "translate",
+      "correct": [
+        "pendapat"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "ms": "pendapat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pertengkaran",
+      "type": "translate",
+      "correct": [
+        "pertengkaran"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "ms": "pertengkaran"
+    },
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "saya fikir",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "ms": "saya fikir"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "saya setuju",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "ms": "saya setuju"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "saya tidak bersetuju",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "ms": "saya tidak bersetuju"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "pendapat",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "ms": "pendapat"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "pertengkaran",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "ms": "pertengkaran"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya fikir",
+      "type": "translate",
+      "correct": [
+        "saya fikir"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "ms": "saya fikir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya setuju",
+      "type": "translate",
+      "correct": [
+        "saya setuju"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "ms": "saya setuju"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak bersetuju",
+      "type": "translate",
+      "correct": [
+        "saya tidak bersetuju"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "ms": "saya tidak bersetuju"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pendapat",
+      "type": "translate",
+      "correct": [
+        "pendapat"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "ms": "pendapat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pertengkaran",
+      "type": "translate",
+      "correct": [
+        "pertengkaran"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "ms": "pertengkaran"
+    }
+  ]
+}

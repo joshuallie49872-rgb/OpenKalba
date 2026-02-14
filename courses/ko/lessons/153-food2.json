@@ -1,0 +1,316 @@
+{
+  "id": "153-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "ko": "아침",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "아침"
+    },
+    {
+      "ko": "점심",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "점심"
+    },
+    {
+      "ko": "저녁",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "저녁"
+    },
+    {
+      "ko": "맛있는",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "맛있는"
+    },
+    {
+      "ko": "배고픈",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "배고픈"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "ko": "아침",
+      "correct": [
+        "아침"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "아침",
+      "ru": "завтрак",
+      "pl": "śniadanie",
+      "zh": "早餐",
+      "lt": "pusryčiai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "ko": "점심",
+      "correct": [
+        "점심"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "점심",
+      "ru": "обед",
+      "pl": "obiad",
+      "zh": "午餐",
+      "lt": "pietūs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "ko": "저녁",
+      "correct": [
+        "저녁"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저녁",
+      "ru": "ужин",
+      "pl": "kolacja",
+      "zh": "晚餐",
+      "lt": "vakarienė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "ko": "맛있는",
+      "correct": [
+        "맛있는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "맛있는",
+      "ru": "вкусный",
+      "pl": "smaczny",
+      "zh": "可口",
+      "lt": "skanus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "ko": "배고픈",
+      "correct": [
+        "배고픈"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "배고픈",
+      "ru": "голодный",
+      "pl": "głodny",
+      "zh": "饥饿的",
+      "lt": "alkanas"
+    },
+    {
+      "ko": "아침",
+      "lt": "",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "tts": "아침"
+    },
+    {
+      "ko": "점심",
+      "lt": "",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "tts": "점심"
+    },
+    {
+      "ko": "저녁",
+      "lt": "",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "tts": "저녁"
+    },
+    {
+      "ko": "맛있는",
+      "lt": "",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "tts": "맛있는"
+    },
+    {
+      "ko": "배고픈",
+      "lt": "",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "tts": "배고픈"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "breakfast",
+      "ko": "아침",
+      "correct": [
+        "아침"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "아침",
+      "ru": "завтрак",
+      "pl": "śniadanie",
+      "zh": "早餐",
+      "lt": "pusryčiai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "lunch",
+      "ko": "점심",
+      "correct": [
+        "점심"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "점심",
+      "ru": "обед",
+      "pl": "obiad",
+      "zh": "午餐",
+      "lt": "pietūs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "dinner",
+      "ko": "저녁",
+      "correct": [
+        "저녁"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "저녁",
+      "ru": "ужин",
+      "pl": "kolacja",
+      "zh": "晚餐",
+      "lt": "vakarienė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tasty",
+      "ko": "맛있는",
+      "correct": [
+        "맛있는"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "맛있는",
+      "ru": "вкусный",
+      "pl": "smaczny",
+      "zh": "可口",
+      "lt": "skanus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hungry",
+      "ko": "배고픈",
+      "correct": [
+        "배고픈"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "배고픈",
+      "ru": "голодный",
+      "pl": "głodny",
+      "zh": "饥饿的",
+      "lt": "alkanas"
+    }
+  ]
+}

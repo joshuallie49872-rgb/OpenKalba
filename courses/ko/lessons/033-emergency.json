@@ -1,0 +1,316 @@
+{
+  "id": "033-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "ko": "돕다",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "돕다"
+    },
+    {
+      "ko": "경찰",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "경찰"
+    },
+    {
+      "ko": "병원",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "병원"
+    },
+    {
+      "ko": "불",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "불"
+    },
+    {
+      "ko": "위험",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "위험"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "ko": "돕다",
+      "correct": [
+        "돕다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "돕다",
+      "ru": "помощь",
+      "pl": "pomoc",
+      "zh": "帮助",
+      "lt": "pagalba"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "ko": "경찰",
+      "correct": [
+        "경찰"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "경찰",
+      "ru": "полиция",
+      "pl": "Policja",
+      "zh": "警察",
+      "lt": "policija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "ko": "병원",
+      "correct": [
+        "병원"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "병원",
+      "ru": "больница",
+      "pl": "szpital",
+      "zh": "医院",
+      "lt": "ligoninė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "ko": "불",
+      "correct": [
+        "불"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "불",
+      "ru": "огонь",
+      "pl": "ogień",
+      "zh": "火",
+      "lt": "ugnis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "ko": "위험",
+      "correct": [
+        "위험"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "위험",
+      "ru": "Опасность",
+      "pl": "niebezpieczeństwo",
+      "zh": "危险",
+      "lt": "pavojus"
+    },
+    {
+      "ko": "돕다",
+      "lt": "",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "tts": "돕다"
+    },
+    {
+      "ko": "경찰",
+      "lt": "",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "tts": "경찰"
+    },
+    {
+      "ko": "병원",
+      "lt": "",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "tts": "병원"
+    },
+    {
+      "ko": "불",
+      "lt": "",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "tts": "불"
+    },
+    {
+      "ko": "위험",
+      "lt": "",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "tts": "위험"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "help",
+      "ko": "돕다",
+      "correct": [
+        "돕다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "돕다",
+      "ru": "помощь",
+      "pl": "pomoc",
+      "zh": "帮助",
+      "lt": "pagalba"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "police",
+      "ko": "경찰",
+      "correct": [
+        "경찰"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "경찰",
+      "ru": "полиция",
+      "pl": "Policja",
+      "zh": "警察",
+      "lt": "policija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hospital",
+      "ko": "병원",
+      "correct": [
+        "병원"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "병원",
+      "ru": "больница",
+      "pl": "szpital",
+      "zh": "医院",
+      "lt": "ligoninė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "fire",
+      "ko": "불",
+      "correct": [
+        "불"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "불",
+      "ru": "огонь",
+      "pl": "ogień",
+      "zh": "火",
+      "lt": "ugnis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "danger",
+      "ko": "위험",
+      "correct": [
+        "위험"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "위험",
+      "ru": "Опасность",
+      "pl": "niebezpieczeństwo",
+      "zh": "危险",
+      "lt": "pavojus"
+    }
+  ]
+}

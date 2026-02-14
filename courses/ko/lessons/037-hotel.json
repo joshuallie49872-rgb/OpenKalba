@@ -1,0 +1,316 @@
+{
+  "id": "037-hotel",
+  "title": "Hotel & Stay",
+  "questions": [
+    {
+      "ko": "방",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "방"
+    },
+    {
+      "ko": "열쇠",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "열쇠"
+    },
+    {
+      "ko": "침대",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "침대"
+    },
+    {
+      "ko": "등록",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "등록"
+    },
+    {
+      "ko": "숙박",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "숙박"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "ko": "방",
+      "correct": [
+        "방"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "방",
+      "ru": "комната",
+      "pl": "pokój",
+      "zh": "房间",
+      "lt": "kambarys"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "ko": "열쇠",
+      "correct": [
+        "열쇠"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "열쇠",
+      "ru": "ключ",
+      "pl": "klawisz",
+      "zh": "钥匙",
+      "lt": "raktas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "ko": "침대",
+      "correct": [
+        "침대"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "침대",
+      "ru": "кровать",
+      "pl": "łóżko",
+      "zh": "床",
+      "lt": "lova"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "ko": "등록",
+      "correct": [
+        "등록"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "등록",
+      "ru": "регистрироваться",
+      "pl": "zameldować się",
+      "zh": "报到",
+      "lt": "registracija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "ko": "숙박",
+      "correct": [
+        "숙박"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "숙박",
+      "ru": "ночь",
+      "pl": "nocny",
+      "zh": "过夜",
+      "lt": "per naktį"
+    },
+    {
+      "ko": "방",
+      "lt": "",
+      "choices": [
+        "room",
+        "key",
+        "hotel",
+        "bed"
+      ],
+      "correct": [
+        "room"
+      ],
+      "type": "choose",
+      "tts": "방"
+    },
+    {
+      "ko": "열쇠",
+      "lt": "",
+      "choices": [
+        "key",
+        "door",
+        "room",
+        "window"
+      ],
+      "correct": [
+        "key"
+      ],
+      "type": "choose",
+      "tts": "열쇠"
+    },
+    {
+      "ko": "침대",
+      "lt": "",
+      "choices": [
+        "bed",
+        "table",
+        "chair",
+        "door"
+      ],
+      "correct": [
+        "bed"
+      ],
+      "type": "choose",
+      "tts": "침대"
+    },
+    {
+      "ko": "등록",
+      "lt": "",
+      "choices": [
+        "check-in",
+        "breakfast",
+        "exit",
+        "key"
+      ],
+      "correct": [
+        "check-in"
+      ],
+      "type": "choose",
+      "tts": "등록"
+    },
+    {
+      "ko": "숙박",
+      "lt": "",
+      "choices": [
+        "overnight",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "correct": [
+        "overnight"
+      ],
+      "type": "choose",
+      "tts": "숙박"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "room",
+      "ko": "방",
+      "correct": [
+        "방"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "방",
+      "ru": "комната",
+      "pl": "pokój",
+      "zh": "房间",
+      "lt": "kambarys"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "key",
+      "ko": "열쇠",
+      "correct": [
+        "열쇠"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "열쇠",
+      "ru": "ключ",
+      "pl": "klawisz",
+      "zh": "钥匙",
+      "lt": "raktas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bed",
+      "ko": "침대",
+      "correct": [
+        "침대"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "침대",
+      "ru": "кровать",
+      "pl": "łóżko",
+      "zh": "床",
+      "lt": "lova"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "check-in",
+      "ko": "등록",
+      "correct": [
+        "등록"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "등록",
+      "ru": "регистрироваться",
+      "pl": "zameldować się",
+      "zh": "报到",
+      "lt": "registracija"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "overnight",
+      "ko": "숙박",
+      "correct": [
+        "숙박"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "숙박",
+      "ru": "ночь",
+      "pl": "nocny",
+      "zh": "过夜",
+      "lt": "per naktį"
+    }
+  ]
+}

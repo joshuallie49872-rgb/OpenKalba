@@ -1,0 +1,296 @@
+{
+  "id": "034-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "友達",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "ja": "友達"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "家族",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ja": "家族"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "名前",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "ja": "名前"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "はじめまして",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ja": "はじめまして"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "会う",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "ja": "会う"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "友達",
+      "type": "translate",
+      "correct": [
+        "友達"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "ja": "友達"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "家族",
+      "type": "translate",
+      "correct": [
+        "家族"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "ja": "家族"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "名前",
+      "type": "translate",
+      "correct": [
+        "名前"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "ja": "名前"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "はじめまして",
+      "type": "translate",
+      "correct": [
+        "はじめまして"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ja": "はじめまして"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "会う",
+      "type": "translate",
+      "correct": [
+        "会う"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "ja": "会う"
+    },
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "友達",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "ja": "友達"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "家族",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ja": "家族"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "名前",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "ja": "名前"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "はじめまして",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ja": "はじめまして"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "会う",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "ja": "会う"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "友達",
+      "type": "translate",
+      "correct": [
+        "友達"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "ja": "友達"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "家族",
+      "type": "translate",
+      "correct": [
+        "家族"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "ja": "家族"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "名前",
+      "type": "translate",
+      "correct": [
+        "名前"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "ja": "名前"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "はじめまして",
+      "type": "translate",
+      "correct": [
+        "はじめまして"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ja": "はじめまして"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "会う",
+      "type": "translate",
+      "correct": [
+        "会う"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "ja": "会う"
+    }
+  ]
+}

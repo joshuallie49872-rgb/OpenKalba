@@ -1,0 +1,296 @@
+{
+  "id": "190-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "أعتقد",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "ar": "أعتقد"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "أوافق",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "ar": "أوافق"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "لا أوافق",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "ar": "لا أوافق"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "رأي",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "ar": "رأي"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "جدال",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "ar": "جدال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أعتقد",
+      "type": "translate",
+      "correct": [
+        "أعتقد"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "ar": "أعتقد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أوافق",
+      "type": "translate",
+      "correct": [
+        "أوافق"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "ar": "أوافق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لا أوافق",
+      "type": "translate",
+      "correct": [
+        "لا أوافق"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "ar": "لا أوافق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رأي",
+      "type": "translate",
+      "correct": [
+        "رأي"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "ar": "رأي"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "جدال",
+      "type": "translate",
+      "correct": [
+        "جدال"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "ar": "جدال"
+    },
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "أعتقد",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "ar": "أعتقد"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "أوافق",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "ar": "أوافق"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "لا أوافق",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "ar": "لا أوافق"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "رأي",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "ar": "رأي"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "جدال",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "ar": "جدال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أعتقد",
+      "type": "translate",
+      "correct": [
+        "أعتقد"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "ar": "أعتقد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أوافق",
+      "type": "translate",
+      "correct": [
+        "أوافق"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "ar": "أوافق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لا أوافق",
+      "type": "translate",
+      "correct": [
+        "لا أوافق"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "ar": "لا أوافق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رأي",
+      "type": "translate",
+      "correct": [
+        "رأي"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "ar": "رأي"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "جدال",
+      "type": "translate",
+      "correct": [
+        "جدال"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "ar": "جدال"
+    }
+  ]
+}

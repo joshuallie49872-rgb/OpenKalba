@@ -1,0 +1,296 @@
+{
+  "id": "140-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "cuti",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "ms": "cuti"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "tradisi",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "ms": "tradisi"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "adat",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "ms": "adat"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "masa lapang",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "ms": "masa lapang"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "acara",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "ms": "acara"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cuti",
+      "type": "translate",
+      "correct": [
+        "cuti"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "ms": "cuti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tradisi",
+      "type": "translate",
+      "correct": [
+        "tradisi"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "ms": "tradisi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "adat",
+      "type": "translate",
+      "correct": [
+        "adat"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "ms": "adat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "masa lapang",
+      "type": "translate",
+      "correct": [
+        "masa lapang"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "ms": "masa lapang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "acara",
+      "type": "translate",
+      "correct": [
+        "acara"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "ms": "acara"
+    },
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "cuti",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "ms": "cuti"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "tradisi",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "ms": "tradisi"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "adat",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "ms": "adat"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "masa lapang",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "ms": "masa lapang"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "acara",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "ms": "acara"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "cuti",
+      "type": "translate",
+      "correct": [
+        "cuti"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "ms": "cuti"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tradisi",
+      "type": "translate",
+      "correct": [
+        "tradisi"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "ms": "tradisi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "adat",
+      "type": "translate",
+      "correct": [
+        "adat"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "ms": "adat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "masa lapang",
+      "type": "translate",
+      "correct": [
+        "masa lapang"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "ms": "masa lapang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "acara",
+      "type": "translate",
+      "correct": [
+        "acara"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "ms": "acara"
+    }
+  ]
+}

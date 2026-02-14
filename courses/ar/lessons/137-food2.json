@@ -1,0 +1,296 @@
+{
+  "id": "137-food2",
+  "title": "Food & Dining (Expanded)",
+  "questions": [
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "فطور",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "ar": "فطور"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "غداء",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "ar": "غداء"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "عشاء",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "ar": "عشاء"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "لذيذ",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "ar": "لذيذ"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "جائع",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "ar": "جائع"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "فطور",
+      "type": "translate",
+      "correct": [
+        "فطور"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "ar": "فطور"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "غداء",
+      "type": "translate",
+      "correct": [
+        "غداء"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "ar": "غداء"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عشاء",
+      "type": "translate",
+      "correct": [
+        "عشاء"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "ar": "عشاء"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لذيذ",
+      "type": "translate",
+      "correct": [
+        "لذيذ"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "ar": "لذيذ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "جائع",
+      "type": "translate",
+      "correct": [
+        "جائع"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "ar": "جائع"
+    },
+    {
+      "lt": "pusryčiai",
+      "choices": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ],
+      "tts": "فطور",
+      "correct": [
+        "breakfast"
+      ],
+      "type": "choose",
+      "ar": "فطور"
+    },
+    {
+      "lt": "pietūs",
+      "choices": [
+        "lunch",
+        "breakfast",
+        "dinner",
+        "snack"
+      ],
+      "tts": "غداء",
+      "correct": [
+        "lunch"
+      ],
+      "type": "choose",
+      "ar": "غداء"
+    },
+    {
+      "lt": "vakarienė",
+      "choices": [
+        "dinner",
+        "lunch",
+        "breakfast",
+        "snack"
+      ],
+      "tts": "عشاء",
+      "correct": [
+        "dinner"
+      ],
+      "type": "choose",
+      "ar": "عشاء"
+    },
+    {
+      "lt": "skanu",
+      "choices": [
+        "tasty",
+        "bad",
+        "cold",
+        "hot"
+      ],
+      "tts": "لذيذ",
+      "correct": [
+        "tasty"
+      ],
+      "type": "choose",
+      "ar": "لذيذ"
+    },
+    {
+      "lt": "alkanas",
+      "choices": [
+        "hungry",
+        "full",
+        "thirsty",
+        "tired"
+      ],
+      "tts": "جائع",
+      "correct": [
+        "hungry"
+      ],
+      "type": "choose",
+      "ar": "جائع"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "فطور",
+      "type": "translate",
+      "correct": [
+        "فطور"
+      ],
+      "en": "breakfast",
+      "placeholder": "Type Lithuanian…",
+      "zh": "breakfast",
+      "ar": "فطور"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "غداء",
+      "type": "translate",
+      "correct": [
+        "غداء"
+      ],
+      "en": "lunch",
+      "placeholder": "Type Lithuanian…",
+      "zh": "lunch",
+      "ar": "غداء"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "عشاء",
+      "type": "translate",
+      "correct": [
+        "عشاء"
+      ],
+      "en": "dinner",
+      "placeholder": "Type Lithuanian…",
+      "zh": "dinner",
+      "ar": "عشاء"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "لذيذ",
+      "type": "translate",
+      "correct": [
+        "لذيذ"
+      ],
+      "en": "tasty",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tasty",
+      "ar": "لذيذ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "جائع",
+      "type": "translate",
+      "correct": [
+        "جائع"
+      ],
+      "en": "hungry",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hungry",
+      "ar": "جائع"
+    }
+  ]
+}

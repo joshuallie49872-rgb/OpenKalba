@@ -1,0 +1,296 @@
+{
+  "id": "039-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "Arkadaş",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tr": "Arkadaş"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "Aile",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tr": "Aile"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "İsim",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tr": "İsim"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "Memnun oldum",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tr": "Memnun oldum"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "Buluşmak",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tr": "Buluşmak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Arkadaş",
+      "type": "translate",
+      "correct": [
+        "Arkadaş"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "tr": "Arkadaş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Aile",
+      "type": "translate",
+      "correct": [
+        "Aile"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "tr": "Aile"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İsim",
+      "type": "translate",
+      "correct": [
+        "İsim"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "tr": "İsim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Memnun oldum",
+      "type": "translate",
+      "correct": [
+        "Memnun oldum"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "tr": "Memnun oldum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Buluşmak",
+      "type": "translate",
+      "correct": [
+        "Buluşmak"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "tr": "Buluşmak"
+    },
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "Arkadaş",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "tr": "Arkadaş"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "Aile",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tr": "Aile"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "İsim",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "tr": "İsim"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "Memnun oldum",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "tr": "Memnun oldum"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "Buluşmak",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "tr": "Buluşmak"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Arkadaş",
+      "type": "translate",
+      "correct": [
+        "Arkadaş"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "tr": "Arkadaş"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Aile",
+      "type": "translate",
+      "correct": [
+        "Aile"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "tr": "Aile"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "İsim",
+      "type": "translate",
+      "correct": [
+        "İsim"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "tr": "İsim"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Memnun oldum",
+      "type": "translate",
+      "correct": [
+        "Memnun oldum"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "tr": "Memnun oldum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Buluşmak",
+      "type": "translate",
+      "correct": [
+        "Buluşmak"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "tr": "Buluşmak"
+    }
+  ]
+}

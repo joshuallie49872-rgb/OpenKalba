@@ -1,0 +1,296 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "lt": "kas",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "tts": "چی",
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "fa": "چی"
+    },
+    {
+      "lt": "ką",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "tts": "چی",
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "fa": "چی"
+    },
+    {
+      "lt": "kur",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "tts": "کجا",
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "fa": "کجا"
+    },
+    {
+      "lt": "kada",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "tts": "چه زمانی",
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "fa": "چه زمانی"
+    },
+    {
+      "lt": "kodėl",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "tts": "چرا",
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "fa": "چرا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "چی",
+      "type": "translate",
+      "correct": [
+        "چی"
+      ],
+      "en": "who",
+      "placeholder": "Type Lithuanian…",
+      "zh": "who",
+      "fa": "چی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "چی",
+      "type": "translate",
+      "correct": [
+        "چی"
+      ],
+      "en": "what",
+      "placeholder": "Type Lithuanian…",
+      "zh": "what",
+      "fa": "چی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "کجا",
+      "type": "translate",
+      "correct": [
+        "کجا"
+      ],
+      "en": "where",
+      "placeholder": "Type Lithuanian…",
+      "zh": "where",
+      "fa": "کجا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "چه زمانی",
+      "type": "translate",
+      "correct": [
+        "چه زمانی"
+      ],
+      "en": "when",
+      "placeholder": "Type Lithuanian…",
+      "zh": "when",
+      "fa": "چه زمانی"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "چرا",
+      "type": "translate",
+      "correct": [
+        "چرا"
+      ],
+      "en": "why",
+      "placeholder": "Type Lithuanian…",
+      "zh": "why",
+      "fa": "چرا"
+    },
+    {
+      "lt": "taip",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "tts": "بله",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "fa": "بله"
+    },
+    {
+      "lt": "ne",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "tts": "نه",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "fa": "نه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بله",
+      "type": "translate",
+      "correct": [
+        "بله"
+      ],
+      "en": "yes",
+      "placeholder": "Type Lithuanian…",
+      "zh": "是",
+      "fa": "بله"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نه",
+      "type": "translate",
+      "correct": [
+        "نه"
+      ],
+      "en": "no",
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "fa": "نه"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "tts": "باشه",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "fa": "باشه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "باشه",
+      "type": "translate",
+      "correct": [
+        "باشه"
+      ],
+      "en": "okay",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "fa": "باشه"
+    },
+    {
+      "lt": "blogai",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "tts": "بد",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "fa": "بد"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بد",
+      "type": "translate",
+      "correct": [
+        "بد"
+      ],
+      "en": "badly",
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "fa": "بد"
+    },
+    {
+      "lt": "kaip",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "tts": "چگونه",
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "fa": "چگونه"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "چگونه",
+      "type": "translate",
+      "correct": [
+        "چگونه"
+      ],
+      "en": "how",
+      "placeholder": "Type Lithuanian…",
+      "zh": "how",
+      "fa": "چگونه"
+    }
+  ]
+}

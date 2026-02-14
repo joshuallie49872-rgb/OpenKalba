@@ -1,0 +1,296 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "Bugün",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tr": "Bugün"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "Yarın",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tr": "Yarın"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "Daha sonra",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tr": "Daha sonra"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Planlıyorum",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tr": "Planlıyorum"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "Buluşacağız",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tr": "Buluşacağız"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Bugün",
+      "type": "translate",
+      "correct": [
+        "Bugün"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "tr": "Bugün"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yarın",
+      "type": "translate",
+      "correct": [
+        "Yarın"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "tr": "Yarın"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Daha sonra",
+      "type": "translate",
+      "correct": [
+        "Daha sonra"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "tr": "Daha sonra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Planlıyorum",
+      "type": "translate",
+      "correct": [
+        "Planlıyorum"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "tr": "Planlıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Buluşacağız",
+      "type": "translate",
+      "correct": [
+        "Buluşacağız"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "tr": "Buluşacağız"
+    },
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "Bugün",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tr": "Bugün"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "Yarın",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tr": "Yarın"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "Daha sonra",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tr": "Daha sonra"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "Planlıyorum",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tr": "Planlıyorum"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "Buluşacağız",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tr": "Buluşacağız"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Bugün",
+      "type": "translate",
+      "correct": [
+        "Bugün"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "tr": "Bugün"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Yarın",
+      "type": "translate",
+      "correct": [
+        "Yarın"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "tr": "Yarın"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Daha sonra",
+      "type": "translate",
+      "correct": [
+        "Daha sonra"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "tr": "Daha sonra"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Planlıyorum",
+      "type": "translate",
+      "correct": [
+        "Planlıyorum"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "tr": "Planlıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Buluşacağız",
+      "type": "translate",
+      "correct": [
+        "Buluşacağız"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "tr": "Buluşacağız"
+    }
+  ]
+}

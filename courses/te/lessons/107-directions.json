@@ -1,0 +1,296 @@
+{
+  "id": "107-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "ఎడమ",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "te": "ఎడమ"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "కుడి",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "te": "కుడి"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "నేరుగా",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "te": "నేరుగా"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "తిరిగి",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "te": "తిరిగి"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "దగ్గర",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "te": "దగ్గర"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఎడమ",
+      "type": "translate",
+      "correct": [
+        "ఎడమ"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "te": "ఎడమ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కుడి",
+      "type": "translate",
+      "correct": [
+        "కుడి"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "te": "కుడి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేరుగా",
+      "type": "translate",
+      "correct": [
+        "నేరుగా"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "te": "నేరుగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తిరిగి",
+      "type": "translate",
+      "correct": [
+        "తిరిగి"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "te": "తిరిగి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "దగ్గర",
+      "type": "translate",
+      "correct": [
+        "దగ్గర"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "te": "దగ్గర"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "ఎడమ",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "te": "ఎడమ"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "కుడి",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "te": "కుడి"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "నేరుగా",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "te": "నేరుగా"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "తిరిగి",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "te": "తిరిగి"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "దగ్గర",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "te": "దగ్గర"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఎడమ",
+      "type": "translate",
+      "correct": [
+        "ఎడమ"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "te": "ఎడమ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "కుడి",
+      "type": "translate",
+      "correct": [
+        "కుడి"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "te": "కుడి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేరుగా",
+      "type": "translate",
+      "correct": [
+        "నేరుగా"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "te": "నేరుగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "తిరిగి",
+      "type": "translate",
+      "correct": [
+        "తిరిగి"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "te": "తిరిగి"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "దగ్గర",
+      "type": "translate",
+      "correct": [
+        "దగ్గర"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "te": "దగ్గర"
+    }
+  ]
+}

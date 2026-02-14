@@ -1,0 +1,296 @@
+{
+  "id": "111-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "kiri",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "id": "kiri"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "kanan",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "id": "kanan"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "lurus",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "id": "lurus"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "kembali",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "id": "kembali"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "menutup",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "id": "menutup"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kiri",
+      "type": "translate",
+      "correct": [
+        "kiri"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "id": "kiri"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kanan",
+      "type": "translate",
+      "correct": [
+        "kanan"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "id": "kanan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lurus",
+      "type": "translate",
+      "correct": [
+        "lurus"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "id": "lurus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kembali",
+      "type": "translate",
+      "correct": [
+        "kembali"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "id": "kembali"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "menutup",
+      "type": "translate",
+      "correct": [
+        "menutup"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "id": "menutup"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "kiri",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "id": "kiri"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "tts": "kanan",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "id": "kanan"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "tts": "lurus",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "id": "lurus"
+    },
+    {
+      "lt": "atgal",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "tts": "kembali",
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "id": "kembali"
+    },
+    {
+      "lt": "arti",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "tts": "menutup",
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "id": "menutup"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kiri",
+      "type": "translate",
+      "correct": [
+        "kiri"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "id": "kiri"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kanan",
+      "type": "translate",
+      "correct": [
+        "kanan"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "id": "kanan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lurus",
+      "type": "translate",
+      "correct": [
+        "lurus"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "id": "lurus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kembali",
+      "type": "translate",
+      "correct": [
+        "kembali"
+      ],
+      "en": "back",
+      "placeholder": "Type Lithuanian…",
+      "zh": "back",
+      "id": "kembali"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "menutup",
+      "type": "translate",
+      "correct": [
+        "menutup"
+      ],
+      "en": "near",
+      "placeholder": "Type Lithuanian…",
+      "zh": "near",
+      "id": "menutup"
+    }
+  ]
+}

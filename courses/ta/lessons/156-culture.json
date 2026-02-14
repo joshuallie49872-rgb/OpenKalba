@@ -1,0 +1,296 @@
+{
+  "id": "156-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "விடுமுறை",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "ta": "விடுமுறை"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "பாரம்பரியம்",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "ta": "பாரம்பரியம்"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "வழக்கம்",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "ta": "வழக்கம்"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "இலவச நேரம்",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "ta": "இலவச நேரம்"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "நிகழ்வு",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "ta": "நிகழ்வு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "விடுமுறை",
+      "type": "translate",
+      "correct": [
+        "விடுமுறை"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "ta": "விடுமுறை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பாரம்பரியம்",
+      "type": "translate",
+      "correct": [
+        "பாரம்பரியம்"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "ta": "பாரம்பரியம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வழக்கம்",
+      "type": "translate",
+      "correct": [
+        "வழக்கம்"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "ta": "வழக்கம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "இலவச நேரம்",
+      "type": "translate",
+      "correct": [
+        "இலவச நேரம்"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "ta": "இலவச நேரம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நிகழ்வு",
+      "type": "translate",
+      "correct": [
+        "நிகழ்வு"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "ta": "நிகழ்வு"
+    },
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "விடுமுறை",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "ta": "விடுமுறை"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "பாரம்பரியம்",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "ta": "பாரம்பரியம்"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "வழக்கம்",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "ta": "வழக்கம்"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "இலவச நேரம்",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "ta": "இலவச நேரம்"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "நிகழ்வு",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "ta": "நிகழ்வு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "விடுமுறை",
+      "type": "translate",
+      "correct": [
+        "விடுமுறை"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "ta": "விடுமுறை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பாரம்பரியம்",
+      "type": "translate",
+      "correct": [
+        "பாரம்பரியம்"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "ta": "பாரம்பரியம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வழக்கம்",
+      "type": "translate",
+      "correct": [
+        "வழக்கம்"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "ta": "வழக்கம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "இலவச நேரம்",
+      "type": "translate",
+      "correct": [
+        "இலவச நேரம்"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "ta": "இலவச நேரம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நிகழ்வு",
+      "type": "translate",
+      "correct": [
+        "நிகழ்வு"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "ta": "நிகழ்வு"
+    }
+  ]
+}

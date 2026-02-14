@@ -3,7 +3,6 @@
   "title": "Stories & Narratives",
   "questions": [
     {
-      "prompt": "Pick the correct meaning",
       "lt": "istorija",
       "choices": [
         "story",
@@ -15,11 +14,9 @@
       "correct": [
         "story"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pasakojimas",
       "choices": [
         "narrative",
@@ -31,11 +28,9 @@
       "correct": [
         "narrative"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pradžia",
       "choices": [
         "beginning",
@@ -47,11 +42,9 @@
       "correct": [
         "beginning"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pabaiga",
       "choices": [
         "ending",
@@ -63,11 +56,9 @@
       "correct": [
         "ending"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "nutiko",
       "choices": [
         "happened",
@@ -79,8 +70,7 @@
       "correct": [
         "happened"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -93,8 +83,7 @@
       ],
       "en": "story",
       "placeholder": "Type Lithuanian…",
-      "zh": "story",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "story"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -107,8 +96,7 @@
       ],
       "en": "narrative",
       "placeholder": "Type Lithuanian…",
-      "zh": "narrative",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "narrative"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -121,8 +109,7 @@
       ],
       "en": "beginning",
       "placeholder": "Type Lithuanian…",
-      "zh": "beginning",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "beginning"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -135,8 +122,7 @@
       ],
       "en": "ending",
       "placeholder": "Type Lithuanian…",
-      "zh": "ending",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "ending"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -149,11 +135,9 @@
       ],
       "en": "happened",
       "placeholder": "Type Lithuanian…",
-      "zh": "happened",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "happened"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "istorija",
       "choices": [
         "story",
@@ -165,11 +149,9 @@
       "correct": [
         "story"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pasakojimas",
       "choices": [
         "narrative",
@@ -181,11 +163,9 @@
       "correct": [
         "narrative"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pradžia",
       "choices": [
         "beginning",
@@ -197,11 +177,9 @@
       "correct": [
         "beginning"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "pabaiga",
       "choices": [
         "ending",
@@ -213,11 +191,9 @@
       "correct": [
         "ending"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
-      "prompt": "Pick the correct meaning",
       "lt": "nutiko",
       "choices": [
         "happened",
@@ -229,8 +205,7 @@
       "correct": [
         "happened"
       ],
-      "type": "choose",
-      "prompt_zh": "选对的意思"
+      "type": "choose"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -243,8 +218,7 @@
       ],
       "en": "story",
       "placeholder": "Type Lithuanian…",
-      "zh": "story",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "story"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -257,8 +231,7 @@
       ],
       "en": "narrative",
       "placeholder": "Type Lithuanian…",
-      "zh": "narrative",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "narrative"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -271,8 +244,7 @@
       ],
       "en": "beginning",
       "placeholder": "Type Lithuanian…",
-      "zh": "beginning",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "beginning"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -285,8 +257,7 @@
       ],
       "en": "ending",
       "placeholder": "Type Lithuanian…",
-      "zh": "ending",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "ending"
     },
     {
       "prompt": "Translate to Lithuanian",
@@ -299,8 +270,7 @@
       ],
       "en": "happened",
       "placeholder": "Type Lithuanian…",
-      "zh": "happened",
-      "prompt_zh": "翻译成立陶宛语"
+      "zh": "happened"
     }
   ]
 }

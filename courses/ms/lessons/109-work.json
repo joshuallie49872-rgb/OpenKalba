@@ -1,0 +1,296 @@
+{
+  "id": "109-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "kerja",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "ms": "kerja"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "pejabat",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "ms": "pejabat"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "mesyuarat",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "ms": "mesyuarat"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "e-mel",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "ms": "e-mel"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "projek",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "ms": "projek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kerja",
+      "type": "translate",
+      "correct": [
+        "kerja"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "ms": "kerja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pejabat",
+      "type": "translate",
+      "correct": [
+        "pejabat"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "ms": "pejabat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mesyuarat",
+      "type": "translate",
+      "correct": [
+        "mesyuarat"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "ms": "mesyuarat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "e-mel",
+      "type": "translate",
+      "correct": [
+        "e-mel"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "ms": "e-mel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "projek",
+      "type": "translate",
+      "correct": [
+        "projek"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "ms": "projek"
+    },
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "kerja",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "ms": "kerja"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "pejabat",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "ms": "pejabat"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "mesyuarat",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "ms": "mesyuarat"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "e-mel",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "ms": "e-mel"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "projek",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "ms": "projek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kerja",
+      "type": "translate",
+      "correct": [
+        "kerja"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "ms": "kerja"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pejabat",
+      "type": "translate",
+      "correct": [
+        "pejabat"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "ms": "pejabat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mesyuarat",
+      "type": "translate",
+      "correct": [
+        "mesyuarat"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "ms": "mesyuarat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "e-mel",
+      "type": "translate",
+      "correct": [
+        "e-mel"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "ms": "e-mel"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "projek",
+      "type": "translate",
+      "correct": [
+        "projek"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "ms": "projek"
+    }
+  ]
+}

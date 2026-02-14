@@ -1,0 +1,316 @@
+{
+  "id": "119-directions",
+  "title": "Directions & Movement",
+  "questions": [
+    {
+      "ko": "왼쪽",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "왼쪽"
+    },
+    {
+      "ko": "오른쪽",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "오른쪽"
+    },
+    {
+      "ko": "똑바로",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "똑바로"
+    },
+    {
+      "ko": "뒤쪽에",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "뒤쪽에"
+    },
+    {
+      "ko": "닫다",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "닫다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "ko": "왼쪽",
+      "correct": [
+        "왼쪽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "왼쪽",
+      "ru": "левый",
+      "pl": "lewy",
+      "zh": "左边",
+      "lt": "kairė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "ko": "오른쪽",
+      "correct": [
+        "오른쪽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "오른쪽",
+      "ru": "верно",
+      "pl": "Prawidłowy",
+      "zh": "正确的",
+      "lt": "dešinėje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "ko": "똑바로",
+      "correct": [
+        "똑바로"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "똑바로",
+      "ru": "прямой",
+      "pl": "prosty",
+      "zh": "直的",
+      "lt": "tiesiai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "ko": "뒤쪽에",
+      "correct": [
+        "뒤쪽에"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "뒤쪽에",
+      "ru": "назад",
+      "pl": "z powrotem",
+      "zh": "后退",
+      "lt": "atgal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "ko": "닫다",
+      "correct": [
+        "닫다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "닫다",
+      "ru": "около",
+      "pl": "w pobliżu",
+      "zh": "靠近",
+      "lt": "netoli"
+    },
+    {
+      "ko": "왼쪽",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "왼쪽"
+    },
+    {
+      "ko": "오른쪽",
+      "lt": "",
+      "choices": [
+        "right",
+        "left",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "오른쪽"
+    },
+    {
+      "ko": "똑바로",
+      "lt": "",
+      "choices": [
+        "straight",
+        "left",
+        "right",
+        "back"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "똑바로"
+    },
+    {
+      "ko": "뒤쪽에",
+      "lt": "",
+      "choices": [
+        "back",
+        "forward",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "back"
+      ],
+      "type": "choose",
+      "tts": "뒤쪽에"
+    },
+    {
+      "ko": "닫다",
+      "lt": "",
+      "choices": [
+        "near",
+        "far",
+        "inside",
+        "outside"
+      ],
+      "correct": [
+        "near"
+      ],
+      "type": "choose",
+      "tts": "닫다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "ko": "왼쪽",
+      "correct": [
+        "왼쪽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "왼쪽",
+      "ru": "левый",
+      "pl": "lewy",
+      "zh": "左边",
+      "lt": "kairė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "ko": "오른쪽",
+      "correct": [
+        "오른쪽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "오른쪽",
+      "ru": "верно",
+      "pl": "Prawidłowy",
+      "zh": "正确的",
+      "lt": "dešinėje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "ko": "똑바로",
+      "correct": [
+        "똑바로"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "똑바로",
+      "ru": "прямой",
+      "pl": "prosty",
+      "zh": "直的",
+      "lt": "tiesiai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "back",
+      "ko": "뒤쪽에",
+      "correct": [
+        "뒤쪽에"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "뒤쪽에",
+      "ru": "назад",
+      "pl": "z powrotem",
+      "zh": "后退",
+      "lt": "atgal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "near",
+      "ko": "닫다",
+      "correct": [
+        "닫다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "닫다",
+      "ru": "около",
+      "pl": "w pobliżu",
+      "zh": "靠近",
+      "lt": "netoli"
+    }
+  ]
+}

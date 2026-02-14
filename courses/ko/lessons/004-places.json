@@ -1,0 +1,316 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "ko": "여기",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "tts": "여기"
+    },
+    {
+      "ko": "거기",
+      "lt": "",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "tts": "거기"
+    },
+    {
+      "ko": "왼쪽",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "tts": "왼쪽"
+    },
+    {
+      "ko": "오른쪽",
+      "lt": "",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "tts": "오른쪽"
+    },
+    {
+      "ko": "똑바로",
+      "lt": "",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "tts": "똑바로"
+    },
+    {
+      "ko": "도시",
+      "lt": "",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "tts": "도시"
+    },
+    {
+      "ko": "거리",
+      "lt": "",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "tts": "거리"
+    },
+    {
+      "ko": "역",
+      "lt": "",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "tts": "역"
+    },
+    {
+      "ko": "공항",
+      "lt": "",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "tts": "공항"
+    },
+    {
+      "ko": "호텔",
+      "lt": "",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tts": "호텔"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "here",
+      "ko": "여기",
+      "correct": [
+        "여기"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여기",
+      "ru": "здесь",
+      "pl": "Tutaj",
+      "zh": "这里",
+      "lt": "čia"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "there",
+      "ko": "거기",
+      "correct": [
+        "거기"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "거기",
+      "ru": "там",
+      "pl": "Tam",
+      "zh": "那里",
+      "lt": "ten"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "left",
+      "ko": "왼쪽",
+      "correct": [
+        "왼쪽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "왼쪽",
+      "ru": "левый",
+      "pl": "lewy",
+      "zh": "左边",
+      "lt": "kairė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "right",
+      "ko": "오른쪽",
+      "correct": [
+        "오른쪽"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "오른쪽",
+      "ru": "верно",
+      "pl": "Prawidłowy",
+      "zh": "正确的",
+      "lt": "dešinėje"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "straight",
+      "ko": "똑바로",
+      "correct": [
+        "똑바로"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "똑바로",
+      "ru": "прямой",
+      "pl": "prosty",
+      "zh": "直的",
+      "lt": "tiesiai"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "city",
+      "ko": "도시",
+      "correct": [
+        "도시"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "도시",
+      "ru": "город",
+      "pl": "miasto",
+      "zh": "城市",
+      "lt": "miestas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "street",
+      "ko": "거리",
+      "correct": [
+        "거리"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "거리",
+      "ru": "улица",
+      "pl": "ulica",
+      "zh": "街道",
+      "lt": "gatvė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hotel",
+      "ko": "호텔",
+      "correct": [
+        "호텔"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "호텔",
+      "ru": "отель",
+      "pl": "hotel",
+      "zh": "酒店",
+      "lt": "viešbutis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "station",
+      "ko": "역",
+      "correct": [
+        "역"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "역",
+      "ru": "станция",
+      "pl": "stacja",
+      "zh": "车站",
+      "lt": "stotis"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "airport",
+      "ko": "공항",
+      "correct": [
+        "공항"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "공항",
+      "ru": "аэропорт",
+      "pl": "lotnisko",
+      "zh": "飞机场",
+      "lt": "oro uostas"
+    }
+  ]
+}

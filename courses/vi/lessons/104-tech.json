@@ -1,0 +1,296 @@
+{
+  "id": "104-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "lt": "telefonas",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "điện thoại",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "vi": "điện thoại"
+    },
+    {
+      "lt": "kompiuteris",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "máy tính",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "vi": "máy tính"
+    },
+    {
+      "lt": "internetas",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "internet",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "vi": "internet"
+    },
+    {
+      "lt": "programa",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "chương trình",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "vi": "chương trình"
+    },
+    {
+      "lt": "žinutė",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "tin nhắn",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "vi": "tin nhắn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "điện thoại",
+      "type": "translate",
+      "correct": [
+        "điện thoại"
+      ],
+      "en": "phone",
+      "placeholder": "Type Lithuanian…",
+      "zh": "phone",
+      "vi": "điện thoại"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "máy tính",
+      "type": "translate",
+      "correct": [
+        "máy tính"
+      ],
+      "en": "computer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "computer",
+      "vi": "máy tính"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "internet",
+      "type": "translate",
+      "correct": [
+        "internet"
+      ],
+      "en": "internet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "internet",
+      "vi": "internet"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chương trình",
+      "type": "translate",
+      "correct": [
+        "chương trình"
+      ],
+      "en": "app",
+      "placeholder": "Type Lithuanian…",
+      "zh": "app",
+      "vi": "chương trình"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tin nhắn",
+      "type": "translate",
+      "correct": [
+        "tin nhắn"
+      ],
+      "en": "message",
+      "placeholder": "Type Lithuanian…",
+      "zh": "message",
+      "vi": "tin nhắn"
+    },
+    {
+      "lt": "telefonas",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "điện thoại",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "vi": "điện thoại"
+    },
+    {
+      "lt": "kompiuteris",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "máy tính",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "vi": "máy tính"
+    },
+    {
+      "lt": "internetas",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "internet",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "vi": "internet"
+    },
+    {
+      "lt": "programa",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "chương trình",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "vi": "chương trình"
+    },
+    {
+      "lt": "žinutė",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "tin nhắn",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "vi": "tin nhắn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "điện thoại",
+      "type": "translate",
+      "correct": [
+        "điện thoại"
+      ],
+      "en": "phone",
+      "placeholder": "Type Lithuanian…",
+      "zh": "phone",
+      "vi": "điện thoại"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "máy tính",
+      "type": "translate",
+      "correct": [
+        "máy tính"
+      ],
+      "en": "computer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "computer",
+      "vi": "máy tính"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "internet",
+      "type": "translate",
+      "correct": [
+        "internet"
+      ],
+      "en": "internet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "internet",
+      "vi": "internet"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "chương trình",
+      "type": "translate",
+      "correct": [
+        "chương trình"
+      ],
+      "en": "app",
+      "placeholder": "Type Lithuanian…",
+      "zh": "app",
+      "vi": "chương trình"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tin nhắn",
+      "type": "translate",
+      "correct": [
+        "tin nhắn"
+      ],
+      "en": "message",
+      "placeholder": "Type Lithuanian…",
+      "zh": "message",
+      "vi": "tin nhắn"
+    }
+  ]
+}

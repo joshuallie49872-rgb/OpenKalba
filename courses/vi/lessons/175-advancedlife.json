@@ -1,0 +1,296 @@
+{
+  "id": "175-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "giải pháp",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "vi": "giải pháp"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "vấn đề",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "vi": "vấn đề"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "lựa chọn",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "vi": "lựa chọn"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "kinh nghiệm",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "vi": "kinh nghiệm"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "kết quả",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "vi": "kết quả"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "giải pháp",
+      "type": "translate",
+      "correct": [
+        "giải pháp"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "vi": "giải pháp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "vấn đề",
+      "type": "translate",
+      "correct": [
+        "vấn đề"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "vi": "vấn đề"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lựa chọn",
+      "type": "translate",
+      "correct": [
+        "lựa chọn"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "vi": "lựa chọn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kinh nghiệm",
+      "type": "translate",
+      "correct": [
+        "kinh nghiệm"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "vi": "kinh nghiệm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kết quả",
+      "type": "translate",
+      "correct": [
+        "kết quả"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "vi": "kết quả"
+    },
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "giải pháp",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "vi": "giải pháp"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "vấn đề",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "vi": "vấn đề"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "lựa chọn",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "vi": "lựa chọn"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "kinh nghiệm",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "vi": "kinh nghiệm"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "kết quả",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "vi": "kết quả"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "giải pháp",
+      "type": "translate",
+      "correct": [
+        "giải pháp"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "vi": "giải pháp"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "vấn đề",
+      "type": "translate",
+      "correct": [
+        "vấn đề"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "vi": "vấn đề"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "lựa chọn",
+      "type": "translate",
+      "correct": [
+        "lựa chọn"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "vi": "lựa chọn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kinh nghiệm",
+      "type": "translate",
+      "correct": [
+        "kinh nghiệm"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "vi": "kinh nghiệm"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kết quả",
+      "type": "translate",
+      "correct": [
+        "kết quả"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "vi": "kết quả"
+    }
+  ]
+}

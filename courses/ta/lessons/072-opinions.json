@@ -1,0 +1,296 @@
+{
+  "id": "072-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "எனக்கு பிடிக்கும்",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "பிடிக்கவில்லை",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ta": "பிடிக்கவில்லை"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "எனக்கு பிடிக்கும்",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "எனக்கு வேண்டாம்",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு வேண்டாம்"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "முக்கியமானது",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ta": "முக்கியமானது"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு பிடிக்கும்",
+      "type": "translate",
+      "correct": [
+        "எனக்கு பிடிக்கும்"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பிடிக்கவில்லை",
+      "type": "translate",
+      "correct": [
+        "பிடிக்கவில்லை"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ta": "பிடிக்கவில்லை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு பிடிக்கும்",
+      "type": "translate",
+      "correct": [
+        "எனக்கு பிடிக்கும்"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு வேண்டாம்",
+      "type": "translate",
+      "correct": [
+        "எனக்கு வேண்டாம்"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ta": "எனக்கு வேண்டாம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "முக்கியமானது",
+      "type": "translate",
+      "correct": [
+        "முக்கியமானது"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ta": "முக்கியமானது"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "எனக்கு பிடிக்கும்",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "பிடிக்கவில்லை",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ta": "பிடிக்கவில்லை"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "எனக்கு பிடிக்கும்",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "எனக்கு வேண்டாம்",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ta": "எனக்கு வேண்டாம்"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "முக்கியமானது",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ta": "முக்கியமானது"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு பிடிக்கும்",
+      "type": "translate",
+      "correct": [
+        "எனக்கு பிடிக்கும்"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பிடிக்கவில்லை",
+      "type": "translate",
+      "correct": [
+        "பிடிக்கவில்லை"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ta": "பிடிக்கவில்லை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு பிடிக்கும்",
+      "type": "translate",
+      "correct": [
+        "எனக்கு பிடிக்கும்"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ta": "எனக்கு பிடிக்கும்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "எனக்கு வேண்டாம்",
+      "type": "translate",
+      "correct": [
+        "எனக்கு வேண்டாம்"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ta": "எனக்கு வேண்டாம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "முக்கியமானது",
+      "type": "translate",
+      "correct": [
+        "முக்கியமானது"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ta": "முக்கியமானது"
+    }
+  ]
+}

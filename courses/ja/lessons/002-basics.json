@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "lt": "vienas",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "一人",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "ja": "一人"
+    },
+    {
+      "lt": "du",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "二",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "ja": "二"
+    },
+    {
+      "lt": "trys",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "三",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "ja": "三"
+    },
+    {
+      "lt": "keturi",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "四",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "ja": "四"
+    },
+    {
+      "lt": "penki",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "五",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "ja": "五"
+    },
+    {
+      "lt": "raudona",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "赤",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "ja": "赤"
+    },
+    {
+      "lt": "mėlyna",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "青",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "ja": "青"
+    },
+    {
+      "lt": "žalia",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "緑",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "ja": "緑"
+    },
+    {
+      "lt": "juoda",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "黒",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "ja": "黒"
+    },
+    {
+      "lt": "balta",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "白",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "ja": "白"
+    },
+    {
+      "lt": "mama",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "母",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "ja": "母"
+    },
+    {
+      "lt": "tėtis",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "父",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "ja": "父"
+    },
+    {
+      "lt": "brolis",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "兄",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "ja": "兄"
+    },
+    {
+      "lt": "sesuo",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "姉妹",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "ja": "姉妹"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "家族",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ja": "家族"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "水",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ja": "水"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "コーヒー",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ja": "コーヒー"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "パン",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ja": "パン"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "ホテル",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "ja": "ホテル"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "チケット",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "ja": "チケット"
+    }
+  ]
+}

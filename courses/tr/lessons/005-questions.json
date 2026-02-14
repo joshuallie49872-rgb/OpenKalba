@@ -1,0 +1,296 @@
+{
+  "id": "005-questions",
+  "title": "Questions & Answers",
+  "questions": [
+    {
+      "lt": "kas",
+      "choices": [
+        "who",
+        "what",
+        "where",
+        "when"
+      ],
+      "tts": "Ne",
+      "correct": [
+        "who"
+      ],
+      "type": "choose",
+      "tr": "Ne"
+    },
+    {
+      "lt": "ką",
+      "choices": [
+        "what",
+        "who",
+        "where",
+        "why"
+      ],
+      "tts": "Ne",
+      "correct": [
+        "what"
+      ],
+      "type": "choose",
+      "tr": "Ne"
+    },
+    {
+      "lt": "kur",
+      "choices": [
+        "where",
+        "when",
+        "how",
+        "who"
+      ],
+      "tts": "Nerede",
+      "correct": [
+        "where"
+      ],
+      "type": "choose",
+      "tr": "Nerede"
+    },
+    {
+      "lt": "kada",
+      "choices": [
+        "when",
+        "where",
+        "why",
+        "how"
+      ],
+      "tts": "Ne zaman",
+      "correct": [
+        "when"
+      ],
+      "type": "choose",
+      "tr": "Ne zaman"
+    },
+    {
+      "lt": "kodėl",
+      "choices": [
+        "why",
+        "when",
+        "where",
+        "who"
+      ],
+      "tts": "Neden",
+      "correct": [
+        "why"
+      ],
+      "type": "choose",
+      "tr": "Neden"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ne",
+      "type": "translate",
+      "correct": [
+        "Ne"
+      ],
+      "en": "who",
+      "placeholder": "Type Lithuanian…",
+      "zh": "who",
+      "tr": "Ne"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ne",
+      "type": "translate",
+      "correct": [
+        "Ne"
+      ],
+      "en": "what",
+      "placeholder": "Type Lithuanian…",
+      "zh": "what",
+      "tr": "Ne"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Nerede",
+      "type": "translate",
+      "correct": [
+        "Nerede"
+      ],
+      "en": "where",
+      "placeholder": "Type Lithuanian…",
+      "zh": "where",
+      "tr": "Nerede"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Ne zaman",
+      "type": "translate",
+      "correct": [
+        "Ne zaman"
+      ],
+      "en": "when",
+      "placeholder": "Type Lithuanian…",
+      "zh": "when",
+      "tr": "Ne zaman"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Neden",
+      "type": "translate",
+      "correct": [
+        "Neden"
+      ],
+      "en": "why",
+      "placeholder": "Type Lithuanian…",
+      "zh": "why",
+      "tr": "Neden"
+    },
+    {
+      "lt": "taip",
+      "choices": [
+        "yes",
+        "no",
+        "maybe",
+        "later"
+      ],
+      "tts": "Evet",
+      "correct": [
+        "yes"
+      ],
+      "type": "choose",
+      "tr": "Evet"
+    },
+    {
+      "lt": "ne",
+      "choices": [
+        "no",
+        "yes",
+        "later",
+        "always"
+      ],
+      "tts": "Hayır",
+      "correct": [
+        "no"
+      ],
+      "type": "choose",
+      "tr": "Hayır"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Evet",
+      "type": "translate",
+      "correct": [
+        "Evet"
+      ],
+      "en": "yes",
+      "placeholder": "Type Lithuanian…",
+      "zh": "是",
+      "tr": "Evet"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Hayır",
+      "type": "translate",
+      "correct": [
+        "Hayır"
+      ],
+      "en": "no",
+      "placeholder": "Type Lithuanian…",
+      "zh": "不",
+      "tr": "Hayır"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "no",
+        "later"
+      ],
+      "tts": "Tamam",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "tr": "Tamam"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tamam",
+      "type": "translate",
+      "correct": [
+        "Tamam"
+      ],
+      "en": "okay",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "tr": "Tamam"
+    },
+    {
+      "lt": "blogai",
+      "choices": [
+        "badly",
+        "well",
+        "good",
+        "okay"
+      ],
+      "tts": "Kötü",
+      "correct": [
+        "badly"
+      ],
+      "type": "choose",
+      "tr": "Kötü"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kötü",
+      "type": "translate",
+      "correct": [
+        "Kötü"
+      ],
+      "en": "badly",
+      "placeholder": "Type Lithuanian…",
+      "zh": "很糟糕",
+      "tr": "Kötü"
+    },
+    {
+      "lt": "kaip",
+      "choices": [
+        "how",
+        "why",
+        "when",
+        "where"
+      ],
+      "tts": "Nasıl",
+      "correct": [
+        "how"
+      ],
+      "type": "choose",
+      "tr": "Nasıl"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Nasıl",
+      "type": "translate",
+      "correct": [
+        "Nasıl"
+      ],
+      "en": "how",
+      "placeholder": "Type Lithuanian…",
+      "zh": "how",
+      "tr": "Nasıl"
+    }
+  ]
+}

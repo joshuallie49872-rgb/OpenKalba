@@ -1,0 +1,316 @@
+{
+  "id": "035-weather",
+  "title": "Weather & Plans",
+  "questions": [
+    {
+      "ko": "날씨",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "날씨"
+    },
+    {
+      "ko": "비",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "비"
+    },
+    {
+      "ko": "해",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "해"
+    },
+    {
+      "ko": "추운",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "추운"
+    },
+    {
+      "ko": "더운",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "더운"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "weather",
+      "ko": "날씨",
+      "correct": [
+        "날씨"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "날씨",
+      "ru": "погода",
+      "pl": "pogoda",
+      "zh": "天气",
+      "lt": "oras"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "rain",
+      "ko": "비",
+      "correct": [
+        "비"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "비",
+      "ru": "дождь",
+      "pl": "deszcz",
+      "zh": "雨",
+      "lt": "lietus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sun",
+      "ko": "해",
+      "correct": [
+        "해"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "해",
+      "ru": "солнце",
+      "pl": "słoneczny",
+      "zh": "太阳",
+      "lt": "saulė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cold",
+      "ko": "추운",
+      "correct": [
+        "추운"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "추운",
+      "ru": "холодный",
+      "pl": "zimno",
+      "zh": "寒冷的",
+      "lt": "šalta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hot",
+      "ko": "더운",
+      "correct": [
+        "더운"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "더운",
+      "ru": "горячий",
+      "pl": "gorący",
+      "zh": "热的",
+      "lt": "karšta"
+    },
+    {
+      "ko": "날씨",
+      "lt": "",
+      "choices": [
+        "weather",
+        "wind",
+        "rain",
+        "sun"
+      ],
+      "correct": [
+        "weather"
+      ],
+      "type": "choose",
+      "tts": "날씨"
+    },
+    {
+      "ko": "비",
+      "lt": "",
+      "choices": [
+        "rain",
+        "snow",
+        "sun",
+        "wind"
+      ],
+      "correct": [
+        "rain"
+      ],
+      "type": "choose",
+      "tts": "비"
+    },
+    {
+      "ko": "해",
+      "lt": "",
+      "choices": [
+        "sun",
+        "rain",
+        "cloud",
+        "wind"
+      ],
+      "correct": [
+        "sun"
+      ],
+      "type": "choose",
+      "tts": "해"
+    },
+    {
+      "ko": "추운",
+      "lt": "",
+      "choices": [
+        "cold",
+        "hot",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "cold"
+      ],
+      "type": "choose",
+      "tts": "추운"
+    },
+    {
+      "ko": "더운",
+      "lt": "",
+      "choices": [
+        "hot",
+        "cold",
+        "warm",
+        "cool"
+      ],
+      "correct": [
+        "hot"
+      ],
+      "type": "choose",
+      "tts": "더운"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "weather",
+      "ko": "날씨",
+      "correct": [
+        "날씨"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "날씨",
+      "ru": "погода",
+      "pl": "pogoda",
+      "zh": "天气",
+      "lt": "oras"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "rain",
+      "ko": "비",
+      "correct": [
+        "비"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "비",
+      "ru": "дождь",
+      "pl": "deszcz",
+      "zh": "雨",
+      "lt": "lietus"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sun",
+      "ko": "해",
+      "correct": [
+        "해"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "해",
+      "ru": "солнце",
+      "pl": "słoneczny",
+      "zh": "太阳",
+      "lt": "saulė"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "cold",
+      "ko": "추운",
+      "correct": [
+        "추운"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "추운",
+      "ru": "холодный",
+      "pl": "zimno",
+      "zh": "寒冷的",
+      "lt": "šalta"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "hot",
+      "ko": "더운",
+      "correct": [
+        "더운"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "더운",
+      "ru": "горячий",
+      "pl": "gorący",
+      "zh": "热的",
+      "lt": "karšta"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "170-opinions2",
+  "title": "Opinions & Discussion",
+  "questions": [
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "Düşünüyorum",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tr": "Düşünüyorum"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "Kabul ediyorum",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tr": "Kabul ediyorum"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "Katılmıyorum",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tr": "Katılmıyorum"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "Fikir",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tr": "Fikir"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "Tartışma",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tr": "Tartışma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Düşünüyorum",
+      "type": "translate",
+      "correct": [
+        "Düşünüyorum"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "tr": "Düşünüyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kabul ediyorum",
+      "type": "translate",
+      "correct": [
+        "Kabul ediyorum"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "tr": "Kabul ediyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Katılmıyorum",
+      "type": "translate",
+      "correct": [
+        "Katılmıyorum"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "tr": "Katılmıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Fikir",
+      "type": "translate",
+      "correct": [
+        "Fikir"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "tr": "Fikir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tartışma",
+      "type": "translate",
+      "correct": [
+        "Tartışma"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "tr": "Tartışma"
+    },
+    {
+      "lt": "manau",
+      "choices": [
+        "I think",
+        "I know",
+        "I see",
+        "I feel"
+      ],
+      "tts": "Düşünüyorum",
+      "correct": [
+        "I think"
+      ],
+      "type": "choose",
+      "tr": "Düşünüyorum"
+    },
+    {
+      "lt": "sutinku",
+      "choices": [
+        "I agree",
+        "I disagree",
+        "I leave",
+        "I wait"
+      ],
+      "tts": "Kabul ediyorum",
+      "correct": [
+        "I agree"
+      ],
+      "type": "choose",
+      "tr": "Kabul ediyorum"
+    },
+    {
+      "lt": "nesutinku",
+      "choices": [
+        "I disagree",
+        "I agree",
+        "I think",
+        "I know"
+      ],
+      "tts": "Katılmıyorum",
+      "correct": [
+        "I disagree"
+      ],
+      "type": "choose",
+      "tr": "Katılmıyorum"
+    },
+    {
+      "lt": "nuomonė",
+      "choices": [
+        "opinion",
+        "idea",
+        "plan",
+        "problem"
+      ],
+      "tts": "Fikir",
+      "correct": [
+        "opinion"
+      ],
+      "type": "choose",
+      "tr": "Fikir"
+    },
+    {
+      "lt": "argumentas",
+      "choices": [
+        "argument",
+        "story",
+        "example",
+        "reason"
+      ],
+      "tts": "Tartışma",
+      "correct": [
+        "argument"
+      ],
+      "type": "choose",
+      "tr": "Tartışma"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Düşünüyorum",
+      "type": "translate",
+      "correct": [
+        "Düşünüyorum"
+      ],
+      "en": "I think",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我think",
+      "tr": "Düşünüyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kabul ediyorum",
+      "type": "translate",
+      "correct": [
+        "Kabul ediyorum"
+      ],
+      "en": "I agree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我agree",
+      "tr": "Kabul ediyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Katılmıyorum",
+      "type": "translate",
+      "correct": [
+        "Katılmıyorum"
+      ],
+      "en": "I disagree",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我disagree",
+      "tr": "Katılmıyorum"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Fikir",
+      "type": "translate",
+      "correct": [
+        "Fikir"
+      ],
+      "en": "opinion",
+      "placeholder": "Type Lithuanian…",
+      "zh": "opinion",
+      "tr": "Fikir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tartışma",
+      "type": "translate",
+      "correct": [
+        "Tartışma"
+      ],
+      "en": "argument",
+      "placeholder": "Type Lithuanian…",
+      "zh": "argument",
+      "tr": "Tartışma"
+    }
+  ]
+}

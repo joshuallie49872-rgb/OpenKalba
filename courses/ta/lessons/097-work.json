@@ -1,0 +1,296 @@
+{
+  "id": "097-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "வேலை",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "ta": "வேலை"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "அலுவலகம்",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "ta": "அலுவலகம்"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "சந்திப்பு",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "ta": "சந்திப்பு"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "மின்னஞ்சல்",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "ta": "மின்னஞ்சல்"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "திட்டம்",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "ta": "திட்டம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வேலை",
+      "type": "translate",
+      "correct": [
+        "வேலை"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "ta": "வேலை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "அலுவலகம்",
+      "type": "translate",
+      "correct": [
+        "அலுவலகம்"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "ta": "அலுவலகம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சந்திப்பு",
+      "type": "translate",
+      "correct": [
+        "சந்திப்பு"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "ta": "சந்திப்பு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மின்னஞ்சல்",
+      "type": "translate",
+      "correct": [
+        "மின்னஞ்சல்"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "ta": "மின்னஞ்சல்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "திட்டம்",
+      "type": "translate",
+      "correct": [
+        "திட்டம்"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "ta": "திட்டம்"
+    },
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "வேலை",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "ta": "வேலை"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "அலுவலகம்",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "ta": "அலுவலகம்"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "சந்திப்பு",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "ta": "சந்திப்பு"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "மின்னஞ்சல்",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "ta": "மின்னஞ்சல்"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "திட்டம்",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "ta": "திட்டம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "வேலை",
+      "type": "translate",
+      "correct": [
+        "வேலை"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "ta": "வேலை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "அலுவலகம்",
+      "type": "translate",
+      "correct": [
+        "அலுவலகம்"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "ta": "அலுவலகம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சந்திப்பு",
+      "type": "translate",
+      "correct": [
+        "சந்திப்பு"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "ta": "சந்திப்பு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மின்னஞ்சல்",
+      "type": "translate",
+      "correct": [
+        "மின்னஞ்சல்"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "ta": "மின்னஞ்சல்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "திட்டம்",
+      "type": "translate",
+      "correct": [
+        "திட்டம்"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "ta": "திட்டம்"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "029-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "teman",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "id": "teman"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "keluarga",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "id": "keluarga"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "nama",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "id": "nama"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "menyenangkan",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "id": "menyenangkan"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "bertemu",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "id": "bertemu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "teman",
+      "type": "translate",
+      "correct": [
+        "teman"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "id": "teman"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "keluarga",
+      "type": "translate",
+      "correct": [
+        "keluarga"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "id": "keluarga"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "nama",
+      "type": "translate",
+      "correct": [
+        "nama"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "id": "nama"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "menyenangkan",
+      "type": "translate",
+      "correct": [
+        "menyenangkan"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "id": "menyenangkan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bertemu",
+      "type": "translate",
+      "correct": [
+        "bertemu"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "id": "bertemu"
+    },
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "teman",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "id": "teman"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "keluarga",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "id": "keluarga"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "nama",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "id": "nama"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "menyenangkan",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "id": "menyenangkan"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "bertemu",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "id": "bertemu"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "teman",
+      "type": "translate",
+      "correct": [
+        "teman"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "id": "teman"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "keluarga",
+      "type": "translate",
+      "correct": [
+        "keluarga"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "id": "keluarga"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "nama",
+      "type": "translate",
+      "correct": [
+        "nama"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "id": "nama"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "menyenangkan",
+      "type": "translate",
+      "correct": [
+        "menyenangkan"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "id": "menyenangkan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bertemu",
+      "type": "translate",
+      "correct": [
+        "bertemu"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "id": "bertemu"
+    }
+  ]
+}

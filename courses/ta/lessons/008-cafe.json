@@ -1,0 +1,296 @@
+{
+  "id": "008-cafe",
+  "title": "Ordering at a Café",
+  "questions": [
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "தயவுசெய்து",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ta": "தயவுசெய்து"
+    },
+    {
+      "lt": "meniu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "மெனு",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "ta": "மெனு"
+    },
+    {
+      "lt": "sąskaita",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "கணக்கு",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "ta": "கணக்கு"
+    },
+    {
+      "lt": "stalas",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "மேஜை",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "ta": "மேஜை"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "காபி",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ta": "காபி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மெனு",
+      "type": "translate",
+      "correct": [
+        "மெனு"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "ta": "மெனு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கணக்கு",
+      "type": "translate",
+      "correct": [
+        "கணக்கு"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "ta": "கணக்கு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மேஜை",
+      "type": "translate",
+      "correct": [
+        "மேஜை"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "ta": "மேஜை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "காபி",
+      "type": "translate",
+      "correct": [
+        "காபி"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "ta": "காபி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "தயவுசெய்து",
+      "type": "translate",
+      "correct": [
+        "தயவுசெய்து"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ta": "தயவுசெய்து"
+    },
+    {
+      "lt": "prašau",
+      "choices": [
+        "please",
+        "thanks",
+        "hello",
+        "no"
+      ],
+      "tts": "தயவுசெய்து",
+      "correct": [
+        "please"
+      ],
+      "type": "choose",
+      "ta": "தயவுசெய்து"
+    },
+    {
+      "lt": "meniu",
+      "choices": [
+        "menu",
+        "bill",
+        "table",
+        "drink"
+      ],
+      "tts": "மெனு",
+      "correct": [
+        "menu"
+      ],
+      "type": "choose",
+      "ta": "மெனு"
+    },
+    {
+      "lt": "sąskaita",
+      "choices": [
+        "bill",
+        "menu",
+        "coffee",
+        "water"
+      ],
+      "tts": "கணக்கு",
+      "correct": [
+        "bill"
+      ],
+      "type": "choose",
+      "ta": "கணக்கு"
+    },
+    {
+      "lt": "stalas",
+      "choices": [
+        "table",
+        "chair",
+        "menu",
+        "food"
+      ],
+      "tts": "மேஜை",
+      "correct": [
+        "table"
+      ],
+      "type": "choose",
+      "ta": "மேஜை"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "beer",
+        "wine"
+      ],
+      "tts": "காபி",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ta": "காபி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மெனு",
+      "type": "translate",
+      "correct": [
+        "மெனு"
+      ],
+      "en": "menu",
+      "placeholder": "Type Lithuanian…",
+      "zh": "菜单",
+      "ta": "மெனு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "கணக்கு",
+      "type": "translate",
+      "correct": [
+        "கணக்கு"
+      ],
+      "en": "bill",
+      "placeholder": "Type Lithuanian…",
+      "zh": "账单",
+      "ta": "கணக்கு"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "மேஜை",
+      "type": "translate",
+      "correct": [
+        "மேஜை"
+      ],
+      "en": "table",
+      "placeholder": "Type Lithuanian…",
+      "zh": "桌子",
+      "ta": "மேஜை"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "காபி",
+      "type": "translate",
+      "correct": [
+        "காபி"
+      ],
+      "en": "coffee",
+      "placeholder": "Type Lithuanian…",
+      "zh": "咖啡",
+      "ta": "காபி"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "தயவுசெய்து",
+      "type": "translate",
+      "correct": [
+        "தயவுசெய்து"
+      ],
+      "en": "please",
+      "placeholder": "Type Lithuanian…",
+      "zh": "请",
+      "ta": "தயவுசெய்து"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "033-emergency",
+  "title": "Emergencies & Help",
+  "questions": [
+    {
+      "lt": "pagalba",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "کمک کند",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "fa": "کمک کند"
+    },
+    {
+      "lt": "policija",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "پلیس",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "fa": "پلیس"
+    },
+    {
+      "lt": "ligoninė",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "بیمارستان",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "fa": "بیمارستان"
+    },
+    {
+      "lt": "gaisras",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "آتش",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "fa": "آتش"
+    },
+    {
+      "lt": "pavojus",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "خطر",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "fa": "خطر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "کمک کند",
+      "type": "translate",
+      "correct": [
+        "کمک کند"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "fa": "کمک کند"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پلیس",
+      "type": "translate",
+      "correct": [
+        "پلیس"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "fa": "پلیس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بیمارستان",
+      "type": "translate",
+      "correct": [
+        "بیمارستان"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "fa": "بیمارستان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "آتش",
+      "type": "translate",
+      "correct": [
+        "آتش"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "fa": "آتش"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خطر",
+      "type": "translate",
+      "correct": [
+        "خطر"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "fa": "خطر"
+    },
+    {
+      "lt": "pagalba",
+      "choices": [
+        "help",
+        "danger",
+        "hospital",
+        "police"
+      ],
+      "tts": "کمک کند",
+      "correct": [
+        "help"
+      ],
+      "type": "choose",
+      "fa": "کمک کند"
+    },
+    {
+      "lt": "policija",
+      "choices": [
+        "police",
+        "doctor",
+        "fire",
+        "hotel"
+      ],
+      "tts": "پلیس",
+      "correct": [
+        "police"
+      ],
+      "type": "choose",
+      "fa": "پلیس"
+    },
+    {
+      "lt": "ligoninė",
+      "choices": [
+        "hospital",
+        "pharmacy",
+        "hotel",
+        "school"
+      ],
+      "tts": "بیمارستان",
+      "correct": [
+        "hospital"
+      ],
+      "type": "choose",
+      "fa": "بیمارستان"
+    },
+    {
+      "lt": "gaisras",
+      "choices": [
+        "fire",
+        "accident",
+        "storm",
+        "flood"
+      ],
+      "tts": "آتش",
+      "correct": [
+        "fire"
+      ],
+      "type": "choose",
+      "fa": "آتش"
+    },
+    {
+      "lt": "pavojus",
+      "choices": [
+        "danger",
+        "help",
+        "safe",
+        "slow"
+      ],
+      "tts": "خطر",
+      "correct": [
+        "danger"
+      ],
+      "type": "choose",
+      "fa": "خطر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "کمک کند",
+      "type": "translate",
+      "correct": [
+        "کمک کند"
+      ],
+      "en": "help",
+      "placeholder": "Type Lithuanian…",
+      "zh": "help",
+      "fa": "کمک کند"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "پلیس",
+      "type": "translate",
+      "correct": [
+        "پلیس"
+      ],
+      "en": "police",
+      "placeholder": "Type Lithuanian…",
+      "zh": "police",
+      "fa": "پلیس"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بیمارستان",
+      "type": "translate",
+      "correct": [
+        "بیمارستان"
+      ],
+      "en": "hospital",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hospital",
+      "fa": "بیمارستان"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "آتش",
+      "type": "translate",
+      "correct": [
+        "آتش"
+      ],
+      "en": "fire",
+      "placeholder": "Type Lithuanian…",
+      "zh": "fire",
+      "fa": "آتش"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خطر",
+      "type": "translate",
+      "correct": [
+        "خطر"
+      ],
+      "en": "danger",
+      "placeholder": "Type Lithuanian…",
+      "zh": "danger",
+      "fa": "خطر"
+    }
+  ]
+}

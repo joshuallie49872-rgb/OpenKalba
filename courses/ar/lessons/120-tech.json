@@ -1,0 +1,296 @@
+{
+  "id": "120-tech",
+  "title": "Technology & Media",
+  "questions": [
+    {
+      "lt": "telefonas",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "هاتف",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "ar": "هاتف"
+    },
+    {
+      "lt": "kompiuteris",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "حاسوب",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "ar": "حاسوب"
+    },
+    {
+      "lt": "internetas",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "الإنترنت",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "ar": "الإنترنت"
+    },
+    {
+      "lt": "programa",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "برنامج",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "ar": "برنامج"
+    },
+    {
+      "lt": "žinutė",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "رسالة",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "ar": "رسالة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "هاتف",
+      "type": "translate",
+      "correct": [
+        "هاتف"
+      ],
+      "en": "phone",
+      "placeholder": "Type Lithuanian…",
+      "zh": "phone",
+      "ar": "هاتف"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حاسوب",
+      "type": "translate",
+      "correct": [
+        "حاسوب"
+      ],
+      "en": "computer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "computer",
+      "ar": "حاسوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "الإنترنت",
+      "type": "translate",
+      "correct": [
+        "الإنترنت"
+      ],
+      "en": "internet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "internet",
+      "ar": "الإنترنت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برنامج",
+      "type": "translate",
+      "correct": [
+        "برنامج"
+      ],
+      "en": "app",
+      "placeholder": "Type Lithuanian…",
+      "zh": "app",
+      "ar": "برنامج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رسالة",
+      "type": "translate",
+      "correct": [
+        "رسالة"
+      ],
+      "en": "message",
+      "placeholder": "Type Lithuanian…",
+      "zh": "message",
+      "ar": "رسالة"
+    },
+    {
+      "lt": "telefonas",
+      "choices": [
+        "phone",
+        "computer",
+        "tablet",
+        "tv"
+      ],
+      "tts": "هاتف",
+      "correct": [
+        "phone"
+      ],
+      "type": "choose",
+      "ar": "هاتف"
+    },
+    {
+      "lt": "kompiuteris",
+      "choices": [
+        "computer",
+        "phone",
+        "tablet",
+        "tv"
+      ],
+      "tts": "حاسوب",
+      "correct": [
+        "computer"
+      ],
+      "type": "choose",
+      "ar": "حاسوب"
+    },
+    {
+      "lt": "internetas",
+      "choices": [
+        "internet",
+        "network",
+        "wifi",
+        "signal"
+      ],
+      "tts": "الإنترنت",
+      "correct": [
+        "internet"
+      ],
+      "type": "choose",
+      "ar": "الإنترنت"
+    },
+    {
+      "lt": "programa",
+      "choices": [
+        "app",
+        "game",
+        "device",
+        "file"
+      ],
+      "tts": "برنامج",
+      "correct": [
+        "app"
+      ],
+      "type": "choose",
+      "ar": "برنامج"
+    },
+    {
+      "lt": "žinutė",
+      "choices": [
+        "message",
+        "call",
+        "email",
+        "letter"
+      ],
+      "tts": "رسالة",
+      "correct": [
+        "message"
+      ],
+      "type": "choose",
+      "ar": "رسالة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "هاتف",
+      "type": "translate",
+      "correct": [
+        "هاتف"
+      ],
+      "en": "phone",
+      "placeholder": "Type Lithuanian…",
+      "zh": "phone",
+      "ar": "هاتف"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "حاسوب",
+      "type": "translate",
+      "correct": [
+        "حاسوب"
+      ],
+      "en": "computer",
+      "placeholder": "Type Lithuanian…",
+      "zh": "computer",
+      "ar": "حاسوب"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "الإنترنت",
+      "type": "translate",
+      "correct": [
+        "الإنترنت"
+      ],
+      "en": "internet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "internet",
+      "ar": "الإنترنت"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "برنامج",
+      "type": "translate",
+      "correct": [
+        "برنامج"
+      ],
+      "en": "app",
+      "placeholder": "Type Lithuanian…",
+      "zh": "app",
+      "ar": "برنامج"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رسالة",
+      "type": "translate",
+      "correct": [
+        "رسالة"
+      ],
+      "en": "message",
+      "placeholder": "Type Lithuanian…",
+      "zh": "message",
+      "ar": "رسالة"
+    }
+  ]
+}

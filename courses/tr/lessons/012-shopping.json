@@ -1,0 +1,296 @@
+{
+  "id": "012-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "Mağaza",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tr": "Mağaza"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "Fiyat",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tr": "Fiyat"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "Para",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tr": "Para"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "Kart",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tr": "Kart"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "Nakit",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tr": "Nakit"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Mağaza",
+      "type": "translate",
+      "correct": [
+        "Mağaza"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "tr": "Mağaza"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Fiyat",
+      "type": "translate",
+      "correct": [
+        "Fiyat"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "tr": "Fiyat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Para",
+      "type": "translate",
+      "correct": [
+        "Para"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "tr": "Para"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kart",
+      "type": "translate",
+      "correct": [
+        "Kart"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "tr": "Kart"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Nakit",
+      "type": "translate",
+      "correct": [
+        "Nakit"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "tr": "Nakit"
+    },
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "Mağaza",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "tr": "Mağaza"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "Fiyat",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "tr": "Fiyat"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "Para",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "tr": "Para"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "Kart",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "tr": "Kart"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "Nakit",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "tr": "Nakit"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Mağaza",
+      "type": "translate",
+      "correct": [
+        "Mağaza"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "tr": "Mağaza"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Fiyat",
+      "type": "translate",
+      "correct": [
+        "Fiyat"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "tr": "Fiyat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Para",
+      "type": "translate",
+      "correct": [
+        "Para"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "tr": "Para"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Kart",
+      "type": "translate",
+      "correct": [
+        "Kart"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "tr": "Kart"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Nakit",
+      "type": "translate",
+      "correct": [
+        "Nakit"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "tr": "Nakit"
+    }
+  ]
+}

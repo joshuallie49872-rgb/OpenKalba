@@ -1,0 +1,296 @@
+{
+  "id": "010-shopping",
+  "title": "Shopping & Money",
+  "questions": [
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "متجر",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ar": "متجر"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "سعر",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ar": "سعر"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "مال",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ar": "مال"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "بطاقة",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ar": "بطاقة"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "نقدًا",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ar": "نقدًا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متجر",
+      "type": "translate",
+      "correct": [
+        "متجر"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "ar": "متجر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سعر",
+      "type": "translate",
+      "correct": [
+        "سعر"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "ar": "سعر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مال",
+      "type": "translate",
+      "correct": [
+        "مال"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "ar": "مال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بطاقة",
+      "type": "translate",
+      "correct": [
+        "بطاقة"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "ar": "بطاقة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نقدًا",
+      "type": "translate",
+      "correct": [
+        "نقدًا"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "ar": "نقدًا"
+    },
+    {
+      "lt": "parduotuvė",
+      "choices": [
+        "shop",
+        "market",
+        "bank",
+        "hotel"
+      ],
+      "tts": "متجر",
+      "correct": [
+        "shop"
+      ],
+      "type": "choose",
+      "ar": "متجر"
+    },
+    {
+      "lt": "kaina",
+      "choices": [
+        "price",
+        "money",
+        "change",
+        "bill"
+      ],
+      "tts": "سعر",
+      "correct": [
+        "price"
+      ],
+      "type": "choose",
+      "ar": "سعر"
+    },
+    {
+      "lt": "pinigai",
+      "choices": [
+        "money",
+        "card",
+        "shop",
+        "bag"
+      ],
+      "tts": "مال",
+      "correct": [
+        "money"
+      ],
+      "type": "choose",
+      "ar": "مال"
+    },
+    {
+      "lt": "kortelė",
+      "choices": [
+        "card",
+        "cash",
+        "bank",
+        "bill"
+      ],
+      "tts": "بطاقة",
+      "correct": [
+        "card"
+      ],
+      "type": "choose",
+      "ar": "بطاقة"
+    },
+    {
+      "lt": "grynais",
+      "choices": [
+        "cash",
+        "card",
+        "cheap",
+        "expensive"
+      ],
+      "tts": "نقدًا",
+      "correct": [
+        "cash"
+      ],
+      "type": "choose",
+      "ar": "نقدًا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "متجر",
+      "type": "translate",
+      "correct": [
+        "متجر"
+      ],
+      "en": "shop",
+      "placeholder": "Type Lithuanian…",
+      "zh": "shop",
+      "ar": "متجر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "سعر",
+      "type": "translate",
+      "correct": [
+        "سعر"
+      ],
+      "en": "price",
+      "placeholder": "Type Lithuanian…",
+      "zh": "price",
+      "ar": "سعر"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مال",
+      "type": "translate",
+      "correct": [
+        "مال"
+      ],
+      "en": "money",
+      "placeholder": "Type Lithuanian…",
+      "zh": "money",
+      "ar": "مال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "بطاقة",
+      "type": "translate",
+      "correct": [
+        "بطاقة"
+      ],
+      "en": "card",
+      "placeholder": "Type Lithuanian…",
+      "zh": "card",
+      "ar": "بطاقة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "نقدًا",
+      "type": "translate",
+      "correct": [
+        "نقدًا"
+      ],
+      "en": "cash",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cash",
+      "ar": "نقدًا"
+    }
+  ]
+}

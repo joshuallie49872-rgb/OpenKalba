@@ -1,0 +1,296 @@
+{
+  "id": "070-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "సంతోషంగా",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "te": "సంతోషంగా"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "విషాదంగా",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "te": "విషాదంగా"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "అలసిపోయాడు",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "te": "అలసిపోయాడు"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "నేను సంతోషంగా ఉన్నాను",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "te": "నేను సంతోషంగా ఉన్నాను"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "నాకు భయం ఉంది",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "te": "నాకు భయం ఉంది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సంతోషంగా",
+      "type": "translate",
+      "correct": [
+        "సంతోషంగా"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "te": "సంతోషంగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "విషాదంగా",
+      "type": "translate",
+      "correct": [
+        "విషాదంగా"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "te": "విషాదంగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అలసిపోయాడు",
+      "type": "translate",
+      "correct": [
+        "అలసిపోయాడు"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "te": "అలసిపోయాడు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను సంతోషంగా ఉన్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను సంతోషంగా ఉన్నాను"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "te": "నేను సంతోషంగా ఉన్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు భయం ఉంది",
+      "type": "translate",
+      "correct": [
+        "నాకు భయం ఉంది"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "te": "నాకు భయం ఉంది"
+    },
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "సంతోషంగా",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "te": "సంతోషంగా"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "విషాదంగా",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "te": "విషాదంగా"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "అలసిపోయాడు",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "te": "అలసిపోయాడు"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "నేను సంతోషంగా ఉన్నాను",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "te": "నేను సంతోషంగా ఉన్నాను"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "నాకు భయం ఉంది",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "te": "నాకు భయం ఉంది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "సంతోషంగా",
+      "type": "translate",
+      "correct": [
+        "సంతోషంగా"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "te": "సంతోషంగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "విషాదంగా",
+      "type": "translate",
+      "correct": [
+        "విషాదంగా"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "te": "విషాదంగా"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అలసిపోయాడు",
+      "type": "translate",
+      "correct": [
+        "అలసిపోయాడు"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "te": "అలసిపోయాడు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నేను సంతోషంగా ఉన్నాను",
+      "type": "translate",
+      "correct": [
+        "నేను సంతోషంగా ఉన్నాను"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "te": "నేను సంతోషంగా ఉన్నాను"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "నాకు భయం ఉంది",
+      "type": "translate",
+      "correct": [
+        "నాకు భయం ఉంది"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "te": "నాకు భయం ఉంది"
+    }
+  ]
+}

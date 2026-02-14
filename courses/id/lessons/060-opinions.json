@@ -1,0 +1,296 @@
+{
+  "id": "060-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "id": "saya suka"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "saya tidak suka",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "id": "saya tidak suka"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "id": "saya suka"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "saya tidak mau",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "id": "saya tidak mau"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "penting",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "id": "penting"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "id": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak suka",
+      "type": "translate",
+      "correct": [
+        "saya tidak suka"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "id": "saya tidak suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "id": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak mau",
+      "type": "translate",
+      "correct": [
+        "saya tidak mau"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "id": "saya tidak mau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penting",
+      "type": "translate",
+      "correct": [
+        "penting"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "id": "penting"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "id": "saya suka"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "saya tidak suka",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "id": "saya tidak suka"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "saya suka",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "id": "saya suka"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "saya tidak mau",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "id": "saya tidak mau"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "penting",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "id": "penting"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "id": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak suka",
+      "type": "translate",
+      "correct": [
+        "saya tidak suka"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "id": "saya tidak suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya suka",
+      "type": "translate",
+      "correct": [
+        "saya suka"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "id": "saya suka"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya tidak mau",
+      "type": "translate",
+      "correct": [
+        "saya tidak mau"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "id": "saya tidak mau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penting",
+      "type": "translate",
+      "correct": [
+        "penting"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "id": "penting"
+    }
+  ]
+}

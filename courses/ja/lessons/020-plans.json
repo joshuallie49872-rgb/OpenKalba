@@ -1,0 +1,296 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "今日",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "ja": "今日"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "明日",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "ja": "明日"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "後で",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "ja": "後で"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "計画します",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "ja": "計画します"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "会いましょう",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "ja": "会いましょう"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "今日",
+      "type": "translate",
+      "correct": [
+        "今日"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "ja": "今日"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "明日",
+      "type": "translate",
+      "correct": [
+        "明日"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "ja": "明日"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "後で",
+      "type": "translate",
+      "correct": [
+        "後で"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "ja": "後で"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "計画します",
+      "type": "translate",
+      "correct": [
+        "計画します"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "ja": "計画します"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "会いましょう",
+      "type": "translate",
+      "correct": [
+        "会いましょう"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "ja": "会いましょう"
+    },
+    {
+      "lt": "šiandien",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "tts": "今日",
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "ja": "今日"
+    },
+    {
+      "lt": "rytoj",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "tts": "明日",
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "ja": "明日"
+    },
+    {
+      "lt": "vėliau",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "後で",
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "ja": "後で"
+    },
+    {
+      "lt": "planuoju",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "tts": "計画します",
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "ja": "計画します"
+    },
+    {
+      "lt": "susitiksime",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "tts": "会いましょう",
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "ja": "会いましょう"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "今日",
+      "type": "translate",
+      "correct": [
+        "今日"
+      ],
+      "en": "today",
+      "placeholder": "Type Lithuanian…",
+      "zh": "今天",
+      "ja": "今日"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "明日",
+      "type": "translate",
+      "correct": [
+        "明日"
+      ],
+      "en": "tomorrow",
+      "placeholder": "Type Lithuanian…",
+      "zh": "明天",
+      "ja": "明日"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "後で",
+      "type": "translate",
+      "correct": [
+        "後で"
+      ],
+      "en": "later",
+      "placeholder": "Type Lithuanian…",
+      "zh": "later",
+      "ja": "後で"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "計画します",
+      "type": "translate",
+      "correct": [
+        "計画します"
+      ],
+      "en": "I plan",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我plan",
+      "ja": "計画します"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "会いましょう",
+      "type": "translate",
+      "correct": [
+        "会いましょう"
+      ],
+      "en": "we will meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我们willmeet",
+      "ja": "会いましょう"
+    }
+  ]
+}

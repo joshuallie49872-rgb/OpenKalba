@@ -1,0 +1,296 @@
+{
+  "id": "017-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "tôi làm việc",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "vi": "tôi làm việc"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "tôi ngủ",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "vi": "tôi ngủ"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "tôi ăn",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "vi": "tôi ăn"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "tôi đang đi",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "vi": "tôi đang đi"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "tôi thức dậy",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "vi": "tôi thức dậy"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi làm việc",
+      "type": "translate",
+      "correct": [
+        "tôi làm việc"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "vi": "tôi làm việc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi ngủ",
+      "type": "translate",
+      "correct": [
+        "tôi ngủ"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "vi": "tôi ngủ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi ăn",
+      "type": "translate",
+      "correct": [
+        "tôi ăn"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "vi": "tôi ăn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi đang đi",
+      "type": "translate",
+      "correct": [
+        "tôi đang đi"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "vi": "tôi đang đi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi thức dậy",
+      "type": "translate",
+      "correct": [
+        "tôi thức dậy"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "vi": "tôi thức dậy"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "tôi làm việc",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "vi": "tôi làm việc"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "tôi ngủ",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "vi": "tôi ngủ"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "tôi ăn",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "vi": "tôi ăn"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "tôi đang đi",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "vi": "tôi đang đi"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "tôi thức dậy",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "vi": "tôi thức dậy"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi làm việc",
+      "type": "translate",
+      "correct": [
+        "tôi làm việc"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "vi": "tôi làm việc"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi ngủ",
+      "type": "translate",
+      "correct": [
+        "tôi ngủ"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "vi": "tôi ngủ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi ăn",
+      "type": "translate",
+      "correct": [
+        "tôi ăn"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "vi": "tôi ăn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi đang đi",
+      "type": "translate",
+      "correct": [
+        "tôi đang đi"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "vi": "tôi đang đi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tôi thức dậy",
+      "type": "translate",
+      "correct": [
+        "tôi thức dậy"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "vi": "tôi thức dậy"
+    }
+  ]
+}

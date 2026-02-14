@@ -1,0 +1,296 @@
+{
+  "id": "148-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "hari libur",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "id": "hari libur"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "tradisi",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "id": "tradisi"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "kebiasaan",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "id": "kebiasaan"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "waktu luang",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "id": "waktu luang"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "acara",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "id": "acara"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hari libur",
+      "type": "translate",
+      "correct": [
+        "hari libur"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "id": "hari libur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tradisi",
+      "type": "translate",
+      "correct": [
+        "tradisi"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "id": "tradisi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kebiasaan",
+      "type": "translate",
+      "correct": [
+        "kebiasaan"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "id": "kebiasaan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "waktu luang",
+      "type": "translate",
+      "correct": [
+        "waktu luang"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "id": "waktu luang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "acara",
+      "type": "translate",
+      "correct": [
+        "acara"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "id": "acara"
+    },
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "hari libur",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "id": "hari libur"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "tradisi",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "id": "tradisi"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "kebiasaan",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "id": "kebiasaan"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "waktu luang",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "id": "waktu luang"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "acara",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "id": "acara"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "hari libur",
+      "type": "translate",
+      "correct": [
+        "hari libur"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "id": "hari libur"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "tradisi",
+      "type": "translate",
+      "correct": [
+        "tradisi"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "id": "tradisi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kebiasaan",
+      "type": "translate",
+      "correct": [
+        "kebiasaan"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "id": "kebiasaan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "waktu luang",
+      "type": "translate",
+      "correct": [
+        "waktu luang"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "id": "waktu luang"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "acara",
+      "type": "translate",
+      "correct": [
+        "acara"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "id": "acara"
+    }
+  ]
+}

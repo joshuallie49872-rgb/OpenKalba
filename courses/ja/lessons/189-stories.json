@@ -1,0 +1,296 @@
+{
+  "id": "189-stories",
+  "title": "Stories & Narratives",
+  "questions": [
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "物語",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "ja": "物語"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "物語",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "ja": "物語"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "始まり",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "ja": "始まり"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "終わり",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "ja": "終わり"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "起きました",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "ja": "起きました"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "物語",
+      "type": "translate",
+      "correct": [
+        "物語"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "ja": "物語"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "物語",
+      "type": "translate",
+      "correct": [
+        "物語"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "ja": "物語"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "始まり",
+      "type": "translate",
+      "correct": [
+        "始まり"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "ja": "始まり"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "終わり",
+      "type": "translate",
+      "correct": [
+        "終わり"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "ja": "終わり"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "起きました",
+      "type": "translate",
+      "correct": [
+        "起きました"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "ja": "起きました"
+    },
+    {
+      "lt": "istorija",
+      "choices": [
+        "story",
+        "history",
+        "news",
+        "book"
+      ],
+      "tts": "物語",
+      "correct": [
+        "story"
+      ],
+      "type": "choose",
+      "ja": "物語"
+    },
+    {
+      "lt": "pasakojimas",
+      "choices": [
+        "narrative",
+        "meeting",
+        "problem",
+        "event"
+      ],
+      "tts": "物語",
+      "correct": [
+        "narrative"
+      ],
+      "type": "choose",
+      "ja": "物語"
+    },
+    {
+      "lt": "pradžia",
+      "choices": [
+        "beginning",
+        "end",
+        "middle",
+        "result"
+      ],
+      "tts": "始まり",
+      "correct": [
+        "beginning"
+      ],
+      "type": "choose",
+      "ja": "始まり"
+    },
+    {
+      "lt": "pabaiga",
+      "choices": [
+        "ending",
+        "start",
+        "problem",
+        "plan"
+      ],
+      "tts": "終わり",
+      "correct": [
+        "ending"
+      ],
+      "type": "choose",
+      "ja": "終わり"
+    },
+    {
+      "lt": "nutiko",
+      "choices": [
+        "happened",
+        "planned",
+        "said",
+        "left"
+      ],
+      "tts": "起きました",
+      "correct": [
+        "happened"
+      ],
+      "type": "choose",
+      "ja": "起きました"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "物語",
+      "type": "translate",
+      "correct": [
+        "物語"
+      ],
+      "en": "story",
+      "placeholder": "Type Lithuanian…",
+      "zh": "story",
+      "ja": "物語"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "物語",
+      "type": "translate",
+      "correct": [
+        "物語"
+      ],
+      "en": "narrative",
+      "placeholder": "Type Lithuanian…",
+      "zh": "narrative",
+      "ja": "物語"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "始まり",
+      "type": "translate",
+      "correct": [
+        "始まり"
+      ],
+      "en": "beginning",
+      "placeholder": "Type Lithuanian…",
+      "zh": "beginning",
+      "ja": "始まり"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "終わり",
+      "type": "translate",
+      "correct": [
+        "終わり"
+      ],
+      "en": "ending",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ending",
+      "ja": "終わり"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "起きました",
+      "type": "translate",
+      "correct": [
+        "起きました"
+      ],
+      "en": "happened",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happened",
+      "ja": "起きました"
+    }
+  ]
+}

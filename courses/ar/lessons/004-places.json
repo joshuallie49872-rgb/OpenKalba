@@ -1,0 +1,296 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "هنا",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ar": "هنا"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "هناك",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ar": "هناك"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "يسار",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "ar": "يسار"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "يمين",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "ar": "يمين"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "مباشرة",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "ar": "مباشرة"
+    },
+    {
+      "lt": "miestas",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "مدينة",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "ar": "مدينة"
+    },
+    {
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "شارع",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "ar": "شارع"
+    },
+    {
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "محطة",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "ar": "محطة"
+    },
+    {
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "مطار",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "ar": "مطار"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "فندق",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "ar": "فندق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "هنا",
+      "type": "translate",
+      "correct": [
+        "هنا"
+      ],
+      "en": "here",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里",
+      "ar": "هنا"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "هناك",
+      "type": "translate",
+      "correct": [
+        "هناك"
+      ],
+      "en": "there",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里",
+      "ar": "هناك"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "يسار",
+      "type": "translate",
+      "correct": [
+        "يسار"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "ar": "يسار"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "يمين",
+      "type": "translate",
+      "correct": [
+        "يمين"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "ar": "يمين"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مباشرة",
+      "type": "translate",
+      "correct": [
+        "مباشرة"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "ar": "مباشرة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مدينة",
+      "type": "translate",
+      "correct": [
+        "مدينة"
+      ],
+      "en": "city",
+      "placeholder": "Type Lithuanian…",
+      "zh": "city",
+      "ar": "مدينة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "شارع",
+      "type": "translate",
+      "correct": [
+        "شارع"
+      ],
+      "en": "street",
+      "placeholder": "Type Lithuanian…",
+      "zh": "street",
+      "ar": "شارع"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "فندق",
+      "type": "translate",
+      "correct": [
+        "فندق"
+      ],
+      "en": "hotel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hotel",
+      "ar": "فندق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "محطة",
+      "type": "translate",
+      "correct": [
+        "محطة"
+      ],
+      "en": "station",
+      "placeholder": "Type Lithuanian…",
+      "zh": "station",
+      "ar": "محطة"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "مطار",
+      "type": "translate",
+      "correct": [
+        "مطار"
+      ],
+      "en": "airport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "airport",
+      "ar": "مطار"
+    }
+  ]
+}

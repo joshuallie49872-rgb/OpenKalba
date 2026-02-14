@@ -1,0 +1,296 @@
+{
+  "id": "117-work",
+  "title": "Work & Office",
+  "questions": [
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "pekerjaan",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "id": "pekerjaan"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "kantor",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "id": "kantor"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "pertemuan",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "id": "pertemuan"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "email",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "id": "email"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "proyek",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "id": "proyek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pekerjaan",
+      "type": "translate",
+      "correct": [
+        "pekerjaan"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "id": "pekerjaan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kantor",
+      "type": "translate",
+      "correct": [
+        "kantor"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "id": "kantor"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pertemuan",
+      "type": "translate",
+      "correct": [
+        "pertemuan"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "id": "pertemuan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "email",
+      "type": "translate",
+      "correct": [
+        "email"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "id": "email"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "proyek",
+      "type": "translate",
+      "correct": [
+        "proyek"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "id": "proyek"
+    },
+    {
+      "lt": "darbas",
+      "choices": [
+        "work",
+        "office",
+        "job",
+        "money"
+      ],
+      "tts": "pekerjaan",
+      "correct": [
+        "work"
+      ],
+      "type": "choose",
+      "id": "pekerjaan"
+    },
+    {
+      "lt": "biuras",
+      "choices": [
+        "office",
+        "school",
+        "shop",
+        "hotel"
+      ],
+      "tts": "kantor",
+      "correct": [
+        "office"
+      ],
+      "type": "choose",
+      "id": "kantor"
+    },
+    {
+      "lt": "susitikimas",
+      "choices": [
+        "meeting",
+        "party",
+        "call",
+        "break"
+      ],
+      "tts": "pertemuan",
+      "correct": [
+        "meeting"
+      ],
+      "type": "choose",
+      "id": "pertemuan"
+    },
+    {
+      "lt": "el. paštas",
+      "choices": [
+        "email",
+        "phone",
+        "letter",
+        "message"
+      ],
+      "tts": "email",
+      "correct": [
+        "email"
+      ],
+      "type": "choose",
+      "id": "email"
+    },
+    {
+      "lt": "projektas",
+      "choices": [
+        "project",
+        "problem",
+        "plan",
+        "report"
+      ],
+      "tts": "proyek",
+      "correct": [
+        "project"
+      ],
+      "type": "choose",
+      "id": "proyek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pekerjaan",
+      "type": "translate",
+      "correct": [
+        "pekerjaan"
+      ],
+      "en": "work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "工作",
+      "id": "pekerjaan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kantor",
+      "type": "translate",
+      "correct": [
+        "kantor"
+      ],
+      "en": "office",
+      "placeholder": "Type Lithuanian…",
+      "zh": "office",
+      "id": "kantor"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "pertemuan",
+      "type": "translate",
+      "correct": [
+        "pertemuan"
+      ],
+      "en": "meeting",
+      "placeholder": "Type Lithuanian…",
+      "zh": "meeting",
+      "id": "pertemuan"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "email",
+      "type": "translate",
+      "correct": [
+        "email"
+      ],
+      "en": "email",
+      "placeholder": "Type Lithuanian…",
+      "zh": "email",
+      "id": "email"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "proyek",
+      "type": "translate",
+      "correct": [
+        "proyek"
+      ],
+      "en": "project",
+      "placeholder": "Type Lithuanian…",
+      "zh": "project",
+      "id": "proyek"
+    }
+  ]
+}

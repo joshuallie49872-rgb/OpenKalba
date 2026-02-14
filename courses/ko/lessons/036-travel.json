@@ -1,0 +1,316 @@
+{
+  "id": "036-travel",
+  "title": "Travel & Transport",
+  "questions": [
+    {
+      "ko": "버스",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "버스"
+    },
+    {
+      "ko": "기차",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "기차"
+    },
+    {
+      "ko": "표",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "표"
+    },
+    {
+      "ko": "택시",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "택시"
+    },
+    {
+      "ko": "여행",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "여행"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bus",
+      "ko": "버스",
+      "correct": [
+        "버스"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "버스",
+      "ru": "автобус",
+      "pl": "autobus",
+      "zh": "公共汽车",
+      "lt": "autobusas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "train",
+      "ko": "기차",
+      "correct": [
+        "기차"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "기차",
+      "ru": "тренироваться",
+      "pl": "pociąg",
+      "zh": "火车",
+      "lt": "traukinys"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ticket",
+      "ko": "표",
+      "correct": [
+        "표"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "표",
+      "ru": "билет",
+      "pl": "bilet",
+      "zh": "票",
+      "lt": "bilietas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "taxi",
+      "ko": "택시",
+      "correct": [
+        "택시"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "택시",
+      "ru": "такси",
+      "pl": "Taxi",
+      "zh": "出租车",
+      "lt": "taksi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "trip",
+      "ko": "여행",
+      "correct": [
+        "여행"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여행",
+      "ru": "путешествие",
+      "pl": "wycieczka",
+      "zh": "旅行",
+      "lt": "kelionė"
+    },
+    {
+      "ko": "버스",
+      "lt": "",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "tts": "버스"
+    },
+    {
+      "ko": "기차",
+      "lt": "",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "tts": "기차"
+    },
+    {
+      "ko": "표",
+      "lt": "",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tts": "표"
+    },
+    {
+      "ko": "택시",
+      "lt": "",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "tts": "택시"
+    },
+    {
+      "ko": "여행",
+      "lt": "",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "tts": "여행"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "bus",
+      "ko": "버스",
+      "correct": [
+        "버스"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "버스",
+      "ru": "автобус",
+      "pl": "autobus",
+      "zh": "公共汽车",
+      "lt": "autobusas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "train",
+      "ko": "기차",
+      "correct": [
+        "기차"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "기차",
+      "ru": "тренироваться",
+      "pl": "pociąg",
+      "zh": "火车",
+      "lt": "traukinys"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "ticket",
+      "ko": "표",
+      "correct": [
+        "표"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "표",
+      "ru": "билет",
+      "pl": "bilet",
+      "zh": "票",
+      "lt": "bilietas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "taxi",
+      "ko": "택시",
+      "correct": [
+        "택시"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "택시",
+      "ru": "такси",
+      "pl": "Taxi",
+      "zh": "出租车",
+      "lt": "taksi"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "trip",
+      "ko": "여행",
+      "correct": [
+        "여행"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "여행",
+      "ru": "путешествие",
+      "pl": "wycieczka",
+      "zh": "旅行",
+      "lt": "kelionė"
+    }
+  ]
+}

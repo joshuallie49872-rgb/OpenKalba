@@ -1,0 +1,296 @@
+{
+  "id": "004-places",
+  "title": "Places & Directions",
+  "questions": [
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "near",
+        "far"
+      ],
+      "tts": "ở đây",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "vi": "ở đây"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "here",
+        "there",
+        "left",
+        "right"
+      ],
+      "tts": "ở đó",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "vi": "ở đó"
+    },
+    {
+      "lt": "kairė",
+      "choices": [
+        "left",
+        "right",
+        "straight",
+        "back"
+      ],
+      "tts": "bên trái",
+      "correct": [
+        "left"
+      ],
+      "type": "choose",
+      "vi": "bên trái"
+    },
+    {
+      "lt": "dešinė",
+      "choices": [
+        "left",
+        "right",
+        "forward",
+        "near"
+      ],
+      "tts": "bên phải",
+      "correct": [
+        "right"
+      ],
+      "type": "choose",
+      "vi": "bên phải"
+    },
+    {
+      "lt": "tiesiai",
+      "choices": [
+        "straight",
+        "back",
+        "left",
+        "right"
+      ],
+      "tts": "thẳng",
+      "correct": [
+        "straight"
+      ],
+      "type": "choose",
+      "vi": "thẳng"
+    },
+    {
+      "lt": "miestas",
+      "choices": [
+        "city",
+        "street",
+        "village",
+        "country"
+      ],
+      "tts": "thành phố",
+      "correct": [
+        "city"
+      ],
+      "type": "choose",
+      "vi": "thành phố"
+    },
+    {
+      "lt": "gatvė",
+      "choices": [
+        "street",
+        "house",
+        "place",
+        "square"
+      ],
+      "tts": "đường phố",
+      "correct": [
+        "street"
+      ],
+      "type": "choose",
+      "vi": "đường phố"
+    },
+    {
+      "lt": "stotis",
+      "choices": [
+        "station",
+        "hotel",
+        "airport",
+        "shop"
+      ],
+      "tts": "nhà ga",
+      "correct": [
+        "station"
+      ],
+      "type": "choose",
+      "vi": "nhà ga"
+    },
+    {
+      "lt": "oro uostas",
+      "choices": [
+        "airport",
+        "station",
+        "bus",
+        "hotel"
+      ],
+      "tts": "sân bay",
+      "correct": [
+        "airport"
+      ],
+      "type": "choose",
+      "vi": "sân bay"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "hostel",
+        "home",
+        "restaurant"
+      ],
+      "tts": "khách sạn",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "vi": "khách sạn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ở đây",
+      "type": "translate",
+      "correct": [
+        "ở đây"
+      ],
+      "en": "here",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里",
+      "vi": "ở đây"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ở đó",
+      "type": "translate",
+      "correct": [
+        "ở đó"
+      ],
+      "en": "there",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里",
+      "vi": "ở đó"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bên trái",
+      "type": "translate",
+      "correct": [
+        "bên trái"
+      ],
+      "en": "left",
+      "placeholder": "Type Lithuanian…",
+      "zh": "left",
+      "vi": "bên trái"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "bên phải",
+      "type": "translate",
+      "correct": [
+        "bên phải"
+      ],
+      "en": "right",
+      "placeholder": "Type Lithuanian…",
+      "zh": "right",
+      "vi": "bên phải"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thẳng",
+      "type": "translate",
+      "correct": [
+        "thẳng"
+      ],
+      "en": "straight",
+      "placeholder": "Type Lithuanian…",
+      "zh": "straight",
+      "vi": "thẳng"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "thành phố",
+      "type": "translate",
+      "correct": [
+        "thành phố"
+      ],
+      "en": "city",
+      "placeholder": "Type Lithuanian…",
+      "zh": "city",
+      "vi": "thành phố"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "đường phố",
+      "type": "translate",
+      "correct": [
+        "đường phố"
+      ],
+      "en": "street",
+      "placeholder": "Type Lithuanian…",
+      "zh": "street",
+      "vi": "đường phố"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "khách sạn",
+      "type": "translate",
+      "correct": [
+        "khách sạn"
+      ],
+      "en": "hotel",
+      "placeholder": "Type Lithuanian…",
+      "zh": "hotel",
+      "vi": "khách sạn"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "nhà ga",
+      "type": "translate",
+      "correct": [
+        "nhà ga"
+      ],
+      "en": "station",
+      "placeholder": "Type Lithuanian…",
+      "zh": "station",
+      "vi": "nhà ga"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sân bay",
+      "type": "translate",
+      "correct": [
+        "sân bay"
+      ],
+      "en": "airport",
+      "placeholder": "Type Lithuanian…",
+      "zh": "airport",
+      "vi": "sân bay"
+    }
+  ]
+}

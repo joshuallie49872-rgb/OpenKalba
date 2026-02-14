@@ -1,0 +1,296 @@
+{
+  "id": "167-advancedlife",
+  "title": "Advanced Daily Life",
+  "questions": [
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "解決",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "ja": "解決"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "問題",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "ja": "問題"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "選択",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "ja": "選択"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "経験",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "ja": "経験"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "結果",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "ja": "結果"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "解決",
+      "type": "translate",
+      "correct": [
+        "解決"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "ja": "解決"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "問題",
+      "type": "translate",
+      "correct": [
+        "問題"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "ja": "問題"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "選択",
+      "type": "translate",
+      "correct": [
+        "選択"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "ja": "選択"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "経験",
+      "type": "translate",
+      "correct": [
+        "経験"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "ja": "経験"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "結果",
+      "type": "translate",
+      "correct": [
+        "結果"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "ja": "結果"
+    },
+    {
+      "lt": "sprendimas",
+      "choices": [
+        "solution",
+        "problem",
+        "idea",
+        "mistake"
+      ],
+      "tts": "解決",
+      "correct": [
+        "solution"
+      ],
+      "type": "choose",
+      "ja": "解決"
+    },
+    {
+      "lt": "problema",
+      "choices": [
+        "problem",
+        "solution",
+        "idea",
+        "plan"
+      ],
+      "tts": "問題",
+      "correct": [
+        "problem"
+      ],
+      "type": "choose",
+      "ja": "問題"
+    },
+    {
+      "lt": "pasirinkimas",
+      "choices": [
+        "choice",
+        "option",
+        "decision",
+        "plan"
+      ],
+      "tts": "選択",
+      "correct": [
+        "choice"
+      ],
+      "type": "choose",
+      "ja": "選択"
+    },
+    {
+      "lt": "patirtis",
+      "choices": [
+        "experience",
+        "story",
+        "memory",
+        "lesson"
+      ],
+      "tts": "経験",
+      "correct": [
+        "experience"
+      ],
+      "type": "choose",
+      "ja": "経験"
+    },
+    {
+      "lt": "rezultatas",
+      "choices": [
+        "result",
+        "reason",
+        "argument",
+        "idea"
+      ],
+      "tts": "結果",
+      "correct": [
+        "result"
+      ],
+      "type": "choose",
+      "ja": "結果"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "解決",
+      "type": "translate",
+      "correct": [
+        "解決"
+      ],
+      "en": "solution",
+      "placeholder": "Type Lithuanian…",
+      "zh": "solution",
+      "ja": "解決"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "問題",
+      "type": "translate",
+      "correct": [
+        "問題"
+      ],
+      "en": "problem",
+      "placeholder": "Type Lithuanian…",
+      "zh": "problem",
+      "ja": "問題"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "選択",
+      "type": "translate",
+      "correct": [
+        "選択"
+      ],
+      "en": "choice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "choice",
+      "ja": "選択"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "経験",
+      "type": "translate",
+      "correct": [
+        "経験"
+      ],
+      "en": "experience",
+      "placeholder": "Type Lithuanian…",
+      "zh": "experience",
+      "ja": "経験"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "結果",
+      "type": "translate",
+      "correct": [
+        "結果"
+      ],
+      "en": "result",
+      "placeholder": "Type Lithuanian…",
+      "zh": "result",
+      "ja": "結果"
+    }
+  ]
+}

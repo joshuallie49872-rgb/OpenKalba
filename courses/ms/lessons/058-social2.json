@@ -1,0 +1,296 @@
+{
+  "id": "058-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "gembira",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ms": "gembira"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "sedih",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ms": "sedih"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "penat",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ms": "penat"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "saya gembira",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ms": "saya gembira"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "takut",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ms": "takut"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gembira",
+      "type": "translate",
+      "correct": [
+        "gembira"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "ms": "gembira"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sedih",
+      "type": "translate",
+      "correct": [
+        "sedih"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "ms": "sedih"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penat",
+      "type": "translate",
+      "correct": [
+        "penat"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "ms": "penat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya gembira",
+      "type": "translate",
+      "correct": [
+        "saya gembira"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "ms": "saya gembira"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "takut",
+      "type": "translate",
+      "correct": [
+        "takut"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "ms": "takut"
+    },
+    {
+      "lt": "laimingas",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "tts": "gembira",
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "ms": "gembira"
+    },
+    {
+      "lt": "liūdnas",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "tts": "sedih",
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "ms": "sedih"
+    },
+    {
+      "lt": "pavargęs",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "tts": "penat",
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "ms": "penat"
+    },
+    {
+      "lt": "džiaugiuosi",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "tts": "saya gembira",
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "ms": "saya gembira"
+    },
+    {
+      "lt": "bijau",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "tts": "takut",
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "ms": "takut"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "gembira",
+      "type": "translate",
+      "correct": [
+        "gembira"
+      ],
+      "en": "happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "happy",
+      "ms": "gembira"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "sedih",
+      "type": "translate",
+      "correct": [
+        "sedih"
+      ],
+      "en": "sad",
+      "placeholder": "Type Lithuanian…",
+      "zh": "sad",
+      "ms": "sedih"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "penat",
+      "type": "translate",
+      "correct": [
+        "penat"
+      ],
+      "en": "tired",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tired",
+      "ms": "penat"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "saya gembira",
+      "type": "translate",
+      "correct": [
+        "saya gembira"
+      ],
+      "en": "I am happy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是happy",
+      "ms": "saya gembira"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "takut",
+      "type": "translate",
+      "correct": [
+        "takut"
+      ],
+      "en": "I am afraid",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我是afraid",
+      "ms": "takut"
+    }
+  ]
+}

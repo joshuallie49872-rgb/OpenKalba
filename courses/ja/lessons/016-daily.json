@@ -1,0 +1,296 @@
+{
+  "id": "016-daily",
+  "title": "Daily Routine",
+  "questions": [
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "働きます",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ja": "働きます"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "寝ています",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ja": "寝ています"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "食べます",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ja": "食べます"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "行きます",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ja": "行きます"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "起きます",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ja": "起きます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "働きます",
+      "type": "translate",
+      "correct": [
+        "働きます"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "ja": "働きます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "寝ています",
+      "type": "translate",
+      "correct": [
+        "寝ています"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "ja": "寝ています"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "食べます",
+      "type": "translate",
+      "correct": [
+        "食べます"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "ja": "食べます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "行きます",
+      "type": "translate",
+      "correct": [
+        "行きます"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "ja": "行きます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "起きます",
+      "type": "translate",
+      "correct": [
+        "起きます"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "ja": "起きます"
+    },
+    {
+      "lt": "dirbu",
+      "choices": [
+        "I work",
+        "I eat",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "働きます",
+      "correct": [
+        "I work"
+      ],
+      "type": "choose",
+      "ja": "働きます"
+    },
+    {
+      "lt": "miegu",
+      "choices": [
+        "I sleep",
+        "I wake",
+        "I eat",
+        "I go"
+      ],
+      "tts": "寝ています",
+      "correct": [
+        "I sleep"
+      ],
+      "type": "choose",
+      "ja": "寝ています"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I sleep"
+      ],
+      "tts": "食べます",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ja": "食べます"
+    },
+    {
+      "lt": "einu",
+      "choices": [
+        "I go",
+        "I come",
+        "I work",
+        "I eat"
+      ],
+      "tts": "行きます",
+      "correct": [
+        "I go"
+      ],
+      "type": "choose",
+      "ja": "行きます"
+    },
+    {
+      "lt": "keliuosi",
+      "choices": [
+        "I wake up",
+        "I sleep",
+        "I eat",
+        "I go"
+      ],
+      "tts": "起きます",
+      "correct": [
+        "I wake up"
+      ],
+      "type": "choose",
+      "ja": "起きます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "働きます",
+      "type": "translate",
+      "correct": [
+        "働きます"
+      ],
+      "en": "I work",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我工作",
+      "ja": "働きます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "寝ています",
+      "type": "translate",
+      "correct": [
+        "寝ています"
+      ],
+      "en": "I sleep",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我sleep",
+      "ja": "寝ています"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "食べます",
+      "type": "translate",
+      "correct": [
+        "食べます"
+      ],
+      "en": "I eat",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat",
+      "ja": "食べます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "行きます",
+      "type": "translate",
+      "correct": [
+        "行きます"
+      ],
+      "en": "I go",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我去",
+      "ja": "行きます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "起きます",
+      "type": "translate",
+      "correct": [
+        "起きます"
+      ],
+      "en": "I wake up",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我wakeup",
+      "ja": "起きます"
+    }
+  ]
+}

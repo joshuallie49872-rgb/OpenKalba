@@ -1,0 +1,296 @@
+{
+  "id": "064-opinions",
+  "title": "Opinions & Preferences",
+  "questions": [
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "好きです",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ja": "好きです"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "好きではありません",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ja": "好きではありません"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "好きです",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ja": "好きです"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "欲しくありません",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ja": "欲しくありません"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "重要",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ja": "重要"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "好きです",
+      "type": "translate",
+      "correct": [
+        "好きです"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ja": "好きです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "好きではありません",
+      "type": "translate",
+      "correct": [
+        "好きではありません"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ja": "好きではありません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "好きです",
+      "type": "translate",
+      "correct": [
+        "好きです"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ja": "好きです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "欲しくありません",
+      "type": "translate",
+      "correct": [
+        "欲しくありません"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ja": "欲しくありません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "重要",
+      "type": "translate",
+      "correct": [
+        "重要"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ja": "重要"
+    },
+    {
+      "lt": "man patinka",
+      "choices": [
+        "I like",
+        "I want",
+        "I need",
+        "I go"
+      ],
+      "tts": "好きです",
+      "correct": [
+        "I like"
+      ],
+      "type": "choose",
+      "ja": "好きです"
+    },
+    {
+      "lt": "nepatinka",
+      "choices": [
+        "I don't like",
+        "I like",
+        "I want",
+        "I need"
+      ],
+      "tts": "好きではありません",
+      "correct": [
+        "I don't like"
+      ],
+      "type": "choose",
+      "ja": "好きではありません"
+    },
+    {
+      "lt": "mėgstu",
+      "choices": [
+        "I enjoy",
+        "I hate",
+        "I go",
+        "I eat"
+      ],
+      "tts": "好きです",
+      "correct": [
+        "I enjoy"
+      ],
+      "type": "choose",
+      "ja": "好きです"
+    },
+    {
+      "lt": "nenoriu",
+      "choices": [
+        "I don't want",
+        "I want",
+        "I like",
+        "I need"
+      ],
+      "tts": "欲しくありません",
+      "correct": [
+        "I don't want"
+      ],
+      "type": "choose",
+      "ja": "欲しくありません"
+    },
+    {
+      "lt": "svarbu",
+      "choices": [
+        "important",
+        "cheap",
+        "easy",
+        "fast"
+      ],
+      "tts": "重要",
+      "correct": [
+        "important"
+      ],
+      "type": "choose",
+      "ja": "重要"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "好きです",
+      "type": "translate",
+      "correct": [
+        "好きです"
+      ],
+      "en": "I like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我like",
+      "ja": "好きです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "好きではありません",
+      "type": "translate",
+      "correct": [
+        "好きではありません"
+      ],
+      "en": "I don't like",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don'tlike",
+      "ja": "好きではありません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "好きです",
+      "type": "translate",
+      "correct": [
+        "好きです"
+      ],
+      "en": "I enjoy",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我enjoy",
+      "ja": "好きです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "欲しくありません",
+      "type": "translate",
+      "correct": [
+        "欲しくありません"
+      ],
+      "en": "I don't want",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我don't想要",
+      "ja": "欲しくありません"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "重要",
+      "type": "translate",
+      "correct": [
+        "重要"
+      ],
+      "en": "important",
+      "placeholder": "Type Lithuanian…",
+      "zh": "important",
+      "ja": "重要"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "034-social",
+  "title": "Social & Small Talk",
+  "questions": [
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "நண்பர்",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "ta": "நண்பர்"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "குடும்பம்",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ta": "குடும்பம்"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "பெயர்",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "ta": "பெயர்"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "நன்றாக",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ta": "நன்றாக"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "சந்திக்க",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "ta": "சந்திக்க"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நண்பர்",
+      "type": "translate",
+      "correct": [
+        "நண்பர்"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "ta": "நண்பர்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "குடும்பம்",
+      "type": "translate",
+      "correct": [
+        "குடும்பம்"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "ta": "குடும்பம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பெயர்",
+      "type": "translate",
+      "correct": [
+        "பெயர்"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "ta": "பெயர்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நன்றாக",
+      "type": "translate",
+      "correct": [
+        "நன்றாக"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ta": "நன்றாக"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சந்திக்க",
+      "type": "translate",
+      "correct": [
+        "சந்திக்க"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "ta": "சந்திக்க"
+    },
+    {
+      "lt": "draugas",
+      "choices": [
+        "friend",
+        "family",
+        "colleague",
+        "stranger"
+      ],
+      "tts": "நண்பர்",
+      "correct": [
+        "friend"
+      ],
+      "type": "choose",
+      "ta": "நண்பர்"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "friend",
+        "child",
+        "parent"
+      ],
+      "tts": "குடும்பம்",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "ta": "குடும்பம்"
+    },
+    {
+      "lt": "vardas",
+      "choices": [
+        "name",
+        "address",
+        "number",
+        "city"
+      ],
+      "tts": "பெயர்",
+      "correct": [
+        "name"
+      ],
+      "type": "choose",
+      "ta": "பெயர்"
+    },
+    {
+      "lt": "malonu",
+      "choices": [
+        "nice",
+        "sorry",
+        "thanks",
+        "okay"
+      ],
+      "tts": "நன்றாக",
+      "correct": [
+        "nice"
+      ],
+      "type": "choose",
+      "ta": "நன்றாக"
+    },
+    {
+      "lt": "susitikti",
+      "choices": [
+        "to meet",
+        "to leave",
+        "to go",
+        "to eat"
+      ],
+      "tts": "சந்திக்க",
+      "correct": [
+        "to meet"
+      ],
+      "type": "choose",
+      "ta": "சந்திக்க"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நண்பர்",
+      "type": "translate",
+      "correct": [
+        "நண்பர்"
+      ],
+      "en": "friend",
+      "placeholder": "Type Lithuanian…",
+      "zh": "friend",
+      "ta": "நண்பர்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "குடும்பம்",
+      "type": "translate",
+      "correct": [
+        "குடும்பம்"
+      ],
+      "en": "family",
+      "placeholder": "Type Lithuanian…",
+      "zh": "family",
+      "ta": "குடும்பம்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "பெயர்",
+      "type": "translate",
+      "correct": [
+        "பெயர்"
+      ],
+      "en": "name",
+      "placeholder": "Type Lithuanian…",
+      "zh": "name",
+      "ta": "பெயர்"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "நன்றாக",
+      "type": "translate",
+      "correct": [
+        "நன்றாக"
+      ],
+      "en": "nice",
+      "placeholder": "Type Lithuanian…",
+      "zh": "nice",
+      "ta": "நன்றாக"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "சந்திக்க",
+      "type": "translate",
+      "correct": [
+        "சந்திக்க"
+      ],
+      "en": "to meet",
+      "placeholder": "Type Lithuanian…",
+      "zh": "to meet",
+      "ta": "சந்திக்க"
+    }
+  ]
+}

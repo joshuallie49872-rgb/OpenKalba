@@ -1,0 +1,296 @@
+{
+  "id": "031-travel",
+  "title": "Travel & Transport",
+  "questions": [
+    {
+      "lt": "autobusas",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "tts": "బస్సు",
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "te": "బస్సు"
+    },
+    {
+      "lt": "traukinys",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "tts": "రైలు",
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "te": "రైలు"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "tts": "టికెట్",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "te": "టికెట్"
+    },
+    {
+      "lt": "taksi",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "tts": "టాక్సీ",
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "te": "టాక్సీ"
+    },
+    {
+      "lt": "kelionė",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "tts": "ప్రయాణం",
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "te": "ప్రయాణం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "బస్సు",
+      "type": "translate",
+      "correct": [
+        "బస్సు"
+      ],
+      "en": "bus",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bus",
+      "te": "బస్సు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "రైలు",
+      "type": "translate",
+      "correct": [
+        "రైలు"
+      ],
+      "en": "train",
+      "placeholder": "Type Lithuanian…",
+      "zh": "train",
+      "te": "రైలు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "టికెట్",
+      "type": "translate",
+      "correct": [
+        "టికెట్"
+      ],
+      "en": "ticket",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ticket",
+      "te": "టికెట్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "టాక్సీ",
+      "type": "translate",
+      "correct": [
+        "టాక్సీ"
+      ],
+      "en": "taxi",
+      "placeholder": "Type Lithuanian…",
+      "zh": "taxi",
+      "te": "టాక్సీ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ప్రయాణం",
+      "type": "translate",
+      "correct": [
+        "ప్రయాణం"
+      ],
+      "en": "trip",
+      "placeholder": "Type Lithuanian…",
+      "zh": "trip",
+      "te": "ప్రయాణం"
+    },
+    {
+      "lt": "autobusas",
+      "choices": [
+        "bus",
+        "train",
+        "car",
+        "plane"
+      ],
+      "tts": "బస్సు",
+      "correct": [
+        "bus"
+      ],
+      "type": "choose",
+      "te": "బస్సు"
+    },
+    {
+      "lt": "traukinys",
+      "choices": [
+        "train",
+        "bus",
+        "plane",
+        "taxi"
+      ],
+      "tts": "రైలు",
+      "correct": [
+        "train"
+      ],
+      "type": "choose",
+      "te": "రైలు"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "hotel",
+        "map"
+      ],
+      "tts": "టికెట్",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "te": "టికెట్"
+    },
+    {
+      "lt": "taksi",
+      "choices": [
+        "taxi",
+        "bus",
+        "train",
+        "bike"
+      ],
+      "tts": "టాక్సీ",
+      "correct": [
+        "taxi"
+      ],
+      "type": "choose",
+      "te": "టాక్సీ"
+    },
+    {
+      "lt": "kelionė",
+      "choices": [
+        "trip",
+        "hotel",
+        "food",
+        "street"
+      ],
+      "tts": "ప్రయాణం",
+      "correct": [
+        "trip"
+      ],
+      "type": "choose",
+      "te": "ప్రయాణం"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "బస్సు",
+      "type": "translate",
+      "correct": [
+        "బస్సు"
+      ],
+      "en": "bus",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bus",
+      "te": "బస్సు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "రైలు",
+      "type": "translate",
+      "correct": [
+        "రైలు"
+      ],
+      "en": "train",
+      "placeholder": "Type Lithuanian…",
+      "zh": "train",
+      "te": "రైలు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "టికెట్",
+      "type": "translate",
+      "correct": [
+        "టికెట్"
+      ],
+      "en": "ticket",
+      "placeholder": "Type Lithuanian…",
+      "zh": "ticket",
+      "te": "టికెట్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "టాక్సీ",
+      "type": "translate",
+      "correct": [
+        "టాక్సీ"
+      ],
+      "en": "taxi",
+      "placeholder": "Type Lithuanian…",
+      "zh": "taxi",
+      "te": "టాక్సీ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ప్రయాణం",
+      "type": "translate",
+      "correct": [
+        "ప్రయాణం"
+      ],
+      "en": "trip",
+      "placeholder": "Type Lithuanian…",
+      "zh": "trip",
+      "te": "ప్రయాణం"
+    }
+  ]
+}

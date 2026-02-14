@@ -1,0 +1,296 @@
+{
+  "id": "130-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "غالي",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ar": "غالي"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "رخيص",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ar": "رخيص"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "خصم",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ar": "خصم"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "أمين الصندوق",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ar": "أمين الصندوق"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "إيصال",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ar": "إيصال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "غالي",
+      "type": "translate",
+      "correct": [
+        "غالي"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "ar": "غالي"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رخيص",
+      "type": "translate",
+      "correct": [
+        "رخيص"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "ar": "رخيص"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خصم",
+      "type": "translate",
+      "correct": [
+        "خصم"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "ar": "خصم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أمين الصندوق",
+      "type": "translate",
+      "correct": [
+        "أمين الصندوق"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "ar": "أمين الصندوق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "إيصال",
+      "type": "translate",
+      "correct": [
+        "إيصال"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "ar": "إيصال"
+    },
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "غالي",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "ar": "غالي"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "رخيص",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "ar": "رخيص"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "خصم",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "ar": "خصم"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "أمين الصندوق",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "ar": "أمين الصندوق"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "إيصال",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "ar": "إيصال"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "غالي",
+      "type": "translate",
+      "correct": [
+        "غالي"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "ar": "غالي"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "رخيص",
+      "type": "translate",
+      "correct": [
+        "رخيص"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "ar": "رخيص"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "خصم",
+      "type": "translate",
+      "correct": [
+        "خصم"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "ar": "خصم"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "أمين الصندوق",
+      "type": "translate",
+      "correct": [
+        "أمين الصندوق"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "ar": "أمين الصندوق"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "إيصال",
+      "type": "translate",
+      "correct": [
+        "إيصال"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "ar": "إيصال"
+    }
+  ]
+}

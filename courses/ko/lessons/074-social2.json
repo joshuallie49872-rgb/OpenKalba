@@ -1,0 +1,316 @@
+{
+  "id": "074-social2",
+  "title": "Conversation & Feelings",
+  "questions": [
+    {
+      "ko": "행복하다",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "행복하다"
+    },
+    {
+      "ko": "슬픈",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "슬픈"
+    },
+    {
+      "ko": "피곤한",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "피곤한"
+    },
+    {
+      "ko": "나는 행복하다.",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "나는 행복하다."
+    },
+    {
+      "ko": "나는 두렵다.",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "나는 두렵다."
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "ko": "행복하다",
+      "correct": [
+        "행복하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "행복하다",
+      "ru": "счастливый",
+      "pl": "szczęśliwy",
+      "zh": "快乐的",
+      "lt": "laimingas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "ko": "슬픈",
+      "correct": [
+        "슬픈"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "슬픈",
+      "ru": "грустно",
+      "pl": "smutny",
+      "zh": "伤心",
+      "lt": "liūdnas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "ko": "피곤한",
+      "correct": [
+        "피곤한"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "피곤한",
+      "ru": "усталый",
+      "pl": "zmęczony",
+      "zh": "疲劳的",
+      "lt": "pavargęs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "ko": "나는 행복하다.",
+      "correct": [
+        "나는 행복하다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 행복하다.",
+      "ru": "я счастлив",
+      "pl": "Jestem szczęśliwy",
+      "zh": "我很高兴",
+      "lt": "Aš esu laimingas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "ko": "나는 두렵다.",
+      "correct": [
+        "나는 두렵다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 두렵다.",
+      "ru": "я боюсь",
+      "pl": "Boję się",
+      "zh": "恐怕",
+      "lt": "Aš bijau"
+    },
+    {
+      "ko": "행복하다",
+      "lt": "",
+      "choices": [
+        "happy",
+        "sad",
+        "angry",
+        "tired"
+      ],
+      "correct": [
+        "happy"
+      ],
+      "type": "choose",
+      "tts": "행복하다"
+    },
+    {
+      "ko": "슬픈",
+      "lt": "",
+      "choices": [
+        "sad",
+        "happy",
+        "angry",
+        "excited"
+      ],
+      "correct": [
+        "sad"
+      ],
+      "type": "choose",
+      "tts": "슬픈"
+    },
+    {
+      "ko": "피곤한",
+      "lt": "",
+      "choices": [
+        "tired",
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "correct": [
+        "tired"
+      ],
+      "type": "choose",
+      "tts": "피곤한"
+    },
+    {
+      "ko": "나는 행복하다.",
+      "lt": "",
+      "choices": [
+        "I am happy",
+        "I am sad",
+        "I am angry",
+        "I am tired"
+      ],
+      "correct": [
+        "I am happy"
+      ],
+      "type": "choose",
+      "tts": "나는 행복하다."
+    },
+    {
+      "ko": "나는 두렵다.",
+      "lt": "",
+      "choices": [
+        "I am afraid",
+        "I am hungry",
+        "I am tired",
+        "I am happy"
+      ],
+      "correct": [
+        "I am afraid"
+      ],
+      "type": "choose",
+      "tts": "나는 두렵다."
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "happy",
+      "ko": "행복하다",
+      "correct": [
+        "행복하다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "행복하다",
+      "ru": "счастливый",
+      "pl": "szczęśliwy",
+      "zh": "快乐的",
+      "lt": "laimingas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "sad",
+      "ko": "슬픈",
+      "correct": [
+        "슬픈"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "슬픈",
+      "ru": "грустно",
+      "pl": "smutny",
+      "zh": "伤心",
+      "lt": "liūdnas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tired",
+      "ko": "피곤한",
+      "correct": [
+        "피곤한"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "피곤한",
+      "ru": "усталый",
+      "pl": "zmęczony",
+      "zh": "疲劳的",
+      "lt": "pavargęs"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am happy",
+      "ko": "나는 행복하다.",
+      "correct": [
+        "나는 행복하다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 행복하다.",
+      "ru": "я счастлив",
+      "pl": "Jestem szczęśliwy",
+      "zh": "我很高兴",
+      "lt": "Aš esu laimingas"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I am afraid",
+      "ko": "나는 두렵다.",
+      "correct": [
+        "나는 두렵다."
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 두렵다.",
+      "ru": "я боюсь",
+      "pl": "Boję się",
+      "zh": "恐怕",
+      "lt": "Aš bijau"
+    }
+  ]
+}

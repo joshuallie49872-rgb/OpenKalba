@@ -1,0 +1,306 @@
+{
+  "id": "002-basics",
+  "title": "Basics 2",
+  "questions": [
+    {
+      "lt": "vienas",
+      "choices": [
+        "one",
+        "two",
+        "three",
+        "five"
+      ],
+      "tts": "Yalnız",
+      "correct": [
+        "one"
+      ],
+      "type": "choose",
+      "tr": "Yalnız"
+    },
+    {
+      "lt": "du",
+      "choices": [
+        "one",
+        "two",
+        "four",
+        "six"
+      ],
+      "tts": "İki",
+      "correct": [
+        "two"
+      ],
+      "type": "choose",
+      "tr": "İki"
+    },
+    {
+      "lt": "trys",
+      "choices": [
+        "three",
+        "four",
+        "five",
+        "ten"
+      ],
+      "tts": "Üç",
+      "correct": [
+        "three"
+      ],
+      "type": "choose",
+      "tr": "Üç"
+    },
+    {
+      "lt": "keturi",
+      "choices": [
+        "four",
+        "two",
+        "six",
+        "eight"
+      ],
+      "tts": "Dört",
+      "correct": [
+        "four"
+      ],
+      "type": "choose",
+      "tr": "Dört"
+    },
+    {
+      "lt": "penki",
+      "choices": [
+        "five",
+        "nine",
+        "ten",
+        "four"
+      ],
+      "tts": "Beş",
+      "correct": [
+        "five"
+      ],
+      "type": "choose",
+      "tr": "Beş"
+    },
+    {
+      "lt": "raudona",
+      "choices": [
+        "red",
+        "blue",
+        "green",
+        "black"
+      ],
+      "tts": "Kırmızı",
+      "correct": [
+        "red"
+      ],
+      "type": "choose",
+      "tr": "Kırmızı"
+    },
+    {
+      "lt": "mėlyna",
+      "choices": [
+        "blue",
+        "red",
+        "yellow",
+        "white"
+      ],
+      "tts": "Mavi",
+      "correct": [
+        "blue"
+      ],
+      "type": "choose",
+      "tr": "Mavi"
+    },
+    {
+      "lt": "žalia",
+      "choices": [
+        "green",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "tts": "Yeşil",
+      "correct": [
+        "green"
+      ],
+      "type": "choose",
+      "tr": "Yeşil"
+    },
+    {
+      "lt": "juoda",
+      "choices": [
+        "black",
+        "white",
+        "blue",
+        "red"
+      ],
+      "tts": "Siyah",
+      "correct": [
+        "black"
+      ],
+      "type": "choose",
+      "tr": "Siyah"
+    },
+    {
+      "lt": "balta",
+      "choices": [
+        "white",
+        "black",
+        "green",
+        "yellow"
+      ],
+      "tts": "Beyaz",
+      "correct": [
+        "white"
+      ],
+      "type": "choose",
+      "tr": "Beyaz"
+    },
+    {
+      "lt": "mama",
+      "choices": [
+        "mother",
+        "father",
+        "sister",
+        "daughter"
+      ],
+      "tts": "Anne",
+      "correct": [
+        "mother"
+      ],
+      "type": "choose",
+      "tr": "Anne"
+    },
+    {
+      "lt": "tėtis",
+      "choices": [
+        "father",
+        "brother",
+        "son",
+        "uncle"
+      ],
+      "tts": "Baba",
+      "correct": [
+        "father"
+      ],
+      "type": "choose",
+      "tr": "Baba"
+    },
+    {
+      "lt": "brolis",
+      "choices": [
+        "brother",
+        "father",
+        "husband",
+        "son"
+      ],
+      "tts": "Erkek kardeş",
+      "correct": [
+        "brother"
+      ],
+      "type": "choose",
+      "tr": "Erkek kardeş"
+    },
+    {
+      "lt": "sesuo",
+      "choices": [
+        "sister",
+        "mother",
+        "daughter",
+        "wife"
+      ],
+      "tts": "Kız kardeş",
+      "correct": [
+        "sister"
+      ],
+      "type": "choose",
+      "tr": "Kız kardeş"
+    },
+    {
+      "lt": "šeima",
+      "choices": [
+        "family",
+        "house",
+        "children",
+        "parents"
+      ],
+      "tts": "Aile",
+      "correct": [
+        "family"
+      ],
+      "type": "choose",
+      "tr": "Aile"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "tea",
+        "milk"
+      ],
+      "tts": "Su",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "tr": "Su"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "Kahve",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "tr": "Kahve"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "soup",
+        "rice"
+      ],
+      "tts": "Ekmek",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "tr": "Ekmek"
+    },
+    {
+      "lt": "viešbutis",
+      "choices": [
+        "hotel",
+        "airport",
+        "train",
+        "restaurant"
+      ],
+      "tts": "Otel",
+      "correct": [
+        "hotel"
+      ],
+      "type": "choose",
+      "tr": "Otel"
+    },
+    {
+      "lt": "bilietas",
+      "choices": [
+        "ticket",
+        "passport",
+        "money",
+        "bag"
+      ],
+      "tts": "Bilet",
+      "correct": [
+        "ticket"
+      ],
+      "type": "choose",
+      "tr": "Bilet"
+    }
+  ]
+}

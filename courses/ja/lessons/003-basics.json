@@ -1,0 +1,299 @@
+{
+  "id": "003-basics",
+  "title": "Basics 3",
+  "questions": [
+    {
+      "lt": "noriu",
+      "choices": [
+        "I want",
+        "I have",
+        "I am",
+        "I go"
+      ],
+      "tts": "欲しいです",
+      "correct": [
+        "I want"
+      ],
+      "type": "choose",
+      "ja": "欲しいです"
+    },
+    {
+      "lt": "turiu",
+      "choices": [
+        "I have",
+        "I want",
+        "I see",
+        "I eat"
+      ],
+      "tts": "持っています",
+      "correct": [
+        "I have"
+      ],
+      "type": "choose",
+      "ja": "持っています"
+    },
+    {
+      "lt": "valgau",
+      "choices": [
+        "I eat",
+        "I drink",
+        "I go",
+        "I see"
+      ],
+      "tts": "食べます",
+      "correct": [
+        "I eat"
+      ],
+      "type": "choose",
+      "ja": "食べます"
+    },
+    {
+      "lt": "geriu",
+      "choices": [
+        "I drink",
+        "I eat",
+        "I want",
+        "I go"
+      ],
+      "tts": "飲みます",
+      "correct": [
+        "I drink"
+      ],
+      "type": "choose",
+      "ja": "飲みます"
+    },
+    {
+      "lt": "vanduo",
+      "choices": [
+        "water",
+        "coffee",
+        "beer",
+        "milk"
+      ],
+      "tts": "水",
+      "correct": [
+        "water"
+      ],
+      "type": "choose",
+      "ja": "水"
+    },
+    {
+      "lt": "kava",
+      "choices": [
+        "coffee",
+        "tea",
+        "water",
+        "juice"
+      ],
+      "tts": "コーヒー",
+      "correct": [
+        "coffee"
+      ],
+      "type": "choose",
+      "ja": "コーヒー"
+    },
+    {
+      "lt": "alus",
+      "choices": [
+        "beer",
+        "wine",
+        "water",
+        "milk"
+      ],
+      "tts": "ビール",
+      "correct": [
+        "beer"
+      ],
+      "type": "choose",
+      "ja": "ビール"
+    },
+    {
+      "lt": "duona",
+      "choices": [
+        "bread",
+        "meat",
+        "rice",
+        "soup"
+      ],
+      "tts": "パン",
+      "correct": [
+        "bread"
+      ],
+      "type": "choose",
+      "ja": "パン"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "水が欲しいです",
+      "correct": [
+        "水が欲しいです"
+      ],
+      "en": "I want water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要水",
+      "ja": "水が欲しいです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "コーヒーが欲しいです",
+      "correct": [
+        "コーヒーが欲しいです"
+      ],
+      "en": "I want coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我想要咖啡",
+      "ja": "コーヒーが欲しいです"
+    },
+    {
+      "lt": "čia",
+      "choices": [
+        "here",
+        "there",
+        "now",
+        "later"
+      ],
+      "tts": "ここ",
+      "correct": [
+        "here"
+      ],
+      "type": "choose",
+      "ja": "ここ"
+    },
+    {
+      "lt": "ten",
+      "choices": [
+        "there",
+        "here",
+        "today",
+        "tomorrow"
+      ],
+      "tts": "そこ",
+      "correct": [
+        "there"
+      ],
+      "type": "choose",
+      "ja": "そこ"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ここに水があります",
+      "correct": [
+        "ここに水があります"
+      ],
+      "en": "here water",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "这里水",
+      "ja": "ここに水があります"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "そこにコーヒーがあります",
+      "correct": [
+        "そこにコーヒーがあります"
+      ],
+      "en": "there coffee",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "那里咖啡",
+      "ja": "そこにコーヒーがあります"
+    },
+    {
+      "lt": "prašau vandens",
+      "choices": [
+        "water please",
+        "thank you",
+        "I want bread",
+        "no water"
+      ],
+      "tts": "お水をください",
+      "correct": [
+        "water please"
+      ],
+      "type": "choose",
+      "ja": "お水をください"
+    },
+    {
+      "lt": "noriu alaus",
+      "choices": [
+        "I want beer",
+        "I drink beer",
+        "I have beer",
+        "Beer is here"
+      ],
+      "tts": "ビールが欲しいです",
+      "correct": [
+        "I want beer"
+      ],
+      "type": "choose",
+      "ja": "ビールが欲しいです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "水を飲みます",
+      "correct": [
+        "水を飲みます"
+      ],
+      "en": "I drink vandenį",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我drinkvandenį",
+      "ja": "水を飲みます"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "パンを食べます",
+      "correct": [
+        "パンを食べます"
+      ],
+      "en": "I eat bread",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "我eat面包",
+      "ja": "パンを食べます"
+    },
+    {
+      "lt": "gerai",
+      "choices": [
+        "okay",
+        "bad",
+        "hungry",
+        "thirsty"
+      ],
+      "tts": "いいです",
+      "correct": [
+        "okay"
+      ],
+      "type": "choose",
+      "ja": "いいです"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "いいです",
+      "correct": [
+        "いいです"
+      ],
+      "en": "okay",
+      "type": "translate",
+      "placeholder": "Type Lithuanian…",
+      "zh": "好的",
+      "ja": "いいです"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "id": "134-shopping2",
+  "title": "Shopping & Services",
+  "questions": [
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "mahal",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "id": "mahal"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "murah",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "id": "murah"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "diskon",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "id": "diskon"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "kasir",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "id": "kasir"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "struk",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "id": "struk"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mahal",
+      "type": "translate",
+      "correct": [
+        "mahal"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "id": "mahal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "murah",
+      "type": "translate",
+      "correct": [
+        "murah"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "id": "murah"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "diskon",
+      "type": "translate",
+      "correct": [
+        "diskon"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "id": "diskon"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kasir",
+      "type": "translate",
+      "correct": [
+        "kasir"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "id": "kasir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "struk",
+      "type": "translate",
+      "correct": [
+        "struk"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "id": "struk"
+    },
+    {
+      "lt": "brangu",
+      "choices": [
+        "expensive",
+        "cheap",
+        "free",
+        "fast"
+      ],
+      "tts": "mahal",
+      "correct": [
+        "expensive"
+      ],
+      "type": "choose",
+      "id": "mahal"
+    },
+    {
+      "lt": "pigu",
+      "choices": [
+        "cheap",
+        "expensive",
+        "slow",
+        "bad"
+      ],
+      "tts": "murah",
+      "correct": [
+        "cheap"
+      ],
+      "type": "choose",
+      "id": "murah"
+    },
+    {
+      "lt": "nuolaida",
+      "choices": [
+        "discount",
+        "price",
+        "money",
+        "tax"
+      ],
+      "tts": "diskon",
+      "correct": [
+        "discount"
+      ],
+      "type": "choose",
+      "id": "diskon"
+    },
+    {
+      "lt": "kasininkas",
+      "choices": [
+        "cashier",
+        "buyer",
+        "seller",
+        "manager"
+      ],
+      "tts": "kasir",
+      "correct": [
+        "cashier"
+      ],
+      "type": "choose",
+      "id": "kasir"
+    },
+    {
+      "lt": "čekis",
+      "choices": [
+        "receipt",
+        "bill",
+        "menu",
+        "card"
+      ],
+      "tts": "struk",
+      "correct": [
+        "receipt"
+      ],
+      "type": "choose",
+      "id": "struk"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "mahal",
+      "type": "translate",
+      "correct": [
+        "mahal"
+      ],
+      "en": "expensive",
+      "placeholder": "Type Lithuanian…",
+      "zh": "expensive",
+      "id": "mahal"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "murah",
+      "type": "translate",
+      "correct": [
+        "murah"
+      ],
+      "en": "cheap",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cheap",
+      "id": "murah"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "diskon",
+      "type": "translate",
+      "correct": [
+        "diskon"
+      ],
+      "en": "discount",
+      "placeholder": "Type Lithuanian…",
+      "zh": "discount",
+      "id": "diskon"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "kasir",
+      "type": "translate",
+      "correct": [
+        "kasir"
+      ],
+      "en": "cashier",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cashier",
+      "id": "kasir"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "struk",
+      "type": "translate",
+      "correct": [
+        "struk"
+      ],
+      "en": "receipt",
+      "placeholder": "Type Lithuanian…",
+      "zh": "receipt",
+      "id": "struk"
+    }
+  ]
+}

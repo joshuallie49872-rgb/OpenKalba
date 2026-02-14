@@ -1,0 +1,316 @@
+{
+  "id": "020-plans",
+  "title": "Plans & Simple Future",
+  "questions": [
+    {
+      "ko": "오늘",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "오늘"
+    },
+    {
+      "ko": "내일",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "내일"
+    },
+    {
+      "ko": "나중에",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "나중에"
+    },
+    {
+      "ko": "나는 계획한다",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "나는 계획한다"
+    },
+    {
+      "ko": "우리는 만날 것이다",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "우리는 만날 것이다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ko": "오늘",
+      "correct": [
+        "오늘"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "오늘",
+      "ru": "сегодня",
+      "pl": "Dzisiaj",
+      "zh": "今天",
+      "lt": "šiandien"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ko": "내일",
+      "correct": [
+        "내일"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "내일",
+      "ru": "завтра",
+      "pl": "jutro",
+      "zh": "明天",
+      "lt": "rytoj"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "ko": "나중에",
+      "correct": [
+        "나중에"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나중에",
+      "ru": "позже",
+      "pl": "później",
+      "zh": "之后",
+      "lt": "vėliau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "ko": "나는 계획한다",
+      "correct": [
+        "나는 계획한다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 계획한다",
+      "ru": "Я планирую",
+      "pl": "Planuję",
+      "zh": "我计划",
+      "lt": "Aš planuoju"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "ko": "우리는 만날 것이다",
+      "correct": [
+        "우리는 만날 것이다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "우리는 만날 것이다",
+      "ru": "мы встретимся",
+      "pl": "spotkamy się",
+      "zh": "我们将见面",
+      "lt": "mes susitiksime"
+    },
+    {
+      "ko": "오늘",
+      "lt": "",
+      "choices": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "now"
+      ],
+      "correct": [
+        "today"
+      ],
+      "type": "choose",
+      "tts": "오늘"
+    },
+    {
+      "ko": "내일",
+      "lt": "",
+      "choices": [
+        "tomorrow",
+        "today",
+        "later",
+        "yesterday"
+      ],
+      "correct": [
+        "tomorrow"
+      ],
+      "type": "choose",
+      "tts": "내일"
+    },
+    {
+      "ko": "나중에",
+      "lt": "",
+      "choices": [
+        "later",
+        "now",
+        "today",
+        "tomorrow"
+      ],
+      "correct": [
+        "later"
+      ],
+      "type": "choose",
+      "tts": "나중에"
+    },
+    {
+      "ko": "나는 계획한다",
+      "lt": "",
+      "choices": [
+        "I plan",
+        "I eat",
+        "I go",
+        "I work"
+      ],
+      "correct": [
+        "I plan"
+      ],
+      "type": "choose",
+      "tts": "나는 계획한다"
+    },
+    {
+      "ko": "우리는 만날 것이다",
+      "lt": "",
+      "choices": [
+        "we will meet",
+        "we eat",
+        "we go",
+        "we sleep"
+      ],
+      "correct": [
+        "we will meet"
+      ],
+      "type": "choose",
+      "tts": "우리는 만날 것이다"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "today",
+      "ko": "오늘",
+      "correct": [
+        "오늘"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "오늘",
+      "ru": "сегодня",
+      "pl": "Dzisiaj",
+      "zh": "今天",
+      "lt": "šiandien"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "tomorrow",
+      "ko": "내일",
+      "correct": [
+        "내일"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "내일",
+      "ru": "завтра",
+      "pl": "jutro",
+      "zh": "明天",
+      "lt": "rytoj"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "later",
+      "ko": "나중에",
+      "correct": [
+        "나중에"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나중에",
+      "ru": "позже",
+      "pl": "później",
+      "zh": "之后",
+      "lt": "vėliau"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "I plan",
+      "ko": "나는 계획한다",
+      "correct": [
+        "나는 계획한다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "나는 계획한다",
+      "ru": "Я планирую",
+      "pl": "Planuję",
+      "zh": "我计划",
+      "lt": "Aš planuoju"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "choices": [],
+      "type": "translate",
+      "en": "we will meet",
+      "ko": "우리는 만날 것이다",
+      "correct": [
+        "우리는 만날 것이다"
+      ],
+      "placeholder": "Type Korean…",
+      "tts": "우리는 만날 것이다",
+      "ru": "мы встретимся",
+      "pl": "spotkamy się",
+      "zh": "我们将见面",
+      "lt": "mes susitiksime"
+    }
+  ]
+}

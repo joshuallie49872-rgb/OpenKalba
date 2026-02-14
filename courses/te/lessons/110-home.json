@@ -1,0 +1,296 @@
+{
+  "id": "110-home",
+  "title": "Home & Household",
+  "questions": [
+    {
+      "lt": "namai",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "ఇల్లు",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "te": "ఇల్లు"
+    },
+    {
+      "lt": "butas",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "అపార్ట్మెంట్",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "te": "అపార్ట్మెంట్"
+    },
+    {
+      "lt": "virtuvė",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "వంటగది",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "te": "వంటగది"
+    },
+    {
+      "lt": "vonios kambarys",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "బాత్రూమ్",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "te": "బాత్రూమ్"
+    },
+    {
+      "lt": "švara",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "శుభ్రత",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "te": "శుభ్రత"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఇల్లు",
+      "type": "translate",
+      "correct": [
+        "ఇల్లు"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "te": "ఇల్లు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అపార్ట్మెంట్",
+      "type": "translate",
+      "correct": [
+        "అపార్ట్మెంట్"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "te": "అపార్ట్మెంట్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వంటగది",
+      "type": "translate",
+      "correct": [
+        "వంటగది"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "te": "వంటగది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "బాత్రూమ్",
+      "type": "translate",
+      "correct": [
+        "బాత్రూమ్"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "te": "బాత్రూమ్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "శుభ్రత",
+      "type": "translate",
+      "correct": [
+        "శుభ్రత"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "te": "శుభ్రత"
+    },
+    {
+      "lt": "namai",
+      "choices": [
+        "home",
+        "house",
+        "room",
+        "apartment"
+      ],
+      "tts": "ఇల్లు",
+      "correct": [
+        "home"
+      ],
+      "type": "choose",
+      "te": "ఇల్లు"
+    },
+    {
+      "lt": "butas",
+      "choices": [
+        "apartment",
+        "house",
+        "room",
+        "hotel"
+      ],
+      "tts": "అపార్ట్మెంట్",
+      "correct": [
+        "apartment"
+      ],
+      "type": "choose",
+      "te": "అపార్ట్మెంట్"
+    },
+    {
+      "lt": "virtuvė",
+      "choices": [
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "వంటగది",
+      "correct": [
+        "kitchen"
+      ],
+      "type": "choose",
+      "te": "వంటగది"
+    },
+    {
+      "lt": "vonios kambarys",
+      "choices": [
+        "bathroom",
+        "kitchen",
+        "bedroom",
+        "hall"
+      ],
+      "tts": "బాత్రూమ్",
+      "correct": [
+        "bathroom"
+      ],
+      "type": "choose",
+      "te": "బాత్రూమ్"
+    },
+    {
+      "lt": "švara",
+      "choices": [
+        "cleanliness",
+        "dirt",
+        "mess",
+        "noise"
+      ],
+      "tts": "శుభ్రత",
+      "correct": [
+        "cleanliness"
+      ],
+      "type": "choose",
+      "te": "శుభ్రత"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "ఇల్లు",
+      "type": "translate",
+      "correct": [
+        "ఇల్లు"
+      ],
+      "en": "home",
+      "placeholder": "Type Lithuanian…",
+      "zh": "home",
+      "te": "ఇల్లు"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "అపార్ట్మెంట్",
+      "type": "translate",
+      "correct": [
+        "అపార్ట్మెంట్"
+      ],
+      "en": "apartment",
+      "placeholder": "Type Lithuanian…",
+      "zh": "apartment",
+      "te": "అపార్ట్మెంట్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "వంటగది",
+      "type": "translate",
+      "correct": [
+        "వంటగది"
+      ],
+      "en": "kitchen",
+      "placeholder": "Type Lithuanian…",
+      "zh": "kitchen",
+      "te": "వంటగది"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "బాత్రూమ్",
+      "type": "translate",
+      "correct": [
+        "బాత్రూమ్"
+      ],
+      "en": "bathroom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "bathroom",
+      "te": "బాత్రూమ్"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "శుభ్రత",
+      "type": "translate",
+      "correct": [
+        "శుభ్రత"
+      ],
+      "en": "cleanliness",
+      "placeholder": "Type Lithuanian…",
+      "zh": "cleanliness",
+      "te": "శుభ్రత"
+    }
+  ]
+}

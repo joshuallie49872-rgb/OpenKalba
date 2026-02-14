@@ -1,0 +1,296 @@
+{
+  "id": "144-culture",
+  "title": "Culture & Everyday Life",
+  "questions": [
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "Tatil",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tr": "Tatil"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "Gelenek",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tr": "Gelenek"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "Gelenek",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tr": "Gelenek"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "Boş zaman",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tr": "Boş zaman"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "Etkinlik",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tr": "Etkinlik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tatil",
+      "type": "translate",
+      "correct": [
+        "Tatil"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "tr": "Tatil"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gelenek",
+      "type": "translate",
+      "correct": [
+        "Gelenek"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "tr": "Gelenek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gelenek",
+      "type": "translate",
+      "correct": [
+        "Gelenek"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "tr": "Gelenek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Boş zaman",
+      "type": "translate",
+      "correct": [
+        "Boş zaman"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "tr": "Boş zaman"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Etkinlik",
+      "type": "translate",
+      "correct": [
+        "Etkinlik"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "tr": "Etkinlik"
+    },
+    {
+      "lt": "šventė",
+      "choices": [
+        "holiday",
+        "workday",
+        "meeting",
+        "party"
+      ],
+      "tts": "Tatil",
+      "correct": [
+        "holiday"
+      ],
+      "type": "choose",
+      "tr": "Tatil"
+    },
+    {
+      "lt": "tradicija",
+      "choices": [
+        "tradition",
+        "rule",
+        "law",
+        "habit"
+      ],
+      "tts": "Gelenek",
+      "correct": [
+        "tradition"
+      ],
+      "type": "choose",
+      "tr": "Gelenek"
+    },
+    {
+      "lt": "paprotys",
+      "choices": [
+        "custom",
+        "law",
+        "work",
+        "plan"
+      ],
+      "tts": "Gelenek",
+      "correct": [
+        "custom"
+      ],
+      "type": "choose",
+      "tr": "Gelenek"
+    },
+    {
+      "lt": "laisvalaikis",
+      "choices": [
+        "free time",
+        "work",
+        "sleep",
+        "travel"
+      ],
+      "tts": "Boş zaman",
+      "correct": [
+        "free time"
+      ],
+      "type": "choose",
+      "tr": "Boş zaman"
+    },
+    {
+      "lt": "renginys",
+      "choices": [
+        "event",
+        "problem",
+        "place",
+        "job"
+      ],
+      "tts": "Etkinlik",
+      "correct": [
+        "event"
+      ],
+      "type": "choose",
+      "tr": "Etkinlik"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Tatil",
+      "type": "translate",
+      "correct": [
+        "Tatil"
+      ],
+      "en": "holiday",
+      "placeholder": "Type Lithuanian…",
+      "zh": "holiday",
+      "tr": "Tatil"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gelenek",
+      "type": "translate",
+      "correct": [
+        "Gelenek"
+      ],
+      "en": "tradition",
+      "placeholder": "Type Lithuanian…",
+      "zh": "tradition",
+      "tr": "Gelenek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Gelenek",
+      "type": "translate",
+      "correct": [
+        "Gelenek"
+      ],
+      "en": "custom",
+      "placeholder": "Type Lithuanian…",
+      "zh": "custom",
+      "tr": "Gelenek"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Boş zaman",
+      "type": "translate",
+      "correct": [
+        "Boş zaman"
+      ],
+      "en": "free time",
+      "placeholder": "Type Lithuanian…",
+      "zh": "free time",
+      "tr": "Boş zaman"
+    },
+    {
+      "prompt": "Translate to Lithuanian",
+      "lt": "",
+      "choices": [],
+      "tts": "Etkinlik",
+      "type": "translate",
+      "correct": [
+        "Etkinlik"
+      ],
+      "en": "event",
+      "placeholder": "Type Lithuanian…",
+      "zh": "event",
+      "tr": "Etkinlik"
+    }
+  ]
+}
